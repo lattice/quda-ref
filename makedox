@@ -43,8 +43,14 @@ fi
 mkdir $workdir
 cd $workdir
 
+# Some versions of wget are finnicky about using the filename reported by
+# the server after a redirect.
+if wget --help | grep 'trust-server-names'; then
+    wopt="--trust-server-names"
+fi
+
 echo "Retrieving tar file ..."
-wget --no-check-certificate $url || exit
+wget --no-check-certificate $wopt $url || exit
 
 tarfile=`find . -name *.tar.gz -print`
 tarfile=${tarfile/#.\/}
@@ -69,7 +75,7 @@ cat ../mainpage.h >> quda/include/quda.h || exit
 
 if [ $snapshot == true ]; then
     tag=${tardir/lattice-quda-}
-    tag="snapshot of branch $branch: $tag (`date`)"
+    tag="snapshot of branch $branch: `date` ($tag)"
 else
     tag="v$ver"
 fi
