@@ -1,3 +1,12 @@
-This repository contains some scripts to generate QUDA's doxygen pages
-and (in the gh-pages branch) the pages themselves, published to
-http://lattice.github.com/quda-ref/ .
+
+makedox is a script to generate QUDA's doxygen pages.  Assuming you
+have wget and doxygen (preferably 1.7.3) installed, running "makedox"
+will download the current QUDA master and have doxygen generate the
+browseable HTML.  To take a snapshot of another branch, run "makedox
+<branch>" instead.  Finally, to generate the pages for a new release,
+run "makedox -v <ver>" (where <ver> might be "0.3.2", for example).
+
+The real purpose of this repository is to hold the pages themselves,
+found in the gh-pages branch and published automatically to
+http://lattice.github.com/quda-ref/ when pushed to GitHub.
+

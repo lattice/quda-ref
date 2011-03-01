@@ -1,0 +1,90 @@
+#!/usr/bin/env bash
+
+usage()
+{
+    echo "Usage: $0 [ <branch> | -v <quda-version> ]"
+}
+
+if [ $# -eq 0 ]; then
+    snapshot=true
+    branch=master
+elif [ $# -eq 1 ]; then
+    snapshot=true
+    branch=$1
+elif [ $# -eq 2 ]; then
+    if [ $1 != "-v" ]; then
+	usage
+	exit 1
+    fi
+    snapshot=false
+    ver=$2
+else
+    usage
+    exit 1
+fi
+
+if [ $snapshot == "true" ]; then
+    date=`date '+%Y-%m-%d'`
+    workdir="quda_${branch}_$date"
+    outdir="snapshot"
+    url="https://github.com/lattice/quda/tarball/$branch"    
+else
+    workdir="quda_v$ver"
+    outdir="v$ver"
+    url="https://github.com/downloads/lattice/quda/quda-$ver.tar.gz"
+fi
+
+echo "Creating directory $workdir ..."
+if [ -e $workdir ]; then
+    echo "Error: File or directory $workdir already exists."
+    exit 1
+fi
+
+mkdir $workdir
+cd $workdir
+
+echo "Retrieving tar file ..."
+wget --no-check-certificate $url || exit
+
+tarfile=`find . -name *.tar.gz -print`
+tarfile=${tarfile/#.\/}
+tardir=${tarfile/%.tar.gz}
+
+if [ "X$tardir" == "X" ]; then
+    echo "Error: tarball not found."
+    exit 1
+fi
+
+echo "Untarring ..."
+tar xzf $tarfile
+if [ ! -d $tardir ]; then
+    echo "Error: Untarred directory not found."
+    exit 1
+fi
+
+mv $tardir quda
+
+echo "Fixing up source ..."
+cat ../mainpage.h >> quda/include/quda.h || exit
+
+if [ $snapshot == true ]; then
+    tag=${tardir/lattice-quda-}
+    tag="snapshot of branch $branch: $tag (`date`)"
+else
+    tag="v$ver"
+fi
+
+echo "Generating doxygen configuration file ..."
+sed "s/_PROJECT_NUMBER_/\"$tag\"/; s/_HTML_OUTPUT_/\"$outdir\"/" \
+    ../quda.Doxyfile.in > quda.Doxyfile
+
+echo "Running doxygen ..."
+if ! doxygen quda.Doxyfile > doxygen.out 2>&1; then
+    echo "Error: doxygen failed.  See $workdir/doxygen.out"
+    exit
+fi
+
+echo "Success!  HTML is in $workdir/$outdir/"
+echo
+echo "URL: file://$PWD/$outdir/index.html"
+echo
