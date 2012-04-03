@@ -45,8 +45,12 @@ cd $workdir
 
 # Some versions of wget are finnicky about using the filename reported by
 # the server after a redirect.
+wopt=
 if wget --help | grep 'trust-server-names'; then
-    wopt="--trust-server-names"
+    wopt="$wopt --trust-server-names"
+fi
+if wget --help | grep 'content-disposition'; then
+    wopt="$wopt --content-disposition"
 fi
 
 echo "Retrieving tar file ..."
