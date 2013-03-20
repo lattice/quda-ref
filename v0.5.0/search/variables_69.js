@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['idx',['idx',['../llfat__core_8h.html#ae40354a1051342eb5a9db005715dcfa9',1,'idx():&#160;llfat_core.h'],['../namespacequda.html#ab0f14e360b0dd55484b4e08075d8cac7',1,'quda::idx()']]],
+  ['im',['im',['../structcomplex.html#a7444343ae7b282212ee23c1640c77001',1,'complex']]],
+  ['imag',['imag',['../structfcomplex.html#a3b0d940a16cf6480c33b2895259190a2',1,'fcomplex::imag()'],['../structdcomplex.html#ae219264a0f5e0f4780bae72d2952453f',1,'dcomplex::imag()']]],
+  ['in',['in',['../classquda_1_1_dslash_cuda.html#a4cd6db869ed1b793ce51d2c4f861ea8e',1,'quda::DslashCuda::in()'],['../staggered__invert__test_8cpp.html#af61ff6c9724eb687e3057b6a1a977487',1,'in():&#160;staggered_invert_test.cpp']]],
+  ['init',['init',['../classquda_1_1_color_spinor_field.html#a4b7848f549bcc9c675551d21e53efb18',1,'quda::ColorSpinorField']]],
+  ['initghostfacebuffer',['initGhostFaceBuffer',['../classquda_1_1cpu_color_spinor_field.html#a1946911d361aeface97c8d0c67d7b5f0',1,'quda::cpuColorSpinorField']]],
+  ['inittmflag',['initTMFlag',['../classquda_1_1_dirac_twisted_mass.html#a033ae8f15e748508960d382be0fdf7cd',1,'quda::DiracTwistedMass']]],
+  ['input_5flocation',['input_location',['../struct_quda_invert_param__s.html#ae97896749b5683b8520ee594d70b96be',1,'QudaInvertParam_s']]],
+  ['input_5fpadding',['INPUT_PADDING',['../namespacequda.html#a909cad8d6d4e89df3eaf88ef7c6f8784',1,'quda']]],
+  ['intertexdouble',['interTexDouble',['../dslash__textures_8h.html#afd7b66a49af3abfa6044c64f3e7db0d6',1,'dslash_textures.h']]],
+  ['intertexhalf',['interTexHalf',['../dslash__textures_8h.html#a95d997659c3008b4de33376367feee32',1,'dslash_textures.h']]],
+  ['intertexhalf2',['interTexHalf2',['../dslash__textures_8h.html#ae3695743eb6b86859b8dea074610f363',1,'dslash_textures.h']]],
+  ['intertexhalf2norm',['interTexHalf2Norm',['../dslash__textures_8h.html#aa6c4e9590f6f3a20064f061ffe0cdd15',1,'dslash_textures.h']]],
+  ['intertexhalfnorm',['interTexHalfNorm',['../dslash__textures_8h.html#a84c8a9107432ffca6cb7ab57b54af523',1,'dslash_textures.h']]],
+  ['intertexsingle',['interTexSingle',['../dslash__textures_8h.html#a2289874e6d9188286c0875409a2f745e',1,'dslash_textures.h']]],
+  ['intertexsingle2',['interTexSingle2',['../dslash__textures_8h.html#a2d0eb8f8378be2263c55c1931eda858f',1,'dslash_textures.h']]],
+  ['inv_5fparam',['inv_param',['../dslash__test_8cpp.html#aff68f46b50dbbad2e35c03bc7d24ed40',1,'inv_param():&#160;dslash_test.cpp'],['../staggered__dslash__test_8cpp.html#aff68f46b50dbbad2e35c03bc7d24ed40',1,'inv_param():&#160;staggered_dslash_test.cpp']]],
+  ['inv_5ftype',['inv_type',['../struct_quda_invert_param__s.html#ab057d319fc70fc69918eda22d82278d7',1,'QudaInvertParam_s']]],
+  ['inv_5ftype_5fprecondition',['inv_type_precondition',['../struct_quda_invert_param__s.html#adc704d9c332e0450a7d22dae37911a0c',1,'QudaInvertParam_s']]],
+  ['invparam',['invParam',['../classquda_1_1_solver.html#a6fe7668b1e49210366a59b7c72705e1a',1,'quda::Solver::invParam()'],['../classquda_1_1_multi_shift_solver.html#ae0ba7bc2bffa31ac5c6233a6197dda08',1,'quda::MultiShiftSolver::invParam()']]],
+  ['islastblockdone',['isLastBlockDone',['../reduce__core_8h.html#af758c542ce4be31066b7db487e0b7b93',1,'reduce_core.h']]],
+  ['iter',['iter',['../struct_quda_invert_param__s.html#a0f5ef30658c4186bb6183d66bbb4f976',1,'QudaInvertParam_s']]]
+];

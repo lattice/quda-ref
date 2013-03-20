@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['zero',['zero',['../classquda_1_1cuda_color_spinor_field.html#ad8bf52a04e62bbae716c50662354951b',1,'quda::cudaColorSpinorField::zero()'],['../classquda_1_1cpu_color_spinor_field.html#a23246d20f0152b7fc2c156698110d94e',1,'quda::cpuColorSpinorField::zero()'],['../reduce__core_8h.html#a6472be8891294b600ca280c7766ae858',1,'zero(double &amp;x):&#160;reduce_core.h'],['../reduce__core_8h.html#a0e133a0bf4cf994fde478b86362d478e',1,'zero(double2 &amp;x):&#160;reduce_core.h'],['../reduce__core_8h.html#a463f7fcb46c9a16418944a0ff9eb6abf',1,'zero(double3 &amp;x):&#160;reduce_core.h'],['../reduce__core_8h.html#a508336a64aab6c7957f4d5ee98f48385',1,'zero(doublesingle &amp;x):&#160;reduce_core.h'],['../reduce__core_8h.html#ac1d0b19707f94311c17e178f1d011429',1,'zero(doublesingle2 &amp;x):&#160;reduce_core.h'],['../reduce__core_8h.html#ac04e54df6796de3e564d516938e61807',1,'zero(doublesingle3 &amp;x):&#160;reduce_core.h']]],
+  ['zerocuda',['zeroCuda',['../namespacequda.html#ab3e18549b61b10df3d5810474897516e',1,'quda']]]
+];
