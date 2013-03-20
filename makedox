@@ -31,7 +31,7 @@ if [ $snapshot == "true" ]; then
 else
     workdir="quda_v$ver"
     outdir="v$ver"
-    url="https://github.com/downloads/lattice/quda/quda-$ver.tar.gz"
+    url="http://lattice.github.com/downloads/quda/quda-$ver.tar.gz"
 fi
 
 echo "Creating directory $workdir ..."
