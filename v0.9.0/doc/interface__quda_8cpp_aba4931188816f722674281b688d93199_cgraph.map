@@ -1,0 +1,10 @@
+<map id="init_quda_device_" name="init_quda_device_">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a7d267ad5d21c4f5e5be730c7a6a916e9" title="initQudaDevice" alt="" coords="182,153,294,179"/>
+<area shape="rect" id="node3" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="385,5,479,31"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a872ac3564834aa0ba70a9e1bd3c2f9de" title="getenv" alt="" coords="401,55,463,80"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a4e157d18591ba54c92e4da99a3d1ccae" title="atoi" alt="" coords="410,104,453,129"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#aed9cf3a332bd56a53d524699b0fd0776" title="comm_gpuid" alt="" coords="383,153,481,179"/>
+<area shape="rect" id="node7" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a2a3c2e9ef2d275dd8caaad644163ad51" title="strcmp" alt="" coords="401,203,463,228"/>
+<area shape="rect" id="node8" href="$numa__affinity_8h.html#afc2c8f007904bc8e54d738389d53c965" title="setNumaAffinityNVML" alt="" coords="356,252,508,277"/>
+<area shape="rect" id="node9" href="$namespacequda.html#aaf67ea136dee872a19103cca2522f488" title="Set whether data is reorderd on the CPU or GPU. This can set at QUDA initialization using the environ..." alt="" coords="342,301,522,327"/>
+</map>

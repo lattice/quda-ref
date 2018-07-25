@@ -1,0 +1,28 @@
+<map id="quda::ColorSpinorField::Even" name="quda::ColorSpinorField::Even">
+<area shape="rect" id="node2" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="271,29,359,55"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab66fd156403b1009b401b00c433d77b4" title="Compute the outer&#45;product field between the staggered quark field&#39;s one and (for HISQ and ASQTAD) thr..." alt="" coords="211,104,419,129"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_wilson.html#abc4f601ffc6b06f9eb35a569e1688f12" title="quda::DiracWilson::M" alt="" coords="241,167,389,192"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_clover.html#a6078371a4e0f88541f0e3c0b7f02f1a1" title="quda::DiracClover::M" alt="" coords="242,223,388,248"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_mobius.html#a3ddfab36f7b5596531abec291c057fc9" title="quda::DiracMobius::M" alt="" coords="240,272,391,297"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_twisted_mass.html#ab36fafa9cbf99a747427ea950939144a" title="quda::DiracTwistedMass::M" alt="" coords="223,321,408,347"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_twisted_clover.html#af3398643205897ed03bfab03f755b111" title="quda::DiracTwistedClover::M" alt="" coords="219,371,411,396"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_staggered.html#a66d8aa60a34b8940172315d6f404b2ad" title="quda::DiracStaggered\l::MdagM" alt="" coords="240,420,391,459"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_improved_staggered.html#af8feb7629ee55950a1a8be4acfd6bc90" title="quda::DiracImprovedStaggered\l::MdagM" alt="" coords="212,483,418,521"/>
+<area shape="rect" id="node20" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="750,683,858,708"/>
+<area shape="rect" id="node21" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="495,671,640,696"/>
+<area shape="rect" id="node22" href="$classquda_1_1_transfer.html#acae8c442c5f6dd3a12530c010d556838" title="quda::Transfer::P" alt="" coords="253,699,377,724"/>
+<area shape="rect" id="node24" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="253,748,377,773"/>
+<area shape="rect" id="node25" href="$classquda_1_1_transfer.html#a4e342b78b6d5ffe90317e86d54743187" title="Sets whether the transfer operator is to act on full fields or single parity fields, and if single&#45;parity which parity. If site_subset is QUDA_FULL_SITE_SUBSET, the transfer operator can still be applied to single&#45;parity fields, however, if site_subset is QUDA_PARITY_SITE_SUBSET, then the transfer operator cannot be applied to full fields, and setSiteSubset will need to be called first to reset to QUDA_FULL_SITE_SUBSET. This method exists to reduce GPU memory overhead &#45; if only transfering single&#45;parity fine fields then we only store a single&#45;parity copy of the null space components on the device. " alt="" coords="216,597,414,623"/>
+<area shape="rect" id="node27" href="$namespacequda.html#ad9b26ad8994921de469b8577055403ad" title="quda::shiftColorSpinorField" alt="" coords="224,797,406,823"/>
+<area shape="rect" id="node3" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="542,5,593,31"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#aff400a364829b50917d50d5730281830" title="computeHISQForceQuda" alt="" coords="482,104,653,129"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="467,55,668,80"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="716,48,892,87"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_wilson.html#aa9bac8abe6993bbc4369e0cdab8e911f" title="quda::DiracWilson::\lMdagM" alt="" coords="499,153,636,192"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_clover.html#a0abbc817d55acf4b5be97bec7399a634" title="quda::DiracClover::\lMdagM" alt="" coords="500,216,635,255"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_mobius.html#ad250f4e35dcb9afd0198a01691d06217" title="quda::DiracMobius::\lMdagM" alt="" coords="498,279,637,317"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_twisted_mass.html#a9c05e1c0030794ecc52feaee32cbd415" title="quda::DiracTwistedMass\l::MdagM" alt="" coords="484,341,651,380"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_twisted_clover.html#a6b8a4b9a59ee851b8f6e0970344ae1b5" title="quda::DiracTwistedClover\l::MdagM" alt="" coords="481,404,654,443"/>
+<area shape="rect" id="node23" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="508,744,627,769"/>
+<area shape="rect" id="node26" href="$classquda_1_1_m_g.html#a945ce1c040f0549323d1e2b6dd4b4856" title="quda::MG::reset" alt="" coords="509,621,626,647"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structquda_1_1_lattice_field_param.html" title="quda::LatticeFieldParam" alt="" coords="5,55,171,80"/>
+<area shape="rect" id="node2" href="$structquda_1_1_clover_field_param.html" title="quda::CloverFieldParam" alt="" coords="221,5,386,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_param.html" title="quda::ColorSpinorParam" alt="" coords="219,55,387,80"/>
+<area shape="rect" id="node4" href="$structquda_1_1_gauge_field_param.html" title="quda::GaugeFieldParam" alt="" coords="220,104,387,129"/>
+</map>

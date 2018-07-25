@@ -1,0 +1,5 @@
+<map id="genericReduce" name="genericReduce">
+<area shape="rect" id="node2" href="$namespacequda.html#aee02076bf80310d2bf9e57e7d8c83693" title="quda::make_Complex" alt="" coords="164,5,315,31"/>
+<area shape="rect" id="node3" href="$reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="217,55,263,80"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="182,104,298,129"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="quda::LatticeField::createComms" name="quda::LatticeField::createComms">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a6dcfe5c3faff54a12f659933a1f58546" title="Query if GPU Direct RDMA communication is enabled (global setting) " alt="" coords="180,52,319,77"/>
+<area shape="rect" id="node5" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="367,107,512,132"/>
+<area shape="rect" id="node10" href="$classquda_1_1_lattice_field.html#a98a49db4ac99218a7a004d6e369e1e16" title="quda::LatticeField\l::destroyComms" alt="" coords="186,153,313,192"/>
+<area shape="rect" id="node3" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a872ac3564834aa0ba70a9e1bd3c2f9de" title="getenv" alt="" coords="409,5,470,31"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a2a3c2e9ef2d275dd8caaad644163ad51" title="strcmp" alt="" coords="409,55,470,80"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="560,107,716,132"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="764,107,851,132"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="899,81,1062,107"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="934,131,1027,156"/>
+<area shape="rect" id="node11" href="$comm__quda_8h.html#a64cf45acccdd7dcbbfd1803ac1f482af" title="comm_free" alt="" coords="396,160,484,185"/>
+</map>

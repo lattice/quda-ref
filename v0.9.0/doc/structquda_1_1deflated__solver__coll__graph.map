@@ -1,0 +1,24 @@
+<map id="quda::deflated_solver" name="quda::deflated_solver">
+<area shape="rect" id="node2" href="$structquda_1_1_deflation_param.html" title="quda::DeflationParam" alt="" coords="1759,331,1909,357"/>
+<area shape="rect" id="node25" href="$classquda_1_1_deflation.html" title="quda::Deflation" alt="" coords="1998,247,2110,273"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="1521,423,1617,449"/>
+<area shape="rect" id="node4" href="$struct_quda_eig_param__s.html" title="QudaEigParam_s" alt="" coords="1506,374,1632,399"/>
+<area shape="rect" id="node5" href="$struct_quda_invert_param__s.html" title="QudaInvertParam_s" alt="" coords="1223,434,1364,459"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_matrix.html" title="quda::DiracMatrix" alt="" coords="1506,171,1632,197"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac.html" title="quda::Dirac" alt="" coords="1249,151,1338,177"/>
+<area shape="rect" id="node8" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="8,151,105,177"/>
+<area shape="rect" id="node11" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="284,214,411,239"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_gauge_field.html" title="quda::cudaGaugeField" alt="" coords="871,185,1028,210"/>
+<area shape="rect" id="node10" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="558,185,686,210"/>
+<area shape="rect" id="node18" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="871,337,1028,362"/>
+<area shape="rect" id="node12" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="5,334,108,359"/>
+<area shape="rect" id="node13" href="$classquda_1_1_time_profile.html" title="quda::TimeProfile" alt="" coords="887,57,1012,82"/>
+<area shape="rect" id="node14" href="$structquda_1_1_timer.html" title="quda::Timer" alt="" coords="576,70,668,95"/>
+<area shape="rect" id="node15" href="$structtimeval.html" title="timeval" alt="" coords="316,70,379,95"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="582,13,662,38"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="285,6,410,45"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="893,518,1006,543"/>
+<area shape="rect" id="node22" href="$structquda_1_1_composite_color_spinor_field_descriptor.html" title="quda::CompositeColorSpinor\lFieldDescriptor" alt="" coords="526,386,718,425"/>
+<area shape="rect" id="node23" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="546,337,698,362"/>
+<area shape="rect" id="node24" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="307,402,388,427"/>
+</map>

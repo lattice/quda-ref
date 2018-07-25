@@ -1,0 +1,5 @@
+<map id="quda::IncEigCG::initCGsolve" name="quda::IncEigCG::initCGsolve">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="244,5,402,44"/>
+<area shape="rect" id="node3" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="276,68,371,93"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a05c1eeac0ec0080a4fb3df73277944de" title="quda::blas::xpay" alt="" coords="264,117,382,143"/>
+</map>

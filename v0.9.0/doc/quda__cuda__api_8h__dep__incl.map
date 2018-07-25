@@ -1,0 +1,51 @@
+<map id="include/quda_cuda_api.h" name="include/quda_cuda_api.h">
+<area shape="rect" id="node2" href="$quda__internal_8h.html" title="include/quda_internal.h" alt="" coords="3820,80,3979,105"/>
+<area shape="rect" id="node3" href="$blas__cublas_8h.html" title="include/blas_cublas.h" alt="" coords="5,160,154,185"/>
+<area shape="rect" id="node4" href="$blas__quda_8h.html" title="include/blas_quda.h" alt="" coords="1348,240,1488,265"/>
+<area shape="rect" id="node5" href="$dirac__quda_8h.html" title="include/dirac_quda.h" alt="" coords="3490,320,3635,345"/>
+<area shape="rect" id="node6" href="$invert__quda_8h.html" title="include/invert_quda.h" alt="" coords="3638,400,3786,425"/>
+<area shape="rect" id="node7" href="$eig__lanczos__quda_8cpp.html" title="lib/eig_lanczos_quda.cpp" alt="" coords="2878,707,3049,732"/>
+<area shape="rect" id="node8" href="$eig__solver_8cpp.html" title="lib/eig_solver.cpp" alt="" coords="3698,707,3822,732"/>
+<area shape="rect" id="node9" href="$lanczos__quda_8h.html" title="include/lanczos_quda.h" alt="" coords="3461,633,3621,659"/>
+<area shape="rect" id="node10" href="$ritz__quda_8h.html" title="include/ritz_quda.h" alt="" coords="3386,553,3520,579"/>
+<area shape="rect" id="node11" href="$tune__quda_8h.html" title="include/tune_quda.h" alt="" coords="4165,400,4306,425"/>
+<area shape="rect" id="node12" href="$dslash__quda_8h.html" title="include/dslash_quda.h" alt="" coords="2245,473,2399,499"/>
+<area shape="rect" id="node13" href="$clover__outer__product_8cu.html" title="lib/clover_outer_product.cu" alt="" coords="4204,553,4385,579"/>
+<area shape="rect" id="node14" href="$clover__sigma__outer__product_8cu.html" title="lib/clover_sigma_outer\l_product.cu" alt="" coords="4025,547,4180,585"/>
+<area shape="rect" id="node15" href="$dslash__clover_8cu.html" title="lib/dslash_clover.cu" alt="" coords="909,553,1046,579"/>
+<area shape="rect" id="node16" href="$dslash__clover__asym_8cu.html" title="lib/dslash_clover_asym.cu" alt="" coords="2018,553,2195,579"/>
+<area shape="rect" id="node17" href="$dslash__domain__wall_8cu.html" title="lib/dslash_domain_wall.cu" alt="" coords="1785,553,1961,579"/>
+<area shape="rect" id="node18" href="$dslash__domain__wall__4d_8cu.html" title="lib/dslash_domain_wall\l_4d.cu" alt="" coords="1070,547,1228,585"/>
+<area shape="rect" id="node19" href="$dslash__improved__staggered_8cu.html" title="lib/dslash_improved\l_staggered.cu" alt="" coords="1253,547,1392,585"/>
+<area shape="rect" id="node20" href="$dslash__mobius_8cu.html" title="lib/dslash_mobius.cu" alt="" coords="739,553,884,579"/>
+<area shape="rect" id="node21" href="$dslash__ndeg__twisted__mass_8cu.html" title="lib/dslash_ndeg_twisted\l_mass.cu" alt="" coords="1598,547,1761,585"/>
+<area shape="rect" id="node22" href="$dslash__pack_8cu.html" title="lib/dslash_pack.cu" alt="" coords="2423,553,2553,579"/>
+<area shape="rect" id="node23" href="$dslash__quda_8cu.html" title="lib/dslash_quda.cu" alt="" coords="583,553,715,579"/>
+<area shape="rect" id="node24" href="$dslash__staggered_8cu.html" title="lib/dslash_staggered.cu" alt="" coords="398,553,559,579"/>
+<area shape="rect" id="node25" href="$dslash__twisted__clover_8cu.html" title="lib/dslash_twisted\l_clover.cu" alt="" coords="2833,547,2959,585"/>
+<area shape="rect" id="node26" href="$dslash__twisted__mass_8cu.html" title="lib/dslash_twisted\l_mass.cu" alt="" coords="3033,547,3159,585"/>
+<area shape="rect" id="node27" href="$dslash__wilson_8cu.html" title="lib/dslash_wilson.cu" alt="" coords="2670,553,2809,579"/>
+<area shape="rect" id="node28" href="$blas__quda_8cu.html" title="lib/blas_quda.cu" alt="" coords="1445,473,1563,499"/>
+<area shape="rect" id="node29" href="$clover__deriv__quda_8cu.html" title="This kernel has been a bit of a pain to optimize since it is excessively register bound..." alt="" coords="4651,473,4816,499"/>
+<area shape="rect" id="node30" href="$clover__quda_8cu.html" title="lib/clover_quda.cu" alt="" coords="4279,473,4408,499"/>
+<area shape="rect" id="node31" href="$clover__trace__quda_8cu.html" title="lib/clover_trace_quda.cu" alt="" coords="3874,473,4040,499"/>
+<area shape="rect" id="node32" href="$color__spinor__wuppertal_8cu.html" title="lib/color_spinor_wuppertal.cu" alt="" coords="4432,473,4626,499"/>
+<area shape="rect" id="node33" href="$clover__field_8cpp.html" title="lib/clover_field.cpp" alt="" coords="3133,320,3264,345"/>
+<area shape="rect" id="node34" href="$clover__field_8h.html" title="include/clover_field.h" alt="" coords="2507,240,2653,265"/>
+<area shape="rect" id="node35" href="$color__spinor__field_8h.html" title="include/color_spinor\l_field.h" alt="" coords="1916,153,2056,192"/>
+<area shape="rect" id="node36" href="$contract_quda_8h.html" title="include/contractQuda.h" alt="" coords="4647,160,4806,185"/>
+<area shape="rect" id="node37" href="$convert_8h.html" title="include/convert.h" alt="" coords="4829,160,4951,185"/>
+<area shape="rect" id="node38" href="$eig__variables_8h.html" title="include/eig_variables.h" alt="" coords="5077,400,5234,425"/>
+<area shape="rect" id="node39" href="$gauge__field_8h.html" title="include/gauge_field.h" alt="" coords="4210,240,4357,265"/>
+<area shape="rect" id="node40" href="$ks__improved__force_8h.html" title="include/ks_improved\l_force.h" alt="" coords="4419,313,4562,352"/>
+<area shape="rect" id="node41" href="$cpu__gauge__field_8cpp.html" title="lib/cpu_gauge_field.cpp" alt="" coords="4638,320,4799,345"/>
+<area shape="rect" id="node42" href="$hw__quda_8h.html" title="include/hw_quda.h" alt="" coords="5179,160,5311,185"/>
+<area shape="rect" id="node43" href="$llfat__quda_8h.html" title="include/llfat_quda.h" alt="" coords="5336,160,5472,185"/>
+<area shape="rect" id="node44" href="$register__traits_8h.html" title="Provides precision abstractions and defines the register precision given the storage precision using ..." alt="" coords="5496,160,5655,185"/>
+<area shape="rect" id="node45" href="$blas__magma_8cu.html" title="lib/blas_magma.cu" alt="" coords="5679,160,5811,185"/>
+<area shape="rect" id="node46" href="$blas__magma__nopiv_8cu.html" title="lib/blas_magma_nopiv.cu" alt="" coords="5836,160,6006,185"/>
+<area shape="rect" id="node47" href="$comm__common_8cpp.html" title="lib/comm_common.cpp" alt="" coords="6030,160,6188,185"/>
+<area shape="rect" id="node48" href="$comm__mpi_8cpp.html" title="lib/comm_mpi.cpp" alt="" coords="6213,160,6341,185"/>
+<area shape="rect" id="node49" href="$comm__qmp_8cpp.html" title="lib/comm_qmp.cpp" alt="" coords="6365,160,6498,185"/>
+<area shape="rect" id="node50" href="$_c_u_f_f_t___plans_8h.html" title="lib/CUFFT_Plans.h" alt="" coords="6522,160,6656,185"/>
+</map>

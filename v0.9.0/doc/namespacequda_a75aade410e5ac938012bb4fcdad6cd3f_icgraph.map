@@ -1,0 +1,12 @@
+<map id="quda::plaquette" name="quda::plaquette">
+<area shape="rect" id="node2" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="237,5,287,31"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a51da31992209b588cc71641963307d56" title="performAPEnStep" alt="" coords="198,55,326,80"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#a0ee20ea90421939924df9903acb6b4d8" title="performOvrImpSTOUTnStep" alt="" coords="167,104,357,129"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#ad9b78b143153725974886c392285b906" title="performSTOUTnStep" alt="" coords="188,153,336,179"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#abedf6a5527d897fe4da194c5aa71ab04" title="plaqQuda" alt="" coords="222,203,302,228"/>
+<area shape="rect" id="node10" href="$class_gauge_alg_test.html#ad9c59364fa8f8765e0e170fee1682f0d" title="GaugeAlgTest::SetUp" alt="" coords="187,252,337,277"/>
+<area shape="rect" id="node11" href="$gauge__alg__test_8cpp.html#abf88bf374f05c0a4d867ad6a05b2c98a" title="TEST_F" alt="" coords="226,301,297,327"/>
+<area shape="rect" id="node4" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="417,129,485,155"/>
+<area shape="rect" id="node5" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="544,129,595,155"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#af8e8b6f824aa2e6348d1ac1f0ff33fda" title="plaq_quda_" alt="" coords="405,203,496,228"/>
+</map>

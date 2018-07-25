@@ -1,0 +1,7 @@
+<map id="quda::reduce2d" name="quda::reduce2d">
+<area shape="rect" id="node2" href="$asym__wilson__clover__dslash__dagger__fermi__core_8h.html#ae687dbe50139c5805369b59554bddc67" title="__syncthreads" alt="" coords="167,5,275,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="183,55,260,80"/>
+<area shape="rect" id="node5" href="$multi__reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="198,104,245,129"/>
+<area shape="rect" id="node6" href="$namespacequda.html#afdd60a37d49f6d12f8472e2a910e80c6" title="quda::zero" alt="" coords="179,153,264,179"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="323,55,415,80"/>
+</map>

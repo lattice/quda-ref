@@ -1,0 +1,17 @@
+<map id="quda::norm2" name="quda::norm2">
+<area shape="rect" id="node2" href="$classquda_1_1_g_m_res_d_r.html#aa869a115446b88110dcbf22c55e8d9b7" title="quda::GMResDR::FlexArnoldi\lProcedure" alt="" coords="155,5,352,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="405,41,594,67"/>
+<area shape="rect" id="node4" href="$classquda_1_1_m_g.html#ae01b451dc72536567de5edfed09ec5ab" title="Generate the null&#45;space vectors. " alt="" coords="150,120,357,145"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lanczos.html#a7c13e72ff4f70ce0aff6c48fc29c8645" title="quda::Lanczos::operator()" alt="" coords="166,169,340,195"/>
+<area shape="rect" id="node7" href="$classquda_1_1_deflation.html#a34216916176aa5676b2b4af567808b45" title="quda::Deflation::operator()" alt="" coords="165,219,342,244"/>
+<area shape="rect" id="node8" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="180,268,326,293"/>
+<area shape="rect" id="node9" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="160,317,347,343"/>
+<area shape="rect" id="node10" href="$classquda_1_1_simple_bi_c_gstab.html#a2b9dbba1f56a02b726384c33ef5b1a82" title="quda::SimpleBiCGstab\l::operator()" alt="" coords="175,367,331,405"/>
+<area shape="rect" id="node11" href="$classquda_1_1_s_d.html#aa0937eb41102e35ab13f02db3cdd38b0" title="quda::SD::operator()" alt="" coords="182,429,325,455"/>
+<area shape="rect" id="node12" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="409,604,590,629"/>
+<area shape="rect" id="node13" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="174,604,333,629"/>
+<area shape="rect" id="node14" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="178,653,328,679"/>
+<area shape="rect" id="node16" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="194,503,313,528"/>
+<area shape="rect" id="node5" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="445,312,554,337"/>
+<area shape="rect" id="node15" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="414,653,585,679"/>
+</map>

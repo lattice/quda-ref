@@ -1,0 +1,9 @@
+<map id="quda::DiracDomainWall::M" name="quda::DiracDomainWall::M">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="233,49,425,75"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_domain_wall.html#a70e017028b12ac583ab32c5bea213590" title="quda::DiracDomainWall\l::DslashXpay" alt="" coords="248,99,409,137"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="490,36,656,75"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="487,99,658,137"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a0647509d3334c167dcd5e6b0836e6960" title="quda::domainWallDslashCuda" alt="" coords="473,161,673,187"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="721,5,847,44"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="721,68,847,107"/>
+</map>

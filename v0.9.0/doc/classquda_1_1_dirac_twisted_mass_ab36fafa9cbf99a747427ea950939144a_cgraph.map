@@ -1,0 +1,12 @@
+<map id="quda::DiracTwistedMass::M" name="quda::DiracTwistedMass::M">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="238,5,430,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="254,55,414,80"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="255,104,413,143"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_twisted_mass.html#a4f8b2f9ca00505614ac105dbf60ea7c1" title="quda::DiracTwistedMass\l::NdegTwistedDslashXpay" alt="" coords="246,167,423,205"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="260,229,408,255"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="255,279,413,317"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_twisted_mass.html#a7689228d46df8cb10cfa9bfc3d4bf5f0" title="quda::DiracTwistedMass\l::TwistedDslashXpay" alt="" coords="251,341,418,380"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a615c9dfce9234a38bc4d02ef52e7904c" title="quda::ndegTwistedMassDslashCuda" alt="" coords="478,173,716,199"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a20e8b78ce4e01cdec09deb8188e83aef" title="quda::twistedMassDslashCuda" alt="" coords="495,348,699,373"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="764,348,916,373"/>
+</map>

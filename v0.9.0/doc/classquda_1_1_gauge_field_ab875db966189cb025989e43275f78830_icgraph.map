@@ -1,0 +1,8 @@
+<map id="quda::GaugeField::Gauge_p" name="quda::GaugeField::Gauge_p">
+<area shape="rect" id="node2" href="$structquda_1_1gauge_1_1_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___q_d_p___g_a_u_g_e___o_r_d_e_r_01_4.html#aa68df0ebdc8fc178997a7a5f09007510" title="quda::gauge::Accessor\l\&lt; Float, nColor, QUDA\l_QDP_GAUGE_ORDER \&gt;::Accessor" alt="" coords="243,5,485,57"/>
+<area shape="rect" id="node3" href="$structquda_1_1gauge_1_1_float_n_order.html#a236cff3b22745b17176dcad87b20ea53" title="quda::gauge::FloatNOrder\l::FloatNOrder" alt="" coords="276,81,452,120"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab867764219575eee5200a7034d37d465" title="quda::maxGauge" alt="" coords="302,144,426,169"/>
+<area shape="rect" id="node6" href="$structquda_1_1gauge_1_1_q_d_p_j_i_t_order.html#af4cf567ef342fdf088e58da8b75c7ef6" title="quda::gauge::QDPJITOrder\l::QDPJITOrder" alt="" coords="272,193,456,232"/>
+<area shape="rect" id="node7" href="$structquda_1_1gauge_1_1_q_d_p_order.html#a650891d0d1f90bf9a447db9bb957173f" title="quda::gauge::QDPOrder\l::QDPOrder" alt="" coords="281,256,447,295"/>
+<area shape="rect" id="node5" href="$classquda_1_1cpu_gauge_field.html#aed4d23cd5eac14f6e2661f09a345254e" title="Constructor for cpuGaugeField from a GaugeFieldParam. " alt="" coords="533,137,682,176"/>
+</map>

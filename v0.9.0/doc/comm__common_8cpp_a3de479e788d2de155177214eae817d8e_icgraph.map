@@ -1,0 +1,4 @@
+<map id="comm_neighbor_rank" name="comm_neighbor_rank">
+<area shape="rect" id="node2" href="$comm__common_8cpp.html#adc5670739f5284d3d5a2f06d2e4e0cfd" title="comm_peer2peer_init" alt="" coords="204,5,354,31"/>
+<area shape="rect" id="node3" href="$comm__mpi_8cpp.html#add004a3d38b9dc2f15a65bb6e43a2840" title="comm_init" alt="" coords="402,5,484,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="quda::DiracTwistedMass::NdegTwistedDslashXpay" name="quda::DiracTwistedMass::NdegTwistedDslashXpay">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aefa93709f581a5e61216f7b0a5e60c4b" title="quda::DiracTwistedMassPC\l::DslashXpay" alt="" coords="230,5,415,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a51aab3a1d37104ab7202b55eda1a9c81" title="quda::DiracTwistedMassPC::M" alt="" coords="463,39,667,64"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_twisted_mass.html#ab36fafa9cbf99a747427ea950939144a" title="quda::DiracTwistedMass::M" alt="" coords="230,120,415,145"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a6be83a5144164ad7acf1151cb36cd2d2" title="quda::DiracTwistedMassPC\l::prepare" alt="" coords="230,169,415,208"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a410ab24479e1571524de12f5faddbbef" title="quda::DiracTwistedMassPC\l::reconstruct" alt="" coords="230,232,415,271"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aaf975b69ccbb23454b2f42fd69e3bed2" title="quda::DiracTwistedMassPC\l::MdagM" alt="" coords="715,32,900,71"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_twisted_mass.html#a9c05e1c0030794ecc52feaee32cbd415" title="quda::DiracTwistedMass\l::MdagM" alt="" coords="482,113,649,152"/>
+</map>

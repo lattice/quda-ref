@@ -1,0 +1,22 @@
+<map id="quda::blas::ReduceFunctor&lt; ReduceType, Float2, FloatN &gt;" name="quda::blas::ReduceFunctor&lt; ReduceType, Float2, FloatN &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1blas_1_1axpy_c_g_norm2.html" title="quda::blas::axpyCGNorm2\l\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="297,5,476,57"/>
+<area shape="rect" id="node3" href="$structquda_1_1blas_1_1axpy_norm2.html" title="quda::blas::axpyNorm2\l\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="307,81,466,133"/>
+<area shape="rect" id="node4" href="$structquda_1_1blas_1_1_axpy_re_dot.html" title="quda::blas::AxpyReDot\l\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="308,157,465,209"/>
+<area shape="rect" id="node5" href="$structquda_1_1blas_1_1cabxpyaxnorm.html" title="quda::blas::cabxpyaxnorm\l\&lt; ReduceType, Float2, FloatN \&gt;" alt="" coords="281,233,492,272"/>
+<area shape="rect" id="node6" href="$structquda_1_1blas_1_1caxpbypz_ymbwc_dot_product_u_y_norm_y__.html" title="quda::blas::caxpbypzYmbwc\lDotProductUYNormY_\&lt; ReduceType,\l Float2, FloatN \&gt;" alt="" coords="264,296,509,348"/>
+<area shape="rect" id="node7" href="$structquda_1_1blas_1_1caxpydotzy.html" title="quda::blas::caxpydotzy\l\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="308,372,465,424"/>
+<area shape="rect" id="node8" href="$structquda_1_1blas_1_1caxpy_norm2.html" title="quda::blas::caxpyNorm2\l\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="304,448,469,500"/>
+<area shape="rect" id="node9" href="$structquda_1_1blas_1_1caxpyxmaznormx.html" title="quda::blas::caxpyxmaznormx\l\&lt; ReduceType, Float2, FloatN \&gt;" alt="" coords="281,524,492,563"/>
+<area shape="rect" id="node10" href="$structquda_1_1blas_1_1_cdot.html" title="quda::blas::Cdot\&lt; Reduce\lType, Float2, FloatN \&gt;" alt="" coords="298,587,474,625"/>
+<area shape="rect" id="node11" href="$structquda_1_1blas_1_1_cdot_norm_a.html" title="quda::blas::CdotNormA\l\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="306,649,466,701"/>
+<area shape="rect" id="node12" href="$structquda_1_1blas_1_1_cdot_norm_b.html" title="quda::blas::CdotNormB\l\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="306,725,466,777"/>
+<area shape="rect" id="node13" href="$structquda_1_1blas_1_1_dot.html" title="quda::blas::Dot\&lt; ReduceType,\l Float2, FloatN \&gt;" alt="" coords="286,801,487,840"/>
+<area shape="rect" id="node14" href="$structquda_1_1blas_1_1_dot_norm_a.html" title="quda::blas::DotNormA\l\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="308,864,464,916"/>
+<area shape="rect" id="node15" href="$structquda_1_1blas_1_1_heavy_quark_residual_norm__.html" title="quda::blas::HeavyQuarkResidual\lNorm_\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="278,940,495,992"/>
+<area shape="rect" id="node16" href="$structquda_1_1blas_1_1_norm1.html" title="quda::blas::Norm1\&lt;\l ReduceType, Float2,\l FloatN \&gt;" alt="" coords="312,1016,460,1068"/>
+<area shape="rect" id="node17" href="$structquda_1_1blas_1_1_norm2.html" title="quda::blas::Norm2\&lt;\l ReduceType, Float2,\l FloatN \&gt;" alt="" coords="312,1092,460,1144"/>
+<area shape="rect" id="node18" href="$structquda_1_1blas_1_1triple_c_g_reduction__.html" title="quda::blas::tripleCGReduction\l_\&lt; ReduceType, Float2, FloatN \&gt;" alt="" coords="278,1168,495,1207"/>
+<area shape="rect" id="node19" href="$structquda_1_1blas_1_1xmy_norm2.html" title="quda::blas::xmyNorm2\l\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="308,1231,464,1283"/>
+<area shape="rect" id="node20" href="$structquda_1_1blas_1_1xpaycdotzy.html" title="quda::blas::xpaycdotzy\l\&lt; ReduceType, Float2,\l FloatN \&gt;" alt="" coords="308,1307,465,1359"/>
+<area shape="rect" id="node21" href="$structquda_1_1blas_1_1xpy_heavy_quark_residual_norm__.html" title="quda::blas::xpyHeavyQuark\lResidualNorm_\&lt; ReduceType,\l Float2, FloatN \&gt;" alt="" coords="285,1383,488,1435"/>
+</map>

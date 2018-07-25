@@ -1,0 +1,12 @@
+<map id="lib/shift_quark_field.cu" name="lib/shift_quark_field.cu">
+<area shape="rect" id="node5" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="593,79,706,104"/>
+<area shape="rect" id="node6" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="588,152,711,177"/>
+<area shape="rect" id="node11" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="785,225,888,251"/>
+<area shape="rect" id="node13" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="809,152,871,177"/>
+<area shape="rect" id="node16" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="1001,152,1087,177"/>
+<area shape="rect" id="node22" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="187,152,295,177"/>
+<area shape="rect" id="node23" href="$object_8h.html" title="object.h" alt="" coords="414,152,482,177"/>
+<area shape="rect" id="node15" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="634,225,761,251"/>
+<area shape="rect" id="node18" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="995,225,1101,251"/>
+<area shape="rect" id="node20" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="1125,225,1211,251"/>
+</map>

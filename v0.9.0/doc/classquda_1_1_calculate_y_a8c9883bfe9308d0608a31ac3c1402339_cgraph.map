@@ -1,0 +1,6 @@
+<map id="quda::CalculateY::CalculateY" name="quda::CalculateY::CalculateY">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#a04833d93506621630fd8f06875401bde" title="quda::ColorSpinorField\l::AuxString" alt="" coords="247,5,405,44"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#ac40015563f1aca4d9ea4974971716115" title="Return a string that defines the comm partitioning (used as a tuneKey) " alt="" coords="248,68,404,107"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afdda3884407b500020ab100f831aea08" title="strcat" alt="" coords="299,131,353,156"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a53b054f03667fa7e48a9d6ede1e010a5" title="strcpy" alt="" coords="298,180,355,205"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$pack__test_8cpp.html#aaf81d3fdaf258088d7692fa70cece087" title="end" alt="" coords="163,55,206,80"/>
+<area shape="rect" id="node6" href="$test__util_8cpp.html#a41580396542087e712ad716d410052b4" title="finalizeComms" alt="" coords="130,1491,239,1516"/>
+<area shape="rect" id="node7" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a6513e6416e469f8af2665d5793c3782f" title="fprintf" alt="" coords="564,505,618,531"/>
+<area shape="rect" id="node8" href="$pack__test_8cpp.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="165,1785,204,1811"/>
+<area shape="rect" id="node15" href="$test__util_8cpp.html#a629df5f9a9d54e7c434fc98bdf567fa7" title="initComms" alt="" coords="142,2059,227,2084"/>
+<area shape="rect" id="node21" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="148,1441,222,1467"/>
+<area shape="rect" id="node30" href="$test__util_8cpp.html#a4e297cefdba144e8efe42dca5514f572" title="process_command_line\l_option" alt="" coords="104,696,266,735"/>
+<area shape="rect" id="node50" href="$pack__test_8cpp.html#acbd2db65dfdaa2559f23006893e692c8" title="usage" alt="" coords="156,2108,213,2133"/>
+<area shape="rect" id="node3" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="375,5,451,31"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="391,55,435,80"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a2a3c2e9ef2d275dd8caaad644163ad51" title="strcmp" alt="" coords="560,456,622,481"/>
+<area shape="rect" id="node9" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="377,1687,448,1712"/>
+<area shape="rect" id="node10" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="383,1736,443,1761"/>
+<area shape="rect" id="node11" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="378,1785,448,1811"/>
+<area shape="rect" id="node12" href="$classquda_1_1_color_spinor_param.html#aa037feb4140b5cf0f7748ce30da4ab16" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="329,1835,497,1873"/>
+<area shape="rect" id="node13" href="$quda_8h.html#a583a1acaecff1b5e1e541ea266cf6f04" title="setVerbosityQuda" alt="" coords="350,1897,476,1923"/>
+<area shape="rect" id="node14" href="$classquda_1_1cpu_color_spinor_field.html#ac15d8b2aaff27079ef5c801e0bba4330" title="quda::cpuColorSpinorField\l::Source" alt="" coords="323,1947,503,1985"/>
+<area shape="rect" id="node16" href="$nvtx__pmpi_8c.html#a22de5dc35e882c7adfd00b7292215475" title="MPI_Init" alt="" coords="378,2108,448,2133"/>
+<area shape="rect" id="node17" href="$test__util_8cpp.html#a4f892f0d09ea7473fe32fed5e5de3b75" title="lex_rank_from_coords_t" alt="" coords="331,2157,495,2183"/>
+<area shape="rect" id="node18" href="$test__util_8cpp.html#a383c2945b1320c63394b2440dbdcee1e" title="lex_rank_from_coords_x" alt="" coords="329,2207,497,2232"/>
+<area shape="rect" id="node19" href="$quda_8h.html#acf46984ae469d1d7603f8fbf34bc221c" title="initCommsGridQuda" alt="" coords="342,2009,484,2035"/>
+<area shape="rect" id="node20" href="$test__util_8cpp.html#affc667f54d3aad05a212a708a1967851" title="initRand" alt="" coords="378,2059,448,2084"/>
+<area shape="rect" id="node22" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afe176b0807dfea419d70b1376ea761a4" title="printf" alt="" coords="565,1200,616,1225"/>
+<area shape="rect" id="node23" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afa9ad98643851ca03a428e264122dac0" title="fflush" alt="" coords="386,1525,440,1551"/>
+<area shape="rect" id="node24" href="$test__util_8cpp.html#ace9dbd268f36cbd20bb838a1bf2eb87d" title="stopwatchStart" alt="" coords="358,1575,468,1600"/>
+<area shape="rect" id="node25" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="335,1624,491,1663"/>
+<area shape="rect" id="node26" href="$test__util_8cpp.html#aacc697a18afad8495193ce657f21eaa0" title="stopwatchReadSeconds" alt="" coords="330,1301,496,1327"/>
+<area shape="rect" id="node27" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="335,1351,491,1389"/>
+<area shape="rect" id="node28" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="349,1413,477,1439"/>
+<area shape="rect" id="node29" href="$classquda_1_1cpu_color_spinor_field.html#ac9c5a3bf3e02799436aa004211ea4508" title="quda::cpuColorSpinorField\l::Compare" alt="" coords="323,1463,503,1501"/>
+<area shape="rect" id="node31" href="$test__util_8cpp.html#ad179db7b04bfd86a67a6a62a36bffdac" title="usage" alt="" coords="384,903,442,928"/>
+<area shape="rect" id="node32" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a7459c10a5fdd8a4f91880bf0f46e722f" title="exit" alt="" coords="570,580,612,605"/>
+<area shape="rect" id="node33" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a4e157d18591ba54c92e4da99a3d1ccae" title="atoi" alt="" coords="392,952,434,977"/>
+<area shape="rect" id="node34" href="$qio__field_8cpp.html#a7747ef505b7b51f4c5926e7d4468447b" title="get_prec" alt="" coords="376,1001,450,1027"/>
+<area shape="rect" id="node35" href="$misc_8cpp.html#a99907faf75f00a2624016e76d101a786" title="get_recon" alt="" coords="373,407,453,432"/>
+<area shape="rect" id="node36" href="$comm__quda_8h.html#af4ec6ef88884d17d9f1c2ced82828eaa" title="commDimPartitionedSet" alt="" coords="330,1051,495,1076"/>
+<area shape="rect" id="node37" href="$misc_8cpp.html#a197879a716be9ad6a76013703abfdb1f" title="get_rank_order" alt="" coords="357,456,469,481"/>
+<area shape="rect" id="node38" href="$misc_8cpp.html#a16ead3c5b46a696dabc150de2ff16518" title="get_dslash_type" alt="" coords="354,555,472,580"/>
+<area shape="rect" id="node39" href="$misc_8cpp.html#a6b8f750f7260ee8321cd0f4ec3e6e412" title="get_flavor_type" alt="" coords="357,604,469,629"/>
+<area shape="rect" id="node40" href="$misc_8cpp.html#a02bc780f6d2637278241452375e12cce" title="get_solver_type" alt="" coords="355,653,471,679"/>
+<area shape="rect" id="node41" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a3c03a473fd58b46d02952cbb6f4a83af" title="atof" alt="" coords="391,1100,435,1125"/>
+<area shape="rect" id="node42" href="$misc_8cpp.html#a06761f581c9d8639ab3b390e5d725029" title="get_mass_normalization_type" alt="" coords="314,801,512,827"/>
+<area shape="rect" id="node43" href="$misc_8cpp.html#acf171b5d935891ec671b2d3927f4576f" title="get_matpc_type" alt="" coords="355,703,471,728"/>
+<area shape="rect" id="node44" href="$misc_8cpp.html#aa74745965b9061c60baf1b03f85acc7e" title="get_solve_type" alt="" coords="357,752,468,777"/>
+<area shape="rect" id="node45" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a53b054f03667fa7e48a9d6ede1e010a5" title="strcpy" alt="" coords="385,1149,441,1175"/>
+<area shape="rect" id="node46" href="$misc_8cpp.html#a99471044ee384d5d46db53ba340fff82" title="get_verbosity_type" alt="" coords="346,207,480,232"/>
+<area shape="rect" id="node47" href="$misc_8cpp.html#ad5da350065e09170c2e77625bf47b08d" title="get_solve_ext_lib_type" alt="" coords="334,256,491,281"/>
+<area shape="rect" id="node48" href="$misc_8cpp.html#a8f8ed4dd98888eee8ebdcdc30c1f40dd" title="get_df_location_ritz" alt="" coords="344,357,481,383"/>
+<area shape="rect" id="node49" href="$misc_8cpp.html#af47ba24fe5612142ecfc55950ced1034" title="get_df_mem_type_ritz" alt="" coords="336,505,490,531"/>
+</map>

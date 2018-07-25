@@ -1,0 +1,5 @@
+<map id="quda::Tunable::advanceGridDim" name="quda::Tunable::advanceGridDim">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable.html#adde7021913864e1c0a8d5ed28b1bdcfb" title="quda::Tunable::maxGridSize" alt="" coords="266,5,456,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable.html#aa20f7da95434df64e26a8d11402ed1b1" title="quda::Tunable::minGridSize" alt="" coords="268,55,454,80"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#a528dd6226511d3b6c1cf914dc578a44a" title="quda::Tunable::tuneGridDim" alt="" coords="267,104,455,129"/>
+</map>

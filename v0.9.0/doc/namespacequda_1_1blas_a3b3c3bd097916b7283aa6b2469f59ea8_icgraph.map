@@ -1,0 +1,22 @@
+<map id="quda::blas::caxpby" name="quda::blas::caxpby">
+<area shape="rect" id="node2" href="$classquda_1_1_bi_c_gstab_l_update.html#ad05feaf49d3e9001014cb981cb497b40" title="quda::BiCGstabLUpdate\l::apply" alt="" coords="197,91,363,129"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="237,153,324,179"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#ac03d91f650d66b7ad37c970a35392014" title="quda::blas::caxpbyCpu" alt="" coords="202,203,359,228"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#ab7457b429a0bcfc0f0ff63ebf44521e6" title="quda::blas::caxpyCpu" alt="" coords="205,252,355,277"/>
+<area shape="rect" id="node17" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="186,301,375,327"/>
+<area shape="rect" id="node18" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="259,499,302,524"/>
+<area shape="rect" id="node4" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="499,5,571,31"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#a67926cd576d889b6af0f1a91ed52c5b8" title="quda::blas::caxpbypzYmbwCpu" alt="" coords="431,55,639,80"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#adb004a002674ab5e09fee95d7c5fbdc8" title="quda::blas::cabxpyAxCpu" alt="" coords="449,104,622,129"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#a2ef43dd8f59af7a3f6cdab5c72ad9a24" title="quda::blas::caxpyNormCpu" alt="" coords="444,153,626,179"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1blas.html#a4a4a4aac794f2ee0be2ab07093957c85" title="quda::blas::caxpyXmazNormXCpu" alt="" coords="423,203,648,228"/>
+<area shape="rect" id="node12" href="$namespacequda_1_1blas.html#a7bbff7965d82e048bbc458ea3fd88790" title="quda::blas::caxpyXmazCpu" alt="" coords="443,252,627,277"/>
+<area shape="rect" id="node13" href="$namespacequda_1_1blas.html#a1740a3648023fbe215733f4f7fc11f6b" title="quda::blas::cabxpyAxNormCpu" alt="" coords="433,301,638,327"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1blas.html#a0bf9c9c550ee4bb824f70c391cace603" title="quda::blas::caxpbypzCpu" alt="" coords="450,351,621,376"/>
+<area shape="rect" id="node15" href="$namespacequda_1_1blas.html#af69d43620b776f4926c48fcdca67b9d1" title="quda::blas::caxpbypczpwCpu" alt="" coords="438,400,633,425"/>
+<area shape="rect" id="node16" href="$namespacequda_1_1blas.html#aa06687d3e1d1b1cef4c6a44784a507d5" title="quda::blas::caxpyDotzyCpu" alt="" coords="443,449,627,475"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#ad14c7980923194dba1716a6a74d78124" title="quda::blas::caxpbypzYmbwc\lDotProductUYNormYCpu" alt="" coords="696,48,886,87"/>
+<area shape="rect" id="node19" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="492,499,579,524"/>
+<area shape="rect" id="node21" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="499,548,571,573"/>
+<area shape="rect" id="node20" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="766,499,816,524"/>
+</map>

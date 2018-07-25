@@ -1,0 +1,6 @@
+<map id="quda::gauge::FloatNOrder::saveGhostEx" name="quda::gauge::FloatNOrder::saveGhostEx">
+<area shape="rect" id="node2" href="$namespacequda.html#abf5b4d5728021e058d90ff1d07446399" title="quda::copy" alt="" coords="273,5,360,31"/>
+<area shape="rect" id="node3" href="$structquda_1_1gauge_1_1_reconstruct.html#ad4cd2157818b0c2334f02603afc24774" title="quda::gauge::Reconstruct\l::getPhase" alt="" coords="230,55,404,93"/>
+<area shape="rect" id="node4" href="$structquda_1_1gauge_1_1_reconstruct.html#a5be484fe72c4ce133268d65d74910414" title="quda::gauge::Reconstruct\l::Pack" alt="" coords="230,117,404,156"/>
+<area shape="rect" id="node5" href="$namespacequda.html#aaeda4e4f5aabf19dae35f28e4c8802b7" title="quda::vector_store" alt="" coords="251,180,382,205"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="quda::colorspinor::PaddedSpaceSpinorColorOrder::save" name="quda::colorspinor::PaddedSpaceSpinorColorOrder::save">
+<area shape="rect" id="node2" href="$structquda_1_1colorspinor_1_1_padded_space_spinor_color_order.html#a1882ce6193c10c087a30568690bf934c" title="Compute the index into the padded field. Assumes that parity doesn&#39;t change from unpadded to padded..." alt="" coords="299,17,508,69"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ac267e68929cc8df629a5c5471f6a7ca4" title="quda::getCoords" alt="" coords="556,5,676,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ac39b1ae3f7dc813ed8f258d3cffbd642" title="quda::linkIndex" alt="" coords="561,55,672,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="quda::blas::reDotProduct" name="quda::blas::reDotProduct">
+<area shape="rect" id="node2" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="222,44,262,69"/>
+<area shape="rect" id="node3" href="$namespacedeg__tm__dslash__cuda__gen.html#a5524cf75f983fc353a12f9e032276068" title="deg_tm_dslash_cuda\l_gen.a_im" alt="" coords="310,5,458,44"/>
+<area shape="rect" id="node4" href="$namespacedeg__tm__dslash__cuda__gen.html#afda57ce5de82b58c957d612f6c36e3f7" title="deg_tm_dslash_cuda\l_gen.a_re" alt="" coords="310,68,458,107"/>
+</map>

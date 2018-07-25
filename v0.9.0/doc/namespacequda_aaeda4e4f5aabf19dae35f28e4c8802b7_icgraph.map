@@ -1,0 +1,8 @@
+<map id="quda::vector_store" name="quda::vector_store">
+<area shape="rect" id="node2" href="$structquda_1_1clover_1_1_float_n_order.html#ab882ca930b0de5e61ff0647cc33a1084" title="Store accessor for a single chiral block. " alt="" coords="186,5,361,44"/>
+<area shape="rect" id="node3" href="$structquda_1_1colorspinor_1_1_float_n_order.html#aa598199dbfe3801161e7524c29eff465" title="quda::colorspinor::\lFloatNOrder::save" alt="" coords="208,68,339,107"/>
+<area shape="rect" id="node4" href="$structquda_1_1gauge_1_1_float_n_order.html#ace4c45e1218ab7242be71daa7b19d6d9" title="quda::gauge::FloatNOrder\l::save" alt="" coords="185,131,361,169"/>
+<area shape="rect" id="node5" href="$structquda_1_1colorspinor_1_1_float_n_order.html#adb701d18730afabc52b3c16e129f9cac" title="quda::colorspinor::\lFloatNOrder::saveGhost" alt="" coords="190,193,356,232"/>
+<area shape="rect" id="node6" href="$structquda_1_1gauge_1_1_float_n_order.html#adac05ff6855c0afa9abaa6f54d7a8579" title="quda::gauge::FloatNOrder\l::saveGhost" alt="" coords="185,256,361,295"/>
+<area shape="rect" id="node7" href="$structquda_1_1gauge_1_1_float_n_order.html#a2f146ab57464d82e3f0f1fa9c544aa50" title="quda::gauge::FloatNOrder\l::saveGhostEx" alt="" coords="185,319,361,357"/>
+</map>

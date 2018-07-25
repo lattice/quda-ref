@@ -1,0 +1,8 @@
+<map id="quda::copyGenericGaugeDoubleOut" name="quda::copyGenericGaugeDoubleOut">
+<area shape="rect" id="node2" href="$namespacequda.html#a2db73211e077d0f96cb4387c56514763" title="quda::copyGauge" alt="" coords="290,29,417,55"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="290,79,417,117"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="497,5,575,31"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1gauge.html#a6cd40608aabdb9080a2df09bb7c10203" title="Return the number of colors of the accessor based on the length of the field. " alt="" coords="465,55,606,80"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="680,5,772,31"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1gauge.html#a038c45259e95c5426f880805d15b8a4e" title="quda::gauge::ct_sqrt" alt="" coords="654,55,797,80"/>
+</map>

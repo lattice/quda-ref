@@ -1,0 +1,8 @@
+<map id="quda::DiracCoarsePC::createCoarseOp" name="quda::DiracCoarsePC::createCoarseOp">
+<area shape="rect" id="node2" href="$namespacequda.html#aad09238f4c55fada4cc980abb0bc4c5c" title="Coarse operator construction from an intermediate&#45;grid operator (Coarse) " alt="" coords="204,124,367,149"/>
+<area shape="rect" id="node6" href="$classquda_1_1_transfer.html#a77e39de13befcd5b9137ec0873868f51" title="quda::Transfer::Vectors" alt="" coords="415,180,574,205"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#a5dcdda354375f6ced4deb5048f23292f" title="quda::ColorSpinorField\l::TwistFlavor" alt="" coords="207,228,364,267"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="415,5,573,44"/>
+<area shape="rect" id="node4" href="$domain__wall__dslash__reference_8cpp.html#acbb048c17b6b9cc5ad11e9337708e81f" title="matpc" alt="" coords="465,68,523,93"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="431,117,558,156"/>
+</map>

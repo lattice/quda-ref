@@ -1,0 +1,14 @@
+<map id="quda::ColorSpinorField::VolumeCB" name="quda::ColorSpinorField::VolumeCB">
+<area shape="rect" id="node2" href="$classquda_1_1_copy_spinor.html#a57bff4714a1143338ad551c216f4d966" title="quda::CopySpinor::apply" alt="" coords="230,5,398,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauss_spinor.html#a6a09cd09c5ef381ca153107ae1d37dee" title="quda::GaussSpinor::\lapply" alt="" coords="243,55,385,93"/>
+<area shape="rect" id="node5" href="$classquda_1_1_wuppertal_smearing.html#afd0a113fdb404df6d3659623e7a13c22" title="quda::WuppertalSmearing\l::bytes" alt="" coords="226,117,402,156"/>
+<area shape="rect" id="node6" href="$classquda_1_1_laplace.html#a001ba80ef69f5b6bbc65a740756f3120" title="quda::Laplace::bytes" alt="" coords="242,180,386,205"/>
+<area shape="rect" id="node7" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="272,229,356,255"/>
+<area shape="rect" id="node9" href="$classquda_1_1_wuppertal_smearing.html#abda254092398134d494df376dc10c85b" title="quda::WuppertalSmearing\l::flops" alt="" coords="226,279,402,317"/>
+<area shape="rect" id="node10" href="$classquda_1_1_laplace.html#af27c5de8de8379a0472622f36941d930" title="quda::Laplace::flops" alt="" coords="244,341,384,367"/>
+<area shape="rect" id="node11" href="$classquda_1_1_copy_spinor.html#a953350604aeb308ea34ddb09c99e9f35" title="quda::CopySpinor::minThreads" alt="" coords="211,391,417,416"/>
+<area shape="rect" id="node12" href="$classquda_1_1_gauss_spinor.html#a25a63b900e749ffb7b51148f1840ffcf" title="quda::GaussSpinor::\lminThreads" alt="" coords="243,440,385,479"/>
+<area shape="rect" id="node13" href="$classquda_1_1_copy_color_spinor.html#a34a9fae3e1853ecd7d061bc3c80db95c" title="quda::CopyColorSpinor\l::minThreads" alt="" coords="234,503,394,541"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a44588c594638f55c75b48a927eb5e450" title="quda::gaussSpinor" alt="" coords="465,61,597,87"/>
+<area shape="rect" id="node8" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="506,229,556,255"/>
+</map>

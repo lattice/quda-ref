@@ -1,0 +1,9 @@
+<map id="quda::ComputeHarmonicRitz&lt; libtype::eigen_lib &gt;" name="quda::ComputeHarmonicRitz&lt; libtype::eigen_lib &gt;">
+<area shape="rect" id="node2" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="275,5,355,31"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="279,55,351,80"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a62b026698711f6bf2014924cda22954d" title="quda::blas::norm" alt="" coords="254,104,375,129"/>
+<area shape="rect" id="node8" href="$structquda_1_1_sorted_evals.html#ac5bfe99a7c0e428dd9c2bcde0986758b" title="quda::SortedEvals::\lSelectSmall" alt="" coords="246,153,384,192"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="456,5,536,31"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0cdb0b447bb2bd586b5a58bc9b61e285" title="hypot" alt="" coords="608,5,662,31"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="432,104,560,129"/>
+</map>

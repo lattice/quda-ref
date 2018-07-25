@@ -1,0 +1,6 @@
+<map id="quda::ColorSpinorField::CompositeDim" name="quda::ColorSpinorField::CompositeDim">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#a2f43ab027182466a029dc2f0a9eb5624" title="quda::ColorSpinorField\l::Component" alt="" coords="225,5,383,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a772564e9f7de90b360a9ad4c231a0a86" title="for composite fields: " alt="" coords="211,68,398,107"/>
+<area shape="rect" id="node4" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="216,131,393,156"/>
+<area shape="rect" id="node5" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="446,131,627,156"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="quda::CoarseCoarseOp" name="quda::CoarseCoarseOp">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="216,5,374,44"/>
+<area shape="rect" id="node3" href="$domain__wall__dslash__reference_8cpp.html#acbb048c17b6b9cc5ad11e9337708e81f" title="matpc" alt="" coords="266,68,324,93"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="232,117,359,156"/>
+<area shape="rect" id="node5" href="$classquda_1_1_transfer.html#a77e39de13befcd5b9137ec0873868f51" title="quda::Transfer::Vectors" alt="" coords="215,180,375,205"/>
+</map>

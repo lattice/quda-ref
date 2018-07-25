@@ -1,0 +1,14 @@
+<map id="quda::GaugeLaplacePC::MdagM" name="quda::GaugeLaplacePC::MdagM">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="447,5,607,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_laplace_p_c.html#a6c471950b428df22248f3749bc90e3f8" title="quda::GaugeLaplacePC::M" alt="" coords="217,124,399,149"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="453,180,601,205"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="243,228,373,253"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_laplace.html#a9a4c195b71b16112e0c1e386ec3bc725" title="quda::GaugeLaplace\l::Dslash" alt="" coords="455,55,600,93"/>
+<area shape="rect" id="node10" href="$classquda_1_1_gauge_laplace.html#aae8b140931e499d45b2a2b18db7eb8e7" title="quda::GaugeLaplace\l::DslashXpay" alt="" coords="455,117,600,156"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ae0f4787275bfaae8f337350e0300ffd1" title="Driver for applying the Laplace stencil. " alt="" coords="671,64,809,89"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="655,115,825,153"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="1022,64,1100,89"/>
+<area shape="rect" id="node8" href="$namespacequda.html#aee5bf0e54d532db04a01a00dde5224c4" title="quda::laplace" alt="" coords="873,89,974,115"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="1148,64,1239,89"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="473,229,581,255"/>
+</map>

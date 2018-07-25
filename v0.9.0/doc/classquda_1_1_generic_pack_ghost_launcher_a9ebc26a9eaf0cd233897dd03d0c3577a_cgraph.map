@@ -1,0 +1,10 @@
+<map id="quda::GenericPackGhostLauncher::GenericPackGhostLauncher" name="quda::GenericPackGhostLauncher::GenericPackGhostLauncher">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#a04833d93506621630fd8f06875401bde" title="quda::ColorSpinorField\l::AuxString" alt="" coords="279,5,437,44"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="280,68,436,93"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#ac40015563f1aca4d9ea4974971716115" title="Return a string that defines the comm partitioning (used as a tuneKey) " alt="" coords="280,117,436,156"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afdda3884407b500020ab100f831aea08" title="strcat" alt="" coords="331,180,385,205"/>
+<area shape="rect" id="node9" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a53b054f03667fa7e48a9d6ede1e010a5" title="strcpy" alt="" coords="330,229,387,255"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="485,68,571,93"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="619,43,782,68"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="654,92,748,117"/>
+</map>

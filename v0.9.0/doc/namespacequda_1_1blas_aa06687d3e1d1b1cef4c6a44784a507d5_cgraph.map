@@ -1,0 +1,15 @@
+<map id="quda::blas::caxpyDotzyCpu" name="quda::blas::caxpyDotzyCpu">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ab7457b429a0bcfc0f0ff63ebf44521e6" title="quda::blas::caxpyCpu" alt="" coords="256,19,406,44"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a3147ebdb53a5ff9b98cec5b9132b7f80" title="quda::blas::cDotProductCpu" alt="" coords="237,80,425,105"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a3b3c3bd097916b7283aa6b2469f59ea8" title="quda::blas::caxpby" alt="" coords="489,5,621,31"/>
+<area shape="rect" id="node5" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="535,55,575,80"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="473,104,637,129"/>
+<area shape="rect" id="node9" href="$comm__quda_8h.html#ab0e0c436ffe5a991562449d9255e0163" title="reduceDoubleArray" alt="" coords="487,153,623,179"/>
+<area shape="rect" id="node6" href="$namespacedeg__tm__dslash__cuda__gen.html#a5524cf75f983fc353a12f9e032276068" title="deg_tm_dslash_cuda\l_gen.a_im" alt="" coords="689,7,837,45"/>
+<area shape="rect" id="node7" href="$namespacedeg__tm__dslash__cuda__gen.html#afda57ce5de82b58c957d612f6c36e3f7" title="deg_tm_dslash_cuda\l_gen.a_re" alt="" coords="689,69,837,108"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#aee0b1daeb8b9a004d4f24f8fc23b8270" title="comm_allreduce_array" alt="" coords="685,143,842,168"/>
+<area shape="rect" id="node14" href="$multi__reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="740,192,786,217"/>
+<area shape="rect" id="node11" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="908,119,980,144"/>
+<area shape="rect" id="node12" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="890,168,998,193"/>
+<area shape="rect" id="node13" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="1046,168,1163,193"/>
+</map>

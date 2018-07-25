@@ -1,0 +1,9 @@
+<map id="quda::DiracTwistedCloverPC::DslashXpay" name="quda::DiracTwistedCloverPC::DslashXpay">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a589430861080cdc7c23a8d74cfe75c93" title="commDim" alt="" coords="291,31,373,56"/>
+<area shape="rect" id="node6" href="$namespacequda.html#aaddcef7abdcba52a2bd8fd6529b9036c" title="quda::twistedCloverDslashCuda" alt="" coords="227,80,438,105"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#a5dcdda354375f6ced4deb5048f23292f" title="quda::ColorSpinorField\l::TwistFlavor" alt="" coords="253,129,411,168"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="253,192,411,231"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="486,31,572,56"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="620,5,783,31"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="655,55,748,80"/>
+</map>

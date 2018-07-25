@@ -1,0 +1,16 @@
+<map id="lib/color_spinor_field.cpp" name="lib/color_spinor_field.cpp">
+<area shape="rect" id="node2" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="251,79,388,104"/>
+<area shape="rect" id="node3" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="543,152,656,177"/>
+<area shape="rect" id="node12" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="246,225,308,251"/>
+<area shape="rect" id="node26" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="151,152,250,177"/>
+<area shape="rect" id="node28" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="965,152,1079,177"/>
+<area shape="rect" id="node30" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="274,152,365,177"/>
+<area shape="rect" id="node4" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="1077,225,1201,251"/>
+<area shape="rect" id="node10" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="369,299,472,324"/>
+<area shape="rect" id="node15" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="556,225,643,251"/>
+<area shape="rect" id="node21" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="667,225,775,251"/>
+<area shape="rect" id="node23" href="$object_8h.html" title="object.h" alt="" coords="383,225,451,251"/>
+<area shape="rect" id="node14" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="5,299,132,324"/>
+<area shape="rect" id="node17" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="156,299,262,324"/>
+<area shape="rect" id="node19" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="497,299,582,324"/>
+</map>

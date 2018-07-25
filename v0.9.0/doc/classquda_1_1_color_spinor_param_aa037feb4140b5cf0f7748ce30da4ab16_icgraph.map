@@ -1,0 +1,6 @@
+<map id="quda::ColorSpinorParam::setPrecision" name="quda::ColorSpinorParam::setPrecision">
+<area shape="rect" id="node2" href="$pack__test_8cpp.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="302,5,341,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_quda_matvec.html#a42af2a79080858d7874fa493a4f3f812" title="quda::QudaMatvec::operator()" alt="" coords="221,55,421,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_arpack_args.html#a7f56681ba64d7630ad3e929f105b76e8" title="quda::ArpackArgs::save" alt="" coords="240,104,403,129"/>
+<area shape="rect" id="node3" href="$pack__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="469,5,520,31"/>
+</map>

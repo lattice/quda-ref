@@ -1,0 +1,9 @@
+<map id="quda::DiracStaggeredPC::MdagM" name="quda::DiracStaggeredPC::MdagM">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="223,5,383,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_staggered.html#ad55e559ed3addf5fea97900187ddb573" title="quda::DiracStaggered\l::Dslash" alt="" coords="227,55,378,93"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_staggered.html#a09b5947d550740e7a9489b6a3a90ab77" title="quda::DiracStaggered\l::DslashXpay" alt="" coords="227,117,378,156"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="229,180,377,205"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_staggered.html#a6f4244d34ba36ebadf6f4ea56b8686d9" title="quda::DiracStaggered\l::checkParitySpinor" alt="" coords="450,57,602,96"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a4fb8ed85dbaa95b9c450a26805818c46" title="quda::staggeredDslashCuda" alt="" coords="431,121,621,147"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="669,57,796,96"/>
+</map>

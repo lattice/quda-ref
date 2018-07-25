@@ -1,0 +1,11 @@
+<map id="quda::CloverField::Order" name="quda::CloverField::Order">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html#a6ac04d638e49aa1ed1d6b66ec1dbca39" title="quda::LatticeField\l::Nvec" alt="" coords="187,100,313,139"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ad99149519e9289d71c7a753426462918" title="quda::ColorSpinorField\l::CreateCoarse" alt="" coords="376,5,533,44"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#a88ecb876974ca134319307da2d5edbd3" title="quda::ColorSpinorField\l::CreateFine" alt="" coords="376,68,533,107"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_color_spinor_field.html#ac2e23741f5cea98c5e8672f115ae41b2" title="quda::cudaColorSpinorField\l::sendGhost" alt="" coords="361,131,548,169"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_color_spinor_field.html#a8f3aa5c756bc4cdb3c2e32248cf82192" title="Initiate halo communication sending. " alt="" coords="361,193,548,232"/>
+<area shape="rect" id="node4" href="$classquda_1_1_transfer.html#a8fac8ec77854057e73382ea354497516" title="quda::Transfer::Transfer" alt="" coords="607,12,771,37"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_color_spinor_field.html#aec1261adeb195641da74629f94b998f4" title="quda::cudaColorSpinorField\l::gather" alt="" coords="596,131,782,169"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_color_spinor_field.html#ae4d6e2612a25647660363ddc28c7685f" title="Initiate halo communication. " alt="" coords="596,193,782,232"/>
+<area shape="rect" id="node10" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="596,256,782,295"/>
+</map>

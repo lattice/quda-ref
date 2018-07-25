@@ -1,0 +1,9 @@
+<map id="setup_layout" name="setup_layout">
+<area shape="rect" id="node2" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="188,5,248,31"/>
+<area shape="rect" id="node3" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afe176b0807dfea419d70b1376ea761a4" title="printf" alt="" coords="336,155,387,180"/>
+<area shape="rect" id="node4" href="$layout__hyper_8c.html#aa5611924ad1b48836873ae6507ab5827" title="setup_hyper_prime" alt="" coords="150,55,286,80"/>
+<area shape="rect" id="node7" href="$layout__hyper_8c.html#a2b78bbd6b5a1b817eb6e78a02f1257f6" title="setup_qmp_fixed" alt="" coords="157,156,279,181"/>
+<area shape="rect" id="node8" href="$layout__hyper_8c.html#a05e3e306adae7df614bdc3a901a57f6e" title="setup_qmp_grid" alt="" coords="160,205,276,231"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a6513e6416e469f8af2665d5793c3782f" title="fprintf" alt="" coords="334,80,388,105"/>
+<area shape="rect" id="node6" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a7459c10a5fdd8a4f91880bf0f46e722f" title="exit" alt="" coords="340,31,382,56"/>
+</map>

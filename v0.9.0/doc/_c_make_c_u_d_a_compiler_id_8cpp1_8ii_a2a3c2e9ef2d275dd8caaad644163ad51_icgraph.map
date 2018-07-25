@@ -1,0 +1,51 @@
+<map id="strcmp" name="strcmp">
+<area shape="rect" id="node2" href="$comm__common_8cpp.html#a6dcfe5c3faff54a12f659933a1f58546" title="Query if GPU Direct RDMA communication is enabled (global setting) " alt="" coords="144,489,283,514"/>
+<area shape="rect" id="node4" href="$comm__mpi_8cpp.html#add004a3d38b9dc2f15a65bb6e43a2840" title="comm_init" alt="" coords="710,32,792,57"/>
+<area shape="rect" id="node17" href="$classanonymous__namespace_02dslash__policy_8cuh_03_1_1_dslash_policy_tune.html#ad85bfbcd1d4a1825bc7920e4e31aeea6" title="anonymous_namespace\l\{dslash_policy::cuh\}\l::DslashPolicyTune::DslashPolicyTune" alt="" coords="361,877,610,929"/>
+<area shape="rect" id="node19" href="$interface__quda_8cpp.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="713,1149,789,1174"/>
+<area shape="rect" id="node20" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="892,1149,961,1174"/>
+<area shape="rect" id="node21" href="$classquda_1_1_m_g.html#ae01b451dc72536567de5edfed09ec5ab" title="Generate the null&#45;space vectors. " alt="" coords="382,1958,589,1984"/>
+<area shape="rect" id="node22" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="697,1958,805,1984"/>
+<area shape="rect" id="node23" href="$misc_8h.html#a8f8ed4dd98888eee8ebdcdc30c1f40dd" title="get_df_location_ritz" alt="" coords="145,1350,282,1376"/>
+<area shape="rect" id="node24" href="$test__util_8h.html#a4e297cefdba144e8efe42dca5514f572" title="process_command_line\l_option" alt="" coords="404,1517,567,1556"/>
+<area shape="rect" id="node25" href="$misc_8h.html#af47ba24fe5612142ecfc55950ced1034" title="get_df_mem_type_ritz" alt="" coords="137,1400,291,1425"/>
+<area shape="rect" id="node26" href="$misc_8h.html#a16ead3c5b46a696dabc150de2ff16518" title="get_dslash_type" alt="" coords="155,1449,273,1474"/>
+<area shape="rect" id="node27" href="$misc_8h.html#a6b8f750f7260ee8321cd0f4ec3e6e412" title="get_flavor_type" alt="" coords="158,1498,270,1524"/>
+<area shape="rect" id="node28" href="$misc_8h.html#a06761f581c9d8639ab3b390e5d725029" title="get_mass_normalization_type" alt="" coords="115,1548,313,1573"/>
+<area shape="rect" id="node29" href="$misc_8h.html#acf171b5d935891ec671b2d3927f4576f" title="get_matpc_type" alt="" coords="156,1597,272,1622"/>
+<area shape="rect" id="node30" href="$misc_8h.html#afe060f84c05df7fda4f92b481e32c14f" title="get_prec" alt="" coords="177,2097,251,2122"/>
+<area shape="rect" id="node31" href="$misc_8h.html#a197879a716be9ad6a76013703abfdb1f" title="get_rank_order" alt="" coords="158,1646,270,1672"/>
+<area shape="rect" id="node32" href="$misc_8h.html#a99907faf75f00a2624016e76d101a786" title="get_recon" alt="" coords="174,1696,254,1721"/>
+<area shape="rect" id="node33" href="$misc_8h.html#ad5da350065e09170c2e77625bf47b08d" title="get_solve_ext_lib_type" alt="" coords="135,1745,292,1770"/>
+<area shape="rect" id="node34" href="$misc_8h.html#aa74745965b9061c60baf1b03f85acc7e" title="get_solve_type" alt="" coords="158,1794,269,1820"/>
+<area shape="rect" id="node35" href="$misc_8h.html#a02bc780f6d2637278241452375e12cce" title="get_solver_type" alt="" coords="156,1844,272,1869"/>
+<area shape="rect" id="node36" href="$misc_8h.html#a99471044ee384d5d46db53ba340fff82" title="get_verbosity_type" alt="" coords="147,1249,281,1274"/>
+<area shape="rect" id="node37" href="$util__quda_8cpp.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="174,846,254,872"/>
+<area shape="rect" id="node38" href="$namespacequda_1_1pool.html#a401799164747bba00c6b8ebd41127ed8" title="Initialize the memory pool allocator. " alt="" coords="160,2146,268,2172"/>
+<area shape="rect" id="node39" href="$dslash__test_8cpp.html#aa1cd5eafa5245aa7c3ded9b3b470f0b9" title="init" alt="" coords="195,2196,233,2221"/>
+<area shape="rect" id="node40" href="$interface__quda_8cpp.html#a7d267ad5d21c4f5e5be730c7a6a916e9" title="initQudaDevice" alt="" coords="158,2245,270,2270"/>
+<area shape="rect" id="node41" href="$classquda_1_1_deflation.html#a98318860027f484d1988bf45fa63ca5d" title="Load the eigen space vectors from file. " alt="" coords="120,2294,308,2320"/>
+<area shape="rect" id="node42" href="$classquda_1_1_m_g.html#a213e25fb9c8589a890bf6d275faf3d0f" title="Load the null space vectors in from file. " alt="" coords="407,2033,564,2058"/>
+<area shape="rect" id="node43" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="189,2344,239,2369"/>
+<area shape="rect" id="node44" href="$structquda_1_1_tune_key.html#ad7cc9b4798a6290dfa592e265a8c090d" title="quda::TuneKey::operator\&lt;" alt="" coords="126,2393,302,2418"/>
+<area shape="rect" id="node45" href="$namespacequda.html#ae545834b5a0f9d48e009ad5c3ce44389" title="Save profile to disk. " alt="" coords="423,1098,548,1124"/>
+<area shape="rect" id="node46" href="$classquda_1_1_deflation.html#a7e395f7e68cb32b49018246523a8a99e" title="Save the eigen space vectors in file. " alt="" coords="118,2442,309,2468"/>
+<area shape="rect" id="node47" href="$classquda_1_1_m_g.html#ae7e975d7dea5ec26b98ec9d7e2e2f336" title="Save the null space vectors in from file. " alt="" coords="134,1945,294,1970"/>
+<area shape="rect" id="node48" href="$namespacequda.html#a883c30b0eab045aaf88d0c0f6267cd24" title="quda::serializeProfile" alt="" coords="141,1049,286,1074"/>
+<area shape="rect" id="node49" href="$namespacequda.html#a2163bd33faa9d1a855dbb39aacb3440e" title="quda::serializeTrace" alt="" coords="143,1098,284,1124"/>
+<area shape="rect" id="node50" href="$namespacequda.html#ad5fa4eb2a7891199bf833711b693d295" title="quda::traceEnabled" alt="" coords="145,1148,282,1173"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#adc5670739f5284d3d5a2f06d2e4e0cfd" title="comm_peer2peer_init" alt="" coords="410,57,561,82"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_color_spinor_field.html#aae9afae3384e9ab35122bd18919ad149" title="Initiate halo communication receive. " alt="" coords="392,700,579,738"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="658,669,844,708"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_color_spinor_field.html#a8f3aa5c756bc4cdb3c2e32248cf82192" title="Initiate halo communication sending. " alt="" coords="392,637,579,676"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_color_spinor_field.html#a40b6a21c4b9703ac9f20dacb155b0453" title="Non&#45;blocking query if the halo communication has completed. " alt="" coords="392,512,579,550"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_color_spinor_field.html#a552e7710445b6ded11e6b9ac0154a129" title="Wait on halo communication to complete. " alt="" coords="392,574,579,613"/>
+<area shape="rect" id="node10" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="673,346,829,385"/>
+<area shape="rect" id="node11" href="$classquda_1_1cuda_gauge_field.html#a35c80b98e5741d6cedb19c741198d47d" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="673,284,829,322"/>
+<area shape="rect" id="node12" href="$classquda_1_1cuda_gauge_field.html#a39ea1d8407ea192a18c920114e41b50b" title="Start the receive communicators. " alt="" coords="407,158,564,197"/>
+<area shape="rect" id="node13" href="$classquda_1_1cuda_gauge_field.html#afd84ce53bf3df8c690e6b2ada0c2f02f" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="662,189,840,228"/>
+<area shape="rect" id="node14" href="$classquda_1_1cuda_gauge_field.html#aef802319d1de1743c220eb5e0199cc12" title="Start the sending communicators. " alt="" coords="407,284,564,322"/>
+<area shape="rect" id="node15" href="$classquda_1_1cuda_gauge_field.html#afb0cd33fc1d3f2441c530a0b750eef1b" title="Wait for communication to complete. " alt="" coords="407,346,564,385"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dslash_coarse_policy_tune.html#a999e08702fb5769550ea1737534451b0" title="quda::DslashCoarsePolicy\lTune::DslashCoarsePolicyTune" alt="" coords="382,814,589,853"/>
+<area shape="rect" id="node18" href="$classquda_1_1_lattice_field.html#ad492c279f9f4b40121c9345a2e4aec40" title="quda::LatticeField\l::createComms" alt="" coords="422,221,549,260"/>
+</map>

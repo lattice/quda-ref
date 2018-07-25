@@ -1,0 +1,8 @@
+<map id="quda::CopyGauge&lt; FloatOut, FloatIn, length, OutOrder, InOrder, isGhost &gt;" name="quda::CopyGauge&lt; FloatOut, FloatIn, length, OutOrder, InOrder, isGhost &gt;">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable_vector_y.html" title="quda::TunableVectorY" alt="" coords="5,300,158,325"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable.html" title="quda::Tunable" alt="" coords="29,225,135,251"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="182,300,309,325"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="182,225,309,251"/>
+<area shape="rect" id="node6" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="136,5,233,31"/>
+<area shape="rect" id="node7" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="257,5,360,31"/>
+</map>

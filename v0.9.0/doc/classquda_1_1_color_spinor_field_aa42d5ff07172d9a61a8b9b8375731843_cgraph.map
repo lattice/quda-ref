@@ -1,0 +1,7 @@
+<map id="quda::ColorSpinorField::reset" name="quda::ColorSpinorField::reset">
+<area shape="rect" id="node2" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="243,5,337,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="211,55,369,93"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#ae8773f62a646118e571b072c00505686" title="quda::ColorSpinorField\l::setTuningString" alt="" coords="211,117,369,156"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aa1aad1016d610ca93301167398ca3d4e" title="snprintf" alt="" coords="417,99,482,124"/>
+<area shape="rect" id="node6" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a53b054f03667fa7e48a9d6ede1e010a5" title="strcpy" alt="" coords="421,148,478,173"/>
+</map>

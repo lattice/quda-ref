@@ -1,0 +1,11 @@
+<map id="checkClover" name="checkClover">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a5851bc3e0c05e88bb7c3c11ec82034eb" title="freeSloppyCloverQuda" alt="" coords="359,5,515,31"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a76b5f692349a4abc3466131413f5f920" title="loadSloppyCloverQuda" alt="" coords="148,117,306,143"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="374,229,500,268"/>
+<area shape="rect" id="node4" href="$structquda_1_1_clover_field_param.html#adbffb01dd75e06b5663b0ca29d2d293c" title="quda::CloverFieldParam\l::setPrecision" alt="" coords="354,55,520,93"/>
+<area shape="rect" id="node5" href="$classquda_1_1_clover_field.html#a6ee83d32cf08ff66f215da8eaa30f97f" title="quda::CloverField::V" alt="" coords="366,117,508,143"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_clover_field.html#a53d56abd8ffcb9994bf256899f7719c2" title="Copy into this CloverField from the generic CloverField src. " alt="" coords="360,167,514,205"/>
+<area shape="rect" id="node8" href="$classquda_1_1_lattice_field.html#aa7454e5d3f27a4c7368be0b70fda40b2" title="quda::LatticeField\l::checkField" alt="" coords="590,111,717,149"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a66381cafed77b92ed2f0278b373d4ec5" title="This generic function is used for copying the clover field where in the input and output can be in an..." alt="" coords="568,173,739,199"/>
+<area shape="rect" id="node10" href="$namespacequda.html#aa25deeec640690f50f16e136639e8450" title="Return whether data is reordered on the CPU or GPU. This can set at QUDA initialization using the env..." alt="" coords="576,223,731,248"/>
+</map>

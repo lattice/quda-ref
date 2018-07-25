@@ -1,0 +1,51 @@
+<map id="dw_dslash_4D_cuda_gen.coeff" name="dw_dslash_4D_cuda_gen.coeff">
+<area shape="rect" id="node2" href="$hisq__force__reference_8cpp.html#a74e61e2b8c500afa13e10cf42b521441" title="add_3f_force_to_mom" alt="" coords="287,5,442,31"/>
+<area shape="rect" id="node3" href="$hisq__force__reference_8cpp.html#a8275e36b53232c422d6ef602f47eefb7" title="side_link_3f_force" alt="" coords="553,31,681,56"/>
+<area shape="rect" id="node4" href="$hisq__force__reference_8cpp.html#a35fb6b86f01e298e5aa44fd87453c509" title="add_force_to_momentum" alt="" coords="278,208,451,233"/>
+<area shape="rect" id="node5" href="$hisq__force__reference_8cpp.html#aec39084be01314ca58e050d31c83850a" title="do_color_matrix_hisq\l_force_reference" alt="" coords="779,151,927,189"/>
+<area shape="rect" id="node7" href="$hisq__force__reference_8cpp.html#a802fa6cd9b5490464aef0a014fffff2f" title="do_halfwilson_hisq\l_force_reference" alt="" coords="786,252,920,291"/>
+<area shape="rect" id="node9" href="$hisq__force__reference_8cpp.html#a3d646456c13aafdc0219d870bf592405" title="side_link_force" alt="" coords="562,259,672,284"/>
+<area shape="rect" id="node10" href="$class_load_store.html#ade2fa2bd0df6ad5e7b9f8333b737fd98" title="LoadStore::addMatrixToField" alt="" coords="269,512,460,537"/>
+<area shape="rect" id="node11" href="$hisq__force__reference2_8cpp.html#a272015fdf51b78122cb1952a7560e0d8" title="computeAllLinkSite" alt="" coords="550,360,684,385"/>
+<area shape="rect" id="node12" href="$hisq__force__reference2_8cpp.html#a7974f530a9b141cea8e6c7389f4416f5" title="computeLongLinkSite" alt="" coords="542,411,692,436"/>
+<area shape="rect" id="node13" href="$hisq__force__reference2_8cpp.html#a93d60ef8b3e291447ea9956f326bebd1" title="computeMiddleLinkSite" alt="" coords="537,461,697,487"/>
+<area shape="rect" id="node14" href="$hisq__force__reference2_8cpp.html#afef819a13c40fe4883020dac92c16834" title="computeOneLinkSite" alt="" coords="544,525,690,551"/>
+<area shape="rect" id="node15" href="$hisq__force__reference2_8cpp.html#a2f55666eabaaec8f23c65803000dface" title="computeSideLinkSite" alt="" coords="544,600,690,625"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a97a2de656e6f32e57831bb95a5b36bc7" title="Compute the derivative of the clover matrix in the direction mu,nu and compute the resulting force gi..." alt="" coords="288,841,441,867"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="528,816,706,841"/>
+<area shape="rect" id="node18" href="$hisq__force__reference2_8cpp.html#a29a22b96228b4166a21eaf0cef64de75" title="completeForceSite" alt="" coords="551,1128,683,1153"/>
+<area shape="rect" id="node19" href="$interface__quda_8cpp.html#a049fa0d60d43475bd7bb67f6c78750d4" title="Compute the gauge force and update the mometum field. " alt="" coords="776,1151,930,1189"/>
+<area shape="rect" id="node20" href="$hisq__force__reference2_8cpp.html#a1ffd235b28046701e867f63f54ed0983" title="computeAllLinkField" alt="" coords="294,1512,435,1537"/>
+<area shape="rect" id="node21" href="$namespacequda.html#a4b255172e59a1940f5b0477ebcd78695" title="Compute the force contribution from the solver solution fields. " alt="" coords="273,891,456,916"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a88f9b8f3add45d5e4b156480335c4a70" title="Compute the outer product from the solver solution fields arising from the diagonal term of the fermi..." alt="" coords="272,664,457,703"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a459ff6e1c00560a077c68fcd674b0e68" title="Compute the matrix tensor field necessary for the force calculation from the clover trace action..." alt="" coords="272,727,457,765"/>
+<area shape="rect" id="node24" href="$interface__quda_8cpp.html#aff400a364829b50917d50d5730281830" title="computeHISQForceQuda" alt="" coords="531,967,703,992"/>
+<area shape="rect" id="node25" href="$hisq__force__reference2_8cpp.html#a177f3b4c1fc7ef404f533aa260c37016" title="computeLongLinkField" alt="" coords="287,1561,442,1587"/>
+<area shape="rect" id="node26" href="$hisq__force__reference2_8cpp.html#a8cb849f0a674faf9ea7d0d30d927628c" title="computeMiddleLinkField" alt="" coords="282,1611,447,1636"/>
+<area shape="rect" id="node27" href="$hisq__force__reference2_8cpp.html#aadffd985291c4b87a4e482b63682d1e5" title="computeOneLinkField" alt="" coords="289,1660,440,1685"/>
+<area shape="rect" id="node28" href="$hisq__force__reference2_8cpp.html#a60a7e03b446ca541bb04aa9d2bb7e46d" title="doHisqStaplesForceCPU" alt="" coords="532,1685,702,1711"/>
+<area shape="rect" id="node29" href="$hisq__force__reference2_8cpp.html#aba7c74d62faba8dd04936957a1e20328" title="computeSideLinkField" alt="" coords="288,1761,441,1787"/>
+<area shape="rect" id="node30" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="517,1016,717,1041"/>
+<area shape="rect" id="node32" href="$namespacequda.html#ac761519fa6b50d06090188b96d777709" title="quda::computeStaggeredOprod" alt="" coords="260,1811,469,1836"/>
+<area shape="rect" id="node33" href="$test__util_8h.html#a6623ee545f9e26e20e2f9205e31805e6" title="createSiteLinkCPU" alt="" coords="550,1309,684,1335"/>
+<area shape="rect" id="node38" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="818,1460,889,1485"/>
+<area shape="rect" id="node40" href="$namespacequda.html#abdcc468dc619c7c3a6267a927cd0b417" title="Compute the fat and long links for an improved staggered (Kogut&#45;Susskind) fermions. " alt="" coords="292,1411,437,1436"/>
+<area shape="rect" id="node42" href="$namespacequda.html#ae0a0c215d9b1eb1a2365adee27ef08a5" title="Compute the gauge&#45;force contribution to the momentum. " alt="" coords="300,1259,429,1284"/>
+<area shape="rect" id="node44" href="$hisq__force__reference2_8cpp.html#ad80479cda87caea3c8d7573a5b68d0e0" title="hisqLongLinkForceCPU" alt="" coords="772,1361,935,1387"/>
+<area shape="rect" id="node45" href="$misc_8cpp.html#a4a665a5c8ab5f7213071be2a12069e7a" title="site_link_sanity_check\l_internal_12" alt="" coords="288,1860,442,1899"/>
+<area shape="rect" id="node46" href="$class_load_store.html#a07e4d44c9ad754e2ddfd51a7c0d6719d" title="LoadStore::storeMatrixTo\lMomentumField" alt="" coords="279,1093,450,1132"/>
+<area shape="rect" id="node47" href="$structquda_1_1gauge_1_1_reconstruct_3_0113_00_01_float_01_4.html#a5c89a1afb877b6a737b5bade0ea9b07d" title="quda::gauge::Reconstruct\l\&lt; 13, Float \&gt;::Unpack" alt="" coords="278,1923,452,1961"/>
+<area shape="rect" id="node48" href="$namespacequda.html#a42db02c77cd30f685c666150f1956193" title="quda::updateMomentum" alt="" coords="282,992,447,1017"/>
+<area shape="rect" id="node49" href="$namespacequda.html#a521d3af8ffb18afdf1446a157f5fa473" title="quda::writeMomentumToArray" alt="" coords="265,1985,464,2011"/>
+<area shape="rect" id="node50" href="$namespacedw__dslash__4_d__cuda__gen.html#a51e598a46d468663cf6a065d1d7b7894" title="dw_dslash_4D_cuda_gen.xpay" alt="" coords="261,2035,468,2060"/>
+<area shape="rect" id="node6" href="$hisq__force__reference_8h.html#a362f32eb1dc1b46a95c4642a2e8a2d44" title="color_matrix_hisq_force\l_reference" alt="" coords="990,151,1152,189"/>
+<area shape="rect" id="node8" href="$hisq__force__reference_8h.html#ab3519c8c9f6ae59d62bef2f43bdd95ef" title="halfwilson_hisq_force\l_reference" alt="" coords="997,252,1145,291"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="765,1009,942,1048"/>
+<area shape="rect" id="node34" href="$hisq__unitarize__force__test_8cpp.html#ae555bbae3a6f178ba9545d6b4923045e" title="createNoisyLinkCPU" alt="" coords="781,1263,926,1288"/>
+<area shape="rect" id="node35" href="$gauge__force__test_8cpp.html#a7ca518d5f65b192c3be1c0afc9157c04" title="gauge_force_test" alt="" coords="791,1213,916,1239"/>
+<area shape="rect" id="node36" href="$hisq__paths__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="800,1312,907,1337"/>
+<area shape="rect" id="node39" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="789,1411,917,1436"/>
+<area shape="rect" id="node37" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="1015,1336,1127,1361"/>
+<area shape="rect" id="node41" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="543,1411,691,1436"/>
+<area shape="rect" id="node43" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="527,1259,707,1284"/>
+</map>

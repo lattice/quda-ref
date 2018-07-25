@@ -1,0 +1,8 @@
+<map id="quda::ColorSpinorField::IsComposite" name="quda::ColorSpinorField::IsComposite">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#a2f43ab027182466a029dc2f0a9eb5624" title="quda::ColorSpinorField\l::Component" alt="" coords="228,5,385,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a772564e9f7de90b360a9ad4c231a0a86" title="for composite fields: " alt="" coords="213,68,400,107"/>
+<area shape="rect" id="node4" href="$structquda_1_1_deflation_param.html#acf09d1d42c34971f49ddb4b9e9632883" title="quda::DeflationParam\l::DeflationParam" alt="" coords="231,131,382,169"/>
+<area shape="rect" id="node5" href="$classquda_1_1_deflation.html#a98318860027f484d1988bf45fa63ca5d" title="Load the eigen space vectors from file. " alt="" coords="213,193,401,219"/>
+<area shape="rect" id="node7" href="$classquda_1_1_deflation.html#a7e395f7e68cb32b49018246523a8a99e" title="Save the eigen space vectors in file. " alt="" coords="211,243,402,268"/>
+<area shape="rect" id="node6" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="450,193,621,219"/>
+</map>

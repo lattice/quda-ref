@@ -1,0 +1,11 @@
+<map id="quda::DiracWilsonPC::M" name="quda::DiracWilsonPC::M">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="220,15,380,40"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_wilson.html#ac165431269cece6381e2a96e4d26c0af" title="quda::DiracWilson::\lDslash" alt="" coords="231,64,368,103"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_wilson.html#aac124c90e310ba9839be06f9c6f372d2" title="quda::DiracWilson::\lDslashXpay" alt="" coords="231,127,368,165"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="226,189,374,215"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="430,36,596,75"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="428,99,598,137"/>
+<area shape="rect" id="node8" href="$namespacequda.html#ad3d64786ebab4f096b3b4fb70ecb18e4" title="quda::wilsonDslashCuda" alt="" coords="429,161,597,187"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="646,5,773,44"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="646,68,773,107"/>
+</map>

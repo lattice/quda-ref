@@ -1,0 +1,10 @@
+<map id="multiReduceCuda" name="multiReduceCuda">
+<area shape="rect" id="node2" href="$reduce__quda_8cu.html#a0cffe2ad94134e8e40f8ea40a1479d8e" title="checkSpinor" alt="" coords="209,5,304,31"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a8579e2a0158ce1bbb34979b7c7b34d87" title="quda::blas::getStream" alt="" coords="181,55,332,80"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1c2be9246be4db51c0f2c90ed370182b" title="memset" alt="" coords="222,104,291,129"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a36ea3d9efd722e180c16bfe59975ac0e" title="quda::reduce" alt="" coords="207,153,306,179"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afdda3884407b500020ab100f831aea08" title="strcat" alt="" coords="230,203,284,228"/>
+<area shape="rect" id="node9" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a53b054f03667fa7e48a9d6ede1e010a5" title="strcpy" alt="" coords="228,252,285,277"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="380,153,458,179"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="506,153,598,179"/>
+</map>

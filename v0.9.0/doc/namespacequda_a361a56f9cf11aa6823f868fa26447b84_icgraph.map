@@ -1,0 +1,5 @@
+<map id="quda::acos" name="quda::acos">
+<area shape="rect" id="node2" href="$namespacequda.html#a07ecc1ec003a303ca19edfe2a37da461" title="quda::exponentiate_iQ" alt="" coords="140,12,295,37"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a8a7af5890bfb8d240ccca2da1fe12caf" title="quda::computeOvrImpSTOUTStep" alt="" coords="343,12,569,37"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_ovr_imp_s_t_o_u_t.html#ad472371fabc020014c6f5d14f871658e" title="quda::GaugeOvrImpSTOUT\l::apply" alt="" coords="617,5,804,44"/>
+</map>

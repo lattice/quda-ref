@@ -1,0 +1,4 @@
+<map id="quda::blas::axCpu" name="quda::blas::axCpu">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#adb004a002674ab5e09fee95d7c5fbdc8" title="quda::blas::cabxpyAxCpu" alt="" coords="198,5,371,31"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a1740a3648023fbe215733f4f7fc11f6b" title="quda::blas::cabxpyAxNormCpu" alt="" coords="182,55,387,80"/>
+</map>

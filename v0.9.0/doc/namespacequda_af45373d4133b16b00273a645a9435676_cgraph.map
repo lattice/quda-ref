@@ -1,0 +1,7 @@
+<map id="quda::solve" name="quda::solve">
+<area shape="rect" id="node2" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="185,5,265,31"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="143,55,307,80"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="183,104,266,129"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="355,5,434,31"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0cdb0b447bb2bd586b5a58bc9b61e285" title="hypot" alt="" coords="482,5,536,31"/>
+</map>

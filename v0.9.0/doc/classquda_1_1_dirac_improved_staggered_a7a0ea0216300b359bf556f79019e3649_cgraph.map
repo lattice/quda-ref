@@ -1,0 +1,6 @@
+<map id="quda::DiracImprovedStaggered::M" name="quda::DiracImprovedStaggered::M">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_improved_staggered.html#ae71e501b73cfdf74ad6ba79ba53ccf2a" title="quda::DiracImprovedStaggered\l::DslashXpay" alt="" coords="278,33,485,72"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_improved_staggered.html#ab6598d5bcd11120b045e01293e6e3ada" title="quda::DiracImprovedStaggered\l::checkParitySpinor" alt="" coords="553,5,760,44"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ae46647ae7edd5bd77f6f243feb6cc041" title="quda::improvedStaggeredDslashCuda" alt="" coords="533,68,781,93"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="829,5,955,44"/>
+</map>

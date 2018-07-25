@@ -1,0 +1,19 @@
+<map id="MatDagMatQuda" name="MatDagMatQuda">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a68510b80be006181c00b6ebe8d90c57f" title="quda::blas::ax" alt="" coords="203,5,307,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac.html#ac13ad4c6bdcacd4b53a473176e7ab830" title="quda::Dirac::create" alt="" coords="188,55,322,80"/>
+<area shape="rect" id="node4" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="433,80,528,105"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="176,156,334,195"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_cov_dev.html#aa8900265f79286bc5483e7a590b12bc3" title="quda::GaugeCovDev::\lMdagM" alt="" coords="178,219,332,257"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="191,281,319,307"/>
+<area shape="rect" id="node8" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="popVerbosity" alt="" coords="206,331,304,356"/>
+<area shape="rect" id="node10" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a96ae9abed439401fd6dd28a1e2c2f94e" title="pow" alt="" coords="232,380,278,405"/>
+<area shape="rect" id="node11" href="$quda_8h.html#a3df6e48cb66b7fe0b8e5e2110ca28981" title="printQudaInvertParam" alt="" coords="179,429,331,455"/>
+<area shape="rect" id="node12" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="pushVerbosity" alt="" coords="203,479,308,504"/>
+<area shape="rect" id="node14" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="182,528,328,553"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="179,577,331,603"/>
+<area shape="rect" id="node18" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="184,627,326,652"/>
+<area shape="rect" id="node9" href="$util__quda_8cpp.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="434,380,528,405"/>
+<area shape="rect" id="node13" href="$util__quda_8cpp.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="433,479,528,504"/>
+<area shape="rect" id="node15" href="$classquda_1_1_gauge_field.html#aea09fc8dc9f69a1bfebbbad4717e433a" title="quda::GaugeField::Anisotropy" alt="" coords="382,528,580,553"/>
+<area shape="rect" id="node16" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="445,577,517,603"/>
+</map>

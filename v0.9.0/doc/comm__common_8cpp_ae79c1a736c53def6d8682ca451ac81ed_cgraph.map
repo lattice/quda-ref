@@ -1,0 +1,9 @@
+<map id="comm_peer2peer_enabled_global" name="comm_peer2peer_enabled_global">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a6e4eff43929395108b3726d35c2d85a4" title="comm_allreduce_int" alt="" coords="254,5,395,31"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="234,55,415,80"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a2f7aa9affb07827bc351c97272c8d5cb" title="quda::blas::init" alt="" coords="271,104,378,129"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="485,5,593,31"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="664,5,781,31"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="463,104,616,129"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1c2be9246be4db51c0f2c90ed370182b" title="memset" alt="" coords="688,104,757,129"/>
+</map>

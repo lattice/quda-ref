@@ -1,0 +1,51 @@
+<map id="dslashTest" name="dslashTest">
+<area shape="rect" id="node2" href="$staggered__dslash__test_8cpp.html#aae87026c545cd7c541478d495efebc47" title="dslashCUDA" alt="" coords="168,129,265,155"/>
+<area shape="rect" id="node6" href="$staggered__dslash__test_8cpp.html#a081b5c662ecee58405a543518f699d31" title="end" alt="" coords="411,203,455,228"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac.html#a2c29da01d1a8aa6de6bba0f3218d3b0c" title="quda::Dirac::Flops" alt="" coords="152,513,281,539"/>
+<area shape="rect" id="node26" href="$classquda_1_1_color_spinor_field.html#aa01d350809eb6ca56919ccba5d10521e" title="quda::ColorSpinorField\l::GhostBytes" alt="" coords="138,563,295,601"/>
+<area shape="rect" id="node27" href="$staggered__dslash__test_8cpp.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="197,625,236,651"/>
+<area shape="rect" id="node41" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="369,1024,497,1049"/>
+<area shape="rect" id="node44" href="$staggered__dslash__test_8cpp.html#a395582865fa2cf85dfdc964a961ac000" title="staggeredDslashRef" alt="" coords="145,1172,288,1197"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="381,5,485,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac.html#a69792f182bbe560af9e1358109df730d" title="quda::Dirac::Dslash" alt="" coords="364,55,502,80"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="379,104,487,129"/>
+<area shape="rect" id="node24" href="$classquda_1_1_dirac.html#a5579a5c54f186793a2e84280bdba929a" title="quda::Dirac::MdagM" alt="" coords="362,153,504,179"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="591,5,684,31"/>
+<area shape="rect" id="node7" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="615,203,660,228"/>
+<area shape="rect" id="node8" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="599,369,676,395"/>
+<area shape="rect" id="node9" href="$namespacequda.html#ac466a953381d986b1eca6880f1fda568" title="quda::assertAllMemFree" alt="" coords="761,73,928,99"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#acae24b1f48d2fe459c280cf33e61cc6e" title="comm_finalize" alt="" coords="791,123,898,148"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a4f1346eb3e34bbda30ff8983af3f81c1" title="quda::destroyDslashEvents" alt="" coords="753,172,936,197"/>
+<area shape="rect" id="node12" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="788,221,901,247"/>
+<area shape="rect" id="node13" href="$namespacequda_1_1pool.html#aafe898a5f018221ffd9f6336376a3a01" title="Free all outstanding device&#45;memory allocations. " alt="" coords="762,271,927,296"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1pool.html#aa026d9c5ea0fa0090dfce4792b96908c" title="Free all outstanding pinned&#45;memory allocations. " alt="" coords="761,320,928,345"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#ab1d3e5c24eb7fcb0d2afffd71ce807f5" title="Flush the chronological history for the given index. " alt="" coords="781,369,907,395"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#a9221f8639873c0844f04bc64d5e31ccd" title="freeCloverQuda" alt="" coords="787,419,902,444"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="786,468,903,493"/>
+<area shape="rect" id="node18" href="$classquda_1_1_lattice_field.html#af3e43730f50a448d8b818413b9256fbc" title="Free statically allocated ghost buffers. " alt="" coords="781,517,908,556"/>
+<area shape="rect" id="node19" href="$classquda_1_1cpu_color_spinor_field.html#a51d79fe9a54a572b777123a2cd133752" title="quda::cpuColorSpinorField\l::freeGhostBuffer" alt="" coords="755,580,934,619"/>
+<area shape="rect" id="node20" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a872ac3564834aa0ba70a9e1bd3c2f9de" title="getenv" alt="" coords="814,643,875,668"/>
+<area shape="rect" id="node21" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="797,872,892,897"/>
+<area shape="rect" id="node22" href="$classquda_1_1_time_profile.html#a352ad271eb6f06f75cf3c3c0a28e8023" title="quda::TimeProfile::\lPrint" alt="" coords="778,692,911,731"/>
+<area shape="rect" id="node28" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="397,252,468,277"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="357,301,509,327"/>
+<area shape="rect" id="node30" href="$util__quda_8h.html#a2017f5474af8f4baea321c025df7e24f" title="setVerbosity" alt="" coords="386,351,480,376"/>
+<area shape="rect" id="node31" href="$quda_8h.html#a4d9475cdfdd2d15b5d94e8588f835645" title="newQudaGaugeParam" alt="" coords="354,400,512,425"/>
+<area shape="rect" id="node32" href="$quda_8h.html#a9c476795e5632077ae86f2022369f6a4" title="newQudaInvertParam" alt="" coords="357,449,508,475"/>
+<area shape="rect" id="node33" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="398,499,468,524"/>
+<area shape="rect" id="node34" href="$test__util_8cpp.html#a760675a8bb552a8bfbeaa705c20057c4" title="dw_setDims" alt="" coords="386,548,480,573"/>
+<area shape="rect" id="node35" href="$test__util_8cpp.html#a86a5f0d3f4210c9f339154a1b47c5dff" title="setSpinorSiteSize" alt="" coords="370,597,496,623"/>
+<area shape="rect" id="node36" href="$classquda_1_1cpu_color_spinor_field.html#ac15d8b2aaff27079ef5c801e0bba4330" title="quda::cpuColorSpinorField\l::Source" alt="" coords="343,647,523,685"/>
+<area shape="rect" id="node37" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="403,709,463,735"/>
+<area shape="rect" id="node38" href="$test__util_8cpp.html#a56bb31290d6d42a81d326ac8cf368a2a" title="construct_fat_long\l_gauge_field" alt="" coords="368,759,498,797"/>
+<area shape="rect" id="node39" href="$classquda_1_1_gauge_field.html#aedfa91e714c61b8e11caec9d2703dcfa" title="quda::GaugeField::Ghost" alt="" coords="348,821,518,847"/>
+<area shape="rect" id="node40" href="$quda_8h.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="578,872,697,897"/>
+<area shape="rect" id="node42" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="360,923,506,948"/>
+<area shape="rect" id="node43" href="$classquda_1_1_dirac.html#ac13ad4c6bdcacd4b53a473176e7ab830" title="quda::Dirac::create" alt="" coords="571,947,705,972"/>
+<area shape="rect" id="node45" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afa9ad98643851ca03a428e264122dac0" title="fflush" alt="" coords="406,1073,460,1099"/>
+<area shape="rect" id="node46" href="$staggered__dslash__reference_8h.html#a94f46b72f83427880e9ac4d7d7761f68" title="staggered_dslash_mg4dir" alt="" coords="346,1123,520,1148"/>
+<area shape="rect" id="node47" href="$staggered__dslash__reference_8cpp.html#a44686ec505221bb004773f490c918577" title="staggered_dslash" alt="" coords="370,1172,496,1197"/>
+<area shape="rect" id="node48" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="346,1221,520,1247"/>
+<area shape="rect" id="node49" href="$covdev__reference_8h.html#a0bac7825c8c9a18cfe00c303d3257080" title="matdagmat_mg4dir" alt="" coords="365,1271,501,1296"/>
+<area shape="rect" id="node50" href="$covdev__reference_8cpp.html#a889c78c66d143bdfb3ade7271407a422" title="matdagmat" alt="" coords="389,1320,477,1345"/>
+</map>

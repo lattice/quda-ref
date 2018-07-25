@@ -1,0 +1,5 @@
+<map id="quda::blas::xpayz" name="quda::blas::xpayz">
+<area shape="rect" id="node2" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="178,31,323,56"/>
+<area shape="rect" id="node3" href="$classquda_1_1_c_g_n_e.html#a4043b6e48b0794cf6876ae6398431e08" title="quda::CGNE::operator()" alt="" coords="371,5,534,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_c_g_n_r.html#a2afa3f3b11946d0b8e2251064dce3882" title="quda::CGNR::operator()" alt="" coords="371,55,534,80"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="include/ks_improved_force.h" name="include/ks_improved_force.h">
+<area shape="rect" id="node2" href="$hisq__paths__force__quda_8cu.html" title="lib/hisq_paths_force\l_quda.cu" alt="" coords="5,92,145,131"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html" title="lib/interface_quda.cpp" alt="" coords="169,99,321,124"/>
+<area shape="rect" id="node4" href="$milc__interface_8cpp.html" title="lib/milc_interface.cpp" alt="" coords="345,99,491,124"/>
+<area shape="rect" id="node5" href="$hisq__paths__force__test_8cpp.html" title="tests/hisq_paths_force\l_test.cpp" alt="" coords="515,92,670,131"/>
+<area shape="rect" id="node6" href="$hisq__unitarize__force__test_8cpp.html" title="tests/hisq_unitarize\l_force_test.cpp" alt="" coords="694,92,830,131"/>
+<area shape="rect" id="node7" href="$unitarize__link__test_8cpp.html" title="tests/unitarize_link\l_test.cpp" alt="" coords="854,92,985,131"/>
+</map>

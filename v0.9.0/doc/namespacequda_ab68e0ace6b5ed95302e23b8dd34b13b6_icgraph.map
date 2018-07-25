@@ -1,0 +1,5 @@
+<map id="quda::applyT" name="quda::applyT">
+<area shape="rect" id="node2" href="$namespacequda.html#ad775354748f7914f91cc9fa37c037f2c" title="quda::applyThirdTerm" alt="" coords="152,5,302,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a175c0d2c1e531afc0d5df2adc0272c81" title="quda::computeCoeffs" alt="" coords="350,5,498,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_m_p_c_g.html#a22dc04a12559494a1202da230c31a66a" title="quda::MPCG::operator()" alt="" coords="546,5,710,31"/>
+</map>

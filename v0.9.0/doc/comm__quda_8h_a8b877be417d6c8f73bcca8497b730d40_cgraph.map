@@ -1,0 +1,4 @@
+<map id="comm_broadcast" name="comm_broadcast">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#a5997e8e9b61e2f97c69d0667992fce1c" title="MPI_Bcast" alt="" coords="177,5,263,31"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#a1926ff3a4b86dde1210dd5e734b07256" title="PMPI_Bcast" alt="" coords="311,5,405,31"/>
+</map>

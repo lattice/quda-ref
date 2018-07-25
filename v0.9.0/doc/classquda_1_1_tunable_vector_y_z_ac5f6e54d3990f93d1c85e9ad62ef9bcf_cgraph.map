@@ -1,0 +1,11 @@
+<map id="quda::TunableVectorYZ::defaultTuneParam" name="quda::TunableVectorYZ::defaultTuneParam">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable_vector_y.html#a3590c9252e6c043f07578db206a864c0" title="quda::TunableVectorY\l::defaultTuneParam" alt="" coords="214,212,367,251"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable.html#aded93d27cbfd6568d4f4e44f3e6687ca" title="quda::Tunable::defaultTune\lParam" alt="" coords="415,212,599,251"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#a7656afbdf0d2f848ea0058110543abf1" title="quda::Tunable::initTuneParam" alt="" coords="647,160,846,185"/>
+<area shape="rect" id="node10" href="$classquda_1_1_tunable.html#a528dd6226511d3b6c1cf914dc578a44a" title="quda::Tunable::tuneGridDim" alt="" coords="894,279,1083,304"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#a8d751501a35dd0cbbabeb76a4867e29f" title="quda::Tunable::blockMin" alt="" coords="905,5,1071,31"/>
+<area shape="rect" id="node6" href="$classquda_1_1_tunable.html#aa20f7da95434df64e26a8d11402ed1b1" title="quda::Tunable::minGridSize" alt="" coords="895,55,1081,80"/>
+<area shape="rect" id="node7" href="$classquda_1_1_tunable.html#aef0531eaa7950ffe31b0aeb6bb61a75e" title="quda::Tunable::minThreads" alt="" coords="896,104,1080,129"/>
+<area shape="rect" id="node8" href="$classquda_1_1_tunable.html#a8f782b9791855bef208ac38282e5ddea" title="quda::Tunable::sharedBytes\lPerBlock" alt="" coords="895,153,1082,192"/>
+<area shape="rect" id="node9" href="$classquda_1_1_tunable.html#a67a816b5e7fde0357ea5315c5c2c7d52" title="quda::Tunable::sharedBytes\lPerThread" alt="" coords="895,216,1082,255"/>
+</map>

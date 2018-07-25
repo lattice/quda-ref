@@ -1,0 +1,7 @@
+<map id="dw_4d_mat" name="dw_4d_mat">
+<area shape="rect" id="node2" href="$domain__wall__dslash__reference_8cpp.html#a2ab0fdb6956f86e6d2b28b950784cfc7" title="dslash_4_4d" alt="" coords="156,5,253,31"/>
+<area shape="rect" id="node5" href="$domain__wall__dslash__reference_8cpp.html#a41897e20820957adea4719f6b4e4ff4d" title="dw_dslash_5_4d" alt="" coords="144,55,265,80"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a05c1eeac0ec0080a4fb3df73277944de" title="quda::blas::xpay" alt="" coords="145,104,264,129"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_field.html#aedfa91e714c61b8e11caec9d2703dcfa" title="quda::GaugeField::Ghost" alt="" coords="313,5,483,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="531,5,713,31"/>
+</map>

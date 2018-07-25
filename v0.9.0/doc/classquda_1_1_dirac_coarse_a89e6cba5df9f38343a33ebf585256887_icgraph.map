@@ -1,0 +1,5 @@
+<map id="quda::DiracCoarse::M" name="quda::DiracCoarse::M">
+<area shape="rect" id="node2" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="231,5,318,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_coarse.html#ab220d4707bf9bf7e83a76b249acf3835" title="quda::DiracCoarse::\lMdagM" alt="" coords="204,55,344,93"/>
+<area shape="rect" id="node3" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="392,5,442,31"/>
+</map>

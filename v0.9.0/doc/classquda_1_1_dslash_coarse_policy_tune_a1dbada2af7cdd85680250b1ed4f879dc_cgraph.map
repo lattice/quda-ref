@@ -1,0 +1,10 @@
+<map id="quda::DslashCoarsePolicyTune::defaultTuneParam" name="quda::DslashCoarsePolicyTune::defaultTuneParam">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable.html#aded93d27cbfd6568d4f4e44f3e6687ca" title="quda::Tunable::defaultTune\lParam" alt="" coords="231,72,414,111"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable.html#a7656afbdf0d2f848ea0058110543abf1" title="quda::Tunable::initTuneParam" alt="" coords="462,104,662,129"/>
+<area shape="rect" id="node6" href="$classquda_1_1_tunable.html#a528dd6226511d3b6c1cf914dc578a44a" title="quda::Tunable::tuneGridDim" alt="" coords="710,5,899,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#aa20f7da95434df64e26a8d11402ed1b1" title="quda::Tunable::minGridSize" alt="" coords="711,55,897,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#a8d751501a35dd0cbbabeb76a4867e29f" title="quda::Tunable::blockMin" alt="" coords="721,104,887,129"/>
+<area shape="rect" id="node7" href="$classquda_1_1_tunable.html#aef0531eaa7950ffe31b0aeb6bb61a75e" title="quda::Tunable::minThreads" alt="" coords="712,153,896,179"/>
+<area shape="rect" id="node8" href="$classquda_1_1_tunable.html#a67a816b5e7fde0357ea5315c5c2c7d52" title="quda::Tunable::sharedBytes\lPerThread" alt="" coords="711,203,898,241"/>
+<area shape="rect" id="node9" href="$classquda_1_1_tunable.html#a8f782b9791855bef208ac38282e5ddea" title="quda::Tunable::sharedBytes\lPerBlock" alt="" coords="711,265,898,304"/>
+</map>

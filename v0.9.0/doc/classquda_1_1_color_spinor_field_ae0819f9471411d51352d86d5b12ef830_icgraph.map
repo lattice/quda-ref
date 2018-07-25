@@ -1,0 +1,21 @@
+<map id="quda::ColorSpinorField::Component" name="quda::ColorSpinorField::Component">
+<area shape="rect" id="node2" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="225,5,397,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_g_m_res_d_r.html#aa869a115446b88110dcbf22c55e8d9b7" title="quda::GMResDR::FlexArnoldi\lProcedure" alt="" coords="213,55,409,93"/>
+<area shape="rect" id="node4" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="459,119,648,144"/>
+<area shape="rect" id="node5" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="703,197,880,223"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="244,271,378,296"/>
+<area shape="rect" id="node11" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="712,347,871,372"/>
+<area shape="rect" id="node12" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="220,372,402,397"/>
+<area shape="rect" id="node13" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="460,397,646,423"/>
+<area shape="rect" id="node15" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="211,169,411,195"/>
+<area shape="rect" id="node16" href="$classquda_1_1_c_g.html#aedab089868d466a7aea69ca556ad1ea4" title="quda::CG::solve" alt="" coords="253,473,369,499"/>
+<area shape="rect" id="node17" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="290,523,332,548"/>
+<area shape="rect" id="node6" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="936,347,1117,372"/>
+<area shape="rect" id="node8" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="512,247,595,272"/>
+<area shape="rect" id="node10" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="528,296,578,321"/>
+<area shape="rect" id="node9" href="$staggered__invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="767,247,817,272"/>
+<area shape="rect" id="node14" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="696,396,888,421"/>
+<area shape="rect" id="node18" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="510,497,597,523"/>
+<area shape="rect" id="node20" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="517,547,589,572"/>
+<area shape="rect" id="node19" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="767,497,817,523"/>
+</map>

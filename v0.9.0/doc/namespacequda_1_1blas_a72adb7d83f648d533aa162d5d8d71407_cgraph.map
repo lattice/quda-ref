@@ -1,0 +1,7 @@
+<map id="quda::blas::caxpyz" name="quda::blas::caxpyz">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a4135e6659ebacd621d14a756c884f37a" title="Compute the block &quot;caxpyz&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="185,55,317,80"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#afa8102bb5bcb1303248b37f151b46ff2" title="quda::blas::caxpyz\l_recurse" alt="" coords="365,48,497,87"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aca57e0fdf5c5f279a563e077213f5155" title="y0" alt="" coords="588,5,627,31"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#ad3b81abe25223e610259c9571a799509" title="y1" alt="" coords="588,55,627,80"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#ae3e5e69d87a6db7678c8fb7dc14daca7" title="quda::blas::caxpy" alt="" coords="545,104,670,129"/>
+</map>

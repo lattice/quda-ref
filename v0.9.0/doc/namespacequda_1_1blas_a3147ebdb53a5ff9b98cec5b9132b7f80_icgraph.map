@@ -1,0 +1,7 @@
+<map id="quda::blas::cDotProductCpu" name="quda::blas::cDotProductCpu">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#aa06687d3e1d1b1cef4c6a44784a507d5" title="quda::blas::caxpyDotzyCpu" alt="" coords="264,5,448,31"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a2ef3fe7663a0d628cc49759389ce4577" title="quda::blas::cDotProductNormACpu" alt="" coords="241,55,471,80"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a3fb3691369fe4ccea735cdaebe6338e9" title="quda::blas::cDotProductNormBCpu" alt="" coords="241,104,471,129"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a889d3205cdb898214de6a9ea684ee6ce" title="quda::blas::xpaycDotzyCpu" alt="" coords="264,153,448,179"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#ad14c7980923194dba1716a6a74d78124" title="quda::blas::caxpbypzYmbwc\lDotProductUYNormYCpu" alt="" coords="519,97,709,136"/>
+</map>

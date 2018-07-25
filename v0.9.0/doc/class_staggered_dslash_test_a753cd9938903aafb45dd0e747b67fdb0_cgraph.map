@@ -1,0 +1,51 @@
+<map id="StaggeredDslashTest::SetUpTestCase" name="StaggeredDslashTest::SetUpTestCase">
+<area shape="rect" id="node2" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="201,999,272,1025"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#add03448c5bbe339a93332f6907881a7e" title="init_default_comms" alt="" coords="508,949,644,974"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#a7d267ad5d21c4f5e5be730c7a6a916e9" title="initQudaDevice" alt="" coords="1156,1065,1268,1090"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#a016889ba93ea2794377f06cd752b2d50" title="initQudaMemory" alt="" coords="320,1101,440,1126"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#acf46984ae469d1d7603f8fbf34bc221c" title="initCommsGridQuda" alt="" coords="720,410,862,435"/>
+<area shape="rect" id="node5" href="$comm__quda_8h.html#add004a3d38b9dc2f15a65bb6e43a2840" title="comm_init" alt="" coords="952,410,1034,435"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#ad602698cbe7a5b05515a851435eb1f16" title="lex_rank_from_coords" alt="" coords="917,361,1070,386"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#a03fa1c0e94c2722e5f85d050bde726b5" title="comm_create_topology" alt="" coords="1132,207,1292,233"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1406,315,1493,341"/>
+<area shape="rect" id="node13" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="1134,410,1290,435"/>
+<area shape="rect" id="node15" href="$comm__mpi_8cpp.html#a672f517336c21190ab990b5d77bd1657" title="Gather all hostnames. " alt="" coords="1128,158,1296,183"/>
+<area shape="rect" id="node16" href="$comm__quda_8h.html#a1d3bfabe2ec90535541e408c05aea34c" title="comm_hostname" alt="" coords="1388,107,1511,133"/>
+<area shape="rect" id="node18" href="$comm__quda_8h.html#adc5670739f5284d3d5a2f06d2e4e0cfd" title="comm_peer2peer_init" alt="" coords="1137,659,1287,685"/>
+<area shape="rect" id="node23" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a872ac3564834aa0ba70a9e1bd3c2f9de" title="getenv" alt="" coords="1419,1017,1480,1042"/>
+<area shape="rect" id="node25" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afe176b0807dfea419d70b1376ea761a4" title="printf" alt="" coords="1424,365,1475,390"/>
+<area shape="rect" id="node26" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a64b5e67a497c69d9bd73b675d62d1ac3" title="strncmp" alt="" coords="1415,414,1484,439"/>
+<area shape="rect" id="node27" href="$comm__mpi_8cpp.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="1167,459,1258,485"/>
+<area shape="rect" id="node28" href="$comm__quda_8h.html#aabb1077a2f4eb1b7aa974b0e92ec305c" title="comm_set_default_topology" alt="" coords="1118,509,1306,534"/>
+<area shape="rect" id="node29" href="$comm__qmp_8cpp.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="1168,558,1256,583"/>
+<area shape="rect" id="node30" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aa1aad1016d610ca93301167398ca3d4e" title="snprintf" alt="" coords="1642,383,1707,409"/>
+<area shape="rect" id="node31" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a2a3c2e9ef2d275dd8caaad644163ad51" title="strcmp" alt="" coords="1419,1166,1480,1191"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a1ce76d2b3764460cbc6826cf8d0a2b57" title="advance_coords" alt="" coords="1390,257,1509,282"/>
+<area shape="rect" id="node8" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="1404,619,1495,645"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="1423,207,1476,233"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1593,457,1756,482"/>
+<area shape="rect" id="node12" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1628,322,1721,347"/>
+<area shape="rect" id="node14" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1406,463,1493,489"/>
+<area shape="rect" id="node17" href="$nvtx__pmpi_8c.html#a41222d5360f1da1bf44f776c24ddb046" title="MPI_Allgather" alt="" coords="1397,158,1502,183"/>
+<area shape="rect" id="node19" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0403171930f8f8f82012f8e85cf25557" title="abs" alt="" coords="1428,521,1471,546"/>
+<area shape="rect" id="node20" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a4e157d18591ba54c92e4da99a3d1ccae" title="atoi" alt="" coords="1428,817,1471,842"/>
+<area shape="rect" id="node21" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="1398,570,1501,595"/>
+<area shape="rect" id="node22" href="$comm__quda_8h.html#aed9cf3a332bd56a53d524699b0fd0776" title="comm_gpuid" alt="" coords="1401,866,1498,891"/>
+<area shape="rect" id="node24" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="1402,967,1497,993"/>
+<area shape="rect" id="node34" href="$namespacequda.html#aaf67ea136dee872a19103cca2522f488" title="Set whether data is reorderd on the CPU or GPU. This can set at QUDA initialization using the environ..." alt="" coords="1359,1066,1539,1091"/>
+<area shape="rect" id="node35" href="$numa__affinity_8h.html#afc2c8f007904bc8e54d738389d53c965" title="setNumaAffinityNVML" alt="" coords="1374,1115,1525,1141"/>
+<area shape="rect" id="node37" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="503,1050,649,1075"/>
+<area shape="rect" id="node39" href="$namespacequda.html#a17b42aa349702cfaf3810343f0735a31" title="quda::createDslashEvents" alt="" coords="488,1202,665,1227"/>
+<area shape="rect" id="node40" href="$namespacequda_1_1blas.html#a2f7aa9affb07827bc351c97272c8d5cb" title="quda::blas::init" alt="" coords="1396,1241,1503,1266"/>
+<area shape="rect" id="node43" href="$namespacequda_1_1pool.html#a401799164747bba00c6b8ebd41127ed8" title="Initialize the memory pool allocator. " alt="" coords="1158,1166,1266,1191"/>
+<area shape="rect" id="node44" href="$namespacequda.html#a2741f6831197038513428673ff834f8f" title="quda::loadTuneCache" alt="" coords="917,925,1069,950"/>
+<area shape="rect" id="node38" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="713,1050,869,1075"/>
+<area shape="rect" id="node41" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="1597,1241,1751,1266"/>
+<area shape="rect" id="node42" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1c2be9246be4db51c0f2c90ed370182b" title="memset" alt="" coords="1804,1241,1872,1266"/>
+<area shape="rect" id="node45" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="1172,1215,1252,1241"/>
+<area shape="rect" id="node46" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aff2710eb070728e75e78b86f006722f9" title="getline" alt="" coords="1644,793,1704,818"/>
+<area shape="rect" id="node47" href="$namespacequda.html#ae7f7d2bed3522d1acce3fe9f433c3495" title="quda::deserializeTuneCache" alt="" coords="1354,669,1545,694"/>
+<area shape="rect" id="node48" href="$namespacequda.html#a215058968f858fd16b5368d56a916790" title="quda::broadcastTuneCache" alt="" coords="1119,811,1305,837"/>
+<area shape="rect" id="node49" href="$namespacequda.html#a4cf7120a3f6aa7fa21ebff3870969bb2" title="quda::serializeTuneCache" alt="" coords="1362,767,1537,793"/>
+<area shape="rect" id="node50" href="$comm__quda_8h.html#a8b877be417d6c8f73bcca8497b730d40" title="comm_broadcast" alt="" coords="1388,718,1511,743"/>
+</map>

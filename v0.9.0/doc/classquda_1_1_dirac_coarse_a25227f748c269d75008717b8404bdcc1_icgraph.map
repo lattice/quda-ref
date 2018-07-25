@@ -1,0 +1,8 @@
+<map id="quda::DiracCoarse::Dslash" name="quda::DiracCoarse::Dslash">
+<area shape="rect" id="node2" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="234,8,322,33"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_coarse_p_c.html#a02e5998a7272e651f34c5e9dc5e921d8" title="Apply the full operator. " alt="" coords="193,59,363,84"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_coarse_p_c.html#a774dc231c855d3dcf0f904914317251f" title="quda::DiracCoarsePC\l::prepare" alt="" coords="202,108,354,147"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_coarse_p_c.html#a99702def183155f5a992f0113ea31e81" title="quda::DiracCoarsePC\l::reconstruct" alt="" coords="202,171,354,209"/>
+<area shape="rect" id="node3" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="461,5,511,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_coarse_p_c.html#a8b3ca702350b5180d51c2968f7e3e558" title="quda::DiracCoarsePC\l::MdagM" alt="" coords="411,55,562,93"/>
+</map>

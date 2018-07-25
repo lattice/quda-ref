@@ -1,0 +1,6 @@
+<map id="quda::Transfer::P" name="quda::Transfer::P">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="177,5,335,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#acd8c0d81bd53a92345873561c6338967" title="quda::ColorSpinorField\l::GammaBasis" alt="" coords="177,68,335,107"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a8fe86e73d78ec0ec9bbd5517e0bc7ca6" title="Apply the prolongation operator. " alt="" coords="195,131,317,156"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="383,124,541,163"/>
+</map>

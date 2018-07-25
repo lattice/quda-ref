@@ -1,0 +1,4 @@
+<map id="quda::colorspinor::FloatNOrder::saveGhost" name="quda::colorspinor::FloatNOrder::saveGhost">
+<area shape="rect" id="node2" href="$namespacequda.html#abf5b4d5728021e058d90ff1d07446399" title="quda::copy" alt="" coords="242,5,328,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#aaeda4e4f5aabf19dae35f28e4c8802b7" title="quda::vector_store" alt="" coords="219,55,351,80"/>
+</map>

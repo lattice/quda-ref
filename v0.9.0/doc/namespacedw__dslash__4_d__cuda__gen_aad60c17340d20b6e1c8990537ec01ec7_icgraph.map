@@ -1,0 +1,10 @@
+<map id="dw_dslash_4D_cuda_gen.input_spinor" name="dw_dslash_4D_cuda_gen.input_spinor">
+<area shape="rect" id="node2" href="$namespacedw__dslash__4_d__cuda__gen.html#abff5fabc6a24a7790a90bbab029fb8b9" title="dw_dslash_4D_cuda_gen.to\l_chiral_basis" alt="" coords="261,131,450,169"/>
+<area shape="rect" id="node3" href="$namespacedw__dslash__4_d__cuda__gen.html#ac7707fcbfc3bb0f8ba92cf3f5ef4f4ab" title="dw_dslash_4D_cuda_gen.apply\l_clover" alt="" coords="498,131,709,169"/>
+<area shape="rect" id="node4" href="$namespacedw__dslash__4_d__cuda__gen.html#af17aac57417d32fb6e984b4892a1a9d9" title="dw_dslash_4D_cuda_gen.epilog" alt="" coords="757,137,971,163"/>
+<area shape="rect" id="node5" href="$namespacedw__dslash__4_d__cuda__gen.html#a675d182c5e954440d17c2e563212816c" title="dw_dslash_4D_cuda_gen.generate\l_clover" alt="" coords="1019,5,1250,44"/>
+<area shape="rect" id="node6" href="$namespacedw__dslash__4_d__cuda__gen.html#ad9de057ce635e3f6eca3c182aa8daf42" title="dw_dslash_4D_cuda_gen.generate\l_dslash" alt="" coords="1019,68,1250,107"/>
+<area shape="rect" id="node7" href="$namespacedw__dslash__4_d__cuda__gen.html#ad6b460dbd8a8cd7f10cf91447ed42824" title="dw_dslash_4D_cuda_gen.generate\l_dslash4D" alt="" coords="1019,131,1250,169"/>
+<area shape="rect" id="node8" href="$namespacedw__dslash__4_d__cuda__gen.html#ac82b52339100fb5bde1560b46838d373" title="dw_dslash_4D_cuda_gen.generate\l_dslash5D" alt="" coords="1019,193,1250,232"/>
+<area shape="rect" id="node9" href="$namespacedw__dslash__4_d__cuda__gen.html#a414a2fa83cc335f99edd2c0004126437" title="dw_dslash_4D_cuda_gen.generate\l_dslash5D_inv" alt="" coords="1019,256,1250,295"/>
+</map>

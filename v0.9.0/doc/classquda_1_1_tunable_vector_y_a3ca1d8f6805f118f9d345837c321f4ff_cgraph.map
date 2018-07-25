@@ -1,0 +1,10 @@
+<map id="quda::TunableVectorY::advanceBlockDim" name="quda::TunableVectorY::advanceBlockDim">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable.html#aa910847ecff2328c753eaa063cbb76e5" title="quda::Tunable::advanceBlockDim" alt="" coords="206,132,426,157"/>
+<area shape="rect" id="node8" href="$namespacedeg__tm__dslash__cuda__gen.html#a25e7a316bad796aa725630abc74dc5a6" title="deg_tm_dslash_cuda\l_gen.block" alt="" coords="242,209,390,248"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable.html#abaacdcd8451528beb11777432d61f527" title="quda::Tunable::blockStep" alt="" coords="487,5,659,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#a06676e80d7fa5ba4ae66efde76f06118" title="quda::Tunable::maxBlockSize" alt="" coords="474,55,672,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#aef0531eaa7950ffe31b0aeb6bb61a75e" title="quda::Tunable::minThreads" alt="" coords="481,104,665,129"/>
+<area shape="rect" id="node6" href="$classquda_1_1_tunable.html#a67a816b5e7fde0357ea5315c5c2c7d52" title="quda::Tunable::sharedBytes\lPerThread" alt="" coords="479,153,667,192"/>
+<area shape="rect" id="node7" href="$classquda_1_1_tunable.html#a528dd6226511d3b6c1cf914dc578a44a" title="quda::Tunable::tuneGridDim" alt="" coords="479,216,667,241"/>
+<area shape="rect" id="node9" href="$namespacedeg__tm__dslash__cuda__gen.html#ac31a39a5abf38a3f73ca45dd1f17d622" title="code generation ######################################################################## ..." alt="" coords="499,265,647,304"/>
+</map>

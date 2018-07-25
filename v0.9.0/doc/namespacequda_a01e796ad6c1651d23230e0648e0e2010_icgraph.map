@@ -1,0 +1,19 @@
+<map id="quda::report" name="quda::report">
+<area shape="rect" id="node2" href="$classquda_1_1_eig___solver.html#a4762f5c2938a52b1c92a7c9149076e99" title="quda::Eig_Solver::create" alt="" coords="147,92,314,117"/>
+<area shape="rect" id="node4" href="$classquda_1_1_solver.html#a50fee738be21e288b85c2400cfba9369" title="quda::Solver::create" alt="" coords="160,179,301,204"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#ae223a0a3b030bdb2b81fdeca1bd449ff" title="lanczosQuda" alt="" coords="416,55,515,80"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="422,104,509,129"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="398,153,533,179"/>
+<area shape="rect" id="node14" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="635,255,744,280"/>
+<area shape="rect" id="node15" href="$classquda_1_1_m_g.html#a81c27dc5f468e10f91d9cf0742866ad0" title="Create the smoothers. " alt="" coords="375,304,557,329"/>
+<area shape="rect" id="node18" href="$classquda_1_1_m_g.html#ae01b451dc72536567de5edfed09ec5ab" title="Generate the null&#45;space vectors. " alt="" coords="362,255,569,280"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="641,5,739,31"/>
+<area shape="rect" id="node7" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="648,55,731,80"/>
+<area shape="rect" id="node9" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="665,104,715,129"/>
+<area shape="rect" id="node8" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="810,55,861,80"/>
+<area shape="rect" id="node11" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="648,153,731,179"/>
+<area shape="rect" id="node13" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="665,203,715,228"/>
+<area shape="rect" id="node12" href="$staggered__invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="810,153,861,179"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="617,304,762,329"/>
+<area shape="rect" id="node17" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="810,304,861,329"/>
+</map>

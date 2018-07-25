@@ -1,0 +1,51 @@
+<map id="quda::blas::caxpy" name="quda::blas::caxpy">
+<area shape="rect" id="node2" href="$classquda_1_1_bi_c_gstab_l_update.html#ad05feaf49d3e9001014cb981cb497b40" title="quda::BiCGstabLUpdate\l::apply" alt="" coords="211,5,377,44"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="250,68,337,93"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a2080bdd1befff2145b76a7817faf08fa" title="This is a wrapper for calling the block &quot;caxpy&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="231,117,356,143"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#afa8102bb5bcb1303248b37f151b46ff2" title="quda::blas::caxpyz\l_recurse" alt="" coords="228,167,359,205"/>
+<area shape="rect" id="node13" href="$classquda_1_1_g_m_res_d_r.html#aa869a115446b88110dcbf22c55e8d9b7" title="quda::GMResDR::FlexArnoldi\lProcedure" alt="" coords="195,785,392,824"/>
+<area shape="rect" id="node15" href="$classquda_1_1_m_g.html#ae01b451dc72536567de5edfed09ec5ab" title="Generate the null&#45;space vectors. " alt="" coords="190,229,397,255"/>
+<area shape="rect" id="node17" href="$classquda_1_1_eig___solver.html#a6fa4dbf4962675ba221fffa0b4a0658c" title="quda::Eig_Solver::GrandSchm_test" alt="" coords="178,279,409,304"/>
+<area shape="rect" id="node19" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="715,863,892,888"/>
+<area shape="rect" id="node21" href="$classquda_1_1_deflation.html#a34216916176aa5676b2b4af567808b45" title="quda::Deflation::operator()" alt="" coords="205,427,382,452"/>
+<area shape="rect" id="node22" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="221,377,366,403"/>
+<area shape="rect" id="node25" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="203,525,384,551"/>
+<area shape="rect" id="node26" href="$classquda_1_1_m_p_bi_c_gstab.html#aeaaa27e4d7c28168d04893447dab68b3" title="quda::MPBiCGstab::operator()" alt="" coords="193,575,394,600"/>
+<area shape="rect" id="node27" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="709,1277,898,1303"/>
+<area shape="rect" id="node28" href="$classquda_1_1_multi_shift_c_g.html#a5f96f73432fafb1a99336cf1ecee4736" title="quda::MultiShiftCG\l::operator()" alt="" coords="227,673,360,712"/>
+<area shape="rect" id="node29" href="$classquda_1_1_min_res_ext.html#ab4acc2e02a9f112b964b88e099f32b86" title="quda::MinResExt::operator()" alt="" coords="199,736,388,761"/>
+<area shape="rect" id="node30" href="$namespacequda.html#a0913a77df397900a6c7f240ac667551c" title="quda::orthoDir" alt="" coords="505,903,611,928"/>
+<area shape="rect" id="node32" href="$classquda_1_1_bi_c_gstab_l.html#aebba87e0a1cabd2c4f6c4e15d1518ecc" title="quda::BiCGstabL::orthoDir" alt="" coords="469,1303,647,1328"/>
+<area shape="rect" id="node33" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="724,1377,883,1403"/>
+<area shape="rect" id="node34" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="202,328,385,353"/>
+<area shape="rect" id="node37" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="194,624,394,649"/>
+<area shape="rect" id="node38" href="$classquda_1_1_c_g.html#aedab089868d466a7aea69ca556ad1ea4" title="quda::CG::solve" alt="" coords="235,1052,352,1077"/>
+<area shape="rect" id="node39" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="272,1101,315,1127"/>
+<area shape="rect" id="node43" href="$namespacequda.html#ab858981048834c3d13f2dc0e5dea2378" title="quda::updateAp" alt="" coords="236,900,351,925"/>
+<area shape="rect" id="node44" href="$classquda_1_1_bi_c_gstab_l.html#ae1e4ae3aced80f9d502e27e516e1c733" title="quda::BiCGstabL::updateR" alt="" coords="203,1353,384,1379"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a14e36bd3b8e5cb88165149461cdc7386" title="quda::updateSolution" alt="" coords="485,952,632,977"/>
+<area shape="rect" id="node47" href="$classquda_1_1_g_m_res_d_r.html#a80f9173c2c04c21db51934fa85521e4e" title="quda::GMResDR::UpdateSolution" alt="" coords="183,476,404,501"/>
+<area shape="rect" id="node48" href="$classquda_1_1_bi_c_gstab_l.html#a2e7ecc8ff87d2344229a96ac2ffebac0" title="quda::BiCGstabL::updateUend" alt="" coords="457,1201,660,1227"/>
+<area shape="rect" id="node49" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="218,1151,369,1176"/>
+<area shape="rect" id="node4" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="522,32,594,57"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#a4135e6659ebacd621d14a756c884f37a" title="Compute the block &quot;caxpyz&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="492,131,624,156"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#a73c69b85de2dca55e1a0d118847cb0b2" title="Compute the block &quot;caxpyz&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="484,180,633,205"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1blas.html#a96d3de46e24724468cd7660fca869f76" title="Compute the block &quot;caxpyz&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="485,81,632,107"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#a72adb7d83f648d533aa162d5d8d71407" title="This is a wrapper for calling the block &quot;caxpyz&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="738,131,869,156"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#a277e8a1bfa74da009498449d831c0294" title="This is a wrapper for calling the block &quot;caxpyz&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="729,180,878,205"/>
+<area shape="rect" id="node12" href="$namespacequda_1_1blas.html#aee26a6a7f526e140cbefd89da30f36d0" title="This is a wrapper for calling the block &quot;caxpyz&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="730,81,877,107"/>
+<area shape="rect" id="node14" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="464,624,653,649"/>
+<area shape="rect" id="node16" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="504,229,613,255"/>
+<area shape="rect" id="node18" href="$classquda_1_1_lanczos.html#a7c13e72ff4f70ce0aff6c48fc29c8645" title="quda::Lanczos::operator()" alt="" coords="471,279,645,304"/>
+<area shape="rect" id="node20" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="948,1003,1129,1028"/>
+<area shape="rect" id="node23" href="$classquda_1_1_c_g_n_e.html#a4043b6e48b0794cf6876ae6398431e08" title="quda::CGNE::operator()" alt="" coords="477,377,640,403"/>
+<area shape="rect" id="node24" href="$classquda_1_1_c_g_n_r.html#a2afa3f3b11946d0b8e2251064dce3882" title="quda::CGNR::operator()" alt="" coords="476,427,640,452"/>
+<area shape="rect" id="node31" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="727,939,881,964"/>
+<area shape="rect" id="node35" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="465,328,651,353"/>
+<area shape="rect" id="node36" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="708,564,900,589"/>
+<area shape="rect" id="node40" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="515,1051,602,1076"/>
+<area shape="rect" id="node42" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="522,1001,594,1027"/>
+<area shape="rect" id="node41" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="778,1051,829,1076"/>
+<area shape="rect" id="node45" href="$classquda_1_1_bi_c_gstab_l.html#a002a896b9641ddb0a653ee262873620c" title="Current residual, in BiCG language. " alt="" coords="472,1352,645,1377"/>
+<area shape="rect" id="node50" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="473,1152,644,1177"/>
+</map>

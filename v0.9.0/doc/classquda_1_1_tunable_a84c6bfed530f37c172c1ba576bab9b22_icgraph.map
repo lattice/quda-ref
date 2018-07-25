@@ -1,0 +1,51 @@
+<map id="quda::Tunable::preTune" name="quda::Tunable::preTune">
+<area shape="rect" id="node2" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="216,851,344,876"/>
+<area shape="rect" id="node3" href="$classquda_1_1_copy_spinor.html#a57bff4714a1143338ad551c216f4d966" title="quda::CopySpinor::apply" alt="" coords="421,5,589,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_quda_mem_copy.html#a8ddc19c9618c226dc788fb46fab4c553" title="quda::QudaMemCopy::\lapply" alt="" coords="425,55,585,93"/>
+<area shape="rect" id="node5" href="$classquda_1_1blas_1_1copy__ns_1_1_copy_cuda.html#a824ace736a9469d8035e5b102d69a02e" title="quda::blas::copy_ns\l::CopyCuda::apply" alt="" coords="435,117,575,156"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauss_spinor.html#a6a09cd09c5ef381ca153107ae1d37dee" title="quda::GaussSpinor::\lapply" alt="" coords="434,180,577,219"/>
+<area shape="rect" id="node8" href="$class_blas_cuda.html#a94544e438a0c5f5b6f6069fe26e040ec" title="BlasCuda::apply" alt="" coords="446,243,564,268"/>
+<area shape="rect" id="node9" href="$classquda_1_1_copy_gauge_ex.html#a267559653681153ace07d2fabfafe68d" title="quda::CopyGaugeEx::\lapply" alt="" coords="429,292,581,331"/>
+<area shape="rect" id="node10" href="$classquda_1_1_generic_pack_ghost_launcher.html#ab2b6b52afaff8bb6e551977b047e0ce2" title="quda::GenericPackGhostLauncher\l::apply" alt="" coords="392,355,618,393"/>
+<area shape="rect" id="node14" href="$class_reduce_cuda.html#a4da71dd1b6e0c2c5f5e805278102cb9d" title="ReduceCuda::apply" alt="" coords="436,417,574,443"/>
+<area shape="rect" id="node15" href="$classquda_1_1_shift_color_spinor_field.html#a2a016e05500601d23ec28da3fb6b1ecc" title="quda::ShiftColorSpinorField\l::apply" alt="" coords="413,467,597,505"/>
+<area shape="rect" id="node16" href="$classquda_1_1_copy_color_spinor.html#a9ec52405aa7704fe20765a5b81f25874" title="quda::CopyColorSpinor\l::apply" alt="" coords="425,529,585,568"/>
+<area shape="rect" id="node17" href="$classquda_1_1_wuppertal_smearing.html#a1758fb9639397c69e0085d9e2f616163" title="quda::WuppertalSmearing\l::apply" alt="" coords="417,592,593,631"/>
+<area shape="rect" id="node20" href="$class_multi_blas_cuda.html#a077e4c0dc2e22c0c169ad0849e7812ee" title="MultiBlasCuda::apply" alt="" coords="432,655,578,680"/>
+<area shape="rect" id="node22" href="$classquda_1_1_laplace.html#ae555e8d55b540dde9c1299a5b61ba601" title="quda::Laplace::apply" alt="" coords="433,704,577,729"/>
+<area shape="rect" id="node23" href="$classquda_1_1_extract_ghost.html#a6dea9ffac054b785bab5d0f4f44bfa84" title="quda::ExtractGhost\l::apply" alt="" coords="437,753,573,792"/>
+<area shape="rect" id="node24" href="$classquda_1_1_extract_ghost_ex.html#a035de6a8c6648a136b494e38f01d9d3e" title="quda::ExtractGhostEx\l::apply" alt="" coords="430,816,581,855"/>
+<area shape="rect" id="node25" href="$classquda_1_1_copy_gauge.html#ac1b5555d1eb8eaa030bcdc0fe63c8a1d" title="quda::CopyGauge::apply" alt="" coords="421,879,589,904"/>
+<area shape="rect" id="node28" href="$classquda_1_1_copy_color_spinor_3_01_float_out_00_01_float_in_00_014_00_01_nc_00_01_arg_01_4.html#af75506632cee3db5348bcfdd5cca6581" title="quda::CopyColorSpinor\l\&lt; FloatOut, FloatIn,\l 4, Nc, Arg \&gt;::apply" alt="" coords="425,928,585,980"/>
+<area shape="rect" id="node29" href="$classquda_1_1_gamma.html#a281a4dc4bfad579d75e43f48615079ef" title="quda::Gamma::apply" alt="" coords="433,1004,578,1029"/>
+<area shape="rect" id="node30" href="$classquda_1_1_copy_spinor_ex.html#ad9d0febe5ad256631b3b6254b68e3b51" title="quda::CopySpinorEx\l::apply" alt="" coords="433,1053,577,1092"/>
+<area shape="rect" id="node32" href="$class_multi_reduce_cuda.html#ad75e82489e70e3c30120806bc75a20ad" title="MultiReduceCuda::apply" alt="" coords="422,1116,588,1141"/>
+<area shape="rect" id="node33" href="$classquda_1_1_twist_gamma.html#a78d1744247236134a3e62d23f36cb1e8" title="quda::TwistGamma::apply" alt="" coords="417,1165,593,1191"/>
+<area shape="rect" id="node34" href="$classquda_1_1blas_1_1_tile_size_tune.html#afa2185f1a7892ff17eadce6eb3378f21" title="quda::blas::TileSizeTune\l::apply" alt="" coords="422,1215,589,1253"/>
+<area shape="rect" id="node39" href="$classquda_1_1_clover.html#a505c55c3df1c5d79b865028c79805093" title="quda::Clover::apply" alt="" coords="437,1277,573,1303"/>
+<area shape="rect" id="node41" href="$classquda_1_1_project_s_u3.html#aabb54f119ca02b1f674e35eda5b8e2a6" title="quda::ProjectSU3::apply" alt="" coords="423,1327,588,1352"/>
+<area shape="rect" id="node43" href="$classquda_1_1_twist_clover.html#a9b5995aa40d2b04fa601c65bb5812c13" title="quda::TwistClover::\lapply" alt="" coords="438,1376,572,1415"/>
+<area shape="rect" id="node45" href="$classquda_1_1_gauge_ovr_imp_s_t_o_u_t.html#ad472371fabc020014c6f5d14f871658e" title="quda::GaugeOvrImpSTOUT\l::apply" alt="" coords="412,1439,599,1477"/>
+<area shape="rect" id="node46" href="$classquda_1_1_dslash_coarse_policy_tune.html#addb535ba24edd5c03cd05fce2f132398" title="quda::DslashCoarsePolicy\lTune::apply" alt="" coords="416,1501,594,1540"/>
+<area shape="rect" id="node47" href="$classquda_1_1_calculate_y.html#ad46c33491314afdd5a385fd98849715f" title="quda::CalculateY::apply" alt="" coords="424,1564,586,1589"/>
+<area shape="rect" id="node48" href="$classquda_1_1_calculate_yhat.html#ab713d7063e47941ca110f660a339d018" title="quda::CalculateYhat\l::apply" alt="" coords="434,1613,576,1652"/>
+<area shape="rect" id="node50" href="$classanonymous__namespace_02dslash__policy_8cuh_03_1_1_dslash_policy_tune.html#ab32a1055db70148760dbd1112e419b96" title="anonymous_namespace\l\{dslash_policy::cuh\}\l::DslashPolicyTune::apply" alt="" coords="418,1676,592,1728"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a44588c594638f55c75b48a927eb5e450" title="quda::gaussSpinor" alt="" coords="697,187,830,212"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a014ceadabae12572d2dcd8215e8f5f77" title="Generic ghost packing routine. " alt="" coords="680,361,847,387"/>
+<area shape="rect" id="node12" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="909,324,1095,363"/>
+<area shape="rect" id="node13" href="$classquda_1_1cpu_color_spinor_field.html#a8386225c8fc1020670e5a0b9f4995473" title="quda::cpuColorSpinorField\l::packGhost" alt="" coords="912,387,1092,425"/>
+<area shape="rect" id="node18" href="$namespacequda.html#ad68820237b5ce7ba722c70f3b26eb8eb" title="quda::wuppertalStep" alt="" coords="692,599,835,624"/>
+<area shape="rect" id="node19" href="$interface__quda_8cpp.html#ad8e1cc7e05db09d619a92b8ac3782cb4" title="performWuppertalnStep" alt="" coords="921,599,1083,624"/>
+<area shape="rect" id="node21" href="$multi__blas__core_8cuh.html#acf03100385d86bbb46eb2ba574f68511" title="multiblasCuda" alt="" coords="710,655,816,680"/>
+<area shape="rect" id="node26" href="$namespacequda.html#aafa8cc36197dede49c44b5d7c75e8668" title="quda::copyGauge" alt="" coords="700,853,827,879"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a531b919deacb996b2dcd5dceca01b416" title="quda::copyMom" alt="" coords="705,903,821,928"/>
+<area shape="rect" id="node31" href="$namespacequda.html#a2d8090137e439791eeef2411db9f3932" title="quda::copySpinorEx" alt="" coords="693,1041,834,1067"/>
+<area shape="rect" id="node35" href="$namespacequda_1_1blas.html#aaf1d0525540115aebfccf14f83fd58bc" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="682,1091,845,1116"/>
+<area shape="rect" id="node36" href="$namespacequda_1_1blas.html#a2ea5daad2bfd62f4cc92efd8d9dc7eae" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="681,1140,846,1165"/>
+<area shape="rect" id="node37" href="$namespacequda_1_1blas.html#a13dee1195aac7eed123b27451b474e94" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="681,1189,846,1228"/>
+<area shape="rect" id="node38" href="$namespacequda_1_1blas.html#ad26c389150de84e619d46df94ccd768f" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="666,1252,861,1277"/>
+<area shape="rect" id="node40" href="$namespacequda.html#a210a3e0c3de0fd822d91f68acfb207d9" title="Apply clover&#45;matrix field to a color&#45;spinor field. " alt="" coords="698,1301,829,1327"/>
+<area shape="rect" id="node42" href="$namespacequda.html#a3c307c013d43c3f829373c28c25cf7f0" title="Project the input gauge field onto the SU(3) group. This is a destructive operation. The number of link failures is reported so appropriate action can be taken. " alt="" coords="701,1351,826,1376"/>
+<area shape="rect" id="node44" href="$namespacequda.html#a64e09f301d71a4312184979a6ea0a549" title="Apply twisted clover&#45;matrix field to a color&#45;spinor field. " alt="" coords="683,1400,844,1425"/>
+<area shape="rect" id="node49" href="$namespacequda.html#ad71ac21abf22c5fc68c8588e128dab32" title="Calculate the coarse&#45;link field, include the clover field, and its inverse, and finally also compute ..." alt="" coords="703,1620,823,1645"/>
+</map>

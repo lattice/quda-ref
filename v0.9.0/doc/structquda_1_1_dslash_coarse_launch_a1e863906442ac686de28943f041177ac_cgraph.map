@@ -1,0 +1,11 @@
+<map id="quda::DslashCoarseLaunch::operator()" name="quda::DslashCoarseLaunch::operator()">
+<area shape="rect" id="node2" href="$classquda_1_1_worker.html#a5353c5d9c0b4df92d6a68b8a45b9003d" title="quda::Worker::apply" alt="" coords="256,5,396,31"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#a8391bdc2ccd1583a204b2e5cf204fff7" title="Loop over comm_dim_partitioned(dim) for all comms dimensions. " alt="" coords="263,55,390,80"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#a0a7e300a7fbf85c016d2d6e73f436df6" title="quda::ColorSpinorField\l::exchangeGhost" alt="" coords="247,104,405,143"/>
+<area shape="rect" id="node9" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="263,167,390,205"/>
+<area shape="rect" id="node10" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="239,229,413,255"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="461,55,617,80"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="665,55,752,80"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="800,29,963,55"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="835,79,928,104"/>
+</map>

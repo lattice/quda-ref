@@ -1,0 +1,7 @@
+<map id="include/texture.h" name="include/texture.h">
+<area shape="rect" id="node2" href="$blas__quda_8cu.html" title="lib/blas_quda.cu" alt="" coords="5,79,123,104"/>
+<area shape="rect" id="node3" href="$copy__quda_8cu.html" title="lib/copy_quda.cu" alt="" coords="147,79,269,104"/>
+<area shape="rect" id="node4" href="$multi__blas__quda_8cu.html" title="lib/multi_blas_quda.cu" alt="" coords="293,79,446,104"/>
+<area shape="rect" id="node5" href="$multi__reduce__quda_8cu.html" title="lib/multi_reduce_quda.cu" alt="" coords="470,79,640,104"/>
+<area shape="rect" id="node6" href="$reduce__quda_8cu.html" title="lib/reduce_quda.cu" alt="" coords="664,79,798,104"/>
+</map>

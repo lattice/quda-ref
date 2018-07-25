@@ -1,0 +1,7 @@
+<map id="updateR" name="updateR">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="125,31,270,56"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="318,31,474,56"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="522,31,609,56"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="657,5,820,31"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="692,55,785,80"/>
+</map>

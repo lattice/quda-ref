@@ -1,0 +1,9 @@
+<map id="quda::DiracCoarsePC::reconstruct" name="quda::DiracCoarsePC::reconstruct">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="204,5,396,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_coarse.html#aa082a88d338cb65d6f251d1e7b7469f2" title="Apply the inverse coarse clover operator. " alt="" coords="230,55,370,93"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="220,117,380,143"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_coarse.html#a25227f748c269d75008717b8404bdcc1" title="Apply DslashXpay out = (D * in) " alt="" coords="230,167,370,205"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="226,229,374,255"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#a05c1eeac0ec0080a4fb3df73277944de" title="quda::blas::xpay" alt="" coords="241,279,359,304"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a553cb93873d188cc110e614162a4749e" title="quda::ApplyCoarse" alt="" coords="444,117,579,143"/>
+</map>

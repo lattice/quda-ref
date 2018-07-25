@@ -1,0 +1,5 @@
+<map id="quda::blas::caxpyNormCpu" name="quda::blas::caxpyNormCpu">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ab7457b429a0bcfc0f0ff63ebf44521e6" title="quda::blas::caxpyCpu" alt="" coords="235,5,385,31"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="246,55,374,80"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a3b3c3bd097916b7283aa6b2469f59ea8" title="quda::blas::caxpby" alt="" coords="433,5,566,31"/>
+</map>

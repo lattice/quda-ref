@@ -1,0 +1,6 @@
+<map id="quda::DiracMatrix" name="quda::DiracMatrix">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_m.html" title="quda::DiracM" alt="" coords="5,79,106,104"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_mdag.html" title="quda::DiracMdag" alt="" coords="130,79,253,104"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_mdag_m.html" title="quda::DiracMdagM" alt="" coords="277,79,411,104"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_m_mdag.html" title="quda::DiracMMdag" alt="" coords="434,79,568,104"/>
+</map>

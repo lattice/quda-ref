@@ -1,0 +1,24 @@
+<map id="quda::blas::endReduce" name="quda::blas::endReduce">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="212,283,324,308"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="418,255,494,280"/>
+<area shape="rect" id="node23" href="$classquda_1_1blas_1_1_tile_size_tune.html#a2fb0bfb88975e4846733f3f254e21cba" title="quda::blas::TileSizeTune\l::TileSizeTune" alt="" coords="372,304,539,343"/>
+<area shape="rect" id="node4" href="$covdev__test_8cpp.html#a081b5c662ecee58405a543518f699d31" title="end" alt="" coords="670,32,714,57"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#a31d863afe2d830c1cda501126aec245c" title="end_quda_" alt="" coords="648,81,736,107"/>
+<area shape="rect" id="node9" href="$gauge__force__test_8cpp.html#a7ca518d5f65b192c3be1c0afc9157c04" title="gauge_force_test" alt="" coords="630,131,754,156"/>
+<area shape="rect" id="node11" href="$hisq__paths__force__test_8cpp.html#a1ed189dcfacfaa59bd03c4a0dda61771" title="hisq_force_end" alt="" coords="636,180,748,205"/>
+<area shape="rect" id="node14" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="657,229,728,255"/>
+<area shape="rect" id="node16" href="$blas__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="667,279,717,304"/>
+<area shape="rect" id="node17" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="658,328,727,353"/>
+<area shape="rect" id="node19" href="$class_staggered_dslash_test.html#a8b1ae842bbfb2d5bf343c927540bf7c3" title="StaggeredDslashTest\l::TearDownTestCase" alt="" coords="618,377,766,416"/>
+<area shape="rect" id="node20" href="$class_dslash_test.html#abd278de08be6074222e4dc1b9413cab1" title="DslashTest::TearDownTestCase" alt="" coords="587,440,797,465"/>
+<area shape="rect" id="node21" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="628,489,756,515"/>
+<area shape="rect" id="node5" href="$covdev__test_8cpp.html#a489117f6510f66a2a2ee5e0f085cd7a4" title="dslashCUDA" alt="" coords="852,5,950,31"/>
+<area shape="rect" id="node6" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="1005,31,1089,56"/>
+<area shape="rect" id="node7" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1137,31,1187,56"/>
+<area shape="rect" id="node10" href="$gauge__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="876,131,926,156"/>
+<area shape="rect" id="node12" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="845,180,957,205"/>
+<area shape="rect" id="node13" href="$hisq__paths__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1022,180,1072,205"/>
+<area shape="rect" id="node15" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="876,229,926,255"/>
+<area shape="rect" id="node18" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="876,328,926,353"/>
+<area shape="rect" id="node22" href="$unitarize__link__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="876,489,926,515"/>
+</map>

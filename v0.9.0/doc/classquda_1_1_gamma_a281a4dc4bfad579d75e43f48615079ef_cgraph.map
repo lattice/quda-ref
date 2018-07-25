@@ -1,0 +1,51 @@
+<map id="quda::Gamma::apply" name="quda::Gamma::apply">
+<area shape="rect" id="node2" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="431,35,512,60"/>
+<area shape="rect" id="node8" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="215,545,310,571"/>
+<area shape="rect" id="node9" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="199,595,326,633"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="198,496,327,521"/>
+<area shape="rect" id="node3" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a872ac3564834aa0ba70a9e1bd3c2f9de" title="getenv" alt="" coords="689,5,750,31"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a2f7aa9affb07827bc351c97272c8d5cb" title="quda::blas::init" alt="" coords="666,55,773,80"/>
+<area shape="rect" id="node7" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a2a3c2e9ef2d275dd8caaad644163ad51" title="strcmp" alt="" coords="689,104,750,129"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="905,55,1058,80"/>
+<area shape="rect" id="node6" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1c2be9246be4db51c0f2c90ed370182b" title="memset" alt="" coords="1204,55,1272,80"/>
+<area shape="rect" id="node11" href="$classquda_1_1_tunable.html#a6b682b3aa1e943bbb981c5e0948513d1" title="quda::Tunable::advanceTune\lParam" alt="" coords="375,331,568,369"/>
+<area shape="rect" id="node26" href="$classquda_1_1_tunable.html#a1d6de8001096e7620593315fa6fb51f6" title="quda::Tunable::apply" alt="" coords="399,545,544,571"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a215058968f858fd16b5368d56a916790" title="quda::broadcastTuneCache" alt="" coords="379,647,564,672"/>
+<area shape="rect" id="node30" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="674,647,765,672"/>
+<area shape="rect" id="node33" href="$classquda_1_1_tunable.html#ad192f84c0bfebd5bdb8ada76b333974f" title="quda::Tunable::checkLaunch\lParam" alt="" coords="375,696,567,735"/>
+<area shape="rect" id="node34" href="$comm__quda_8h.html#a7b9e8a5fb7188e57f46e70c3243dfbdd" title="commGlobalReduction" alt="" coords="393,759,550,784"/>
+<area shape="rect" id="node35" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aacfd835356c48b29a023f6351a2775ed" title="ctime" alt="" coords="445,808,498,833"/>
+<area shape="rect" id="node36" href="$classquda_1_1_tunable.html#aded93d27cbfd6568d4f4e44f3e6687ca" title="quda::Tunable::defaultTune\lParam" alt="" coords="628,432,812,471"/>
+<area shape="rect" id="node37" href="$classquda_1_1_tunable.html#a7656afbdf0d2f848ea0058110543abf1" title="quda::Tunable::initTuneParam" alt="" coords="882,388,1081,413"/>
+<area shape="rect" id="node39" href="$classquda_1_1_tunable.html#a4149bcac2c1216e6a6f2223fab27b9ad" title="quda::Tunable::paramString" alt="" coords="378,496,565,521"/>
+<area shape="rect" id="node41" href="$classquda_1_1_tunable.html#a1cb0f81faa3e823b77e75c656969d184" title="quda::Tunable::perfString" alt="" coords="386,857,557,883"/>
+<area shape="rect" id="node43" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aae026724f73c36340024c657f4f44dab" title="time" alt="" coords="697,943,743,968"/>
+<area shape="rect" id="node45" href="$namespacequda.html#a3c503154d742b953547abe4aa49bc130" title="quda::policyTuning" alt="" coords="405,959,538,984"/>
+<area shape="rect" id="node46" href="$classquda_1_1_tunable.html#a813f352da09afa3850a33f960dd8c24e" title="quda::Tunable::postTune" alt="" coords="387,133,556,159"/>
+<area shape="rect" id="node47" href="$classquda_1_1_tunable.html#a84c6bfed530f37c172c1ba576bab9b22" title="quda::Tunable::preTune" alt="" coords="390,183,553,208"/>
+<area shape="rect" id="node48" href="$namespacequda.html#ad5fa4eb2a7891199bf833711b693d295" title="quda::traceEnabled" alt="" coords="403,84,540,109"/>
+<area shape="rect" id="node49" href="$classquda_1_1_tunable.html#aa51219d121871be33e3dba212aa969b0" title="quda::Tunable::tuneKey" alt="" coords="390,232,553,257"/>
+<area shape="rect" id="node50" href="$classquda_1_1_tunable.html#aeda35bb2e3deda6f2b9d140d799d29b6" title="quda::Tunable::tuningIter" alt="" coords="387,281,556,307"/>
+<area shape="rect" id="node12" href="$classquda_1_1_tunable.html#ac10e87df0a27f5e5cc564f612cf0a4b2" title="quda::Tunable::advanceShared\lBytes" alt="" coords="616,216,823,255"/>
+<area shape="rect" id="node15" href="$classquda_1_1_tunable.html#aa910847ecff2328c753eaa063cbb76e5" title="quda::Tunable::advanceBlockDim" alt="" coords="871,336,1091,361"/>
+<area shape="rect" id="node22" href="$classquda_1_1_tunable.html#a73843661254e5850b05a6107f43b12af" title="quda::Tunable::advanceGridDim" alt="" coords="875,547,1088,572"/>
+<area shape="rect" id="node25" href="$classquda_1_1_tunable.html#afd895820479d864bf4b13941153a62ed" title="quda::Tunable::advanceAux" alt="" coords="626,331,813,356"/>
+<area shape="rect" id="node13" href="$classquda_1_1_tunable.html#a09e130131be9e74577d605ced20d7caf" title="quda::Tunable::tuneShared\lBytes" alt="" coords="890,159,1073,197"/>
+<area shape="rect" id="node14" href="$classquda_1_1_tunable.html#ad7c6cbcafb13e0f452a8585316a08615" title="For reason this can&#39;t be queried from the device properties, so here we set set this. Based on Table 14 of the CUDA Programming Guide 9.0 (Technical Specifications per Compute Capability) " alt="" coords="892,273,1070,312"/>
+<area shape="rect" id="node18" href="$classquda_1_1_tunable.html#a67a816b5e7fde0357ea5315c5c2c7d52" title="quda::Tunable::sharedBytes\lPerThread" alt="" coords="1144,273,1332,312"/>
+<area shape="rect" id="node21" href="$classquda_1_1_tunable.html#a8f782b9791855bef208ac38282e5ddea" title="quda::Tunable::sharedBytes\lPerBlock" alt="" coords="1144,132,1332,171"/>
+<area shape="rect" id="node16" href="$classquda_1_1_tunable.html#a06676e80d7fa5ba4ae66efde76f06118" title="quda::Tunable::maxBlockSize" alt="" coords="1139,224,1337,249"/>
+<area shape="rect" id="node17" href="$classquda_1_1_tunable.html#abaacdcd8451528beb11777432d61f527" title="quda::Tunable::blockStep" alt="" coords="1152,336,1324,361"/>
+<area shape="rect" id="node19" href="$classquda_1_1_tunable.html#a528dd6226511d3b6c1cf914dc578a44a" title="quda::Tunable::tuneGridDim" alt="" coords="1144,484,1332,509"/>
+<area shape="rect" id="node20" href="$classquda_1_1_tunable.html#aef0531eaa7950ffe31b0aeb6bb61a75e" title="quda::Tunable::minThreads" alt="" coords="1146,385,1330,411"/>
+<area shape="rect" id="node23" href="$classquda_1_1_tunable.html#adde7021913864e1c0a8d5ed28b1bdcfb" title="quda::Tunable::maxGridSize" alt="" coords="1143,583,1333,608"/>
+<area shape="rect" id="node24" href="$classquda_1_1_tunable.html#aa20f7da95434df64e26a8d11402ed1b1" title="quda::Tunable::minGridSize" alt="" coords="1145,533,1331,559"/>
+<area shape="rect" id="node28" href="$comm__quda_8h.html#a8b877be417d6c8f73bcca8497b730d40" title="comm_broadcast" alt="" coords="658,696,782,721"/>
+<area shape="rect" id="node31" href="$namespacequda.html#ae7f7d2bed3522d1acce3fe9f433c3495" title="quda::deserializeTuneCache" alt="" coords="625,745,815,771"/>
+<area shape="rect" id="node32" href="$namespacequda.html#a4cf7120a3f6aa7fa21ebff3870969bb2" title="quda::serializeTuneCache" alt="" coords="632,795,808,820"/>
+<area shape="rect" id="node29" href="$nvtx__pmpi_8c.html#a5997e8e9b61e2f97c69d0667992fce1c" title="MPI_Bcast" alt="" coords="938,696,1024,721"/>
+<area shape="rect" id="node38" href="$classquda_1_1_tunable.html#a8d751501a35dd0cbbabeb76a4867e29f" title="quda::Tunable::blockMin" alt="" coords="1155,435,1321,460"/>
+<area shape="rect" id="node40" href="$classquda_1_1_tunable.html#a87f1733e3fda434564a29bb208bd3ff2" title="quda::Tunable::tuneAuxDim" alt="" coords="627,597,813,623"/>
+<area shape="rect" id="node42" href="$classquda_1_1_tunable.html#a04cfffd23778967e4278fc9b730f92cb" title="quda::Tunable::flops" alt="" coords="649,844,791,869"/>
+<area shape="rect" id="node44" href="$classquda_1_1_tunable.html#a169c853dc40916cc054c6edeb86e7a71" title="quda::Tunable::bytes" alt="" coords="647,893,792,919"/>
+</map>

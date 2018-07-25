@@ -1,0 +1,21 @@
+<map id="quda::DiracParam" name="quda::DiracParam">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_gauge_field.html" title="quda::cudaGaugeField" alt="" coords="1008,115,1164,141"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac.html" title="quda::Dirac" alt="" coords="1380,183,1469,209"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="645,115,772,141"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="317,99,444,125"/>
+<area shape="rect" id="node8" href="$classquda_1_1_clover_field.html" title="quda::CloverField" alt="" coords="645,65,771,90"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="629,455,787,481"/>
+<area shape="rect" id="node5" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="8,31,105,57"/>
+<area shape="rect" id="node6" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="5,214,108,239"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_clover_field.html" title="quda::cudaCloverField" alt="" coords="1192,55,1347,81"/>
+<area shape="rect" id="node9" href="$classquda_1_1_transfer.html" title="quda::Transfer" alt="" coords="1371,425,1478,450"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="652,642,765,667"/>
+<area shape="rect" id="node15" href="$structquda_1_1_composite_color_spinor_field_descriptor.html" title="quda::CompositeColorSpinor\lFieldDescriptor" alt="" coords="284,471,477,510"/>
+<area shape="rect" id="node16" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="304,422,457,447"/>
+<area shape="rect" id="node17" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="16,422,97,447"/>
+<area shape="rect" id="node18" href="$classquda_1_1_time_profile.html" title="quda::TimeProfile" alt="" coords="1023,203,1148,229"/>
+<area shape="rect" id="node19" href="$structquda_1_1_timer.html" title="quda::Timer" alt="" coords="662,178,754,203"/>
+<area shape="rect" id="node20" href="$structtimeval.html" title="timeval" alt="" coords="349,179,412,205"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="669,235,748,261"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="318,229,443,267"/>
+</map>

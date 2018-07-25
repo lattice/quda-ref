@@ -1,0 +1,20 @@
+<map id="apply_clover" name="apply_clover">
+<area shape="rect" id="node2" href="$clover__reference_8cpp.html#a9a128d1203e70a6c48f51597b88b8081" title="Apply the clover matrix field. " alt="" coords="150,231,268,256"/>
+<area shape="rect" id="node3" href="$hisq__force__reference2_8cpp.html#ad1593bcb1050aa9bf83bbd2ca53077bc" title="conj" alt="" coords="316,231,362,256"/>
+<area shape="rect" id="node4" href="$covdev__reference_8cpp.html#ab0f599f28b95625a5325f690bfba3341" title="mat" alt="" coords="410,231,453,256"/>
+<area shape="rect" id="node5" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="501,143,545,168"/>
+<area shape="rect" id="node6" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="593,117,718,143"/>
+<area shape="rect" id="node7" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="780,55,863,80"/>
+<area shape="rect" id="node12" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="766,104,878,129"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="965,205,1029,231"/>
+<area shape="rect" id="node17" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="786,256,858,281"/>
+<area shape="rect" id="node19" href="$multi__reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="799,5,845,31"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="926,83,1069,108"/>
+<area shape="rect" id="node9" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1117,83,1242,108"/>
+<area shape="rect" id="node10" href="$namespacedeg__tm__dslash__cuda__gen.html#a25e7a316bad796aa725630abc74dc5a6" title="deg_tm_dslash_cuda\l_gen.block" alt="" coords="1290,76,1438,115"/>
+<area shape="rect" id="node11" href="$namespacedeg__tm__dslash__cuda__gen.html#ac31a39a5abf38a3f73ca45dd1f17d622" title="code generation ######################################################################## ..." alt="" coords="1486,76,1634,115"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1159,205,1199,231"/>
+<area shape="rect" id="node15" href="$namespacedeg__tm__dslash__cuda__gen.html#a5524cf75f983fc353a12f9e032276068" title="deg_tm_dslash_cuda\l_gen.a_im" alt="" coords="1290,220,1438,259"/>
+<area shape="rect" id="node16" href="$namespacedeg__tm__dslash__cuda__gen.html#afda57ce5de82b58c957d612f6c36e3f7" title="deg_tm_dslash_cuda\l_gen.a_re" alt="" coords="1290,157,1438,196"/>
+<area shape="rect" id="node18" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="944,281,1050,307"/>
+</map>

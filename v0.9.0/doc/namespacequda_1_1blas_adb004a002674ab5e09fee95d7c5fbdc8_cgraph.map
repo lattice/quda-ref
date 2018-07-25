@@ -1,0 +1,6 @@
+<map id="quda::blas::cabxpyAxCpu" name="quda::blas::cabxpyAxCpu">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a96bda3ac1ae80fd6cc4eb8573c547b40" title="quda::blas::axCpu" alt="" coords="236,5,365,31"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ab7457b429a0bcfc0f0ff63ebf44521e6" title="quda::blas::caxpyCpu" alt="" coords="226,55,375,80"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#aceb39c06f6ed8b68345bb6fa9c12a338" title="quda::blas::axpby" alt="" coords="427,5,553,31"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a3b3c3bd097916b7283aa6b2469f59ea8" title="quda::blas::caxpby" alt="" coords="423,55,556,80"/>
+</map>

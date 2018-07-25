@@ -1,0 +1,11 @@
+<map id="mdw_mat" name="mdw_mat">
+<area shape="rect" id="node2" href="$domain__wall__dslash__reference_8cpp.html#a2ab0fdb6956f86e6d2b28b950784cfc7" title="dslash_4_4d" alt="" coords="152,5,249,31"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="179,55,223,80"/>
+<area shape="rect" id="node6" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="171,104,231,129"/>
+<area shape="rect" id="node7" href="$domain__wall__dslash__reference_8cpp.html#a766f68b0c7cb6d4a92b28c19ac5874d2" title="mdw_dslash_4_pre" alt="" coords="132,153,269,179"/>
+<area shape="rect" id="node9" href="$domain__wall__dslash__reference_8cpp.html#a01d716d8e1107f638ea947f4bf9faf66" title="mdw_dslash_5" alt="" coords="146,203,256,228"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#a05c1eeac0ec0080a4fb3df73277944de" title="quda::blas::xpay" alt="" coords="343,228,462,253"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_field.html#aedfa91e714c61b8e11caec9d2703dcfa" title="quda::GaugeField::Ghost" alt="" coords="317,5,488,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="536,5,718,31"/>
+<area shape="rect" id="node8" href="$dslash__util_8h.html#ab3b65f3e997d5d3cf902c8f4c0f9e78e" title="axpby" alt="" coords="374,153,431,179"/>
+</map>

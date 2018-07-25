@@ -1,0 +1,8 @@
+<map id="quda::blas::reDotProduct" name="quda::blas::reDotProduct">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#ab0e0c436ffe5a991562449d9255e0163" title="reduceDoubleArray" alt="" coords="222,55,358,80"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#aee0b1daeb8b9a004d4f24f8fc23b8270" title="comm_allreduce_array" alt="" coords="406,29,563,55"/>
+<area shape="rect" id="node7" href="$multi__reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="462,79,508,104"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="629,5,701,31"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="611,55,719,80"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="767,55,884,80"/>
+</map>

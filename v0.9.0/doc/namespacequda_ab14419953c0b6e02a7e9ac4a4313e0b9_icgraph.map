@@ -1,0 +1,5 @@
+<map id="quda::linkIndexM1" name="quda::linkIndexM1">
+<area shape="rect" id="node2" href="$namespacequda.html#a97581d8eac7fda559c96a3be44d39b63" title="quda::applyLaplace" alt="" coords="210,5,347,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a7de044440049234d497fc6d2902b1f50" title="quda::computeNeighborSum" alt="" coords="183,55,374,80"/>
+<area shape="rect" id="node4" href="$namespacequda.html#adf2f0dccd32df86017a64ecd522b4976" title="quda::computeYhat" alt="" coords="210,104,347,129"/>
+</map>

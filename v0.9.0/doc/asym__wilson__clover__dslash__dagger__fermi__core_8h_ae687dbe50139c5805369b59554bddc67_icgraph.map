@@ -1,0 +1,7 @@
+<map id="__syncthreads" name="__syncthreads">
+<area shape="rect" id="node2" href="$namespacequda.html#a94f597c77eaea81692f698616f000114" title="quda::GaugeFixHit_AtomicAdd" alt="" coords="170,5,374,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ab1d959dceeb755e0a9b5e3ca2fdaf164" title="quda::GaugeFixHit_NoAtomicAdd" alt="" coords="161,55,383,80"/>
+<area shape="rect" id="node4" href="$namespacequda.html#abfef59dbdb40e50c0865d2fad34e0fca" title="quda::GaugeFixHit_NoAtomic\lAdd_LessSM" alt="" coords="173,104,371,143"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a71e4d5506afe7479a8a6c14517bc53cc" title="quda::reduce2d" alt="" coords="215,167,329,192"/>
+<area shape="rect" id="node6" href="$namespacequda.html#adf289508b1ae22ddf0e73a0f851232f1" title="quda::reduceRow" alt="" coords="209,216,335,241"/>
+</map>

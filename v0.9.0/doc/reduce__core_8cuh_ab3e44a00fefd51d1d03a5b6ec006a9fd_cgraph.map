@@ -1,0 +1,6 @@
+<map id="reduceKernel" name="reduceKernel">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="173,5,251,31"/>
+<area shape="rect" id="node4" href="$reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="189,55,235,80"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="154,104,270,129"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="318,5,410,31"/>
+</map>

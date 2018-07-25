@@ -1,0 +1,7 @@
+<map id="quda::Transfer::R" name="quda::Transfer::R">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="200,5,358,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#acd8c0d81bd53a92345873561c6338967" title="quda::ColorSpinorField\l::GammaBasis" alt="" coords="200,68,358,107"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab1ecadf071018ee4519c12ec2868e0f0" title="Wrapper around cudaDeviceSynchronize or cuDeviceSynchronize. " alt="" coords="178,131,380,156"/>
+<area shape="rect" id="node5" href="$namespacequda.html#afb070d65c4e75d0fa4f60948dd5dc80b" title="Apply the restriction operator. " alt="" coords="227,180,331,205"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="428,173,586,212"/>
+</map>

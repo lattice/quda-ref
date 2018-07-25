@@ -1,0 +1,16 @@
+<map id="quda::DiracWilson::DslashXpay" name="quda::DiracWilson::DslashXpay">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_wilson.html#abc4f601ffc6b06f9eb35a569e1688f12" title="quda::DiracWilson::M" alt="" coords="209,19,357,44"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_wilson_p_c.html#ae62f72186d9b32a31ecebb084cd4cac5" title="quda::DiracWilsonPC::M" alt="" coords="200,75,366,100"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_clover_p_c.html#a3b22e25becd343736df139f81ed36533" title="quda::DiracCloverPC::M" alt="" coords="200,124,365,149"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_wilson_p_c.html#a376ec0f9cf81efa5d330046125772472" title="quda::DiracWilsonPC\l::prepare" alt="" coords="209,173,357,212"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_clover_p_c.html#a3ef0096d2bf6380732a2b84975963496" title="quda::DiracCloverPC\l::prepare" alt="" coords="210,236,356,275"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a6be83a5144164ad7acf1151cb36cd2d2" title="quda::DiracTwistedMassPC\l::prepare" alt="" coords="190,299,375,337"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a575011bb2425b78658f06c3d93eafc24" title="quda::DiracTwistedClover\lPC::prepare" alt="" coords="196,361,369,400"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_wilson_p_c.html#a6d6f3ab0f5b4db70323b46dbf67695cb" title="quda::DiracWilsonPC\l::reconstruct" alt="" coords="209,424,357,463"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_clover_p_c.html#aafe72319c000f86b469b523a261dbde4" title="quda::DiracCloverPC\l::reconstruct" alt="" coords="210,487,356,525"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a410ab24479e1571524de12f5faddbbef" title="quda::DiracTwistedMassPC\l::reconstruct" alt="" coords="190,549,375,588"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_twisted_clover_p_c.html#acc55a7986745e4ad5a5291a394a502ac" title="quda::DiracTwistedClover\lPC::reconstruct" alt="" coords="196,612,369,651"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_wilson.html#aa9bac8abe6993bbc4369e0cdab8e911f" title="quda::DiracWilson::\lMdagM" alt="" coords="429,5,566,44"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_wilson_p_c.html#a413bd77032566b72900aa694e1cfca83" title="quda::DiracWilsonPC\l::MdagM" alt="" coords="423,68,571,107"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_clover_p_c.html#a167c126503885b136a5be871044ca17e" title="quda::DiracCloverPC\l::MdagM" alt="" coords="424,131,571,169"/>
+</map>

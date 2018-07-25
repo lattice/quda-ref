@@ -1,0 +1,37 @@
+<map id="fused_exterior_dw_dslash_cuda_gen.generate_dslash" name="fused_exterior_dw_dslash_cuda_gen.generate_dslash">
+<area shape="rect" id="node2" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#abf90bf3d7d18206984f75012e8420ac4" title="fused_exterior_dw_dslash\l_cuda_gen.epilog" alt="" coords="243,693,419,732"/>
+<area shape="rect" id="node30" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a8429227b944208e946efb2922e843628" title="fused_exterior_dw_dslash\l_cuda_gen.prolog" alt="" coords="701,360,877,399"/>
+<area shape="rect" id="node3" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a05e1a0ea49c32e452cb72654c66d8b47" title="fused_exterior_dw_dslash\l_cuda_gen.apply_clover" alt="" coords="467,1140,643,1179"/>
+<area shape="rect" id="node7" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a503d4d0fbd417b95d6f9a27a9ae31b46" title="fused_exterior_dw_dslash\l_cuda_gen.block" alt="" coords="946,1080,1122,1119"/>
+<area shape="rect" id="node9" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a82eaca4084ac99deede9d013ff06fd09" title="fused_exterior_dw_dslash\l_cuda_gen.c_im" alt="" coords="1181,592,1357,631"/>
+<area shape="rect" id="node10" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a8983165a1a9b67f26b0f93e7fc70386f" title="fused_exterior_dw_dslash\l_cuda_gen.c_re" alt="" coords="1181,693,1357,732"/>
+<area shape="rect" id="node11" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#add803b2d167cc4168c964d55348c28cd" title="fused_exterior_dw_dslash\l_cuda_gen.out_im" alt="" coords="1181,1091,1357,1129"/>
+<area shape="rect" id="node12" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#ae650a83869e5526f39505f42f31070fe" title="fused_exterior_dw_dslash\l_cuda_gen.out_re" alt="" coords="1181,1233,1357,1272"/>
+<area shape="rect" id="node16" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a51e9330554952fc7166d2d16d3c0ee60" title="fused_exterior_dw_dslash\l_cuda_gen.in_re" alt="" coords="1181,443,1357,481"/>
+<area shape="rect" id="node17" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#ab96ce45d21b4ae2724003d65b1f3b14d" title="fused_exterior_dw_dslash\l_cuda_gen.in_im" alt="" coords="1181,172,1357,211"/>
+<area shape="rect" id="node18" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a133a3b05d78c01b5eca89b146d5db28f" title="fused_exterior_dw_dslash\l_cuda_gen.g_im" alt="" coords="1181,5,1357,44"/>
+<area shape="rect" id="node19" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a89f8759c7cb1110d77bc5c80ce84a7e3" title="fused_exterior_dw_dslash\l_cuda_gen.g_re" alt="" coords="1181,81,1357,120"/>
+<area shape="rect" id="node20" href="$namespacedslash__cuda__gen.html#accdcfad27073a7fc9eaacc89b007e0fb" title="dslash_cuda_gen.twisted" alt="" coords="470,1671,641,1696"/>
+<area shape="rect" id="node29" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a89055f1e5e3398d44f12a0a58292d1e1" title="fused_exterior_dw_dslash\l_cuda_gen.xpay_lmem" alt="" coords="946,1423,1122,1461"/>
+<area shape="rect" id="node4" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a05267b26312a34ffd2850044898feb73" title="fused_exterior_dw_dslash\l_cuda_gen.clover_mult" alt="" coords="701,1023,877,1061"/>
+<area shape="rect" id="node13" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#ac1dfabfa76148d0e77563e08619d4228" title="fused_exterior_dw_dslash\l_cuda_gen.from_chiral_basis" alt="" coords="691,1231,887,1269"/>
+<area shape="rect" id="node14" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a6d60df154f5ead7d6339aff45dd96bdd" title="fused_exterior_dw_dslash\l_cuda_gen.to_chiral_basis" alt="" coords="699,1143,879,1181"/>
+<area shape="rect" id="node5" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#abd32ba0fe03c1bb24da31628dc0ce41d" title="fused_exterior_dw_dslash\l_cuda_gen.a_im" alt="" coords="946,1143,1122,1181"/>
+<area shape="rect" id="node6" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#ae2dd41889afe187ac666625068c3f345" title="fused_exterior_dw_dslash\l_cuda_gen.a_re" alt="" coords="946,1257,1122,1296"/>
+<area shape="rect" id="node8" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#aacc52429a55dee946bb5b4eb7a1dee25" title="code generation ######################################################################## ..." alt="" coords="1181,919,1357,957"/>
+<area shape="rect" id="node15" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a44444401403f579fa8e21a5f63496b27" title="fused_exterior_dw_dslash\l_cuda_gen.input_spinor" alt="" coords="946,801,1122,840"/>
+<area shape="rect" id="node21" href="$namespacedslash__cuda__gen.html#afbaedd681062b880b77a63e13b55cbc6" title="dslash_cuda_gen.block" alt="" coords="709,1569,870,1595"/>
+<area shape="rect" id="node23" href="$namespacedslash__cuda__gen.html#a5c5837bb0f54ab1b7be2dc2798150a12" title="dslash_cuda_gen.out_im" alt="" coords="949,1785,1119,1811"/>
+<area shape="rect" id="node24" href="$namespacedslash__cuda__gen.html#ae3fa36ad4ba817dbb677d9c67a8618de" title="dslash_cuda_gen.out_re" alt="" coords="950,1836,1118,1861"/>
+<area shape="rect" id="node25" href="$namespacedslash__cuda__gen.html#aa60b5edbe45945c1bbb6df8bf4ebb066" title="dslash_cuda_gen.tmp_im" alt="" coords="947,1637,1120,1663"/>
+<area shape="rect" id="node26" href="$namespacedslash__cuda__gen.html#ab3d0998997519244668983b8f98f9a23" title="dslash_cuda_gen.tmp_re" alt="" coords="948,1687,1119,1712"/>
+<area shape="rect" id="node27" href="$namespacedslash__cuda__gen.html#a05466193e61db8cc5e319f278851e02d" title="dslash_cuda_gen.twisted\l_rotate" alt="" coords="704,1721,875,1760"/>
+<area shape="rect" id="node22" href="$namespacedslash__cuda__gen.html#af79404325938841f99ad2537862e2e7d" title="code generation ######################################################################## ..." alt="" coords="951,1588,1117,1613"/>
+<area shape="rect" id="node28" href="$namespacedslash__cuda__gen.html#a72c6c6f8b1f64201031b493848b72b32" title="dslash_cuda_gen.sign" alt="" coords="957,1736,1111,1761"/>
+<area shape="rect" id="node31" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a664e4a3a2dc6d36e62b5a1cf77428954" title="fused_exterior_dw_dslash\l_cuda_gen.def_input_spinor" alt="" coords="939,269,1129,308"/>
+<area shape="rect" id="node34" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a991997456881576738daad0599f3996f" title="fused_exterior_dw_dslash\l_cuda_gen.def_gauge" alt="" coords="946,207,1122,245"/>
+<area shape="rect" id="node35" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#a49983b2ee1b2a28ba825f6e78a08d8eb" title="fused_exterior_dw_dslash\l_cuda_gen.def_clover" alt="" coords="946,332,1122,371"/>
+<area shape="rect" id="node36" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#aa257405e96488ff18585e325034a2c5f" title="fused_exterior_dw_dslash\l_cuda_gen.def_output_spinor" alt="" coords="935,864,1133,903"/>
+<area shape="rect" id="node32" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#abfda7819873bf52915de22bd84c6cc22" title="fused_exterior_dw_dslash\l_cuda_gen.nthFloat2" alt="" coords="1181,263,1357,301"/>
+<area shape="rect" id="node33" href="$namespacefused__exterior__dw__dslash__cuda__gen.html#ab9458787a7ec512ed73a0e6d262bde31" title="fused_exterior_dw_dslash\l_cuda_gen.nthFloat4" alt="" coords="1181,325,1357,364"/>
+</map>

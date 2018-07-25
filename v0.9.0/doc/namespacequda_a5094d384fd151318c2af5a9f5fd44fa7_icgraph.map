@@ -1,0 +1,24 @@
+<map id="quda::abs" name="quda::abs">
+<area shape="rect" id="node2" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="133,205,213,231"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ac973fcc768c8805999bf969d55d74b6f" title="quda::ComputeHarmonicRitz\l\&lt; libtype::eigen_lib \&gt;" alt="" coords="261,5,454,44"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a70335f89785e7fec8596640185e70900" title="quda::ComputeHarmonicRitz\l\&lt; libtype::magma_lib \&gt;" alt="" coords="261,68,454,107"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a48425cd25adf08e93e618efabc853845" title="quda::log" alt="" coords="319,131,395,156"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a660d32cc6058da0a0d34ec52b59b6e6f" title="quda::maxGauge" alt="" coords="296,180,419,205"/>
+<area shape="rect" id="node7" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="267,229,448,255"/>
+<area shape="rect" id="node8" href="$namespacequda.html#af45373d4133b16b00273a645a9435676" title="Solve the equation A p_k psi_k = b by minimizing the residual and using Gaussian elimination. " alt="" coords="313,279,402,304"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a71955a4d17608243e0db0fcdf30e97c5" title="quda::sqrt" alt="" coords="317,328,398,353"/>
+<area shape="rect" id="node20" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="336,377,379,403"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="553,205,639,231"/>
+<area shape="rect" id="node14" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="529,279,663,304"/>
+<area shape="rect" id="node18" href="$classquda_1_1_min_res_ext.html#ab4acc2e02a9f112b964b88e099f32b86" title="quda::MinResExt::operator()" alt="" coords="502,328,690,353"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="738,131,837,156"/>
+<area shape="rect" id="node11" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="746,180,829,205"/>
+<area shape="rect" id="node13" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="763,229,813,255"/>
+<area shape="rect" id="node12" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="885,180,935,205"/>
+<area shape="rect" id="node15" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="746,279,829,304"/>
+<area shape="rect" id="node17" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="763,328,813,353"/>
+<area shape="rect" id="node16" href="$staggered__invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="885,279,935,304"/>
+<area shape="rect" id="node21" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="552,377,640,403"/>
+<area shape="rect" id="node23" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="560,427,632,452"/>
+<area shape="rect" id="node22" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="763,377,813,403"/>
+</map>

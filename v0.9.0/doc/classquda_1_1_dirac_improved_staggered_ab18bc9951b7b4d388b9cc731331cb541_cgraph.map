@@ -1,0 +1,5 @@
+<map id="quda::DiracImprovedStaggered::Dslash" name="quda::DiracImprovedStaggered::Dslash">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_improved_staggered.html#ab6598d5bcd11120b045e01293e6e3ada" title="quda::DiracImprovedStaggered\l::checkParitySpinor" alt="" coords="280,5,487,44"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ae46647ae7edd5bd77f6f243feb6cc041" title="quda::improvedStaggeredDslashCuda" alt="" coords="260,68,507,93"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="555,5,682,44"/>
+</map>

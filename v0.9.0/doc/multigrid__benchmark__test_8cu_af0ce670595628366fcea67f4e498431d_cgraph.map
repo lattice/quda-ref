@@ -1,0 +1,51 @@
+<map id="benchmark" name="benchmark">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_coarse.html#a12e57799c86f32aa433f8ca2a0e0b881" title="Apply the coarse clover operator. " alt="" coords="166,5,306,44"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_coarse.html#a25227f748c269d75008717b8404bdcc1" title="Apply DslashXpay out = (D * in) " alt="" coords="166,68,306,107"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="157,131,315,169"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_coarse.html#a89e6cba5df9f38343a33ebf585256887" title="Apply the full operator. " alt="" coords="160,193,311,219"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#a4113be893234cf6813ad7438d6d0b210" title="quda::ColorSpinorField::Odd" alt="" coords="141,243,331,268"/>
+<area shape="rect" id="node8" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="214,1092,257,1117"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a553cb93873d188cc110e614162a4749e" title="quda::ApplyCoarse" alt="" coords="436,43,571,68"/>
+<area shape="rect" id="node9" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="463,92,543,117"/>
+<area shape="rect" id="node10" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0403171930f8f8f82012f8e85cf25557" title="abs" alt="" coords="482,141,525,167"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1blas.html#a68510b80be006181c00b6ebe8d90c57f" title="quda::blas::ax" alt="" coords="451,191,556,216"/>
+<area shape="rect" id="node12" href="$namespacequda_1_1blas.html#aceb39c06f6ed8b68345bb6fa9c12a338" title="quda::blas::axpby" alt="" coords="440,240,566,265"/>
+<area shape="rect" id="node13" href="$namespacequda_1_1blas.html#a2b270ab0faa5019acc2d909cc80c9556" title="quda::blas::axpy" alt="" coords="444,289,563,315"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1blas.html#ad93b3e829f846d2d1869f064f36e25c6" title="quda::blas::axpyBzpcx" alt="" coords="426,339,581,364"/>
+<area shape="rect" id="node15" href="$namespacequda_1_1blas.html#a0d223a4bbe67ca9373e44b2f666970f9" title="quda::blas::axpyNorm" alt="" coords="428,388,579,413"/>
+<area shape="rect" id="node16" href="$namespacequda_1_1blas.html#a4a489d60c185fc27b4619160b649bb2e" title="quda::blas::axpyReDot" alt="" coords="425,437,581,463"/>
+<area shape="rect" id="node17" href="$namespacequda_1_1blas.html#a9490ad2ed145e8247bcb0589fb653c5e" title="quda::blas::axpyZpbx" alt="" coords="429,487,577,512"/>
+<area shape="rect" id="node18" href="$namespacequda_1_1blas.html#a1fcb5211b86dded869cdd90b9a71d01e" title="quda::blas::cabxpyAx" alt="" coords="429,536,577,561"/>
+<area shape="rect" id="node19" href="$namespacequda_1_1blas.html#aef5a4a651f6261a722f5d02e9ca335c0" title="quda::blas::cabxpyAxNorm" alt="" coords="413,585,594,611"/>
+<area shape="rect" id="node20" href="$namespacequda_1_1blas.html#a3b3c3bd097916b7283aa6b2469f59ea8" title="quda::blas::caxpby" alt="" coords="437,635,570,660"/>
+<area shape="rect" id="node21" href="$namespacequda_1_1blas.html#a667c89667978035c9c97c0a732d843cb" title="quda::blas::caxpbypczpw" alt="" coords="418,684,589,709"/>
+<area shape="rect" id="node22" href="$namespacequda_1_1blas.html#ac2fa08e7ec5532c9189ca6e6bb9ddcb0" title="quda::blas::caxpbypz" alt="" coords="430,733,577,759"/>
+<area shape="rect" id="node23" href="$namespacequda_1_1blas.html#a1692ccccb357a4fe0139c8a118f7a998" title="quda::blas::caxpbypzYmbw" alt="" coords="412,783,595,808"/>
+<area shape="rect" id="node24" href="$namespacequda_1_1blas.html#a7ab037b81c2652bfe90116a0c6d55fd9" title="quda::blas::caxpbypzYmbwc\lDotProductUYNormY" alt="" coords="408,832,599,871"/>
+<area shape="rect" id="node25" href="$namespacequda_1_1blas.html#ae3e5e69d87a6db7678c8fb7dc14daca7" title="quda::blas::caxpy" alt="" coords="441,895,566,920"/>
+<area shape="rect" id="node26" href="$namespacequda_1_1blas.html#a913068573c14152024bffbc89a326607" title="quda::blas::caxpyBxpz" alt="" coords="426,944,581,969"/>
+<area shape="rect" id="node27" href="$namespacequda_1_1blas.html#a63eed4ddcab58f1238e385934340c582" title="quda::blas::caxpyBzpx" alt="" coords="426,993,581,1019"/>
+<area shape="rect" id="node28" href="$namespacequda_1_1blas.html#a0fe90ca484a30b523a867a192948f683" title="quda::blas::caxpyDotzy" alt="" coords="424,1043,583,1068"/>
+<area shape="rect" id="node29" href="$namespacequda_1_1blas.html#ab42226e858cfea78e0175ea0cf4f631d" title="quda::blas::caxpyNorm" alt="" coords="425,1092,582,1117"/>
+<area shape="rect" id="node30" href="$namespacequda_1_1blas.html#a98e6d50c9949972ac3e98cca1556f22d" title="quda::blas::caxpyXmaz" alt="" coords="424,1141,583,1167"/>
+<area shape="rect" id="node31" href="$namespacequda_1_1blas.html#a741e9f0bc2c6405be030b1f73e2062b7" title="quda::blas::caxpyXmazNormX" alt="" coords="403,1191,604,1216"/>
+<area shape="rect" id="node32" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="422,1240,585,1265"/>
+<area shape="rect" id="node33" href="$namespacequda_1_1blas.html#acb454ec63e420889abf77968b103ad3c" title="quda::blas::cDotProductNormA" alt="" coords="401,1289,606,1315"/>
+<area shape="rect" id="node34" href="$namespacequda_1_1blas.html#ace51af2e017b9d4292669f1d7e81eb6a" title="quda::blas::cDotProductNormB" alt="" coords="401,1339,606,1364"/>
+<area shape="rect" id="node35" href="$classquda_1_1_color_spinor_field.html#ae0819f9471411d51352d86d5b12ef830" title="quda::ColorSpinorField\l::Component" alt="" coords="425,1388,582,1427"/>
+<area shape="rect" id="node36" href="$classquda_1_1_color_spinor_field.html#a59441fb61d11540d7d02de34e9ce4c6b" title="quda::ColorSpinorField\l::Components" alt="" coords="425,1451,582,1489"/>
+<area shape="rect" id="node37" href="$namespacequda_1_1blas.html#aee938c63ad4eaa9d0ccc7d50013a5618" title="quda::blas::copy" alt="" coords="444,1513,563,1539"/>
+<area shape="rect" id="node38" href="$namespacequda_1_1blas.html#ae82022c2b13c8d7bf6c69b3cdac5b7e2" title="quda::blas::cxpaypbz" alt="" coords="430,1563,577,1588"/>
+<area shape="rect" id="node39" href="$namespacequda.html#ab9b7c656cfd4121b9d553997230d76e2" title="quda::exp" alt="" coords="463,1612,543,1637"/>
+<area shape="rect" id="node40" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1354b6667fe971c1d7bf28dcef770265" title="fabs" alt="" coords="480,1661,527,1687"/>
+<area shape="rect" id="node41" href="$namespacequda_1_1blas.html#a46268afb6cc8f820c3b37ff6607e6954" title="quda::blas::HeavyQuarkResidualNorm" alt="" coords="379,1711,628,1736"/>
+<area shape="rect" id="node42" href="$namespacequda_1_1blas.html#aec46e12571788f582965fead61365873" title="quda::blas::mxpy" alt="" coords="442,1760,564,1785"/>
+<area shape="rect" id="node43" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="439,1809,567,1835"/>
+<area shape="rect" id="node44" href="$namespacequda_1_1blas.html#ac6bd2bf937b215506155a4c1fc61a6c6" title="quda::blas::reDotProduct" alt="" coords="419,1859,588,1884"/>
+<area shape="rect" id="node45" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="463,1908,544,1933"/>
+<area shape="rect" id="node46" href="$namespacequda_1_1blas.html#a5c9e3f5ec1c7cb5e8c49482770516a57" title="quda::blas::tripleCGReduction" alt="" coords="404,1957,603,1983"/>
+<area shape="rect" id="node47" href="$namespacequda_1_1blas.html#a6e1f2670fb0c1c1f63b66317473b6a0b" title="quda::blas::tripleCGUpdate" alt="" coords="412,2007,594,2032"/>
+<area shape="rect" id="node48" href="$namespacequda_1_1blas.html#a53d7fb8e21b813343450b14c6ba7e631" title="quda::blas::xmyNorm" alt="" coords="430,2056,577,2081"/>
+<area shape="rect" id="node49" href="$namespacequda_1_1blas.html#a05c1eeac0ec0080a4fb3df73277944de" title="quda::blas::xpay" alt="" coords="444,2105,563,2131"/>
+<area shape="rect" id="node50" href="$namespacequda_1_1blas.html#ae5cd522aa91eeaa385dfb70cf6f85c4a" title="quda::blas::xpaycDotzy" alt="" coords="424,2155,583,2180"/>
+</map>

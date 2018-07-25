@@ -1,0 +1,7 @@
+<map id="quda::blas::caxpy_recurse" name="quda::blas::caxpy_recurse">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a3d57d223254e004ef968e2af27780774" title="Compute the block &quot;caxpy&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="239,5,364,31"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a7e8d737b545e1b4f3bcc9283ab360138" title="Compute the block &quot;caxpy_L&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="231,55,371,80"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#abd5c82dcc90a9903d04e90992ad5d192" title="Compute the block &quot;caxpy_U&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="230,104,372,129"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ac5b01c5b684e6dc1f40e70146c703c47" title="This is a wrapper for calling the block &quot;caxpy_U&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="422,55,561,80"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a4f78e9359a0b78f019fb7d50469d3034" title="This is a wrapper for calling the block &quot;caxpy_U&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="420,104,563,129"/>
+</map>

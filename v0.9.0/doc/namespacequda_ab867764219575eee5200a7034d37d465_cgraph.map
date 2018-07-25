@@ -1,0 +1,9 @@
+<map id="quda::maxGauge" name="quda::maxGauge">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#ab875db966189cb025989e43275f78830" title="quda::GaugeField::Gauge_p" alt="" coords="177,5,367,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_field.html#ab655802370bde3461711f30a2da68bb7" title="quda::GaugeField::Ncolor" alt="" coords="185,55,358,80"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="187,104,356,129"/>
+<area shape="rect" id="node5" href="$comm__quda_8h.html#a26b41905253159ecb15bb3d1c881619c" title="reduceMaxDouble" alt="" coords="207,153,337,179"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#abdf7d13f471c3c6b39e142c09fb130b4" title="comm_allreduce_max" alt="" coords="415,153,566,179"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="614,153,722,179"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="770,153,887,179"/>
+</map>

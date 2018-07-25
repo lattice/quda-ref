@@ -1,0 +1,5 @@
+<map id="quda::cudaCloverField::saveCPUField" name="quda::cudaCloverField::saveCPUField">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html#aa7454e5d3f27a4c7368be0b70fda40b2" title="quda::LatticeField\l::checkField" alt="" coords="231,5,357,44"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a66381cafed77b92ed2f0278b373d4ec5" title="This generic function is used for copying the clover field where in the input and output can be in an..." alt="" coords="208,68,380,93"/>
+<area shape="rect" id="node4" href="$classquda_1_1_clover_field.html#a6ee83d32cf08ff66f215da8eaa30f97f" title="quda::CloverField::V" alt="" coords="223,117,365,143"/>
+</map>

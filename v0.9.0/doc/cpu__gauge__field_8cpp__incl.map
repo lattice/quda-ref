@@ -1,0 +1,14 @@
+<map id="lib/cpu_gauge_field.cpp" name="lib/cpu_gauge_field.cpp">
+<area shape="rect" id="node2" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="587,152,700,177"/>
+<area shape="rect" id="node24" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="809,79,910,104"/>
+<area shape="rect" id="node3" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="100,225,224,251"/>
+<area shape="rect" id="node9" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="367,299,470,324"/>
+<area shape="rect" id="node11" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="923,225,985,251"/>
+<area shape="rect" id="node14" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="455,225,541,251"/>
+<area shape="rect" id="node20" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="272,225,380,251"/>
+<area shape="rect" id="node22" href="$object_8h.html" title="object.h" alt="" coords="565,225,634,251"/>
+<area shape="rect" id="node13" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="904,299,1031,324"/>
+<area shape="rect" id="node16" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="775,299,880,324"/>
+<area shape="rect" id="node18" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="581,299,666,324"/>
+<area shape="rect" id="node25" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="983,152,1082,177"/>
+</map>

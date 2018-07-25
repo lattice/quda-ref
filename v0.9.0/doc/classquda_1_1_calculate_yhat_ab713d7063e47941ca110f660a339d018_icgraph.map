@@ -1,0 +1,11 @@
+<map id="quda::CalculateYhat::apply" name="quda::CalculateYhat::apply">
+<area shape="rect" id="node2" href="$namespacequda.html#ad71ac21abf22c5fc68c8588e128dab32" title="Calculate the coarse&#45;link field, include the clover field, and its inverse, and finally also compute ..." alt="" coords="195,200,315,225"/>
+<area shape="rect" id="node3" href="$namespacequda.html#afd209a310946d067b22d56ff2e821c1d" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="363,200,482,225"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_wilson.html#ae5d7d91c1d9d0163e1d013569bb3edfe" title="Create the coarse Wilson operator. " alt="" coords="554,5,691,44"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_clover.html#a67bd09b3508ce62334202cdb18d7f919" title="Create the coarse clover operator. " alt="" coords="555,68,690,107"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_clover_p_c.html#af1af3786ae321dbfd20845a345596744" title="Create the coarse even&#45;odd preconditioned clover operator. Unlike the Wilson operator, the coarsening of the preconditioned clover operator differs from that of the unpreconditioned clover operator, so we need to specialize it. " alt="" coords="549,131,696,169"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_twisted_mass.html#a9623b614f5702c174f15ce52856daeef" title="Create the coarse twisted&#45;mass operator. " alt="" coords="539,193,706,232"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a4cfc1acb068f09fdb81c635187a916f3" title="Create the coarse even&#45;odd preconditioned twisted&#45;mass operator. " alt="" coords="530,256,715,295"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_twisted_clover.html#a6d5e47bf61539cae1c43e0b709fd95e9" title="Create the coarse twisted&#45;clover operator. " alt="" coords="536,319,709,357"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a7faa63737629c198bc15929b11611f5d" title="Create the coarse even&#45;odd preconditioned twisted&#45;clover operator. Unlike the Wilson operator..." alt="" coords="536,381,709,420"/>
+</map>

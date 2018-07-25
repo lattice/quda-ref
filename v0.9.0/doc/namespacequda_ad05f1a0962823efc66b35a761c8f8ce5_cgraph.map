@@ -1,0 +1,5 @@
+<map id="quda::safe_malloc_" name="quda::safe_malloc_">
+<area shape="rect" id="node2" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="227,5,287,31"/>
+<area shape="rect" id="node3" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1c2be9246be4db51c0f2c90ed370182b" title="memset" alt="" coords="223,55,291,80"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a48b853dffcb810ee388424076403d694" title="quda::track_malloc" alt="" coords="190,104,324,129"/>
+</map>

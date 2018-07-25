@@ -1,0 +1,28 @@
+<map id="initCommsGridQuda" name="initCommsGridQuda">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a91a8b784bb89b3192f2e23edfb0df609" title="comm_set_gridsize_" alt="" coords="195,267,339,292"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#add03448c5bbe339a93332f6907881a7e" title="init_default_comms" alt="" coords="199,316,335,341"/>
+<area shape="rect" id="node27" href="$test__util_8h.html#a629df5f9a9d54e7c434fc98bdf567fa7" title="initComms" alt="" coords="581,463,666,488"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#a102297e079ab0f39e6e2006956f9714d" title="initQuda" alt="" coords="588,291,659,316"/>
+<area shape="rect" id="node25" href="$interface__quda_8cpp.html#a016889ba93ea2794377f06cd752b2d50" title="initQudaMemory" alt="" coords="387,265,506,291"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a605483de5a42ec5689d7307bd8aa9078" title="init_quda_" alt="" coords="792,315,875,340"/>
+<area shape="rect" id="node6" href="$blas__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="809,512,859,537"/>
+<area shape="rect" id="node7" href="$covdev__test_8cpp.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="815,364,853,389"/>
+<area shape="rect" id="node10" href="$class_dslash_test.html#a0081855be8903830a6048d70163d5fc1" title="DslashTest::SetUpTestCase" alt="" coords="741,413,927,439"/>
+<area shape="rect" id="node11" href="$gauge__force__test_8cpp.html#a7ca518d5f65b192c3be1c0afc9157c04" title="gauge_force_test" alt="" coords="772,5,896,31"/>
+<area shape="rect" id="node13" href="$hisq__paths__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="780,55,888,80"/>
+<area shape="rect" id="node16" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="798,104,869,129"/>
+<area shape="rect" id="node18" href="$class_staggered_dslash_test.html#a753cd9938903aafb45dd0e747b67fdb0" title="StaggeredDslashTest\l::SetUpTestCase" alt="" coords="760,153,908,192"/>
+<area shape="rect" id="node19" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="793,216,875,241"/>
+<area shape="rect" id="node21" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="800,463,868,488"/>
+<area shape="rect" id="node23" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="770,265,898,291"/>
+<area shape="rect" id="node8" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="989,364,1073,389"/>
+<area shape="rect" id="node9" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1135,364,1185,389"/>
+<area shape="rect" id="node12" href="$gauge__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1006,5,1056,31"/>
+<area shape="rect" id="node14" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="975,55,1087,80"/>
+<area shape="rect" id="node15" href="$hisq__paths__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1135,55,1185,80"/>
+<area shape="rect" id="node17" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1006,104,1056,129"/>
+<area shape="rect" id="node20" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1006,216,1056,241"/>
+<area shape="rect" id="node22" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1006,463,1056,488"/>
+<area shape="rect" id="node24" href="$unitarize__link__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1006,265,1056,291"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#a3c9e45e2cb4113a50f9fae983403e1f2" title="init_quda_memory_" alt="" coords="554,241,693,267"/>
+</map>

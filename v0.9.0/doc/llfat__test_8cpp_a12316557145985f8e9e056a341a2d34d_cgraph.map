@@ -1,0 +1,51 @@
+<map id="llfat_test" name="llfat_test">
+<area shape="rect" id="node2" href="$namespacedw__dslash__4_d__cuda__gen.html#addf26f8d1c6f0eb7bd01c67a0dcfc364" title="dw_dslash_4D_cuda_gen.coeff" alt="" coords="618,553,825,579"/>
+<area shape="rect" id="node3" href="$test__util_8cpp.html#a1244effd0adae5a388152a5f0c1a926d" title="compare_floats" alt="" coords="157,132,269,157"/>
+<area shape="rect" id="node6" href="$quda_8h.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="140,749,287,775"/>
+<area shape="rect" id="node14" href="$llfat__reference_8cpp.html#a46a4c77a812394de82360606bef3072b" title="computeLongLinkCPU" alt="" coords="136,1067,291,1092"/>
+<area shape="rect" id="node18" href="$test__util_8cpp.html#a6623ee545f9e26e20e2f9205e31805e6" title="createSiteLinkCPU" alt="" coords="146,307,280,332"/>
+<area shape="rect" id="node27" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="175,1264,251,1289"/>
+<area shape="rect" id="node40" href="$test__util_8h.html#ae101a4d75bc466870b0a6d21c5e12641" title="exchange_cpu_sitelink" alt="" coords="135,1313,291,1339"/>
+<area shape="rect" id="node41" href="$test__util_8h.html#a70a086cc63080fb6b9e0434abb2b0b6e" title="exchange_cpu_sitelink_ex" alt="" coords="124,1363,302,1388"/>
+<area shape="rect" id="node42" href="$test__util_8h.html#ac57fe6230b3746a92db316942b3a9cd4" title="exchange_llfat_cleanup" alt="" coords="132,1412,294,1437"/>
+<area shape="rect" id="node43" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="178,1461,249,1487"/>
+<area shape="rect" id="node44" href="$llfat__reference_8cpp.html#acd5781bd4bc58c138d6853b33c60a525" title="llfat_reference" alt="" coords="160,504,266,529"/>
+<area shape="rect" id="node45" href="$llfat__reference_8h.html#acd15e4ac9b0c3f86e5782926da1d4c9c" title="llfat_reference_mg" alt="" coords="147,1511,279,1536"/>
+<area shape="rect" id="node46" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="177,1560,249,1585"/>
+<area shape="rect" id="node47" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1c2be9246be4db51c0f2c90ed370182b" title="memset" alt="" coords="179,1609,248,1635"/>
+<area shape="rect" id="node48" href="$quda_8h.html#a4d9475cdfdd2d15b5d94e8588f835645" title="newQudaGaugeParam" alt="" coords="134,1659,292,1684"/>
+<area shape="rect" id="node49" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="178,1708,248,1733"/>
+<area shape="rect" id="node50" href="$test__util_8cpp.html#a3be27de31f21bd52ac381e55b4f0fb49" title="strong_check_link" alt="" coords="149,1757,277,1783"/>
+<area shape="rect" id="node4" href="$test__util_8cpp.html#ad88f94a24f40b42cf4a14d321e5d6bd3" title="compareFloats" alt="" coords="405,5,515,31"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1354b6667fe971c1d7bf28dcef770265" title="fabs" alt="" coords="698,56,745,81"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="383,603,537,628"/>
+<area shape="rect" id="node8" href="$namespacequda.html#abdcc468dc619c7c3a6267a927cd0b417" title="Compute the fat and long links for an improved staggered (Kogut&#45;Susskind) fermions. " alt="" coords="387,553,533,579"/>
+<area shape="rect" id="node9" href="$structquda_1_1_gauge_field_param.html#a1b3f06e050d00ec142f9e2900ca6874c" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="638,736,805,775"/>
+<area shape="rect" id="node10" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="382,652,538,691"/>
+<area shape="rect" id="node11" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="382,715,538,753"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a3c09d0ff142aeda455e7fa29a0ef81f8" title="quda::setUnitarizeLinksConstants" alt="" coords="350,777,570,803"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a6a7482fee61fb7805862e6b22ab9d28a" title="quda::unitarizeLinks" alt="" coords="390,827,530,852"/>
+<area shape="rect" id="node15" href="$llfat__reference_8cpp.html#a2da40097bcf93bb08b9efb3d86cc55e0" title="llfat_mult_su3_nn" alt="" coords="397,1091,523,1116"/>
+<area shape="rect" id="node16" href="$llfat__reference_8cpp.html#a5d59d11c27aa03533ef2f473967e285b" title="llfat_scalar_mult_su3\l_matrix" alt="" coords="387,979,533,1017"/>
+<area shape="rect" id="node17" href="$gauge__force__reference_8cpp.html#a3e96b500dae48e2ee7f67df9bca3cbe5" title="neighborIndexFullLattice" alt="" coords="377,1041,543,1067"/>
+<area shape="rect" id="node19" href="$test__util_8cpp.html#ad9e6d31f3ed9ea6998c9444fd56789a8" title="constructUnitaryGaugeField" alt="" coords="367,307,553,332"/>
+<area shape="rect" id="node20" href="$comm__quda_8h.html#a206b67c95a89bcfed306b2994205b473" title="commCoords" alt="" coords="410,356,510,381"/>
+<area shape="rect" id="node21" href="$comm__quda_8h.html#a589430861080cdc7c23a8d74cfe75c93" title="commDim" alt="" coords="419,405,501,431"/>
+<area shape="rect" id="node22" href="$test__util_8cpp.html#abd8308e0d3bb82711cf9d214112d9cbc" title="fullLatticeIndex" alt="" coords="405,107,515,132"/>
+<area shape="rect" id="node23" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afe176b0807dfea419d70b1376ea761a4" title="printf" alt="" coords="435,208,486,233"/>
+<area shape="rect" id="node24" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a7459c10a5fdd8a4f91880bf0f46e722f" title="exit" alt="" coords="439,455,481,480"/>
+<area shape="rect" id="node25" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0430bdfe4bb6120a3151784af934f0dc" title="fabsf" alt="" coords="435,257,485,283"/>
+<area shape="rect" id="node26" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a6513e6416e469f8af2665d5793c3782f" title="fprintf" alt="" coords="433,504,487,529"/>
+<area shape="rect" id="node28" href="$namespacequda.html#ac466a953381d986b1eca6880f1fda568" title="quda::assertAllMemFree" alt="" coords="377,1561,543,1587"/>
+<area shape="rect" id="node29" href="$comm__quda_8h.html#acae24b1f48d2fe459c280cf33e61cc6e" title="comm_finalize" alt="" coords="407,1611,513,1636"/>
+<area shape="rect" id="node30" href="$namespacequda.html#a4f1346eb3e34bbda30ff8983af3f81c1" title="quda::destroyDslashEvents" alt="" coords="368,1660,552,1685"/>
+<area shape="rect" id="node31" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="404,1709,516,1735"/>
+<area shape="rect" id="node32" href="$namespacequda_1_1pool.html#aafe898a5f018221ffd9f6336376a3a01" title="Free all outstanding device&#45;memory allocations. " alt="" coords="377,1140,543,1165"/>
+<area shape="rect" id="node33" href="$namespacequda_1_1pool.html#aa026d9c5ea0fa0090dfce4792b96908c" title="Free all outstanding pinned&#45;memory allocations. " alt="" coords="377,1189,543,1215"/>
+<area shape="rect" id="node34" href="$interface__quda_8cpp.html#ab1d3e5c24eb7fcb0d2afffd71ce807f5" title="Flush the chronological history for the given index. " alt="" coords="397,1239,523,1264"/>
+<area shape="rect" id="node35" href="$interface__quda_8cpp.html#a9221f8639873c0844f04bc64d5e31ccd" title="freeCloverQuda" alt="" coords="402,1288,518,1313"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="402,1337,519,1363"/>
+<area shape="rect" id="node37" href="$classquda_1_1_lattice_field.html#af3e43730f50a448d8b818413b9256fbc" title="Free statically allocated ghost buffers. " alt="" coords="397,1387,523,1425"/>
+<area shape="rect" id="node38" href="$classquda_1_1cpu_color_spinor_field.html#a51d79fe9a54a572b777123a2cd133752" title="quda::cpuColorSpinorField\l::freeGhostBuffer" alt="" coords="370,1449,550,1488"/>
+<area shape="rect" id="node39" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a872ac3564834aa0ba70a9e1bd3c2f9de" title="getenv" alt="" coords="429,1512,491,1537"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="quda::ColorSpinorField::FieldOrder" name="quda::ColorSpinorField::FieldOrder">
+<area shape="rect" id="node2" href="$namespacequda.html#a33de5f8df071fe3b63d94738f6695b5d" title="Driver for applying the covariant derivative. " alt="" coords="248,125,387,151"/>
+<area shape="rect" id="node9" href="$namespacequda.html#aef3d9d4bc466961551296a7825590aee" title="quda::copyExtendedColorSpinor" alt="" coords="211,191,424,216"/>
+<area shape="rect" id="node10" href="$namespacequda.html#ade1c2e8cef0f1d63a2b1fb35a40def2f" title="quda::copyGenericColorSpinor" alt="" coords="216,240,420,265"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html#aaa41e877573c40c38c7542eda455145c" title="quda::ColorSpinorField\l::createGhostZone" alt="" coords="239,289,397,328"/>
+<area shape="rect" id="node18" href="$classquda_1_1_lattice_field.html#a6ac04d638e49aa1ed1d6b66ec1dbca39" title="quda::LatticeField\l::Nvec" alt="" coords="254,352,381,391"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a8fe86e73d78ec0ec9bbd5517e0bc7ca6" title="Apply the prolongation operator. " alt="" coords="256,472,379,497"/>
+<area shape="rect" id="node31" href="$namespacequda.html#afb070d65c4e75d0fa4f60948dd5dc80b" title="Apply the restriction operator. " alt="" coords="266,521,369,547"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_cov_dev.html#add1772de63a1b81e957fc63bd06b4897" title="quda::GaugeCovDev::\lDslashCD" alt="" coords="489,93,642,132"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_cov_dev.html#a03515abb5f8cd7f7ef65269adb8ef5ce" title="quda::GaugeCovDev::MCD" alt="" coords="719,68,903,93"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_cov_dev.html#a329cf745c76f7a7b726ee45aaf272a0e" title="quda::GaugeCovDev::\lMdagMCD" alt="" coords="980,5,1133,44"/>
+<area shape="rect" id="node6" href="$covdev__test_8cpp.html#a489117f6510f66a2a2ee5e0f085cd7a4" title="dslashCUDA" alt="" coords="1008,68,1105,93"/>
+<area shape="rect" id="node7" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="1198,68,1282,93"/>
+<area shape="rect" id="node8" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1330,68,1380,93"/>
+<area shape="rect" id="node12" href="$classquda_1_1cuda_color_spinor_field.html#ae17ff77d97453e7bff3273c7a296b2b1" title="Allocate the ghost buffers. " alt="" coords="472,189,659,228"/>
+<area shape="rect" id="node13" href="$classquda_1_1cuda_color_spinor_field.html#a1a36967996f6c7c4297da38fbedf3a6b" title="Create the communication handlers and buffers. " alt="" coords="718,136,904,175"/>
+<area shape="rect" id="node17" href="$namespacequda.html#ac761519fa6b50d06090188b96d777709" title="quda::computeStaggeredOprod" alt="" coords="707,199,915,224"/>
+<area shape="rect" id="node14" href="$classquda_1_1cuda_color_spinor_field.html#a53510b48ce49881f014b955a1e7fb1d3" title="quda::cudaColorSpinorField\l::pack" alt="" coords="963,117,1150,156"/>
+<area shape="rect" id="node15" href="$classquda_1_1cuda_color_spinor_field.html#aa9b3e1130d53dedce7d15801604d2f9f" title="quda::cudaColorSpinorField\l::packExtended" alt="" coords="963,180,1150,219"/>
+<area shape="rect" id="node16" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="963,243,1150,281"/>
+<area shape="rect" id="node19" href="$classquda_1_1_color_spinor_field.html#ad99149519e9289d71c7a753426462918" title="quda::ColorSpinorField\l::CreateCoarse" alt="" coords="487,315,645,353"/>
+<area shape="rect" id="node21" href="$classquda_1_1_color_spinor_field.html#a88ecb876974ca134319307da2d5edbd3" title="quda::ColorSpinorField\l::CreateFine" alt="" coords="487,377,645,416"/>
+<area shape="rect" id="node22" href="$classquda_1_1cuda_color_spinor_field.html#ac2e23741f5cea98c5e8672f115ae41b2" title="quda::cudaColorSpinorField\l::sendGhost" alt="" coords="472,440,659,479"/>
+<area shape="rect" id="node24" href="$classquda_1_1cuda_color_spinor_field.html#a8f3aa5c756bc4cdb3c2e32248cf82192" title="Initiate halo communication sending. " alt="" coords="472,252,659,291"/>
+<area shape="rect" id="node20" href="$classquda_1_1_transfer.html#a8fac8ec77854057e73382ea354497516" title="quda::Transfer::Transfer" alt="" coords="729,363,893,388"/>
+<area shape="rect" id="node23" href="$classquda_1_1cuda_color_spinor_field.html#aec1261adeb195641da74629f94b998f4" title="quda::cudaColorSpinorField\l::gather" alt="" coords="718,416,904,455"/>
+<area shape="rect" id="node25" href="$classquda_1_1cuda_color_spinor_field.html#ae4d6e2612a25647660363ddc28c7685f" title="Initiate halo communication. " alt="" coords="718,300,904,339"/>
+<area shape="rect" id="node27" href="$classquda_1_1_transfer.html#acae8c442c5f6dd3a12530c010d556838" title="quda::Transfer::P" alt="" coords="504,503,628,528"/>
+<area shape="rect" id="node28" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="751,503,871,528"/>
+<area shape="rect" id="node30" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="738,552,884,577"/>
+<area shape="rect" id="node29" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="1002,552,1111,577"/>
+<area shape="rect" id="node32" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="503,552,628,577"/>
+</map>

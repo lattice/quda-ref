@@ -1,0 +1,6 @@
+<map id="quda::cudaColorSpinorField::create" name="quda::cudaColorSpinorField::create">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_color_spinor_field.html#a32f2d2fd7ec78094748f94cb07a10f53" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="240,5,427,44"/>
+<area shape="rect" id="node3" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="286,68,381,93"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="297,117,369,143"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_color_spinor_field.html#a65e5485676d35fa3646827527f2139eb" title="quda::cudaColorSpinorField\l::zeroPad" alt="" coords="240,167,427,205"/>
+</map>

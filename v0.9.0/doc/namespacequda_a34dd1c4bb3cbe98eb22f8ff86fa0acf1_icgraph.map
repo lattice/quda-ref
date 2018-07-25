@@ -1,0 +1,4 @@
+<map id="quda::computeMomAction" name="quda::computeMomAction">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="230,5,350,31"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a9942ec2c95b902f2a2c1bcf715ef4f0d" title="Evaluate the kinetic (momentum) contribution to classical Hamiltonian for Hybrid Monte Carlo..." alt="" coords="398,5,502,31"/>
+</map>

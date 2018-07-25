@@ -1,0 +1,11 @@
+<map id="quda::extractGhost" name="quda::extractGhost">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="409,8,487,34"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a589430861080cdc7c23a8d74cfe75c93" title="commDim" alt="" coords="231,82,313,107"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a16c8525f2c7aa95657a403d303228015" title="quda::extractor" alt="" coords="217,32,327,58"/>
+<area shape="rect" id="node9" href="$classquda_1_1_gauge_field.html#a8e0ae774c1566179db3e3c5a2bc0b226" title="quda::GaugeField::Nface" alt="" coords="187,131,357,156"/>
+<area shape="rect" id="node10" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="201,180,344,206"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="575,8,667,34"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="405,82,491,107"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="539,70,702,95"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="574,119,667,144"/>
+</map>

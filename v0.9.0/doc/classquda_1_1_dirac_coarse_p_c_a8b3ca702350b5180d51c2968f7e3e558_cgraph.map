@@ -1,0 +1,14 @@
+<map id="quda::DiracCoarsePC::MdagM" name="quda::DiracCoarsePC::MdagM">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="422,5,582,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_coarse_p_c.html#a02e5998a7272e651f34c5e9dc5e921d8" title="Apply the full operator. " alt="" coords="204,215,374,240"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="428,385,576,411"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="224,404,354,429"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_coarse.html#a12e57799c86f32aa433f8ca2a0e0b881" title="Apply the coarse clover operator. " alt="" coords="635,44,775,83"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_coarse.html#a25227f748c269d75008717b8404bdcc1" title="Apply DslashXpay out = (D * in) " alt="" coords="635,107,775,145"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_coarse_p_c.html#a8217d0fbec51cb52bd81be7b3fa78a63" title="Apply DslashXpay out = (D * in) " alt="" coords="630,169,781,208"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_coarse_p_c.html#a3e88577a44e6b7d883da615181e34190" title="Apply DslashXpay out = (D * in + A * x) " alt="" coords="426,208,577,247"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#a05c1eeac0ec0080a4fb3df73277944de" title="quda::blas::xpay" alt="" coords="646,249,765,275"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="423,323,581,361"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a553cb93873d188cc110e614162a4749e" title="quda::ApplyCoarse" alt="" coords="829,113,964,139"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="448,435,556,460"/>
+</map>

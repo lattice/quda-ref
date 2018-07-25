@@ -1,0 +1,8 @@
+<map id="quda::ColorSpinorField::createGhostZone" name="quda::ColorSpinorField::createGhostZone">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_color_spinor_field.html#ae17ff77d97453e7bff3273c7a296b2b1" title="Allocate the ghost buffers. " alt="" coords="211,96,398,135"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a1a36967996f6c7c4297da38fbedf3a6b" title="Create the communication handlers and buffers. " alt="" coords="456,68,643,107"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ac761519fa6b50d06090188b96d777709" title="quda::computeStaggeredOprod" alt="" coords="446,131,654,156"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_color_spinor_field.html#a53510b48ce49881f014b955a1e7fb1d3" title="quda::cudaColorSpinorField\l::pack" alt="" coords="702,5,888,44"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_color_spinor_field.html#aa9b3e1130d53dedce7d15801604d2f9f" title="quda::cudaColorSpinorField\l::packExtended" alt="" coords="702,68,888,107"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="702,131,888,169"/>
+</map>

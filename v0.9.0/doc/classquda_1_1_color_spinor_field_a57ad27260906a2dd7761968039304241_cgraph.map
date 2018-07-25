@@ -1,0 +1,10 @@
+<map id="quda::ColorSpinorField::ColorSpinorField" name="quda::ColorSpinorField::ColorSpinorField">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#a6efc15564f9d65b15e08dd48802c054b" title="quda::ColorSpinorField\l::create" alt="" coords="211,111,369,149"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a0fd1f89de7282388c6edb060396e8b8b" title="quda::ColorSpinorField\l::Ndim" alt="" coords="432,5,590,44"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="424,68,598,93"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#aefc7d6c23f199d677d3a458a9add3934" title="quda::ColorSpinorField::Pad" alt="" coords="417,117,606,143"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="432,167,590,205"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#ae8773f62a646118e571b072c00505686" title="quda::ColorSpinorField\l::setTuningString" alt="" coords="432,229,590,268"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aa1aad1016d610ca93301167398ca3d4e" title="snprintf" alt="" coords="654,211,719,236"/>
+<area shape="rect" id="node9" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a53b054f03667fa7e48a9d6ede1e010a5" title="strcpy" alt="" coords="658,260,715,285"/>
+</map>

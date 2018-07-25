@@ -1,0 +1,8 @@
+<map id="quda::LatticeField::freeGhostBuffer" name="quda::LatticeField::freeGhostBuffer">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html#a6914c75efd90a13ecb619356e632e63a" title="quda::LatticeField\l::destroyIPCComms" alt="" coords="180,72,321,111"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="416,29,502,55"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#a64cf45acccdd7dcbbfd1803ac1f482af" title="comm_free" alt="" coords="415,79,503,104"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="369,128,549,153"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="597,5,760,31"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="632,55,725,80"/>
+</map>

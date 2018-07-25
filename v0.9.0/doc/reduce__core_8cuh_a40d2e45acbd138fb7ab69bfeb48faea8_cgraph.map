@@ -1,0 +1,10 @@
+<map id="reduceLaunch" name="reduceLaunch">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="392,59,469,85"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#af4e9ab9827b557c70c9a03e9fe259387" title="commAsyncReduction" alt="" coords="165,35,319,61"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a4ba350a11b881d7610ea6e03ced0015e" title="Wrapper around cudaEventQuery or cuEventQuery. " alt="" coords="163,85,321,110"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a3f2b731bceb1847d99e603f56717aa64" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="159,134,324,159"/>
+<area shape="rect" id="node7" href="$reduce__core_8cuh.html#ab3e44a00fefd51d1d03a5b6ec006a9fd" title="reduceKernel" alt="" coords="191,183,292,209"/>
+<area shape="rect" id="node8" href="$reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="407,233,454,258"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="537,59,628,85"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="372,183,489,209"/>
+</map>

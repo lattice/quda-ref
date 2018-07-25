@@ -1,0 +1,11 @@
+<map id="quda::ColorSpinorField::exchange" name="quda::ColorSpinorField::exchange">
+<area shape="rect" id="node2" href="$classquda_1_1cpu_color_spinor_field.html#a945694af12a0889254a3a427c720142a" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="211,33,390,72"/>
+<area shape="rect" id="node10" href="$namespacequda.html#adf289508b1ae22ddf0e73a0f851232f1" title="quda::reduceRow" alt="" coords="238,96,364,121"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a33de5f8df071fe3b63d94738f6695b5d" title="Driver for applying the covariant derivative. " alt="" coords="438,40,577,65"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_cov_dev.html#add1772de63a1b81e957fc63bd06b4897" title="quda::GaugeCovDev::\lDslashCD" alt="" coords="625,33,779,72"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_cov_dev.html#a03515abb5f8cd7f7ef65269adb8ef5ce" title="quda::GaugeCovDev::MCD" alt="" coords="827,40,1010,65"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_cov_dev.html#a329cf745c76f7a7b726ee45aaf272a0e" title="quda::GaugeCovDev::\lMdagMCD" alt="" coords="1058,5,1212,44"/>
+<area shape="rect" id="node7" href="$covdev__test_8cpp.html#a489117f6510f66a2a2ee5e0f085cd7a4" title="dslashCUDA" alt="" coords="1086,68,1184,93"/>
+<area shape="rect" id="node8" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="1260,68,1344,93"/>
+<area shape="rect" id="node9" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1392,68,1442,93"/>
+</map>

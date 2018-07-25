@@ -1,0 +1,51 @@
+<map id="gauge_force_test" name="gauge_force_test">
+<area shape="rect" id="node2" href="$test__util_8cpp.html#a1244effd0adae5a388152a5f0c1a926d" title="compare_floats" alt="" coords="211,68,324,93"/>
+<area shape="rect" id="node5" href="$quda_8h.html#a3d14beb88ba4aff3f801d7224fa9492d" title="computeGaugeForceQuda" alt="" coords="178,208,357,233"/>
+<area shape="rect" id="node12" href="$test__util_8cpp.html#a2e79c085e4331a8791d28a4e001c9c44" title="createMomCPU" alt="" coords="209,467,325,492"/>
+<area shape="rect" id="node18" href="$test__util_8cpp.html#a6623ee545f9e26e20e2f9205e31805e6" title="createSiteLinkCPU" alt="" coords="200,743,334,768"/>
+<area shape="rect" id="node25" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="229,1276,305,1301"/>
+<area shape="rect" id="node41" href="$test__util_8h.html#a70a086cc63080fb6b9e0434abb2b0b6e" title="exchange_cpu_sitelink_ex" alt="" coords="178,1375,356,1400"/>
+<area shape="rect" id="node42" href="$gauge__force__reference_8cpp.html#a2ec920141927869ab2f3bd6a3093fae2" title="gauge_force_reference" alt="" coords="188,1424,347,1449"/>
+<area shape="rect" id="node43" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="227,1325,307,1351"/>
+<area shape="rect" id="node44" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="232,1473,303,1499"/>
+<area shape="rect" id="node45" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="231,1523,303,1548"/>
+<area shape="rect" id="node46" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1c2be9246be4db51c0f2c90ed370182b" title="memset" alt="" coords="233,1572,302,1597"/>
+<area shape="rect" id="node47" href="$quda_8h.html#a4d9475cdfdd2d15b5d94e8588f835645" title="newQudaGaugeParam" alt="" coords="188,1621,346,1647"/>
+<area shape="rect" id="node48" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="233,1671,302,1696"/>
+<area shape="rect" id="node49" href="$quda_8h.html#a583a1acaecff1b5e1e541ea266cf6f04" title="setVerbosityQuda" alt="" coords="204,1720,331,1745"/>
+<area shape="rect" id="node50" href="$test__util_8cpp.html#a5eddf26d1bc0a72e0ca313fd8cf9d849" title="strong_check_mom" alt="" coords="198,1769,336,1795"/>
+<area shape="rect" id="node3" href="$test__util_8cpp.html#ad88f94a24f40b42cf4a14d321e5d6bd3" title="compareFloats" alt="" coords="443,5,553,31"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1354b6667fe971c1d7bf28dcef770265" title="fabs" alt="" coords="720,299,766,324"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="421,180,576,205"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ae0a0c215d9b1eb1a2365adee27ef08a5" title="Compute the gauge&#45;force contribution to the momentum. " alt="" coords="433,292,563,317"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="420,229,576,268"/>
+<area shape="rect" id="node10" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="420,55,576,93"/>
+<area shape="rect" id="node11" href="$classquda_1_1cuda_gauge_field.html#a472fb29bebd50b80060850b0a153e523" title="quda::cudaGaugeField\l::zero" alt="" coords="420,117,576,156"/>
+<area shape="rect" id="node8" href="$namespacedw__dslash__4_d__cuda__gen.html#addf26f8d1c6f0eb7bd01c67a0dcfc364" title="dw_dslash_4D_cuda_gen.coeff" alt="" coords="640,496,847,521"/>
+<area shape="rect" id="node13" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="468,391,528,416"/>
+<area shape="rect" id="node14" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a6513e6416e469f8af2665d5793c3782f" title="fprintf" alt="" coords="471,492,526,517"/>
+<area shape="rect" id="node15" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a7459c10a5fdd8a4f91880bf0f46e722f" title="exit" alt="" coords="477,541,519,567"/>
+<area shape="rect" id="node16" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aa694a6d7fb40940d8c44954194fcd4e6" title="rand" alt="" coords="719,693,767,719"/>
+<area shape="rect" id="node17" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="476,341,520,367"/>
+<area shape="rect" id="node19" href="$test__util_8cpp.html#ad9e6d31f3ed9ea6998c9444fd56789a8" title="constructUnitaryGaugeField" alt="" coords="405,841,592,867"/>
+<area shape="rect" id="node20" href="$comm__quda_8h.html#a206b67c95a89bcfed306b2994205b473" title="commCoords" alt="" coords="448,792,549,817"/>
+<area shape="rect" id="node21" href="$comm__quda_8h.html#a589430861080cdc7c23a8d74cfe75c93" title="commDim" alt="" coords="458,891,539,916"/>
+<area shape="rect" id="node22" href="$test__util_8cpp.html#abd8308e0d3bb82711cf9d214112d9cbc" title="fullLatticeIndex" alt="" coords="443,940,553,965"/>
+<area shape="rect" id="node23" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afe176b0807dfea419d70b1376ea761a4" title="printf" alt="" coords="473,693,524,719"/>
+<area shape="rect" id="node24" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0430bdfe4bb6120a3151784af934f0dc" title="fabsf" alt="" coords="473,743,523,768"/>
+<area shape="rect" id="node26" href="$namespacequda.html#ac466a953381d986b1eca6880f1fda568" title="quda::assertAllMemFree" alt="" coords="415,1203,581,1228"/>
+<area shape="rect" id="node27" href="$comm__quda_8h.html#acae24b1f48d2fe459c280cf33e61cc6e" title="comm_finalize" alt="" coords="445,1252,551,1277"/>
+<area shape="rect" id="node28" href="$namespacequda.html#a4f1346eb3e34bbda30ff8983af3f81c1" title="quda::destroyDslashEvents" alt="" coords="406,1301,590,1327"/>
+<area shape="rect" id="node29" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="442,1351,554,1376"/>
+<area shape="rect" id="node30" href="$namespacequda_1_1pool.html#aafe898a5f018221ffd9f6336376a3a01" title="Free all outstanding device&#45;memory allocations. " alt="" coords="416,1400,581,1425"/>
+<area shape="rect" id="node31" href="$namespacequda_1_1pool.html#aa026d9c5ea0fa0090dfce4792b96908c" title="Free all outstanding pinned&#45;memory allocations. " alt="" coords="415,1449,582,1475"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#ab1d3e5c24eb7fcb0d2afffd71ce807f5" title="Flush the chronological history for the given index. " alt="" coords="435,1499,561,1524"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#a9221f8639873c0844f04bc64d5e31ccd" title="freeCloverQuda" alt="" coords="440,1548,556,1573"/>
+<area shape="rect" id="node34" href="$interface__quda_8cpp.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="440,1597,557,1623"/>
+<area shape="rect" id="node35" href="$classquda_1_1_lattice_field.html#af3e43730f50a448d8b818413b9256fbc" title="Free statically allocated ghost buffers. " alt="" coords="435,1647,562,1685"/>
+<area shape="rect" id="node36" href="$classquda_1_1cpu_color_spinor_field.html#a51d79fe9a54a572b777123a2cd133752" title="quda::cpuColorSpinorField\l::freeGhostBuffer" alt="" coords="409,989,588,1028"/>
+<area shape="rect" id="node37" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a872ac3564834aa0ba70a9e1bd3c2f9de" title="getenv" alt="" coords="468,1709,529,1735"/>
+<area shape="rect" id="node38" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="451,1052,546,1077"/>
+<area shape="rect" id="node39" href="$classquda_1_1_time_profile.html#a352ad271eb6f06f75cf3c3c0a28e8023" title="quda::TimeProfile::\lPrint" alt="" coords="677,1121,809,1160"/>
+<area shape="rect" id="node40" href="$namespacequda.html#a5db490f30c5b118722f667e80b022be0" title="Print out the timer profile for CUDA API calls. " alt="" coords="426,1153,570,1179"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="quda::blas::axpyNorm" name="quda::blas::axpyNorm">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="257,5,344,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="204,55,396,80"/>
+<area shape="rect" id="node6" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="228,104,372,129"/>
+<area shape="rect" id="node9" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="279,203,322,228"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="499,5,571,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="444,55,626,80"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_g_n_e.html#a4043b6e48b0794cf6876ae6398431e08" title="quda::CGNE::operator()" alt="" coords="453,104,616,129"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_g_n_r.html#a2afa3f3b11946d0b8e2251064dce3882" title="quda::CGNR::operator()" alt="" coords="453,153,617,179"/>
+<area shape="rect" id="node10" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="491,203,579,228"/>
+<area shape="rect" id="node12" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="499,252,571,277"/>
+<area shape="rect" id="node11" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="674,203,724,228"/>
+</map>

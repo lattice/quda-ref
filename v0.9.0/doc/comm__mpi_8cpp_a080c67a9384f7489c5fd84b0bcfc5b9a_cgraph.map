@@ -1,0 +1,4 @@
+<map id="comm_barrier" name="comm_barrier">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="157,5,249,31"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="297,5,399,31"/>
+</map>

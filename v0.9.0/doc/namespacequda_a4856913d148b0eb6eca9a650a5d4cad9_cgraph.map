@@ -1,0 +1,7 @@
+<map id="quda::pinned_malloc_" name="quda::pinned_malloc_">
+<area shape="rect" id="node2" href="$namespacequda.html#a62cf380a3915873651b465076877ea67" title="quda::aligned_malloc" alt="" coords="205,29,352,55"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1c2be9246be4db51c0f2c90ed370182b" title="memset" alt="" coords="244,79,313,104"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a48b853dffcb810ee388424076403d694" title="quda::track_malloc" alt="" coords="212,128,345,153"/>
+<area shape="rect" id="node3" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="429,5,489,31"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#ae8723f645e9f677e41e30cc171a31c56" title="posix_memalign" alt="" coords="400,55,518,80"/>
+</map>

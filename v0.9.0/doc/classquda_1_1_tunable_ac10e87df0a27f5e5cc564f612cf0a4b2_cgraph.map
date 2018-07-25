@@ -1,0 +1,11 @@
+<map id="quda::Tunable::advanceSharedBytes" name="quda::Tunable::advanceSharedBytes">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable.html#aa910847ecff2328c753eaa063cbb76e5" title="quda::Tunable::advanceBlockDim" alt="" coords="260,129,480,155"/>
+<area shape="rect" id="node6" href="$classquda_1_1_tunable.html#a67a816b5e7fde0357ea5315c5c2c7d52" title="quda::Tunable::sharedBytes\lPerThread" alt="" coords="533,203,721,241"/>
+<area shape="rect" id="node8" href="$classquda_1_1_tunable.html#ad7c6cbcafb13e0f452a8585316a08615" title="For reason this can&#39;t be queried from the device properties, so here we set set this. Based on Table 14 of the CUDA Programming Guide 9.0 (Technical Specifications per Compute Capability) " alt="" coords="281,233,459,272"/>
+<area shape="rect" id="node9" href="$classquda_1_1_tunable.html#a8f782b9791855bef208ac38282e5ddea" title="quda::Tunable::sharedBytes\lPerBlock" alt="" coords="277,296,464,335"/>
+<area shape="rect" id="node10" href="$classquda_1_1_tunable.html#a09e130131be9e74577d605ced20d7caf" title="quda::Tunable::tuneShared\lBytes" alt="" coords="279,359,462,397"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable.html#abaacdcd8451528beb11777432d61f527" title="quda::Tunable::blockStep" alt="" coords="541,5,713,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#a06676e80d7fa5ba4ae66efde76f06118" title="quda::Tunable::maxBlockSize" alt="" coords="528,55,726,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#aef0531eaa7950ffe31b0aeb6bb61a75e" title="quda::Tunable::minThreads" alt="" coords="535,104,719,129"/>
+<area shape="rect" id="node7" href="$classquda_1_1_tunable.html#a528dd6226511d3b6c1cf914dc578a44a" title="quda::Tunable::tuneGridDim" alt="" coords="533,153,721,179"/>
+</map>

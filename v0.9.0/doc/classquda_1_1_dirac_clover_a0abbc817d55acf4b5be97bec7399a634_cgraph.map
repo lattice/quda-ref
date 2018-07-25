@@ -1,0 +1,18 @@
+<map id="quda::DiracClover::MdagM" name="quda::DiracClover::MdagM">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="397,5,588,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="189,75,349,100"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_clover.html#a6078371a4e0f88541f0e3c0b7f02f1a1" title="quda::DiracClover::M" alt="" coords="195,124,342,149"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="204,173,334,199"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="195,223,343,248"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="414,55,571,93"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_clover.html#a11ed6ec5d02d88214f9f85f4cd7be795" title="quda::DiracClover::\lDslashXpay" alt="" coords="425,117,560,156"/>
+<area shape="rect" id="node13" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="414,180,571,219"/>
+<area shape="rect" id="node14" href="$classquda_1_1_color_spinor_field.html#a4113be893234cf6813ad7438d6d0b210" title="quda::ColorSpinorField::Odd" alt="" coords="397,243,588,268"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ac17d7ca60e35710fc41fe13b80d0fa28" title="quda::asymCloverDslashCuda" alt="" coords="636,68,838,93"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_clover.html#a610d1364f732caabe65d4f8cd4ee6deb" title="quda::DiracClover::\lcheckParitySpinor" alt="" coords="669,117,805,156"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="652,180,822,219"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="886,89,1052,128"/>
+<area shape="rect" id="node11" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="1100,147,1226,185"/>
+<area shape="rect" id="node10" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="1100,84,1226,123"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="439,292,547,317"/>
+</map>

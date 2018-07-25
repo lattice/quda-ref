@@ -1,0 +1,4 @@
+<map id="contract" name="contract">
+<area shape="rect" id="node2" href="$namespacequda.html#a890814ca541fa4ad7041e3032c4390b8" title="quda::contractCuda" alt="" coords="122,5,260,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a11db6809606f57d0e63d09000334b823" title="Wrapper around cudaStreamSynchronize or cuStreamSynchronize. " alt="" coords="308,5,512,31"/>
+</map>

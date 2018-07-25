@@ -1,0 +1,51 @@
+<map id="quda::ColorSpinorField::Nspin" name="quda::ColorSpinorField::Nspin">
+<area shape="rect" id="node2" href="$namespacequda.html#a210a3e0c3de0fd822d91f68acfb207d9" title="Apply clover&#45;matrix field to a color&#45;spinor field. " alt="" coords="254,100,385,125"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a64e09f301d71a4312184979a6ea0a549" title="Apply twisted clover&#45;matrix field to a color&#45;spinor field. " alt="" coords="239,517,400,543"/>
+<area shape="rect" id="node16" href="$namespacequda_1_1blas_1_1copy__ns.html#ad7353084a830c81feb7c3f4aa2f14f7f" title="quda::blas::copy_ns\l::copy" alt="" coords="250,829,390,868"/>
+<area shape="rect" id="node41" href="$classquda_1_1_multi_shift_c_g.html#a5f96f73432fafb1a99336cf1ecee4736" title="quda::MultiShiftCG\l::operator()" alt="" coords="772,1333,905,1372"/>
+<area shape="rect" id="node44" href="$namespacequda.html#a09daba0322a529ef20c73538311269eb" title="quda::CopyExtendedColorSpinor" alt="" coords="211,944,428,969"/>
+<area shape="rect" id="node47" href="$namespacequda.html#a9fa0824112539bd04c4613a476a0b7ff" title="quda::CopyGenericColorSpinor" alt="" coords="216,993,423,1019"/>
+<area shape="rect" id="node48" href="$classquda_1_1_dirac_coarse.html#ad73a48293b9e8280b63443263a4d4aac" title="quda::DiracCoarse::\linitializeCoarse" alt="" coords="250,1043,389,1081"/>
+<area shape="rect" id="node50" href="$classquda_1_1_quda_matvec.html#a4868a4f5e32ee562ffdeb6319bf913be" title="quda::QudaMatvec::QudaMatvec" alt="" coords="211,1105,428,1131"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_clover.html#a88d17fecb06a32fdfb538541cb12a153" title="quda::DiracClover::\lClover" alt="" coords="515,31,650,69"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_clover_p_c.html#aa2154db33b7a739edaccd4b617224ecb" title="quda::DiracCloverPC\l::CloverInv" alt="" coords="509,93,656,132"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_clover_p_c.html#a3b22e25becd343736df139f81ed36533" title="quda::DiracCloverPC::M" alt="" coords="756,12,921,37"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_clover_p_c.html#a3ef0096d2bf6380732a2b84975963496" title="quda::DiracCloverPC\l::prepare" alt="" coords="766,61,912,100"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_clover_p_c.html#aafe72319c000f86b469b523a261dbde4" title="quda::DiracCloverPC\l::reconstruct" alt="" coords="766,124,912,163"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_clover_p_c.html#a167c126503885b136a5be871044ca17e" title="quda::DiracCloverPC\l::MdagM" alt="" coords="1008,5,1155,44"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_twisted_clover.html#a9eff2154d27cb026f2d06ff756de191c" title="quda::DiracTwistedClover\l::twistedCloverApply" alt="" coords="496,249,669,288"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_twisted_clover.html#a0ec07b2a2ebb496ada1469aca8e0aceb" title="quda::DiracTwistedClover\l::TwistClover" alt="" coords="752,187,925,225"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a78c6f36f7fe12c5288d819cf9ae235f2" title="quda::DiracTwistedClover\lPC::TwistCloverInv" alt="" coords="752,249,925,288"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a359ba6db818f191e4eb0f51badf3f91b" title="quda::DiracTwistedClover\lPC::M" alt="" coords="995,187,1168,225"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a575011bb2425b78658f06c3d93eafc24" title="quda::DiracTwistedClover\lPC::prepare" alt="" coords="995,249,1168,288"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_twisted_clover_p_c.html#acc55a7986745e4ad5a5291a394a502ac" title="quda::DiracTwistedClover\lPC::reconstruct" alt="" coords="995,312,1168,351"/>
+<area shape="rect" id="node17" href="$namespacequda_1_1blas.html#aee938c63ad4eaa9d0ccc7d50013a5618" title="quda::blas::copy" alt="" coords="523,836,642,861"/>
+<area shape="rect" id="node18" href="$comm__common_8cpp.html#ae431c1663f0dd56ed0b614dbf962bb90" title="comm_declare_send_relative_" alt="" coords="737,312,940,337"/>
+<area shape="rect" id="node19" href="$comm__common_8cpp.html#aeb9a185db7c2974f78056482fee0d9c7" title="comm_declare_strided\l_send_relative_" alt="" coords="761,361,917,400"/>
+<area shape="rect" id="node20" href="$classquda_1_1cuda_color_spinor_field.html#abb0bcabac8d4e5a3775ff6508b558b69" title="quda::cudaColorSpinorField\l::copy" alt="" coords="745,424,932,463"/>
+<area shape="rect" id="node22" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="1230,489,1407,515"/>
+<area shape="rect" id="node24" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="1239,539,1398,564"/>
+<area shape="rect" id="node25" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="796,589,882,615"/>
+<area shape="rect" id="node29" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="771,639,906,664"/>
+<area shape="rect" id="node30" href="$interface__quda_8cpp.html#a50832a69c2d3aef393f6daf85d3b0fe8" title="invertMultiShiftQuda" alt="" coords="768,688,910,713"/>
+<area shape="rect" id="node31" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="748,737,930,763"/>
+<area shape="rect" id="node32" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="744,787,933,812"/>
+<area shape="rect" id="node33" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="767,836,911,861"/>
+<area shape="rect" id="node34" href="$classquda_1_1_c_g.html#aedab089868d466a7aea69ca556ad1ea4" title="quda::CG::solve" alt="" coords="780,885,897,911"/>
+<area shape="rect" id="node35" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="747,935,930,960"/>
+<area shape="rect" id="node36" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="989,960,1175,985"/>
+<area shape="rect" id="node37" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="1223,960,1415,985"/>
+<area shape="rect" id="node38" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="762,1087,916,1112"/>
+<area shape="rect" id="node39" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="739,1136,939,1161"/>
+<area shape="rect" id="node40" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="766,1185,911,1211"/>
+<area shape="rect" id="node42" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="795,1235,882,1260"/>
+<area shape="rect" id="node43" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="817,1284,860,1309"/>
+<area shape="rect" id="node21" href="$classquda_1_1cuda_color_spinor_field.html#ac37ac6a9963555b7e4b3f9733c2d7c60" title="quda::cudaColorSpinorField\l::copySpinorField" alt="" coords="988,424,1175,463"/>
+<area shape="rect" id="node23" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="1463,539,1644,564"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="1032,589,1131,615"/>
+<area shape="rect" id="node27" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="1040,688,1123,713"/>
+<area shape="rect" id="node28" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1056,639,1107,664"/>
+<area shape="rect" id="node45" href="$namespacequda.html#abc84eb3c869dd19339cc61afa7dc37b4" title="quda::copyExtendedColorSpinor" alt="" coords="476,968,689,993"/>
+<area shape="rect" id="node46" href="$classquda_1_1_x_s_d.html#a48275208fc7af93c3e35e5401171e93a" title="quda::XSD::operator()" alt="" coords="763,1396,915,1421"/>
+<area shape="rect" id="node49" href="$classquda_1_1_dirac_coarse.html#a0af873c548f1d0b7b5aff5c00f188568" title="quda::DiracCoarse::\lDiracCoarse" alt="" coords="513,1043,653,1081"/>
+</map>

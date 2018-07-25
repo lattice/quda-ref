@@ -1,0 +1,35 @@
+<map id="lib/coarse_op.cu" name="lib/coarse_op.cu">
+<area shape="rect" id="node2" href="$transfer_8h.html" title="transfer.h" alt="" coords="557,85,634,111"/>
+<area shape="rect" id="node3" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="49,312,186,337"/>
+<area shape="rect" id="node25" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="209,312,311,337"/>
+<area shape="rect" id="node31" href="$color__spinor__field__order_8h.html" title="color_spinor_field\l_order.h" alt="" coords="1522,79,1648,117"/>
+<area shape="rect" id="node33" href="$complex__quda_8h.html" title="complex_quda.h" alt="" coords="1675,385,1794,411"/>
+<area shape="rect" id="node38" href="$index__helper_8cuh.html" title="index_helper.cuh" alt="" coords="1823,239,1945,264"/>
+<area shape="rect" id="node42" href="$gauge__field__order_8h.html" title="Main header file for host and device accessors to GaugeFields. " alt="" coords="1180,165,1319,191"/>
+<area shape="rect" id="node46" href="$clover__field__order_8h.html" title="Main header file for host and device accessors to CloverFields. " alt="" coords="1338,85,1475,111"/>
+<area shape="rect" id="node47" href="$gamma_8cuh.html" title="gamma.cuh" alt="" coords="1981,165,2072,191"/>
+<area shape="rect" id="node48" href="$blas__cublas_8h.html" title="blas_cublas.h" alt="" coords="851,85,954,111"/>
+<area shape="rect" id="node50" href="$coarse__op_8cuh.html" title="coarse_op.cuh" alt="" coords="2147,85,2256,111"/>
+<area shape="rect" id="node24" href="$dirac__quda_8h.html" title="dirac_quda.h" alt="" coords="407,165,505,191"/>
+<area shape="rect" id="node4" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="686,385,799,411"/>
+<area shape="rect" id="node10" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="178,459,240,484"/>
+<area shape="rect" id="node19" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="246,385,345,411"/>
+<area shape="rect" id="node21" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="6,385,121,411"/>
+<area shape="rect" id="node23" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="419,385,511,411"/>
+<area shape="rect" id="node5" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="814,459,938,484"/>
+<area shape="rect" id="node9" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="552,532,655,557"/>
+<area shape="rect" id="node13" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="561,459,647,484"/>
+<area shape="rect" id="node15" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="1198,459,1306,484"/>
+<area shape="rect" id="node16" href="$object_8h.html" title="object.h" alt="" coords="722,459,790,484"/>
+<area shape="rect" id="node12" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="146,532,272,557"/>
+<area shape="rect" id="node14" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="412,532,518,557"/>
+<area shape="rect" id="node26" href="$clover__field_8h.html" title="clover_field.h" alt="" coords="334,312,434,337"/>
+<area shape="rect" id="node27" href="$dslash__quda_8h.html" title="dslash_quda.h" alt="" coords="402,239,510,264"/>
+<area shape="rect" id="node29" href="$blas__quda_8h.html" title="blas_quda.h" alt="" coords="182,239,276,264"/>
+<area shape="rect" id="node28" href="$tune__quda_8h.html" title="tune_quda.h" alt="" coords="559,312,654,337"/>
+<area shape="rect" id="node32" href="$register__traits_8h.html" title="Provides precision abstractions and defines the register precision given the storage precision using ..." alt="" coords="1235,312,1348,337"/>
+<area shape="rect" id="node39" href="$color__spinor_8h.html" title="color_spinor.h" alt="" coords="1444,165,1548,191"/>
+<area shape="rect" id="node41" href="$thrust__helper_8cuh.html" title="thrust_helper.cuh" alt="" coords="1574,239,1698,264"/>
+<area shape="rect" id="node40" href="$quda__matrix_8h.html" title="quda_matrix.h" alt="" coords="1292,239,1398,264"/>
+<area shape="rect" id="node45" href="$atomic_8cuh.html" title="atomic.cuh" alt="" coords="1132,239,1217,264"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="quda::ColorSpinorField::GhostFace" name="quda::ColorSpinorField::GhostFace">
+<area shape="rect" id="node2" href="$namespacequda.html#a4b255172e59a1940f5b0477ebcd78695" title="Compute the force contribution from the solver solution fields. " alt="" coords="211,12,393,37"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="441,12,619,37"/>
+</map>

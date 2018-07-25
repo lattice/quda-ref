@@ -1,0 +1,18 @@
+<map id="comm_allreduce_int" name="comm_allreduce_int">
+<area shape="rect" id="node2" href="$comm__common_8cpp.html#ae79c1a736c53def6d8682ca451ac81ed" title="comm_peer2peer_enabled\l_global" alt="" coords="194,151,375,189"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ad691428cc76e8eef9ef9e44b92ac1b96" title="quda::compareSpinor" alt="" coords="210,283,359,308"/>
+<area shape="rect" id="node14" href="$hisq__unitarize__force__test_8cpp.html#acbcbd7509ba920cdb4ae408a2e12a03c" title="hisq_force_test" alt="" coords="228,332,340,357"/>
+<area shape="rect" id="node16" href="$unitarize__link__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="259,381,309,407"/>
+<area shape="rect" id="node17" href="$unitarize__link__test_8cpp.html#a529cfbd2a1809bcaf7b4b76a7fb35e5b" title="TEST" alt="" coords="257,431,312,456"/>
+<area shape="rect" id="node3" href="$classanonymous__namespace_02dslash__policy_8cuh_03_1_1_dslash_policy_tune.html#ab32a1055db70148760dbd1112e419b96" title="anonymous_namespace\l\{dslash_policy::cuh\}\l::DslashPolicyTune::apply" alt="" coords="460,5,634,57"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dslash_coarse_policy_tune.html#a999e08702fb5769550ea1737534451b0" title="quda::DslashCoarsePolicy\lTune::DslashCoarsePolicyTune" alt="" coords="443,81,651,120"/>
+<area shape="rect" id="node5" href="$classanonymous__namespace_02dslash__policy_8cuh_03_1_1_dslash_policy_tune.html#ad85bfbcd1d4a1825bc7920e4e31aeea6" title="anonymous_namespace\l\{dslash_policy::cuh\}\l::DslashPolicyTune::DslashPolicyTune" alt="" coords="423,144,671,196"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="454,220,640,259"/>
+<area shape="rect" id="node8" href="$namespacequda.html#afdecfba62668387d6195eea004bf363e" title="quda::genericCompare" alt="" coords="468,283,625,308"/>
+<area shape="rect" id="node9" href="$classquda_1_1cpu_color_spinor_field.html#ac9c5a3bf3e02799436aa004211ea4508" title="quda::cpuColorSpinorField\l::Compare" alt="" coords="719,276,898,315"/>
+<area shape="rect" id="node10" href="$covdev__test_8cpp.html#a86d4ae88ee59392b8c1f4bc81aa7e280" title="TEST" alt="" coords="956,233,1011,259"/>
+<area shape="rect" id="node11" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="948,283,1019,308"/>
+<area shape="rect" id="node12" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="946,332,1020,357"/>
+<area shape="rect" id="node13" href="$pack__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1068,332,1119,357"/>
+<area shape="rect" id="node15" href="$hisq__unitarize__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="522,332,572,357"/>
+</map>

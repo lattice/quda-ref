@@ -1,0 +1,51 @@
+<map id="quda::DiracCloverPC::MdagM" name="quda::DiracCloverPC::MdagM">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="413,165,573,191"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_clover_p_c.html#a3b22e25becd343736df139f81ed36533" title="quda::DiracCloverPC::M" alt="" coords="200,379,365,404"/>
+<area shape="rect" id="node48" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="419,528,567,553"/>
+<area shape="rect" id="node49" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="217,529,348,555"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_clover_p_c.html#aa2154db33b7a739edaccd4b617224ecb" title="quda::DiracCloverPC\l::CloverInv" alt="" coords="420,465,566,504"/>
+<area shape="rect" id="node40" href="$classquda_1_1_dirac_clover_p_c.html#a2b72e321bae3ffd3ccfb146ac7a9bc13" title="quda::DiracCloverPC\l::Dslash" alt="" coords="420,340,566,379"/>
+<area shape="rect" id="node43" href="$classquda_1_1_dirac_wilson.html#aac124c90e310ba9839be06f9c6f372d2" title="quda::DiracWilson::\lDslashXpay" alt="" coords="424,215,561,253"/>
+<area shape="rect" id="node45" href="$classquda_1_1_dirac_clover.html#a11ed6ec5d02d88214f9f85f4cd7be795" title="quda::DiracClover::\lDslashXpay" alt="" coords="425,277,561,316"/>
+<area shape="rect" id="node47" href="$classquda_1_1_dirac_clover_p_c.html#a2e489273e9382a1ecaae26e150ec5b31" title="quda::DiracCloverPC\l::DslashXpay" alt="" coords="420,403,566,441"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a210a3e0c3de0fd822d91f68acfb207d9" title="Apply clover&#45;matrix field to a color&#45;spinor field. " alt="" coords="656,484,787,509"/>
+<area shape="rect" id="node36" href="$classquda_1_1_dirac_clover.html#a610d1364f732caabe65d4f8cd4ee6deb" title="quda::DiracClover::\lcheckParitySpinor" alt="" coords="654,372,789,411"/>
+<area shape="rect" id="node6" href="$classquda_1_1_clover.html#a505c55c3df1c5d79b865028c79805093" title="quda::Clover::apply" alt="" coords="885,540,1021,565"/>
+<area shape="rect" id="node33" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="914,428,992,453"/>
+<area shape="rect" id="node35" href="$classquda_1_1_color_spinor_field.html#a6067aeefbeb02a469fadc6534ce01794" title="quda::ColorSpinorField\l::Nspin" alt="" coords="874,477,1032,516"/>
+<area shape="rect" id="node7" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="1317,941,1397,967"/>
+<area shape="rect" id="node12" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="1101,588,1196,613"/>
+<area shape="rect" id="node13" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="1085,637,1212,676"/>
+<area shape="rect" id="node14" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="1084,481,1212,507"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a872ac3564834aa0ba70a9e1bd3c2f9de" title="getenv" alt="" coords="1571,867,1633,892"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#a2f7aa9affb07827bc351c97272c8d5cb" title="quda::blas::init" alt="" coords="1548,916,1656,941"/>
+<area shape="rect" id="node11" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a2a3c2e9ef2d275dd8caaad644163ad51" title="strcmp" alt="" coords="1571,965,1633,991"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="1750,916,1903,941"/>
+<area shape="rect" id="node15" href="$classquda_1_1_tunable.html#a6b682b3aa1e943bbb981c5e0948513d1" title="quda::Tunable::advanceTune\lParam" alt="" coords="1260,257,1454,296"/>
+<area shape="rect" id="node16" href="$classquda_1_1_tunable.html#a1d6de8001096e7620593315fa6fb51f6" title="quda::Tunable::apply" alt="" coords="1284,320,1430,345"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a215058968f858fd16b5368d56a916790" title="quda::broadcastTuneCache" alt="" coords="1264,5,1450,31"/>
+<area shape="rect" id="node18" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="1556,31,1647,56"/>
+<area shape="rect" id="node19" href="$classquda_1_1_tunable.html#ad192f84c0bfebd5bdb8ada76b333974f" title="quda::Tunable::checkLaunch\lParam" alt="" coords="1261,369,1453,408"/>
+<area shape="rect" id="node20" href="$comm__quda_8h.html#a7b9e8a5fb7188e57f46e70c3243dfbdd" title="commGlobalReduction" alt="" coords="1279,432,1435,457"/>
+<area shape="rect" id="node21" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aacfd835356c48b29a023f6351a2775ed" title="ctime" alt="" coords="1331,481,1384,507"/>
+<area shape="rect" id="node22" href="$classquda_1_1_tunable.html#aded93d27cbfd6568d4f4e44f3e6687ca" title="quda::Tunable::defaultTune\lParam" alt="" coords="1265,580,1449,619"/>
+<area shape="rect" id="node23" href="$classquda_1_1_tunable.html#a7656afbdf0d2f848ea0058110543abf1" title="quda::Tunable::initTuneParam" alt="" coords="1502,640,1702,665"/>
+<area shape="rect" id="node24" href="$classquda_1_1_tunable.html#a4149bcac2c1216e6a6f2223fab27b9ad" title="quda::Tunable::paramString" alt="" coords="1264,643,1450,668"/>
+<area shape="rect" id="node25" href="$classquda_1_1_tunable.html#a1cb0f81faa3e823b77e75c656969d184" title="quda::Tunable::perfString" alt="" coords="1272,531,1443,556"/>
+<area shape="rect" id="node26" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aae026724f73c36340024c657f4f44dab" title="time" alt="" coords="1579,344,1625,369"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a3c503154d742b953547abe4aa49bc130" title="quda::policyTuning" alt="" coords="1291,744,1424,769"/>
+<area shape="rect" id="node28" href="$classquda_1_1_tunable.html#a813f352da09afa3850a33f960dd8c24e" title="quda::Tunable::postTune" alt="" coords="1273,793,1441,819"/>
+<area shape="rect" id="node29" href="$classquda_1_1_tunable.html#a84c6bfed530f37c172c1ba576bab9b22" title="quda::Tunable::preTune" alt="" coords="1276,843,1439,868"/>
+<area shape="rect" id="node30" href="$namespacequda.html#ad5fa4eb2a7891199bf833711b693d295" title="quda::traceEnabled" alt="" coords="1289,892,1426,917"/>
+<area shape="rect" id="node31" href="$classquda_1_1_tunable.html#aa51219d121871be33e3dba212aa969b0" title="quda::Tunable::tuneKey" alt="" coords="1276,107,1438,132"/>
+<area shape="rect" id="node32" href="$classquda_1_1_tunable.html#aeda35bb2e3deda6f2b9d140d799d29b6" title="quda::Tunable::tuningIter" alt="" coords="1273,208,1442,233"/>
+<area shape="rect" id="node34" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="1102,429,1194,455"/>
+<area shape="rect" id="node37" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="870,307,1036,345"/>
+<area shape="rect" id="node39" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="1085,367,1212,405"/>
+<area shape="rect" id="node38" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="1085,304,1212,343"/>
+<area shape="rect" id="node41" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="636,309,807,348"/>
+<area shape="rect" id="node42" href="$namespacequda.html#aef5bb7c3a58541dbc3d54cd158cb0b7a" title="quda::cloverDslashCuda" alt="" coords="638,435,805,460"/>
+<area shape="rect" id="node44" href="$namespacequda.html#ad3d64786ebab4f096b3b4fb70ecb18e4" title="quda::wilsonDslashCuda" alt="" coords="638,159,806,184"/>
+<area shape="rect" id="node46" href="$namespacequda.html#ac17d7ca60e35710fc41fe13b80d0fa28" title="quda::asymCloverDslashCuda" alt="" coords="621,260,822,285"/>
+<area shape="rect" id="node50" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="439,577,547,603"/>
+</map>

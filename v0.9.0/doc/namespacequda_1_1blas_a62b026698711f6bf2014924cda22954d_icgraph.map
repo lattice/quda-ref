@@ -1,0 +1,10 @@
+<map id="quda::blas::norm" name="quda::blas::norm">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a2ef3fe7663a0d628cc49759389ce4577" title="quda::blas::cDotProductNormACpu" alt="" coords="415,5,644,31"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a3fb3691369fe4ccea735cdaebe6338e9" title="quda::blas::cDotProductNormBCpu" alt="" coords="415,55,644,80"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ac973fcc768c8805999bf969d55d74b6f" title="quda::ComputeHarmonicRitz\l\&lt; libtype::eigen_lib \&gt;" alt="" coords="174,155,367,193"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a70335f89785e7fec8596640185e70900" title="quda::ComputeHarmonicRitz\l\&lt; libtype::magma_lib \&gt;" alt="" coords="174,217,367,256"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#abdd90ef340ef638a051a17b3f3dbd47d" title="quda::blas::normCpu" alt="" coords="198,105,343,131"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ad14c7980923194dba1716a6a74d78124" title="quda::blas::caxpbypzYmbwc\lDotProductUYNormYCpu" alt="" coords="692,48,882,87"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#a7b160bec436b7d585a9ceac2cf06f0d3" title="quda::blas::axpyNormCpu" alt="" coords="442,104,617,129"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#ab5f82d99ec7b4fc046a3430b8e152bea" title="quda::blas::xmyNormCpu" alt="" coords="443,153,615,179"/>
+</map>

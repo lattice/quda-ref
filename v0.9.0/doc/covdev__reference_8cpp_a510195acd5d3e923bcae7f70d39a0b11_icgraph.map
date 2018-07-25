@@ -1,0 +1,51 @@
+<map id="Mat" name="Mat">
+<area shape="rect" id="node2" href="$blas__magma_8cu.html#ac65c95f58fc45bfd95869a0a46610df0" title="magma_Xgeev" alt="" coords="120,16,231,41"/>
+<area shape="rect" id="node4" href="$blas__magma_8cu.html#a4c2682b088feef2f297278a95dcbe6a7" title="magma_Xgels" alt="" coords="122,159,229,184"/>
+<area shape="rect" id="node6" href="$blas__magma_8cu.html#a83177cddacc20617163e82b33b49f89d" title="magma_Xgesv" alt="" coords="120,68,231,93"/>
+<area shape="rect" id="node8" href="$blas__magma_8cu.html#aea89e41651e9e05f3af08a4c9062a842" title="magma_Xheev" alt="" coords="120,243,231,268"/>
+<area shape="rect" id="node14" href="$covdev__reference_8h.html#a8678fbff3ed31d6f486ab33232e2d005" title="mat" alt="" coords="154,965,197,991"/>
+<area shape="rect" id="node50" href="$namespacequda.html#ad0da1353efb2b6174454d8416e3be158" title="quda::twistCloverApply" alt="" coords="97,1713,254,1739"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a70335f89785e7fec8596640185e70900" title="quda::ComputeHarmonicRitz\l\&lt; libtype::magma_lib \&gt;" alt="" coords="302,5,494,44"/>
+<area shape="rect" id="node5" href="$namespacequda.html#afb3199dc8e4c0947782ffcc22db3ac8f" title="quda::ComputeEta\&lt; libtype\l::magma_lib \&gt;" alt="" coords="307,117,489,156"/>
+<area shape="rect" id="node7" href="$classquda_1_1_deflation.html#a34216916176aa5676b2b4af567808b45" title="quda::Deflation::operator()" alt="" coords="310,68,487,93"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a58f1c005a18684056d8a5995af8121a2" title="quda::ComputeRitz\&lt;\l libtype::magma_lib \&gt;" alt="" coords="324,180,472,219"/>
+<area shape="rect" id="node10" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="319,243,478,268"/>
+<area shape="rect" id="node12" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="323,292,473,317"/>
+<area shape="rect" id="node11" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="555,243,737,268"/>
+<area shape="rect" id="node13" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="561,292,732,317"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#ae223a0a3b030bdb2b81fdeca1bd449ff" title="lanczosQuda" alt="" coords="349,1064,448,1089"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a773b5d9da98a8cfa217f8eed5e92a14d" title="quda::loadMatrixFromArray" alt="" coords="307,1113,490,1139"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a9b22645446eb788ec0ed2fcae79ed3d5" title="quda::writeMatrixToArray" alt="" coords="314,1163,482,1188"/>
+<area shape="rect" id="node18" href="$namespacequda.html#af12fa48718d32d8605e7ad9e24f90f50" title="quda::appendMatrixToArray" alt="" coords="306,1212,491,1237"/>
+<area shape="rect" id="node19" href="$classquda_1_1_solver.html#a50fee738be21e288b85c2400cfba9369" title="quda::Solver::create" alt="" coords="328,1261,468,1287"/>
+<area shape="rect" id="node25" href="$svd__quda_8h.html#a9f379a7d68a1ec725f9e496aa753c75b" title="getRealBidiagMatrix" alt="" coords="576,1360,716,1385"/>
+<area shape="rect" id="node26" href="$covdev__test_8cpp.html#ab75da1a58a5123f2bf58327b7d2e10bb" title="covdevRef" alt="" coords="356,1412,440,1437"/>
+<area shape="rect" id="node28" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="345,1511,451,1536"/>
+<area shape="rect" id="node29" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="610,1612,682,1637"/>
+<area shape="rect" id="node33" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="366,1461,430,1487"/>
+<area shape="rect" id="node34" href="$hisq__force__reference_8cpp.html#a8aadb19d273059c3e49860a8de794612" title="u_shift_mat" alt="" coords="353,1612,443,1637"/>
+<area shape="rect" id="node35" href="$hisq__force__reference_8cpp.html#a3c08f70bd8d1b40049dea3606809e98c" title="set_identity_matrix" alt="" coords="332,341,464,367"/>
+<area shape="rect" id="node36" href="$class_matrix.html#ad910f211b4844b98bad2c17bb74e980c" title="Matrix::operator+=" alt="" coords="333,391,463,416"/>
+<area shape="rect" id="node37" href="$class_matrix.html#aab137445eac8824efd61fa8025dd9144" title="Matrix::operator&#45;=" alt="" coords="335,440,462,465"/>
+<area shape="rect" id="node38" href="$hisq__force__reference2_8cpp.html#ad1593bcb1050aa9bf83bbd2ca53077bc" title="conj" alt="" coords="375,1363,421,1388"/>
+<area shape="rect" id="node39" href="$hisq__force__reference2_8cpp.html#a8d07f61e1b9f92ab074e91b6b96dbe76" title="transpose" alt="" coords="358,489,438,515"/>
+<area shape="rect" id="node40" href="$hisq__force__reference2_8cpp.html#ac8c544406899b8da4f9b3f0d70d0541b" title="operator*" alt="" coords="360,539,436,564"/>
+<area shape="rect" id="node41" href="$class_load_store.html#a64cf756f178b5834e25ccc84733e409a" title="LoadStore::storeMatrixTo\lField" alt="" coords="313,588,483,627"/>
+<area shape="rect" id="node42" href="$class_load_store.html#ade2fa2bd0df6ad5e7b9f8333b737fd98" title="LoadStore::addMatrixToField" alt="" coords="302,651,494,676"/>
+<area shape="rect" id="node43" href="$class_load_store.html#a07e4d44c9ad754e2ddfd51a7c0d6719d" title="LoadStore::storeMatrixTo\lMomentumField" alt="" coords="313,752,483,791"/>
+<area shape="rect" id="node44" href="$test__util_8cpp.html#a65d5887e252c448a182301450f8e8c87" title="su3Construct12" alt="" coords="341,815,455,840"/>
+<area shape="rect" id="node45" href="$test__util_8h.html#a7c2ad4de098606decb362b82ae47a501" title="su3_construct" alt="" coords="594,815,698,840"/>
+<area shape="rect" id="node46" href="$test__util_8cpp.html#a5cab84509559bf19a9aeb853f5588211" title="su3Construct8" alt="" coords="344,864,452,889"/>
+<area shape="rect" id="node47" href="$test__util_8cpp.html#a7792697ced3bc32f5809b9eb95860279" title="su3Reconstruct12" alt="" coords="334,965,463,991"/>
+<area shape="rect" id="node48" href="$test__util_8h.html#ae1e0f4fd7d03f177b571bdab0d245832" title="su3_reconstruct" alt="" coords="588,965,704,991"/>
+<area shape="rect" id="node49" href="$test__util_8cpp.html#a3428ee7cbb69178fe12578c3354a78a9" title="su3Reconstruct8" alt="" coords="337,1015,459,1040"/>
+<area shape="rect" id="node20" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="603,1311,689,1336"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="579,1111,713,1136"/>
+<area shape="rect" id="node22" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="833,1209,942,1235"/>
+<area shape="rect" id="node23" href="$classquda_1_1_m_g.html#a81c27dc5f468e10f91d9cf0742866ad0" title="Create the smoothers. " alt="" coords="555,1160,737,1185"/>
+<area shape="rect" id="node24" href="$classquda_1_1_m_g.html#ae01b451dc72536567de5edfed09ec5ab" title="Generate the null&#45;space vectors. " alt="" coords="542,1209,750,1235"/>
+<area shape="rect" id="node27" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="604,1409,688,1435"/>
+<area shape="rect" id="node30" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="825,1612,950,1637"/>
+<area shape="rect" id="node31" href="$domain__wall__dslash__reference_8cpp.html#a3964f6b215e1dda74b994183560f238e" title="dslashReference_4d_sgpu" alt="" coords="798,1473,978,1499"/>
+<area shape="rect" id="node32" href="$staggered__dslash__reference_8cpp.html#a2f9bec3e1fe4f2e58c7175023a473f04" title="dslashReference" alt="" coords="827,1536,948,1561"/>
+</map>

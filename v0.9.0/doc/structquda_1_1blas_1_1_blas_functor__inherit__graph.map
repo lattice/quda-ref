@@ -1,0 +1,22 @@
+<map id="quda::blas::BlasFunctor&lt; Float2, FloatN &gt;" name="quda::blas::BlasFunctor&lt; Float2, FloatN &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1blas_1_1ax__.html" title="quda::blas::ax_\&lt; Float2,\l FloatN \&gt;" alt="" coords="225,5,389,44"/>
+<area shape="rect" id="node3" href="$structquda_1_1blas_1_1axpby__.html" title="quda::blas::axpby_\l\&lt; Float2, FloatN \&gt;" alt="" coords="240,68,373,107"/>
+<area shape="rect" id="node4" href="$structquda_1_1blas_1_1axpy__.html" title="quda::blas::axpy_\&lt;\l Float2, FloatN \&gt;" alt="" coords="240,131,373,169"/>
+<area shape="rect" id="node5" href="$structquda_1_1blas_1_1axpy_bzpcx__.html" title="quda::blas::axpyBzpcx\l_\&lt; Float2, FloatN \&gt;" alt="" coords="229,193,384,232"/>
+<area shape="rect" id="node6" href="$structquda_1_1blas_1_1axpy_zpbx__.html" title="quda::blas::axpyZpbx\l_\&lt; Float2, FloatN \&gt;" alt="" coords="233,256,381,295"/>
+<area shape="rect" id="node7" href="$structquda_1_1blas_1_1cabxpy_ax__.html" title="quda::blas::cabxpyAx\l_\&lt; Float2, FloatN \&gt;" alt="" coords="233,319,381,357"/>
+<area shape="rect" id="node8" href="$structquda_1_1blas_1_1caxpby__.html" title="quda::blas::caxpby\l_\&lt; Float2, FloatN \&gt;" alt="" coords="239,381,374,420"/>
+<area shape="rect" id="node9" href="$structquda_1_1blas_1_1caxpbypczpw__.html" title="quda::blas::caxpbypczpw\l_\&lt; Float2, FloatN \&gt;" alt="" coords="221,444,392,483"/>
+<area shape="rect" id="node10" href="$structquda_1_1blas_1_1caxpbypz__.html" title="quda::blas::caxpbypz\l_\&lt; Float2, FloatN \&gt;" alt="" coords="233,507,380,545"/>
+<area shape="rect" id="node11" href="$structquda_1_1blas_1_1caxpbypz_ymbw__.html" title="quda::blas::caxpbypzYmbw\l_\&lt; Float2, FloatN \&gt;" alt="" coords="215,569,398,608"/>
+<area shape="rect" id="node12" href="$structquda_1_1blas_1_1caxpy__.html" title="quda::blas::caxpy_\l\&lt; Float2, FloatN \&gt;" alt="" coords="240,632,373,671"/>
+<area shape="rect" id="node13" href="$structquda_1_1blas_1_1caxpy_bxpz__.html" title="quda::blas::caxpyBxpz\l_\&lt; Float2, FloatN \&gt;" alt="" coords="229,695,384,733"/>
+<area shape="rect" id="node14" href="$structquda_1_1blas_1_1caxpy_bzpx__.html" title="quda::blas::caxpyBzpx\l_\&lt; Float2, FloatN \&gt;" alt="" coords="229,757,384,796"/>
+<area shape="rect" id="node15" href="$structquda_1_1blas_1_1caxpyxmaz__.html" title="quda::blas::caxpyxmaz\l_\&lt; Float2, FloatN \&gt;" alt="" coords="228,820,385,859"/>
+<area shape="rect" id="node16" href="$structquda_1_1blas_1_1caxpyxmaz_m_r__.html" title="quda::blas::caxpyxmazMR\l_\&lt; Float2, FloatN \&gt;" alt="" coords="218,883,395,921"/>
+<area shape="rect" id="node17" href="$structquda_1_1blas_1_1cxpaypbz__.html" title="quda::blas::cxpaypbz\l_\&lt; Float2, FloatN \&gt;" alt="" coords="233,945,380,984"/>
+<area shape="rect" id="node18" href="$structquda_1_1blas_1_1mxpy__.html" title="quda::blas::mxpy_\&lt;\l Float2, FloatN \&gt;" alt="" coords="238,1008,375,1047"/>
+<area shape="rect" id="node19" href="$structquda_1_1blas_1_1triple_c_g_update__.html" title="quda::blas::tripleCGUpdate\l_\&lt; Float2, FloatN \&gt;" alt="" coords="215,1071,398,1109"/>
+<area shape="rect" id="node20" href="$structquda_1_1blas_1_1xpayz__.html" title="quda::blas::xpayz_\l\&lt; Float2, FloatN \&gt;" alt="" coords="240,1133,373,1172"/>
+<area shape="rect" id="node21" href="$structquda_1_1blas_1_1xpy__.html" title="quda::blas::xpy_\&lt; Float2,\l FloatN \&gt;" alt="" coords="221,1196,392,1235"/>
+</map>

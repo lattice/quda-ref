@@ -1,0 +1,5 @@
+<map id="quda::genericCopyColorSpinor" name="quda::genericCopyColorSpinor">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="261,5,339,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#abf5b4d5728021e058d90ff1d07446399" title="quda::copy" alt="" coords="257,55,344,80"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="392,5,483,31"/>
+</map>

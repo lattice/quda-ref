@@ -1,0 +1,22 @@
+<map id="include/dslash_quda.h" name="include/dslash_quda.h">
+<area shape="rect" id="node2" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="821,372,934,397"/>
+<area shape="rect" id="node24" href="$tune__quda_8h.html" title="tune_quda.h" alt="" coords="1131,79,1226,104"/>
+<area shape="rect" id="node33" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="738,299,840,324"/>
+<area shape="rect" id="node40" href="$worker_8h.html" title="worker.h" alt="" coords="1251,79,1322,104"/>
+<area shape="rect" id="node3" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="446,445,570,471"/>
+<area shape="rect" id="node9" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="1100,519,1203,544"/>
+<area shape="rect" id="node11" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="667,445,730,471"/>
+<area shape="rect" id="node14" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="1033,445,1119,471"/>
+<area shape="rect" id="node20" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="314,445,422,471"/>
+<area shape="rect" id="node22" href="$object_8h.html" title="object.h" alt="" coords="754,445,822,471"/>
+<area shape="rect" id="node13" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="639,519,766,544"/>
+<area shape="rect" id="node16" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="795,519,901,544"/>
+<area shape="rect" id="node18" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="1308,519,1393,544"/>
+<area shape="rect" id="node25" href="$dirac__quda_8h.html" title="dirac_quda.h" alt="" coords="781,152,880,177"/>
+<area shape="rect" id="node26" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="454,299,591,324"/>
+<area shape="rect" id="node34" href="$clover__field_8h.html" title="clover_field.h" alt="" coords="615,299,715,324"/>
+<area shape="rect" id="node35" href="$blas__quda_8h.html" title="blas_quda.h" alt="" coords="674,225,768,251"/>
+<area shape="rect" id="node28" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="562,372,661,397"/>
+<area shape="rect" id="node30" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="248,372,363,397"/>
+<area shape="rect" id="node32" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="394,372,486,397"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="quda::GaugeField::Order" name="quda::GaugeField::Order">
+<area shape="rect" id="node2" href="$namespacequda.html#a10eaa726091d09d9f6d4e428bd0e1e17" title="quda::APEStep" alt="" coords="270,5,382,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a02c79c4835f68af5a6a9cbb615e28e88" title="quda::applyU" alt="" coords="276,353,376,379"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ad71ac21abf22c5fc68c8588e128dab32" title="Calculate the coarse&#45;link field, include the clover field, and its inverse, and finally also compute ..." alt="" coords="266,167,386,192"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a9200b5b7b0bedfefee31634ea39a0f0a" title="quda::checkMomOrder" alt="" coords="248,813,405,839"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a67722133651ac086090b613f2ecba041" title="quda::Checksum" alt="" coords="266,863,387,888"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a4b255172e59a1940f5b0477ebcd78695" title="Compute the force contribution from the solver solution fields. " alt="" coords="235,55,417,80"/>
+<area shape="rect" id="node14" href="$namespacequda.html#a88f9b8f3add45d5e4b156480335c4a70" title="Compute the outer product from the solver solution fields arising from the diagonal term of the fermi..." alt="" coords="233,104,419,143"/>
+<area shape="rect" id="node15" href="$namespacequda.html#ac761519fa6b50d06090188b96d777709" title="quda::computeStaggeredOprod" alt="" coords="222,912,430,937"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a04def932827868afffccb9716ff55018" title="quda::extractGhost" alt="" coords="259,961,393,987"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a001e6ca1ec0b9379d1982b6dc1b27d6b" title="quda::extractGhostEx" alt="" coords="251,1060,401,1085"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a1207c05218ad9ed9514b0853456de5f3" title="quda::extractGhostMG" alt="" coords="248,1011,404,1036"/>
+<area shape="rect" id="node21" href="$namespacequda.html#a326605d7b325be6c096bf3d9c473a810" title="quda::gaugeGauss" alt="" coords="259,1109,393,1135"/>
+<area shape="rect" id="node23" href="$namespacequda.html#ab867764219575eee5200a7034d37d465" title="quda::maxGauge" alt="" coords="264,1161,388,1187"/>
+<area shape="rect" id="node25" href="$classquda_1_1_lattice_field.html#a6ac04d638e49aa1ed1d6b66ec1dbca39" title="quda::LatticeField\l::Nvec" alt="" coords="263,1281,390,1320"/>
+<area shape="rect" id="node30" href="$namespacequda.html#af2f629a449d73ec8d456907d3b06ec5d" title="quda::OvrImpSTOUTStep" alt="" coords="239,1469,413,1495"/>
+<area shape="rect" id="node33" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="248,468,404,507"/>
+<area shape="rect" id="node48" href="$namespacequda.html#a54e29617e44052b49c93962e01df2c39" title="quda::STOUTStep" alt="" coords="261,1543,392,1568"/>
+<area shape="rect" id="node50" href="$namespacequda.html#a42db02c77cd30f685c666150f1956193" title="quda::updateMomentum" alt="" coords="243,216,409,241"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a51da31992209b588cc71641963307d56" title="performAPEnStep" alt="" coords="519,5,647,31"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="483,203,683,228"/>
+<area shape="rect" id="node7" href="$namespacequda.html#afd209a310946d067b22d56ff2e821c1d" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="523,104,643,129"/>
+<area shape="rect" id="node9" href="$namespacequda.html#aa7245adcd96d82ee5737c63972f56273" title="quda::copyGauge" alt="" coords="520,907,646,932"/>
+<area shape="rect" id="node11" href="$classquda_1_1_gauge_field.html#ab983f2bef311d704250673b9bc289afe" title="quda::GaugeField::checksum" alt="" coords="486,956,680,981"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="494,55,672,80"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a30c73bae2ad5e120dd0c2fea452b7924" title="quda::extractGaugeGhost" alt="" coords="736,1032,910,1057"/>
+<area shape="rect" id="node20" href="$namespacequda.html#abe091511f03b1c04c4a18b3235bb7368" title="quda::extractGaugeGhostMG" alt="" coords="485,1057,681,1083"/>
+<area shape="rect" id="node22" href="$interface__quda_8cpp.html#af17612b71e9ac3b8dfeba3a882945fa9" title="gaussGaugeQuda" alt="" coords="518,1107,648,1132"/>
+<area shape="rect" id="node24" href="$classquda_1_1cpu_gauge_field.html#aed4d23cd5eac14f6e2661f09a345254e" title="Constructor for cpuGaugeField from a GaugeFieldParam. " alt="" coords="509,1156,657,1195"/>
+<area shape="rect" id="node26" href="$classquda_1_1_color_spinor_field.html#ad99149519e9289d71c7a753426462918" title="quda::ColorSpinorField\l::CreateCoarse" alt="" coords="504,1407,662,1445"/>
+<area shape="rect" id="node27" href="$classquda_1_1_color_spinor_field.html#a88ecb876974ca134319307da2d5edbd3" title="quda::ColorSpinorField\l::CreateFine" alt="" coords="504,1219,662,1257"/>
+<area shape="rect" id="node28" href="$classquda_1_1cuda_color_spinor_field.html#ac2e23741f5cea98c5e8672f115ae41b2" title="quda::cudaColorSpinorField\l::sendGhost" alt="" coords="490,1281,676,1320"/>
+<area shape="rect" id="node29" href="$classquda_1_1cuda_color_spinor_field.html#a8f3aa5c756bc4cdb3c2e32248cf82192" title="Initiate halo communication sending. " alt="" coords="490,1344,676,1383"/>
+<area shape="rect" id="node31" href="$namespacequda.html#a38668c5326bd297e2b2fc1bb410b0358" title="quda::OvrImpSTOUTStep" alt="" coords="496,1519,670,1544"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#a0ee20ea90421939924df9903acb6b4d8" title="performOvrImpSTOUTnStep" alt="" coords="488,1469,678,1495"/>
+<area shape="rect" id="node34" href="$interface__quda_8cpp.html#a712409027ee905b83584cb83debd2226" title="Gauge fixing with Steepest descent method with FFTs with support for single GPU only. " alt="" coords="481,857,686,883"/>
+<area shape="rect" id="node35" href="$interface__quda_8cpp.html#a8b0af6b94d7d5041eddf9e4a0a929c0c" title="Gauge fixing with overrelaxation with support for single and multi GPU. " alt="" coords="478,252,688,277"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="493,301,673,327"/>
+<area shape="rect" id="node37" href="$interface__quda_8cpp.html#aff400a364829b50917d50d5730281830" title="computeHISQForceQuda" alt="" coords="497,153,669,179"/>
+<area shape="rect" id="node38" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="509,351,657,376"/>
+<area shape="rect" id="node39" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="527,400,639,425"/>
+<area shape="rect" id="node40" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="546,449,620,475"/>
+<area shape="rect" id="node41" href="$interface__quda_8cpp.html#af6e8d08f0e5477d56e09f07c940ebf65" title="projectSU3Quda" alt="" coords="523,499,643,524"/>
+<area shape="rect" id="node42" href="$classquda_1_1cuda_gauge_field.html#ad640087d39ac539ab3b676e1f585a4c3" title="Upload from this field into a CPU field. Overloaded variant that includes profiling. " alt="" coords="505,548,661,587"/>
+<area shape="rect" id="node43" href="$interface__quda_8cpp.html#a6516a0a03688b7c5931b44ae4244e7d2" title="saveGaugeFieldQuda" alt="" coords="508,611,659,636"/>
+<area shape="rect" id="node44" href="$interface__quda_8cpp.html#a9697844b4e6ef5debe0b7d8c05a96b76" title="saveGaugeQuda" alt="" coords="522,660,644,685"/>
+<area shape="rect" id="node45" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="508,709,659,735"/>
+<area shape="rect" id="node46" href="$unitarize__link__test_8cpp.html#a529cfbd2a1809bcaf7b4b76a7fb35e5b" title="TEST" alt="" coords="555,759,611,784"/>
+<area shape="rect" id="node47" href="$interface__quda_8cpp.html#a80c19191f476ca7c464ca450c3ae5c25" title="updateGaugeFieldQuda" alt="" coords="501,808,665,833"/>
+<area shape="rect" id="node49" href="$interface__quda_8cpp.html#ad9b78b143153725974886c392285b906" title="performSTOUTnStep" alt="" coords="510,1568,657,1593"/>
+</map>

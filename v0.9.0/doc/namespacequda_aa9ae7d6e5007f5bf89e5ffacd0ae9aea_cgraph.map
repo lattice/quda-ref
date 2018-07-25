@@ -1,0 +1,8 @@
+<map id="quda::exchangeExtendedGhost" name="quda::exchangeExtendedGhost">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a589430861080cdc7c23a8d74cfe75c93" title="commDim" alt="" coords="322,31,403,56"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ab1ecadf071018ee4519c12ec2868e0f0" title="Wrapper around cudaDeviceSynchronize or cuDeviceSynchronize. " alt="" coords="261,80,464,105"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a3f2b731bceb1847d99e603f56717aa64" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="280,129,445,155"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="512,31,598,56"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="646,5,809,31"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="681,55,774,80"/>
+</map>

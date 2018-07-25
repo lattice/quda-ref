@@ -1,0 +1,4 @@
+<map id="quda::gauge::FloatNOrder::loadGhostEx" name="quda::gauge::FloatNOrder::loadGhostEx">
+<area shape="rect" id="node2" href="$namespacequda.html#abf5b4d5728021e058d90ff1d07446399" title="quda::copy" alt="" coords="273,5,360,31"/>
+<area shape="rect" id="node3" href="$structquda_1_1gauge_1_1_reconstruct.html#a7d6c235703308b24e3d0b5bd6865ed53" title="quda::gauge::Reconstruct\l::Unpack" alt="" coords="230,55,404,93"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="quda::cudaCloverField::copy" name="quda::cudaCloverField::copy">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html#aa7454e5d3f27a4c7368be0b70fda40b2" title="quda::LatticeField\l::checkField" alt="" coords="231,5,357,44"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a66381cafed77b92ed2f0278b373d4ec5" title="This generic function is used for copying the clover field where in the input and output can be in an..." alt="" coords="208,68,380,93"/>
+<area shape="rect" id="node4" href="$namespacequda.html#aa25deeec640690f50f16e136639e8450" title="Return whether data is reordered on the CPU or GPU. This can set at QUDA initialization using the env..." alt="" coords="217,117,371,143"/>
+</map>

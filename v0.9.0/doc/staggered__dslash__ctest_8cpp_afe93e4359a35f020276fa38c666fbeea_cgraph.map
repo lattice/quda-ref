@@ -1,0 +1,16 @@
+<map id="TEST_P" name="TEST_P">
+<area shape="rect" id="node2" href="$staggered__dslash__ctest_8cpp.html#aae87026c545cd7c541478d495efebc47" title="dslashCUDA" alt="" coords="155,108,253,133"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac.html#a2c29da01d1a8aa6de6bba0f3218d3b0c" title="quda::Dirac::Flops" alt="" coords="139,157,269,183"/>
+<area shape="rect" id="node15" href="$classquda_1_1_color_spinor_field.html#aa01d350809eb6ca56919ccba5d10521e" title="quda::ColorSpinorField\l::GhostBytes" alt="" coords="125,207,283,245"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="350,8,453,33"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac.html#a69792f182bbe560af9e1358109df730d" title="quda::Dirac::Dslash" alt="" coords="333,59,470,84"/>
+<area shape="rect" id="node7" href="$staggered__dslash__ctest_8cpp.html#a081b5c662ecee58405a543518f699d31" title="end" alt="" coords="380,108,423,133"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="347,157,455,183"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac.html#a5579a5c54f186793a2e84280bdba929a" title="quda::Dirac::MdagM" alt="" coords="331,207,472,232"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="564,8,656,33"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="775,5,877,31"/>
+<area shape="rect" id="node8" href="$comm__quda_8h.html#ab213b188bc96e090912616eb9d7672a3" title="Reset the comm dim partioned array to zero,. " alt="" coords="520,60,700,85"/>
+<area shape="rect" id="node10" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="588,109,632,135"/>
+<area shape="rect" id="node11" href="$quda_8h.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="552,159,669,184"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#a4d9b659714b667da8423d595f8a7abe3" title="comm_dim_partitioned\l_reset" alt="" coords="748,55,904,93"/>
+</map>

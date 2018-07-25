@@ -1,0 +1,7 @@
+<map id="norm_2" name="norm_2">
+<area shape="rect" id="node2" href="$blas__reference_8cpp.html#a6415325c438f389416b152ba5d6ed5c0" title="norm2" alt="" coords="120,31,179,56"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#ad219441b0cdddb8ddf27cf958557713e" title="comm_allreduce" alt="" coords="227,5,346,31"/>
+<area shape="rect" id="node6" href="$multi__reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="263,55,310,80"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="394,5,502,31"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="550,5,667,31"/>
+</map>

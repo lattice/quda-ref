@@ -1,0 +1,6 @@
+<map id="include/lanczos_quda.h" name="include/lanczos_quda.h">
+<area shape="rect" id="node2" href="$eig__lanczos__quda_8cpp.html" title="lib/eig_lanczos_quda.cpp" alt="" coords="5,79,176,104"/>
+<area shape="rect" id="node3" href="$eig__solver_8cpp.html" title="lib/eig_solver.cpp" alt="" coords="201,79,325,104"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html" title="lib/interface_quda.cpp" alt="" coords="348,79,500,104"/>
+<area shape="rect" id="node5" href="$ritz__quda_8cpp.html" title="lib/ritz_quda.cpp" alt="" coords="524,79,642,104"/>
+</map>

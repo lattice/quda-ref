@@ -1,0 +1,6 @@
+<map id="quda::gauge::Reconstruct&lt; 9, Float &gt;::getPhase" name="quda::gauge::Reconstruct&lt; 9, Float &gt;::getPhase">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="263,5,341,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="261,55,344,80"/>
+<area shape="rect" id="node5" href="$namespacequda.html#aa2770ef66427e1e0861d7685d363907a" title="quda::getDeterminant" alt="" coords="227,104,377,129"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="425,5,517,31"/>
+</map>

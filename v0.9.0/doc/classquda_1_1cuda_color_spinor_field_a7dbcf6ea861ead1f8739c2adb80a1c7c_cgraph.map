@@ -1,0 +1,11 @@
+<map id="quda::cudaColorSpinorField::scatterExtended" name="quda::cudaColorSpinorField::scatterExtended">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="261,45,406,71"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_color_spinor_field.html#a589d2b6db0fd101a35b6f57ad40e7219" title="quda::cudaColorSpinorField\l::unpackGhostExtended" alt="" coords="240,108,427,147"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="490,31,646,56"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="709,31,796,56"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="844,5,1007,31"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="879,55,972,80"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_color_spinor_field.html#a7a73b9310750a2a0f308c0e4611eefad" title="quda::cudaColorSpinorField\l::unpackGhost" alt="" coords="475,80,661,119"/>
+<area shape="rect" id="node9" href="$classquda_1_1_lattice_field.html#a96eccffaa1381a45cd03db7bdc4af2f1" title="quda::LatticeField::R" alt="" coords="496,143,640,168"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a361c97988ba3376e03875560fa769462" title="quda::packFaceExtended" alt="" coords="482,192,654,217"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="quda::DiracCoarsePC::DslashXpay" name="quda::DiracCoarsePC::DslashXpay">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_coarse_p_c.html#a8217d0fbec51cb52bd81be7b3fa78a63" title="Apply DslashXpay out = (D * in) " alt="" coords="204,5,355,44"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a05c1eeac0ec0080a4fb3df73277944de" title="quda::blas::xpay" alt="" coords="221,68,339,93"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a553cb93873d188cc110e614162a4749e" title="quda::ApplyCoarse" alt="" coords="403,12,538,37"/>
+</map>

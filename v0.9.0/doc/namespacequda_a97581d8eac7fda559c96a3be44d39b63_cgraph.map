@@ -1,0 +1,8 @@
+<map id="quda::applyLaplace" name="quda::applyLaplace">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="216,5,294,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="214,55,297,80"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ac267e68929cc8df629a5c5471f6a7ca4" title="quda::getCoords" alt="" coords="195,104,315,129"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ab14419953c0b6e02a7e9ac4a4313e0b9" title="quda::linkIndexM1" alt="" coords="190,153,320,179"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a0b554befac535568a3866593316bfe26" title="quda::linkIndexP1" alt="" coords="191,203,319,228"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="368,5,460,31"/>
+</map>

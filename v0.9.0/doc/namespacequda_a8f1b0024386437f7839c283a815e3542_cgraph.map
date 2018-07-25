@@ -1,0 +1,15 @@
+<map id="quda::pow" name="quda::pow">
+<area shape="rect" id="node2" href="$namespacequda.html#ab9b7c656cfd4121b9d553997230d76e2" title="quda::exp" alt="" coords="136,56,216,81"/>
+<area shape="rect" id="node14" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87c1524bd1a5e838de0f40bd26a28e8c" title="logf" alt="" coords="155,105,198,131"/>
+<area shape="rect" id="node3" href="$namespacequda.html#afbd4cbea98feea6d4c555e1df3714f27" title="quda::exp" alt="" coords="264,56,344,81"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0003d647b1182eafd145bac98768d27e" title="expf" alt="" coords="413,31,459,56"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="392,80,480,105"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="528,55,607,80"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="530,104,605,129"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="655,55,734,80"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0546342e76f932239ccd5f92144a311b" title="cosf" alt="" coords="786,104,832,129"/>
+<area shape="rect" id="node9" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#ae37ce4924a4be38a9de85fc81ba79e58" title="coshf" alt="" coords="782,153,836,179"/>
+<area shape="rect" id="node10" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a312367f3e117fc37059783c301766042" title="sinf" alt="" coords="788,5,830,31"/>
+<area shape="rect" id="node11" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#ad02bd5acade33b7470f196d7b05f5176" title="sinhf" alt="" coords="784,55,834,80"/>
+<area shape="rect" id="node13" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="657,104,733,129"/>
+</map>

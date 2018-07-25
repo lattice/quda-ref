@@ -1,0 +1,13 @@
+<map id="quda::axpy" name="quda::axpy">
+<area shape="rect" id="node2" href="$domain__wall__dslash__reference_8cpp.html#ab31e412602c643d1f1558de859c3bd53" title="dslashReference_5th_inv" alt="" coords="147,23,319,48"/>
+<area shape="rect" id="node9" href="$classquda_1_1_ritz_mat.html#aa97e894726663ac7e736c610ffb155e5" title="quda::RitzMat::operator()" alt="" coords="148,72,318,97"/>
+<area shape="rect" id="node10" href="$classquda_1_1_lanczos.html#a7c13e72ff4f70ce0aff6c48fc29c8645" title="quda::Lanczos::operator()" alt="" coords="146,121,320,147"/>
+<area shape="rect" id="node11" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="140,171,327,196"/>
+<area shape="rect" id="node12" href="$classquda_1_1_s_d.html#aa0937eb41102e35ab13f02db3cdd38b0" title="quda::SD::operator()" alt="" coords="162,220,305,245"/>
+<area shape="rect" id="node3" href="$domain__wall__dslash__reference_8h.html#a6b6ec25973e148650cf1b671e08ad18f" title="dslash_5_inv" alt="" coords="375,23,474,48"/>
+<area shape="rect" id="node4" href="$dslash__ctest_8cpp.html#a67d49cd517919ae845535dcd9e7585c7" title="dslashRef" alt="" coords="674,23,755,48"/>
+<area shape="rect" id="node6" href="$domain__wall__dslash__reference_8h.html#a155c5b029b825831dc6a0896582e6c4c" title="dw_4d_matpc" alt="" coords="522,72,626,97"/>
+<area shape="rect" id="node8" href="$domain__wall__dslash__reference_8h.html#af3ffe4ee55bf74a0d73a0e372b451d56" title="mdw_matpc" alt="" coords="527,23,620,48"/>
+<area shape="rect" id="node5" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="803,23,874,48"/>
+<area shape="rect" id="node7" href="$invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="689,72,739,97"/>
+</map>

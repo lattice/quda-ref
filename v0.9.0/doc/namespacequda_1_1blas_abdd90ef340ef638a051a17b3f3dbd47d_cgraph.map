@@ -1,0 +1,9 @@
+<map id="quda::blas::normCpu" name="quda::blas::normCpu">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a62b026698711f6bf2014924cda22954d" title="quda::blas::norm" alt="" coords="198,5,319,31"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="367,19,495,44"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a71bf8d05f88a9fb9bb34eca2697151ee" title="reduceDouble" alt="" coords="207,107,311,132"/>
+<area shape="rect" id="node5" href="$comm__quda_8h.html#ad219441b0cdddb8ddf27cf958557713e" title="comm_allreduce" alt="" coords="372,81,491,107"/>
+<area shape="rect" id="node8" href="$multi__reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="408,131,454,156"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="543,81,651,107"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="699,81,816,107"/>
+</map>

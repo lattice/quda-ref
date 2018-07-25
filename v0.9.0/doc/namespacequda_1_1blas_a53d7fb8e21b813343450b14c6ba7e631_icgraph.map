@@ -1,0 +1,27 @@
+<map id="quda::blas::xmyNorm" name="quda::blas::xmyNorm">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="258,5,345,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="205,55,397,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="450,80,631,105"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="228,156,374,181"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="229,205,374,231"/>
+<area shape="rect" id="node9" href="$classquda_1_1_c_g_n_r.html#a2afa3f3b11946d0b8e2251064dce3882" title="quda::CGNR::operator()" alt="" coords="459,256,623,281"/>
+<area shape="rect" id="node10" href="$classquda_1_1_m_p_c_g.html#a22dc04a12559494a1202da230c31a66a" title="quda::MPCG::operator()" alt="" coords="219,307,384,332"/>
+<area shape="rect" id="node11" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="208,356,395,381"/>
+<area shape="rect" id="node12" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="211,405,392,431"/>
+<area shape="rect" id="node13" href="$classquda_1_1_m_p_bi_c_gstab.html#aeaaa27e4d7c28168d04893447dab68b3" title="quda::MPBiCGstab::operator()" alt="" coords="201,455,402,480"/>
+<area shape="rect" id="node14" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="207,504,396,529"/>
+<area shape="rect" id="node15" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="224,553,378,579"/>
+<area shape="rect" id="node16" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="229,603,374,628"/>
+<area shape="rect" id="node17" href="$classquda_1_1_s_d.html#aa0937eb41102e35ab13f02db3cdd38b0" title="quda::SD::operator()" alt="" coords="230,652,373,677"/>
+<area shape="rect" id="node18" href="$classquda_1_1_multi_shift_c_g.html#a5f96f73432fafb1a99336cf1ecee4736" title="quda::MultiShiftCG\l::operator()" alt="" coords="235,701,368,740"/>
+<area shape="rect" id="node19" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="207,764,396,789"/>
+<area shape="rect" id="node20" href="$classquda_1_1_c_g.html#aedab089868d466a7aea69ca556ad1ea4" title="quda::CG::solve" alt="" coords="243,813,360,839"/>
+<area shape="rect" id="node21" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="280,863,323,888"/>
+<area shape="rect" id="node25" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="242,936,361,961"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="505,5,577,31"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_g_n_e.html#a4043b6e48b0794cf6876ae6398431e08" title="quda::CGNE::operator()" alt="" coords="459,205,622,231"/>
+<area shape="rect" id="node22" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="497,825,584,851"/>
+<area shape="rect" id="node24" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="505,875,577,900"/>
+<area shape="rect" id="node23" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="679,825,730,851"/>
+<area shape="rect" id="node26" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="486,936,595,961"/>
+</map>

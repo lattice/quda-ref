@@ -1,0 +1,7 @@
+<map id="quda::completeKSForce" name="quda::completeKSForce">
+<area shape="rect" id="node2" href="$classquda_1_1_k_s_force_complete.html#a09ac61eb216982e33053749e0bdef1e2" title="quda::KSForceComplete\l::apply" alt="" coords="235,5,402,44"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="468,69,546,95"/>
+<area shape="rect" id="node5" href="$classquda_1_1_k_s_force_complete.html#a439dfb93d4ebb626439a4bf0de0e7ca6" title="quda::KSForceComplete\l::flops" alt="" coords="235,120,402,159"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ab1ecadf071018ee4519c12ec2868e0f0" title="Wrapper around cudaDeviceSynchronize or cuDeviceSynchronize. " alt="" coords="218,183,420,208"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="594,69,685,95"/>
+</map>

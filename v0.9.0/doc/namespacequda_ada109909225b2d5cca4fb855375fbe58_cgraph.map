@@ -1,0 +1,9 @@
+<map id="quda::createDirac" name="quda::createDirac">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#ac13ad4c6bdcacd4b53a473176e7ab830" title="quda::Dirac::create" alt="" coords="207,5,341,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="415,107,562,132"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ae2157f2d523f81f8a36cea5e5a8c7ab4" title="quda::setDiracPreParam" alt="" coords="190,107,357,132"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a2dcf8c16152e86f17cc410c9e206070c" title="quda::setDiracSloppyParam" alt="" coords="180,156,367,181"/>
+<area shape="rect" id="node3" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="441,5,536,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_field.html#aea09fc8dc9f69a1bfebbbad4717e433a" title="quda::GaugeField::Anisotropy" alt="" coords="610,81,808,107"/>
+<area shape="rect" id="node6" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="673,131,745,156"/>
+</map>

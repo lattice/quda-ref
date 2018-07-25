@@ -1,0 +1,5 @@
+<map id="quda::extractGhostMG" name="quda::extractGhostMG">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#a572f6c61199a2be7bae4e13999800bbe" title="quda::GaugeField::LinkType" alt="" coords="218,5,406,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_field.html#ab655802370bde3461711f30a2da68bb7" title="quda::GaugeField::Ncolor" alt="" coords="225,55,398,80"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="209,104,415,129"/>
+</map>

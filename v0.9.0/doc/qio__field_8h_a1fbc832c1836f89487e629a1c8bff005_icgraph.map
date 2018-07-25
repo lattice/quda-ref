@@ -1,0 +1,6 @@
+<map id="read_spinor_field" name="read_spinor_field">
+<area shape="rect" id="node2" href="$classquda_1_1_deflation.html#a98318860027f484d1988bf45fa63ca5d" title="Load the eigen space vectors from file. " alt="" coords="177,5,365,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_m_g.html#a213e25fb9c8589a890bf6d275faf3d0f" title="Load the null space vectors in from file. " alt="" coords="193,55,350,80"/>
+<area shape="rect" id="node3" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="413,5,584,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="444,55,553,80"/>
+</map>

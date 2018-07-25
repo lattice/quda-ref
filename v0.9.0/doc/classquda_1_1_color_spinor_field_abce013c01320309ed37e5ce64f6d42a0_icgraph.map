@@ -1,0 +1,51 @@
+<map id="quda::ColorSpinorField::V" name="quda::ColorSpinorField::V">
+<area shape="rect" id="node2" href="$namespacequda.html#a33de5f8df071fe3b63d94738f6695b5d" title="Driver for applying the covariant derivative. " alt="" coords="266,40,405,65"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas_1_1copy__ns.html#ad7353084a830c81feb7c3f4aa2f14f7f" title="quda::blas::copy_ns\l::copy" alt="" coords="266,732,405,771"/>
+<area shape="rect" id="node14" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="1060,271,1143,296"/>
+<area shape="rect" id="node27" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="757,1303,957,1328"/>
+<area shape="rect" id="node33" href="$namespacequda.html#aef3d9d4bc466961551296a7825590aee" title="quda::copyExtendedColorSpinor" alt="" coords="229,847,442,872"/>
+<area shape="rect" id="node34" href="$namespacequda.html#a0b4f9a13764b9532514af0d01bcdbea5" title="quda::copyGenericColorSpinor" alt="" coords="234,896,437,921"/>
+<area shape="rect" id="node35" href="$covdev__test_8cpp.html#ab75da1a58a5123f2bf58327b7d2e10bb" title="covdevRef" alt="" coords="293,945,378,971"/>
+<area shape="rect" id="node38" href="$dslash__ctest_8cpp.html#aae87026c545cd7c541478d495efebc47" title="dslashCUDA" alt="" coords="287,995,384,1020"/>
+<area shape="rect" id="node40" href="$dslash__ctest_8cpp.html#a67d49cd517919ae845535dcd9e7585c7" title="dslashRef" alt="" coords="295,1044,376,1069"/>
+<area shape="rect" id="node41" href="$namespacequda_1_1blas.html#a9ec17191396cc3420a485e0cc66514a4" title="quda::blas::HeavyQuarkResidual\lNormCpu" alt="" coords="227,1093,444,1132"/>
+<area shape="rect" id="node43" href="$interface__quda_8cpp.html#a8df9daaddff2c4eaf29a0f7878dfe852" title="loadCloverQuda" alt="" coords="277,144,394,169"/>
+<area shape="rect" id="node47" href="$structquda_1_1_dslash_coarse_launch.html#a1e863906442ac686de28943f041177ac" title="Execute the coarse dslash using the given policy. " alt="" coords="243,1156,428,1195"/>
+<area shape="rect" id="node48" href="$classquda_1_1cuda_color_spinor_field.html#aefb99b153a3c0290ea9c192afff38cac" title="quda::cudaColorSpinorField\l::saveSpinorField" alt="" coords="242,1219,429,1257"/>
+<area shape="rect" id="node49" href="$staggered__dslash__ctest_8cpp.html#a395582865fa2cf85dfdc964a961ac000" title="staggeredDslashRef" alt="" coords="264,1281,407,1307"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_cov_dev.html#add1772de63a1b81e957fc63bd06b4897" title="quda::GaugeCovDev::\lDslashCD" alt="" coords="523,5,676,44"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_cov_dev.html#a03515abb5f8cd7f7ef65269adb8ef5ce" title="quda::GaugeCovDev::MCD" alt="" coords="765,12,949,37"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_cov_dev.html#a329cf745c76f7a7b726ee45aaf272a0e" title="quda::GaugeCovDev::\lMdagMCD" alt="" coords="1025,5,1178,44"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#aee938c63ad4eaa9d0ccc7d50013a5618" title="quda::blas::copy" alt="" coords="541,743,659,768"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#ae431c1663f0dd56ed0b614dbf962bb90" title="comm_declare_send_relative_" alt="" coords="756,1079,959,1104"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#aeb9a185db7c2974f78056482fee0d9c7" title="comm_declare_strided\l_send_relative_" alt="" coords="779,1128,935,1167"/>
+<area shape="rect" id="node10" href="$classquda_1_1cuda_color_spinor_field.html#abb0bcabac8d4e5a3775ff6508b558b69" title="quda::cudaColorSpinorField\l::copy" alt="" coords="764,1191,951,1229"/>
+<area shape="rect" id="node11" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="769,1253,946,1279"/>
+<area shape="rect" id="node12" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="778,320,937,345"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="814,271,901,296"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="790,517,925,543"/>
+<area shape="rect" id="node18" href="$interface__quda_8cpp.html#a50832a69c2d3aef393f6daf85d3b0fe8" title="invertMultiShiftQuda" alt="" coords="787,369,928,395"/>
+<area shape="rect" id="node19" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="767,619,948,644"/>
+<area shape="rect" id="node20" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="763,668,952,693"/>
+<area shape="rect" id="node21" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="785,717,929,743"/>
+<area shape="rect" id="node22" href="$classquda_1_1_c_g.html#aedab089868d466a7aea69ca556ad1ea4" title="quda::CG::solve" alt="" coords="799,767,916,792"/>
+<area shape="rect" id="node23" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="766,816,949,841"/>
+<area shape="rect" id="node24" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="1008,816,1194,841"/>
+<area shape="rect" id="node25" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="1244,841,1435,867"/>
+<area shape="rect" id="node26" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="780,917,934,943"/>
+<area shape="rect" id="node29" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="785,967,930,992"/>
+<area shape="rect" id="node30" href="$classquda_1_1_multi_shift_c_g.html#a5f96f73432fafb1a99336cf1ecee4736" title="quda::MultiShiftCG\l::operator()" alt="" coords="791,1016,924,1055"/>
+<area shape="rect" id="node31" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="814,419,901,444"/>
+<area shape="rect" id="node32" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="836,468,879,493"/>
+<area shape="rect" id="node16" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1076,171,1126,196"/>
+<area shape="rect" id="node15" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1314,271,1365,296"/>
+<area shape="rect" id="node28" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="1007,1303,1196,1328"/>
+<area shape="rect" id="node36" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="558,969,642,995"/>
+<area shape="rect" id="node37" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="832,1352,882,1377"/>
+<area shape="rect" id="node39" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="564,1031,636,1056"/>
+<area shape="rect" id="node42" href="$namespacequda_1_1blas.html#ac649e439b0bad9c3bafec0b35ffb3b17" title="quda::blas::HeavyQuarkResidual\lNormCpu" alt="" coords="492,1093,708,1132"/>
+<area shape="rect" id="node44" href="$dslash__ctest_8cpp.html#a64129cf6a57ea1eaec3d8beb72214bd7" title="init" alt="" coords="580,169,619,195"/>
+<area shape="rect" id="node46" href="$interface__quda_8cpp.html#ac82c02b41cda6766ed0fded459a5896d" title="load_clover_quda_" alt="" coords="533,68,667,93"/>
+<area shape="rect" id="node45" href="$class_dslash_test.html#afb0a7879cf403f62842a6a187b18c2dc" title="DslashTest::SetUp" alt="" coords="792,169,923,195"/>
+<area shape="rect" id="node50" href="$staggered__dslash__ctest_8cpp.html#a15fa07f5c4df8fc8e33ab3970f8a712f" title="TEST_P" alt="" coords="564,1281,636,1307"/>
+</map>

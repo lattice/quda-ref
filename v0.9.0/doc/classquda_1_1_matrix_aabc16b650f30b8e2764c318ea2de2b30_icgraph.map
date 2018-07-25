@@ -1,0 +1,6 @@
+<map id="quda::Matrix::checksum" name="quda::Matrix::checksum">
+<area shape="rect" id="node2" href="$namespacequda.html#ac461d0bc832fef8c1995e5949302f33f" title="quda::siteChecksum" alt="" coords="215,5,358,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ac27cd63412752afa99588d031642aa20" title="quda::ChecksumCPU" alt="" coords="406,5,555,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a67722133651ac086090b613f2ecba041" title="quda::Checksum" alt="" coords="603,5,725,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_field.html#ab983f2bef311d704250673b9bc289afe" title="quda::GaugeField::checksum" alt="" coords="773,5,967,31"/>
+</map>

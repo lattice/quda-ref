@@ -1,0 +1,36 @@
+<map id="fused_exterior_dslash_gen.generate_dslash_kernels" name="fused_exterior_dslash_gen.generate_dslash_kernels">
+<area shape="rect" id="node2" href="$namespacefused__exterior__dslash__gen.html#aa0c1a95787cf58392b611d0166d89426" title="fused_exterior_dslash\l_gen.generate_dslash" alt="" coords="207,1024,360,1063"/>
+<area shape="rect" id="node3" href="$namespacefused__exterior__dslash__gen.html#a200d9b9df0f13dca697f09cd263523ec" title="fused_exterior_dslash\l_gen.epilog" alt="" coords="408,893,560,932"/>
+<area shape="rect" id="node29" href="$namespacefused__exterior__dslash__gen.html#a13a17590293cb356c170d9ebaf69c16f" title="fused_exterior_dslash\l_gen.prolog" alt="" coords="608,1179,759,1217"/>
+<area shape="rect" id="node4" href="$namespacefused__exterior__dslash__gen.html#a73bafe9e15f774b10a2ccb454737ebed" title="fused_exterior_dslash\l_gen.acc_im" alt="" coords="1017,944,1169,983"/>
+<area shape="rect" id="node5" href="$namespacefused__exterior__dslash__gen.html#a477c3c8fd27f60531b2707cdb9d92415" title="fused_exterior_dslash\l_gen.acc_re" alt="" coords="1017,1007,1169,1045"/>
+<area shape="rect" id="node6" href="$namespacefused__exterior__dslash__gen.html#a1fe05f21a216839d1fb6300fbd79a7c2" title="fused_exterior_dslash\l_gen.apply_clover" alt="" coords="608,372,759,411"/>
+<area shape="rect" id="node10" href="$namespacefused__exterior__dslash__gen.html#ade3aba4cb958af7e88556027141d7e86" title="fused_exterior_dslash\l_gen.block" alt="" coords="1017,221,1169,260"/>
+<area shape="rect" id="node12" href="$namespacefused__exterior__dslash__gen.html#a6395ef3246b077c9f86083b67ba47814" title="fused_exterior_dslash\l_gen.c_im" alt="" coords="1017,779,1169,817"/>
+<area shape="rect" id="node13" href="$namespacefused__exterior__dslash__gen.html#a25815379358bee5f4470ada77ba05afe" title="fused_exterior_dslash\l_gen.c_re" alt="" coords="1017,881,1169,920"/>
+<area shape="rect" id="node17" href="$namespacefused__exterior__dslash__gen.html#a3ec427e0cf49f6a5e2de93d420db7e55" title="fused_exterior_dslash\l_gen.g_im" alt="" coords="1017,1545,1169,1584"/>
+<area shape="rect" id="node18" href="$namespacefused__exterior__dslash__gen.html#a672add6134a017c098c2aba8057d8fe1" title="fused_exterior_dslash\l_gen.g_re" alt="" coords="1017,1387,1169,1425"/>
+<area shape="rect" id="node19" href="$namespacefused__exterior__dslash__gen.html#aa39c5562a3f9225248ae22fcff4c599c" title="fused_exterior_dslash\l_gen.in_im" alt="" coords="1017,1136,1169,1175"/>
+<area shape="rect" id="node20" href="$namespacefused__exterior__dslash__gen.html#ac3e23deb622f28fd98d7b182e5197a44" title="fused_exterior_dslash\l_gen.in_re" alt="" coords="1017,1324,1169,1363"/>
+<area shape="rect" id="node21" href="$namespacefused__exterior__dslash__gen.html#ace72cc2ddf87186744100ab9197d2d25" title="fused_exterior_dslash\l_gen.out_im" alt="" coords="1017,601,1169,640"/>
+<area shape="rect" id="node22" href="$namespacefused__exterior__dslash__gen.html#a162dd172133fc3bbf4ec81a5e2c79226" title="fused_exterior_dslash\l_gen.out_re" alt="" coords="1017,684,1169,723"/>
+<area shape="rect" id="node23" href="$namespacefused__exterior__dslash__gen.html#a3645fa224e27979c95779472ebdd797c" title="fused_exterior_dslash\l_gen.twisted" alt="" coords="608,164,759,203"/>
+<area shape="rect" id="node28" href="$namespacefused__exterior__dslash__gen.html#a4704213b0db1c47fce06dd45abd135ae" title="fused_exterior_dslash\l_gen.xpay" alt="" coords="812,836,964,875"/>
+<area shape="rect" id="node7" href="$namespacefused__exterior__dslash__gen.html#abfd2b57357e1065101f6600cc3a18606" title="fused_exterior_dslash\l_gen.clover_mult" alt="" coords="812,404,964,443"/>
+<area shape="rect" id="node15" href="$namespacefused__exterior__dslash__gen.html#aae0d64f3218149409a8c9482d2468d43" title="fused_exterior_dslash\l_gen.from_chiral_basis" alt="" coords="809,341,968,380"/>
+<area shape="rect" id="node16" href="$namespacefused__exterior__dslash__gen.html#a02395a68b20ea193bf5390f753c73986" title="fused_exterior_dslash\l_gen.to_chiral_basis" alt="" coords="812,279,964,317"/>
+<area shape="rect" id="node8" href="$namespacefused__exterior__dslash__gen.html#aab36f3c722a4ee75333ce47fc0c1e8b4" title="fused_exterior_dslash\l_gen.a_im" alt="" coords="1017,284,1169,323"/>
+<area shape="rect" id="node9" href="$namespacefused__exterior__dslash__gen.html#adce10edb55907b868ee02e086812db68" title="fused_exterior_dslash\l_gen.a_re" alt="" coords="1017,347,1169,385"/>
+<area shape="rect" id="node14" href="$namespacefused__exterior__dslash__gen.html#a1ce9215d6f7180c063f3332c68751f31" title="fused_exterior_dslash\l_gen.spinor" alt="" coords="1017,409,1169,448"/>
+<area shape="rect" id="node11" href="$namespacefused__exterior__dslash__gen.html#a234d8827c1b51a2169550ee726c7e758" title="code generation ######################################################################## ..." alt="" coords="1217,833,1369,872"/>
+<area shape="rect" id="node24" href="$namespacefused__exterior__dslash__gen.html#a55026d9663ff7dd1a83a7ec3f3fb215b" title="fused_exterior_dslash\l_gen.twisted_rotate" alt="" coords="812,113,964,152"/>
+<area shape="rect" id="node26" href="$namespacefused__exterior__dslash__gen.html#a8077d03d121132618c8d92d4864e0787" title="fused_exterior_dslash\l_gen.tmp_re" alt="" coords="1017,68,1169,107"/>
+<area shape="rect" id="node27" href="$namespacefused__exterior__dslash__gen.html#a4ab26b961c1e6a8bee7bad38baa38c06" title="fused_exterior_dslash\l_gen.tmp_im" alt="" coords="1017,5,1169,44"/>
+<area shape="rect" id="node25" href="$namespacefused__exterior__dslash__gen.html#a3e70c2d67a2a4cc6e071c05c17cb24fb" title="fused_exterior_dslash\l_gen.sign" alt="" coords="1017,131,1169,169"/>
+<area shape="rect" id="node30" href="$namespacefused__exterior__dslash__gen.html#a3227ba45384bdf2495cf7217a46ee2ad" title="fused_exterior_dslash\l_gen.def_input_spinor" alt="" coords="812,1267,965,1305"/>
+<area shape="rect" id="node33" href="$namespacefused__exterior__dslash__gen.html#afb50d9d95130833315be23e14a2301c4" title="fused_exterior_dslash\l_gen.def_gauge" alt="" coords="812,1381,964,1420"/>
+<area shape="rect" id="node34" href="$namespacefused__exterior__dslash__gen.html#a9053d7c10b8f2cc15e2d786f1cfba804" title="fused_exterior_dslash\l_gen.def_clover" alt="" coords="812,1204,964,1243"/>
+<area shape="rect" id="node35" href="$namespacefused__exterior__dslash__gen.html#ae00e496efd3c2aae9db37ee34503ce94" title="fused_exterior_dslash\l_gen.def_output_spinor" alt="" coords="807,671,969,709"/>
+<area shape="rect" id="node31" href="$namespacefused__exterior__dslash__gen.html#a186ac30deca22039220494dd06dfe51b" title="fused_exterior_dslash\l_gen.nthFloat2" alt="" coords="1017,1261,1169,1300"/>
+<area shape="rect" id="node32" href="$namespacefused__exterior__dslash__gen.html#a6b12c5163535ed0270c89ccbc24c0052" title="fused_exterior_dslash\l_gen.nthFloat4" alt="" coords="1017,1199,1169,1237"/>
+</map>

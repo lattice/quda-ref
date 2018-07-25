@@ -1,0 +1,6 @@
+<map id="get_coords" name="get_coords">
+<area shape="rect" id="node2" href="$qio__field_8cpp.html#ab1500ef7f975e98f8c50b01db933f98b" title="set_layout" alt="" coords="141,55,223,80"/>
+<area shape="rect" id="node3" href="$qio__field_8cpp.html#a1e6e06adc3d1ab33f903c5d2179616fe" title="read_gauge_field" alt="" coords="271,5,395,31"/>
+<area shape="rect" id="node4" href="$qio__field_8cpp.html#a1fbc832c1836f89487e629a1c8bff005" title="read_spinor_field" alt="" coords="271,55,395,80"/>
+<area shape="rect" id="node5" href="$qio__field_8cpp.html#abd9b964749c9d1e1cc31caed95cc66bc" title="write_spinor_field" alt="" coords="271,104,396,129"/>
+</map>

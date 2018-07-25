@@ -1,0 +1,51 @@
+<map id="quda::GaugeField::Anisotropy" name="quda::GaugeField::Anisotropy">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#acb76b2ef5b4507f26c1970c95bad1a72" title="cloverQuda" alt="" coords="501,5,591,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#afd209a310946d067b22d56ff2e821c1d" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="265,1015,384,1040"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#a6826eb81d4a6da7a9107670ff0bbcc77" title="dslashQuda" alt="" coords="500,55,592,80"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#a2d8a2a7758507a87ae669d556e409e68" title="dslashQuda_4dpc" alt="" coords="482,104,610,129"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#a7ea97611c29b71b948ea41f974cf777f" title="dslashQuda_mdwf" alt="" coords="480,153,612,179"/>
+<area shape="rect" id="node18" href="$interface__quda_8cpp.html#a8df9daaddff2c4eaf29a0f7878dfe852" title="loadCloverQuda" alt="" coords="266,728,383,753"/>
+<area shape="rect" id="node23" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="251,301,398,327"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#af2cd15b3a18d5966b95446fabba3c57b" title="clover_quda_" alt="" coords="732,5,833,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_wilson.html#ae5d7d91c1d9d0163e1d013569bb3edfe" title="Create the coarse Wilson operator. " alt="" coords="478,1228,614,1267"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_clover.html#a67bd09b3508ce62334202cdb18d7f919" title="Create the coarse clover operator. " alt="" coords="478,852,614,891"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_clover_p_c.html#af1af3786ae321dbfd20845a345596744" title="Create the coarse even&#45;odd preconditioned clover operator. Unlike the Wilson operator, the coarsening of the preconditioned clover operator differs from that of the unpreconditioned clover operator, so we need to specialize it. " alt="" coords="473,915,619,953"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_twisted_mass.html#a9623b614f5702c174f15ce52856daeef" title="Create the coarse twisted&#45;mass operator. " alt="" coords="463,977,629,1016"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a4cfc1acb068f09fdb81c635187a916f3" title="Create the coarse even&#45;odd preconditioned twisted&#45;mass operator. " alt="" coords="453,1040,639,1079"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_twisted_clover.html#a6d5e47bf61539cae1c43e0b709fd95e9" title="Create the coarse twisted&#45;clover operator. " alt="" coords="459,1103,633,1141"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a7faa63737629c198bc15929b11611f5d" title="Create the coarse even&#45;odd preconditioned twisted&#45;clover operator. Unlike the Wilson operator..." alt="" coords="459,1165,633,1204"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#aa42de7cce1a9f65009aff63d57d14281" title="dslash_quda_" alt="" coords="730,55,835,80"/>
+<area shape="rect" id="node14" href="$dslash__ctest_8cpp.html#aae87026c545cd7c541478d495efebc47" title="dslashCUDA" alt="" coords="734,153,831,179"/>
+<area shape="rect" id="node15" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="953,153,1025,179"/>
+<area shape="rect" id="node19" href="$dslash__ctest_8cpp.html#a64129cf6a57ea1eaec3d8beb72214bd7" title="init" alt="" coords="527,803,565,828"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#ac82c02b41cda6766ed0fded459a5896d" title="load_clover_quda_" alt="" coords="479,753,613,779"/>
+<area shape="rect" id="node22" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1162,469,1212,495"/>
+<area shape="rect" id="node20" href="$class_dslash_test.html#afb0a7879cf403f62842a6a187b18c2dc" title="DslashTest::SetUp" alt="" coords="717,803,848,828"/>
+<area shape="rect" id="node24" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="457,203,635,228"/>
+<area shape="rect" id="node25" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="446,351,646,376"/>
+<area shape="rect" id="node27" href="$namespacequda.html#ada109909225b2d5cca4fb855375fbe58" title="quda::createDirac" alt="" coords="719,420,846,445"/>
+<area shape="rect" id="node37" href="$structquda_1_1deflated__solver.html#aae585f4b6048e8195084a888877ff46e" title="quda::deflated_solver\l::deflated_solver" alt="" coords="708,585,857,624"/>
+<area shape="rect" id="node38" href="$covdev__test_8cpp.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="527,652,565,677"/>
+<area shape="rect" id="node41" href="$interface__quda_8cpp.html#ae223a0a3b030bdb2b81fdeca1bd449ff" title="lanczosQuda" alt="" coords="496,551,596,576"/>
+<area shape="rect" id="node42" href="$interface__quda_8cpp.html#a752f99361f4f44f0d9662841736d9041" title="MatDagMatQuda" alt="" coords="485,252,607,277"/>
+<area shape="rect" id="node44" href="$interface__quda_8cpp.html#afe79acaec8e033157d9214b5ad97ae66" title="MatQuda" alt="" coords="508,301,584,327"/>
+<area shape="rect" id="node46" href="$namespacequda.html#ae2157f2d523f81f8a36cea5e5a8c7ab4" title="quda::setDiracPreParam" alt="" coords="462,452,630,477"/>
+<area shape="rect" id="node50" href="$namespacequda.html#a2dcf8c16152e86f17cc410c9e206070c" title="quda::setDiracSloppyParam" alt="" coords="452,501,640,527"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="694,351,871,389"/>
+<area shape="rect" id="node28" href="$interface__quda_8cpp.html#a50832a69c2d3aef393f6daf85d3b0fe8" title="invertMultiShiftQuda" alt="" coords="919,345,1060,371"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="922,493,1057,519"/>
+<area shape="rect" id="node35" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="946,420,1033,445"/>
+<area shape="rect" id="node29" href="$interface__quda_8cpp.html#a5472502b8ffcfb415a7189b23ca61474" title="invert_multishift_quda_" alt="" coords="1108,321,1266,347"/>
+<area shape="rect" id="node30" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="1146,371,1229,396"/>
+<area shape="rect" id="node31" href="$invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1162,272,1212,297"/>
+<area shape="rect" id="node33" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="1146,568,1229,593"/>
+<area shape="rect" id="node34" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1162,519,1212,544"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="1138,420,1236,445"/>
+<area shape="rect" id="node39" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="740,652,825,677"/>
+<area shape="rect" id="node40" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="964,652,1014,677"/>
+<area shape="rect" id="node43" href="$interface__quda_8cpp.html#a72af035c9525f63bc925bd3bacb658e6" title="mat_dag_mat_quda_" alt="" coords="709,252,856,277"/>
+<area shape="rect" id="node45" href="$interface__quda_8cpp.html#a3bdec0b5768092765df5ec728df4f14a" title="mat_quda_" alt="" coords="738,301,826,327"/>
+<area shape="rect" id="node47" href="$structquda_1_1multigrid__solver.html#a90dca24011ab28a4f496484dbf79c27b" title="quda::multigrid_solver\l::multigrid_solver" alt="" coords="707,519,858,557"/>
+<area shape="rect" id="node48" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="710,469,855,495"/>
+<area shape="rect" id="node49" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="964,543,1014,568"/>
+</map>

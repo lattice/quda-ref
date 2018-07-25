@@ -1,0 +1,37 @@
+<map id="halfwilson_hisq_force_reference" name="halfwilson_hisq_force_reference">
+<area shape="rect" id="node2" href="$hisq__force__reference_8cpp.html#a802fa6cd9b5490464aef0a014fffff2f" title="do_halfwilson_hisq\l_force_reference" alt="" coords="202,248,336,287"/>
+<area shape="rect" id="node3" href="$hisq__force__reference_8cpp.html#a35fb6b86f01e298e5aa44fd87453c509" title="add_force_to_momentum" alt="" coords="565,128,738,154"/>
+<area shape="rect" id="node4" href="$namespacedw__dslash__4_d__cuda__gen.html#addf26f8d1c6f0eb7bd01c67a0dcfc364" title="dw_dslash_4D_cuda_gen.coeff" alt="" coords="786,28,993,54"/>
+<area shape="rect" id="node7" href="$hisq__force__reference_8cpp.html#a1da81de9f353bde8b9451094c7e0f747" title="scalar_mult_add_su3\l_matrix" alt="" coords="815,226,964,264"/>
+<area shape="rect" id="node9" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="428,230,473,255"/>
+<area shape="rect" id="node10" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="420,279,480,304"/>
+<area shape="rect" id="node11" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afe176b0807dfea419d70b1376ea761a4" title="printf" alt="" coords="425,328,476,354"/>
+<area shape="rect" id="node12" href="$hisq__force__reference_8cpp.html#acc229f9a4c63a599d34dbd5382d9ac7c" title="set_identity" alt="" coords="406,378,495,403"/>
+<area shape="rect" id="node30" href="$hisq__force__reference_8cpp.html#a90c6242374a1089bb36754032cf6dfb0" title="shifted_outer_prod" alt="" coords="384,427,517,452"/>
+<area shape="rect" id="node33" href="$hisq__force__reference_8cpp.html#a3d646456c13aafdc0219d870bf592405" title="side_link_force" alt="" coords="395,78,506,103"/>
+<area shape="rect" id="node34" href="$hisq__force__reference_8cpp.html#a8aadb19d273059c3e49860a8de794612" title="u_shift_mat" alt="" coords="405,502,496,527"/>
+<area shape="rect" id="node5" href="$hisq__force__reference_8cpp.html#aa5dc67a966ca6b887606fef509b4554f" title="make_anti_hermitian" alt="" coords="817,78,962,103"/>
+<area shape="rect" id="node6" href="$hisq__force__reference_8cpp.html#ac7b583c6bd8097c7fd16fa02faa75dcb" title="matrix_mult_na" alt="" coords="833,127,946,152"/>
+<area shape="rect" id="node8" href="$hisq__force__reference_8cpp.html#a8747cd704c7001db3360144ec2f97b36" title="uncompress_anti_hermitian" alt="" coords="797,176,982,202"/>
+<area shape="rect" id="node13" href="$hisq__force__reference_8cpp.html#a3c08f70bd8d1b40049dea3606809e98c" title="set_identity_matrix" alt="" coords="585,352,718,378"/>
+<area shape="rect" id="node14" href="$covdev__reference_8cpp.html#ab0f599f28b95625a5325f690bfba3341" title="mat" alt="" coords="868,427,911,452"/>
+<area shape="rect" id="node15" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="1041,339,1085,364"/>
+<area shape="rect" id="node16" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="1133,314,1258,339"/>
+<area shape="rect" id="node17" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="1320,251,1403,276"/>
+<area shape="rect" id="node22" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="1306,300,1418,326"/>
+<area shape="rect" id="node23" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="1505,402,1569,427"/>
+<area shape="rect" id="node27" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="1325,452,1398,478"/>
+<area shape="rect" id="node29" href="$multi__reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="1338,202,1385,227"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="1466,279,1608,304"/>
+<area shape="rect" id="node19" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1656,279,1782,304"/>
+<area shape="rect" id="node20" href="$namespacedeg__tm__dslash__cuda__gen.html#a25e7a316bad796aa725630abc74dc5a6" title="deg_tm_dslash_cuda\l_gen.block" alt="" coords="1830,272,1978,311"/>
+<area shape="rect" id="node21" href="$namespacedeg__tm__dslash__cuda__gen.html#ac31a39a5abf38a3f73ca45dd1f17d622" title="code generation ######################################################################## ..." alt="" coords="2026,272,2174,311"/>
+<area shape="rect" id="node24" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1699,402,1739,427"/>
+<area shape="rect" id="node25" href="$namespacedeg__tm__dslash__cuda__gen.html#a5524cf75f983fc353a12f9e032276068" title="deg_tm_dslash_cuda\l_gen.a_im" alt="" coords="1830,416,1978,455"/>
+<area shape="rect" id="node26" href="$namespacedeg__tm__dslash__cuda__gen.html#afda57ce5de82b58c957d612f6c36e3f7" title="deg_tm_dslash_cuda\l_gen.a_re" alt="" coords="1830,354,1978,392"/>
+<area shape="rect" id="node28" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="1484,478,1590,503"/>
+<area shape="rect" id="node31" href="$gauge__force__reference_8cpp.html#a3e96b500dae48e2ee7f67df9bca3cbe5" title="neighborIndexFullLattice" alt="" coords="568,451,735,476"/>
+<area shape="rect" id="node32" href="$hisq__force__reference_8cpp.html#a60f6508120450467f629a05cdf223d58" title="su3_projector" alt="" coords="600,402,702,427"/>
+<area shape="rect" id="node35" href="$hisq__force__reference_8cpp.html#ae0f697299737e94457185ee28b9dfa4c" title="matrix_mult_an" alt="" coords="595,552,708,578"/>
+<area shape="rect" id="node36" href="$hisq__force__reference_8cpp.html#a7bb0d455f993417982eb2fb495cd8fdc" title="matrix_mult_nn" alt="" coords="595,602,708,627"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="quda::blas::cDotProductNormBCpu" name="quda::blas::cDotProductNormBCpu">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a3147ebdb53a5ff9b98cec5b9132b7f80" title="quda::blas::cDotProductCpu" alt="" coords="283,85,471,111"/>
+<area shape="rect" id="node4" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="581,81,621,107"/>
+<area shape="rect" id="node13" href="$namespacequda_1_1blas.html#a62b026698711f6bf2014924cda22954d" title="quda::blas::norm" alt="" coords="541,281,661,307"/>
+<area shape="rect" id="node15" href="$namespacequda_1_1blas.html#abdd90ef340ef638a051a17b3f3dbd47d" title="quda::blas::normCpu" alt="" coords="304,195,450,220"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="519,32,683,57"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#ab0e0c436ffe5a991562449d9255e0163" title="reduceDoubleArray" alt="" coords="533,131,669,156"/>
+<area shape="rect" id="node5" href="$namespacedeg__tm__dslash__cuda__gen.html#a5524cf75f983fc353a12f9e032276068" title="deg_tm_dslash_cuda\l_gen.a_im" alt="" coords="735,5,883,44"/>
+<area shape="rect" id="node6" href="$namespacedeg__tm__dslash__cuda__gen.html#afda57ce5de82b58c957d612f6c36e3f7" title="deg_tm_dslash_cuda\l_gen.a_re" alt="" coords="735,68,883,107"/>
+<area shape="rect" id="node8" href="$comm__quda_8h.html#aee0b1daeb8b9a004d4f24f8fc23b8270" title="comm_allreduce_array" alt="" coords="731,131,888,156"/>
+<area shape="rect" id="node12" href="$multi__reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="786,180,832,205"/>
+<area shape="rect" id="node9" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="954,131,1025,156"/>
+<area shape="rect" id="node10" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="936,204,1044,229"/>
+<area shape="rect" id="node11" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="1092,204,1209,229"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="745,280,873,305"/>
+<area shape="rect" id="node16" href="$comm__quda_8h.html#a71bf8d05f88a9fb9bb34eca2697151ee" title="reduceDouble" alt="" coords="549,180,653,205"/>
+<area shape="rect" id="node17" href="$comm__quda_8h.html#ad219441b0cdddb8ddf27cf958557713e" title="comm_allreduce" alt="" coords="750,229,869,255"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="quda::pool::device_malloc_" name="quda::pool::device_malloc_">
+<area shape="rect" id="node2" href="$namespacequda.html#a053acd264e8d8a0b693874ad39407d0b" title="quda::device_free_" alt="" coords="191,5,325,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ac95492d4517e1e02b0a778bb1ae23925" title="quda::device_malloc_" alt="" coords="183,55,333,80"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a532555e4bd75f141d2099bedc8f9f8c6" title="quda::track_free" alt="" coords="389,5,507,31"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a48b853dffcb810ee388424076403d694" title="quda::track_malloc" alt="" coords="381,55,514,80"/>
+</map>

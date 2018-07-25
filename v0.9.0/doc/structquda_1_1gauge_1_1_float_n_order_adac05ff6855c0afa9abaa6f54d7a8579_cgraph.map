@@ -1,0 +1,7 @@
+<map id="quda::gauge::FloatNOrder::saveGhost" name="quda::gauge::FloatNOrder::saveGhost">
+<area shape="rect" id="node2" href="$namespacequda.html#abf5b4d5728021e058d90ff1d07446399" title="quda::copy" alt="" coords="274,5,361,31"/>
+<area shape="rect" id="node3" href="$structquda_1_1gauge_1_1_reconstruct.html#ad4cd2157818b0c2334f02603afc24774" title="quda::gauge::Reconstruct\l::getPhase" alt="" coords="231,55,405,93"/>
+<area shape="rect" id="node4" href="$structquda_1_1gauge_1_1_reconstruct.html#a5be484fe72c4ce133268d65d74910414" title="quda::gauge::Reconstruct\l::Pack" alt="" coords="231,117,405,156"/>
+<area shape="rect" id="node5" href="$structquda_1_1gauge_1_1_float_n_order.html#a3535fae6b8287d684e661a2d52a1c6a1" title="Backup the field to the host when tuning. " alt="" coords="230,180,406,219"/>
+<area shape="rect" id="node6" href="$namespacequda.html#aaeda4e4f5aabf19dae35f28e4c8802b7" title="quda::vector_store" alt="" coords="252,243,384,268"/>
+</map>

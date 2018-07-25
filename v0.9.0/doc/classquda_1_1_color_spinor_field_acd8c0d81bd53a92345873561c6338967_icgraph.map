@@ -1,0 +1,10 @@
+<map id="quda::ColorSpinorField::GammaBasis" name="quda::ColorSpinorField::GammaBasis">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_color_spinor_field.html#abb0bcabac8d4e5a3775ff6508b558b69" title="quda::cudaColorSpinorField\l::copy" alt="" coords="211,47,398,85"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#ac37ac6a9963555b7e4b3f9733c2d7c60" title="quda::cudaColorSpinorField\l::copySpinorField" alt="" coords="446,5,632,44"/>
+<area shape="rect" id="node5" href="$classquda_1_1_transfer.html#acae8c442c5f6dd3a12530c010d556838" title="quda::Transfer::P" alt="" coords="242,109,366,135"/>
+<area shape="rect" id="node9" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="242,159,367,184"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_color_spinor_field.html#a7b1c5a7388663a844bff4693a0b30854" title="quda::cudaColorSpinorField\l::operator=" alt="" coords="680,5,867,44"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="479,109,599,135"/>
+<area shape="rect" id="node8" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="466,159,612,184"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="719,159,828,184"/>
+</map>

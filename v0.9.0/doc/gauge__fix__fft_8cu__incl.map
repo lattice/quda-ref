@@ -1,0 +1,29 @@
+<map id="lib/gauge_fix_fft.cu" name="lib/gauge_fix_fft.cu">
+<area shape="rect" id="node2" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="788,372,901,397"/>
+<area shape="rect" id="node23" href="$quda__matrix_8h.html" title="quda_matrix.h" alt="" coords="1038,152,1144,177"/>
+<area shape="rect" id="node33" href="$tune__quda_8h.html" title="tune_quda.h" alt="" coords="614,152,710,177"/>
+<area shape="rect" id="node35" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="166,299,267,324"/>
+<area shape="rect" id="node39" href="$gauge__field__order_8h.html" title="Main header file for host and device accessors to GaugeFields. " alt="" coords="1255,79,1394,104"/>
+<area shape="rect" id="node41" href="$index__helper_8cuh.html" title="index_helper.cuh" alt="" coords="1585,152,1707,177"/>
+<area shape="rect" id="node44" href="$atomic_8cuh.html" title="atomic.cuh" alt="" coords="1731,152,1817,177"/>
+<area shape="rect" id="node46" href="$launch__kernel_8cuh.html" title="launch_kernel.cuh" alt="" coords="1469,79,1599,104"/>
+<area shape="rect" id="node47" href="$unitarization__links_8h.html" title="unitarization_links.h" alt="" coords="346,79,485,104"/>
+<area shape="rect" id="node48" href="$cub__helper_8cuh.html" title="cub_helper.cuh" alt="" coords="1766,79,1878,104"/>
+<area shape="rect" id="node3" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="948,445,1072,471"/>
+<area shape="rect" id="node9" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="619,519,721,544"/>
+<area shape="rect" id="node11" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="168,445,230,471"/>
+<area shape="rect" id="node14" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="457,445,544,471"/>
+<area shape="rect" id="node19" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="1199,445,1307,471"/>
+<area shape="rect" id="node21" href="$object_8h.html" title="object.h" alt="" coords="724,445,792,471"/>
+<area shape="rect" id="node13" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="5,519,132,544"/>
+<area shape="rect" id="node16" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="240,519,346,544"/>
+<area shape="rect" id="node17" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="370,519,455,544"/>
+<area shape="rect" id="node27" href="$register__traits_8h.html" title="Provides precision abstractions and defines the register precision given the storage precision using ..." alt="" coords="1227,225,1340,251"/>
+<area shape="rect" id="node29" href="$complex__quda_8h.html" title="complex_quda.h" alt="" coords="1518,299,1638,324"/>
+<area shape="rect" id="node32" href="$float__vector_8h.html" title="float_vector.h" alt="" coords="1465,225,1566,251"/>
+<area shape="rect" id="node31" href="$inline__ptx_8h.html" title="inline_ptx.h" alt="" coords="1355,299,1444,324"/>
+<area shape="rect" id="node34" href="$dirac__quda_8h.html" title="dirac_quda.h" alt="" coords="254,225,353,251"/>
+<area shape="rect" id="node36" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="227,372,326,397"/>
+<area shape="rect" id="node42" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="1168,152,1260,177"/>
+<area shape="rect" id="node45" href="$thrust__helper_8cuh.html" title="thrust_helper.cuh" alt="" coords="1083,372,1206,397"/>
+</map>

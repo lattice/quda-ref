@@ -1,0 +1,5 @@
+<map id="include/stencil.h" name="include/stencil.h">
+<area shape="rect" id="node2" href="$cov_dev_8cu.html" title="lib/covDev.cu" alt="" coords="5,79,105,104"/>
+<area shape="rect" id="node3" href="$gauge__laplace_8cpp.html" title="lib/gauge_laplace.cpp" alt="" coords="129,79,280,104"/>
+<area shape="rect" id="node4" href="$laplace_8cu.html" title="lib/laplace.cu" alt="" coords="303,79,402,104"/>
+</map>

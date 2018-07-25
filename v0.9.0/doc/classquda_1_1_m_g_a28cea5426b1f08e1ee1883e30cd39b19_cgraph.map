@@ -1,0 +1,20 @@
+<map id="quda::MG::operator()" name="quda::MG::operator()">
+<area shape="rect" id="node2" href="$dslash__util_8h.html#ab3b65f3e997d5d3cf902c8f4c0f9e78e" title="axpby" alt="" coords="244,67,301,92"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="417,167,574,205"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_matrix.html#a9f44a8ea6156c9d2d13fa545b95598ec" title="quda::DiracMatrix::\lExpose" alt="" coords="206,272,339,311"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a3174ee67c7fa7d35dbdf37b13064e8b0" title="quda::norm2" alt="" coords="225,335,321,360"/>
+<area shape="rect" id="node9" href="$classquda_1_1_transfer.html#acae8c442c5f6dd3a12530c010d556838" title="quda::Transfer::P" alt="" coords="211,171,335,196"/>
+<area shape="rect" id="node13" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="211,116,335,141"/>
+<area shape="rect" id="node16" href="$util__quda_8h.html#af0b637354d88c2cf044d20a3f472dcd9" title="setOutputPrefix" alt="" coords="216,436,329,461"/>
+<area shape="rect" id="node17" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a88283e340696784ba59fd349a14f5133" title="strncpy" alt="" coords="463,440,528,465"/>
+<area shape="rect" id="node18" href="$namespacequda_1_1blas.html#a53d7fb8e21b813343450b14c6ba7e631" title="quda::blas::xmyNorm" alt="" coords="199,485,346,511"/>
+<area shape="rect" id="node19" href="$namespacequda_1_1blas.html#ae823e2784a147b1ef92f13b2a6f6941c" title="quda::blas::xpy" alt="" coords="217,535,328,560"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a026455342b50e0274c0aad8886880e0c" title="quda::colorSpinorParam" alt="" coords="413,279,578,304"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="417,328,574,367"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="432,391,560,416"/>
+<area shape="rect" id="node10" href="$classquda_1_1_color_spinor_field.html#acd8c0d81bd53a92345873561c6338967" title="quda::ColorSpinorField\l::GammaBasis" alt="" coords="417,104,574,143"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a8fe86e73d78ec0ec9bbd5517e0bc7ca6" title="Apply the prolongation operator. " alt="" coords="434,229,557,255"/>
+<area shape="rect" id="node12" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="645,111,802,149"/>
+<area shape="rect" id="node14" href="$namespacequda.html#afb070d65c4e75d0fa4f60948dd5dc80b" title="Apply the restriction operator. " alt="" coords="444,5,547,31"/>
+<area shape="rect" id="node15" href="$namespacequda.html#ab1ecadf071018ee4519c12ec2868e0f0" title="Wrapper around cudaDeviceSynchronize or cuDeviceSynchronize. " alt="" coords="394,55,597,80"/>
+</map>

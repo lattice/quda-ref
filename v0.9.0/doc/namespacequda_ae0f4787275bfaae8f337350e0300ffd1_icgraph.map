@@ -1,0 +1,10 @@
+<map id="quda::ApplyLaplace" name="quda::ApplyLaplace">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_laplace.html#a9a4c195b71b16112e0c1e386ec3bc725" title="quda::GaugeLaplace\l::Dslash" alt="" coords="192,12,337,51"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_laplace.html#aae8b140931e499d45b2a2b18db7eb8e7" title="quda::GaugeLaplace\l::DslashXpay" alt="" coords="192,75,337,113"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_laplace_p_c.html#a6c471950b428df22248f3749bc90e3f8" title="quda::GaugeLaplacePC::M" alt="" coords="385,19,567,44"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_laplace_p_c.html#a4a3622094450e0bf013e9404c3f54deb" title="quda::GaugeLaplacePC\l::MdagM" alt="" coords="615,5,779,44"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_laplace.html#a2c73a5a8506cbc53a96ec60c339ecb57" title="quda::GaugeLaplace::M" alt="" coords="394,71,558,96"/>
+<area shape="rect" id="node8" href="$classquda_1_1_gauge_laplace_p_c.html#aed27addfc9c7b1a772673be64d68a4a8" title="quda::GaugeLaplacePC\l::prepare" alt="" coords="394,120,558,159"/>
+<area shape="rect" id="node9" href="$classquda_1_1_gauge_laplace_p_c.html#af00eb6f54bc83711640679f9a9ba80ec" title="quda::GaugeLaplacePC\l::reconstruct" alt="" coords="394,183,558,221"/>
+<area shape="rect" id="node7" href="$classquda_1_1_gauge_laplace.html#aa55426d9ef6fbe8cee7b8a0bc1854873" title="quda::GaugeLaplace\l::MdagM" alt="" coords="624,68,770,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="quda::GetBlockDim" name="quda::GetBlockDim">
+<area shape="rect" id="node2" href="$namespacequda.html#a16ac9ee8a31b6d1dee5d59c3cfba76bc" title="Call CUDA kernel to initialize CURAND RNG states. " alt="" coords="190,48,331,87"/>
+<area shape="rect" id="node3" href="$classquda_1_1_r_n_g.html#a8870863b35c992bae85971bfbd61efd9" title="Initialize CURAND RNG states. " alt="" coords="379,55,492,80"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#af17612b71e9ac3b8dfeba3a882945fa9" title="gaussGaugeQuda" alt="" coords="542,5,672,31"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a01a93be5de48c3c4626fe7499d07f308" title="quda::spinorGauss" alt="" coords="540,55,673,80"/>
+<area shape="rect" id="node6" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="582,104,632,129"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="quda::packFaceExtended" name="quda::packFaceExtended">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_color_spinor_field.html#aae152d510174f5058d3f7b69c79adee7" title="quda::cudaColorSpinorField\l::packGhostExtended" alt="" coords="226,5,413,44"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_color_spinor_field.html#a589d2b6db0fd101a35b6f57ad40e7219" title="quda::cudaColorSpinorField\l::unpackGhostExtended" alt="" coords="226,68,413,107"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#aa9b3e1130d53dedce7d15801604d2f9f" title="quda::cudaColorSpinorField\l::packExtended" alt="" coords="461,5,647,44"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_color_spinor_field.html#a7dbcf6ea861ead1f8739c2adb80a1c7c" title="quda::cudaColorSpinorField\l::scatterExtended" alt="" coords="461,68,647,107"/>
+</map>

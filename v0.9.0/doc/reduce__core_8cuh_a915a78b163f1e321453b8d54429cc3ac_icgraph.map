@@ -1,0 +1,5 @@
+<map id="sum" name="sum">
+<area shape="rect" id="node2" href="$reduce__core_8cuh.html#a6d8a299d0b75db5c0739d4fc62140278" title="genericReduce" alt="" coords="100,5,211,31"/>
+<area shape="rect" id="node3" href="$reduce__core_8cuh.html#ab3e44a00fefd51d1d03a5b6ec006a9fd" title="reduceKernel" alt="" coords="105,55,206,80"/>
+<area shape="rect" id="node4" href="$reduce__core_8cuh.html#a40d2e45acbd138fb7ab69bfeb48faea8" title="reduceLaunch" alt="" coords="259,80,365,105"/>
+</map>

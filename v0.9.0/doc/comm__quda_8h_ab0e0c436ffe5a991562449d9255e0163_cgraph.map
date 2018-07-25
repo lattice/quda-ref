@@ -1,0 +1,7 @@
+<map id="reduceDoubleArray" name="reduceDoubleArray">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#aee0b1daeb8b9a004d4f24f8fc23b8270" title="comm_allreduce_array" alt="" coords="190,29,346,55"/>
+<area shape="rect" id="node6" href="$multi__reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="245,79,291,104"/>
+<area shape="rect" id="node3" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="413,5,484,31"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="394,55,503,80"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="551,55,667,80"/>
+</map>

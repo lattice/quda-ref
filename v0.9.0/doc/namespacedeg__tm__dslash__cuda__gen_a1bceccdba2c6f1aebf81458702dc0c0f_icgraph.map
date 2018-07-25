@@ -1,0 +1,35 @@
+<map id="deg_tm_dslash_cuda_gen.sign" name="deg_tm_dslash_cuda_gen.sign">
+<area shape="rect" id="node2" href="$dslash__index_8cuh.html#acd13e4956b7f1fc426ae6239fe80a4f8" title="__fast_pow" alt="" coords="256,5,345,31"/>
+<area shape="rect" id="node3" href="$misc_8cpp.html#a9c207b7aa4a7276710761129f07fd346" title="accumulateComplexProduct" alt="" coords="207,55,395,80"/>
+<area shape="rect" id="node5" href="$misc_8cpp.html#ac759861ca379a4dcca023c0bcaef6b0a" title="accumulateConjugateProduct" alt="" coords="203,104,399,129"/>
+<area shape="rect" id="node10" href="$test__util_8cpp.html#a89b20526a3b057ed51149add7befd83c" title="applyGaugeFieldScaling_long" alt="" coords="201,153,400,179"/>
+<area shape="rect" id="node24" href="$namespacequda.html#abd552beaf32f88c902c1a40e92655d17" title="quda::computeCoarseLocal" alt="" coords="208,203,393,228"/>
+<area shape="rect" id="node25" href="$namespacequda.html#a2787aa4214efaef35be8de3343f53ef6" title="quda::computeYreverse" alt="" coords="219,252,382,277"/>
+<area shape="rect" id="node26" href="$namespacedeg__tm__dslash__cuda__gen.html#a640490269c52e135712750379d4b7e48" title="deg_tm_dslash_cuda\l_gen.gen" alt="" coords="227,301,375,340"/>
+<area shape="rect" id="node27" href="$structquda_1_1clover_1_1_b_q_c_d_order.html#a21f15213660708479a3471ce7a600299" title="quda::clover::BQCDOrder\l::load" alt="" coords="214,364,388,403"/>
+<area shape="rect" id="node28" href="$structquda_1_1gauge_1_1_float_n_order.html#a61bcf04cc1a68f935c20ec8b06c10c61" title="quda::gauge::FloatNOrder\l::load" alt="" coords="213,427,389,465"/>
+<area shape="rect" id="node29" href="$namespacequda_1_1gauge.html#aff68c08526ea52e23cc12f9c23298eff" title="quda::gauge::milcStaggered\lPhase" alt="" coords="207,489,395,528"/>
+<area shape="rect" id="node30" href="$structquda_1_1_color_spinor_3_01_float_00_01_nc_00_014_01_4.html#a664f95ed4c91b1edd75c626b0c0466c5" title="quda::ColorSpinor\&lt;\l Float, Nc, 4 \&gt;::project" alt="" coords="225,552,377,591"/>
+<area shape="rect" id="node31" href="$structquda_1_1_color_spinor_3_01_float_00_01_nc_00_012_01_4.html#a742a199a04c9be2cbfa60bd0ef91d3f8" title="Spin reconstruct the full Spinor from the projected spinor. " alt="" coords="212,615,390,653"/>
+<area shape="rect" id="node32" href="$svd__quda_8h.html#ab80f803de45ab4ad8b169d3110182fcc" title="smallSVD" alt="" coords="261,677,341,703"/>
+<area shape="rect" id="node4" href="$misc_8cpp.html#aa3f6554cacd466fd93b109246051fdb3" title="link_sanity_check_internal_8" alt="" coords="452,27,643,52"/>
+<area shape="rect" id="node6" href="$misc_8cpp.html#aeff1fc59c02e5e965dc5dbb73385194c" title="link_sanity_check_internal_12" alt="" coords="448,76,647,101"/>
+<area shape="rect" id="node8" href="$misc_8cpp.html#a4a665a5c8ab5f7213071be2a12069e7a" title="site_link_sanity_check\l_internal_12" alt="" coords="471,125,625,164"/>
+<area shape="rect" id="node7" href="$misc_8h.html#a734b0db1a4279fe0ece6b253274c62af" title="link_sanity_check" alt="" coords="709,76,835,101"/>
+<area shape="rect" id="node9" href="$misc_8h.html#a0f48d3fa4a8be250a6568fd8385253b4" title="site_link_sanity_check" alt="" coords="695,132,849,157"/>
+<area shape="rect" id="node11" href="$test__util_8cpp.html#a90501c6aa892140ed3d96016b37cc0c9" title="constructGaugeField" alt="" coords="475,188,620,213"/>
+<area shape="rect" id="node12" href="$test__util_8h.html#af21665b1a5a12dc63fc43891b55497e5" title="construct_fat_long\l_gauge_field" alt="" coords="707,181,837,220"/>
+<area shape="rect" id="node17" href="$test__util_8h.html#a3d8f1952ab00bca45a06a88115580c8f" title="construct_gauge_field" alt="" coords="696,244,848,269"/>
+<area shape="rect" id="node13" href="$staggered__dslash__ctest_8cpp.html#a64129cf6a57ea1eaec3d8beb72214bd7" title="init" alt="" coords="919,139,958,164"/>
+<area shape="rect" id="node15" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="897,191,980,216"/>
+<area shape="rect" id="node14" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="1028,128,1176,167"/>
+<area shape="rect" id="node16" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1077,191,1127,216"/>
+<area shape="rect" id="node18" href="$covdev__test_8cpp.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="919,240,958,265"/>
+<area shape="rect" id="node21" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="913,289,964,315"/>
+<area shape="rect" id="node22" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="904,339,973,364"/>
+<area shape="rect" id="node19" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="1060,240,1144,265"/>
+<area shape="rect" id="node20" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1224,240,1274,265"/>
+<area shape="rect" id="node23" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1077,339,1127,364"/>
+<area shape="rect" id="node33" href="$svd__quda_8h.html#af157496dd626137ecd5ce0a08be230c4" title="bdSVD" alt="" coords="516,677,579,703"/>
+<area shape="rect" id="node34" href="$svd__quda_8h.html#a4a285471d66d6c7ae4a7d6e778ef4f5e" title="computeSVD" alt="" coords="722,677,822,703"/>
+</map>

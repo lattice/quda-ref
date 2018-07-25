@@ -1,0 +1,11 @@
+<map id="quda::cpuGaugeField::exchangeGhost" name="quda::cpuGaugeField::exchangeGhost">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#a47440c5d6ce3fa43b06f121db14a4ab2" title="quda::GaugeField::applyStaggered\lPhase" alt="" coords="202,68,430,107"/>
+<area shape="rect" id="node5" href="$classquda_1_1cpu_gauge_field.html#a6f4ec9b03d920ef9ad7ece9adbc10968" title="quda::cpuGaugeField\l::copy" alt="" coords="242,5,391,44"/>
+<area shape="rect" id="node8" href="$classquda_1_1cpu_gauge_field.html#aed4d23cd5eac14f6e2661f09a345254e" title="Constructor for cpuGaugeField from a GaugeFieldParam. " alt="" coords="242,131,391,169"/>
+<area shape="rect" id="node9" href="$classquda_1_1_gauge_field.html#a348b77beb2d1e61bacbd89b41a2c369a" title="quda::GaugeField::remove\lStaggeredPhase" alt="" coords="227,193,406,232"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="491,137,642,163"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#a327cb455334d59db3e501bb52c720fe0" title="Apply the staggered phase factors to the resident gauge field. " alt="" coords="485,68,648,107"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_coarse.html#ad73a48293b9e8280b63443263a4d4aac" title="quda::DiracCoarse::\linitializeCoarse" alt="" coords="496,5,636,44"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_coarse.html#a0af873c548f1d0b7b5aff5c00f188568" title="quda::DiracCoarse::\lDiracCoarse" alt="" coords="703,5,842,44"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#ac0fd92020c06f4715a4ab16446481024" title="Remove the staggered phase factors to the resident gauge field. " alt="" coords="478,193,655,232"/>
+</map>

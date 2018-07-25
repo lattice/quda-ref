@@ -1,0 +1,27 @@
+<map id="quda::pow" name="quda::pow">
+<area shape="rect" id="node2" href="$namespacequda.html#aaa35e68beb10c3fdbf3ba1d4915fa752" title="quda::pow" alt="" coords="136,310,219,335"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ad691428cc76e8eef9ef9e44b92ac1b96" title="quda::compareSpinor" alt="" coords="279,131,427,156"/>
+<area shape="rect" id="node6" href="$covdev__test_8cpp.html#a86d4ae88ee59392b8c1f4bc81aa7e280" title="TEST" alt="" coords="1008,34,1064,59"/>
+<area shape="rect" id="node7" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="1124,184,1196,210"/>
+<area shape="rect" id="node10" href="$domain__wall__dslash__reference_8cpp.html#ab31e412602c643d1f1558de859c3bd53" title="dslashReference_5th_inv" alt="" coords="267,235,439,260"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a07ecc1ec003a303ca19edfe2a37da461" title="quda::exponentiate_iQ" alt="" coords="275,284,431,310"/>
+<area shape="rect" id="node19" href="$new__half_8cu.html#ae756f081802af40fe6a3fd2947f97fc3" title="insertNoise" alt="" coords="309,334,397,359"/>
+<area shape="rect" id="node21" href="$classquda_1_1_ritz_mat.html#aa97e894726663ac7e736c610ffb155e5" title="quda::RitzMat::operator()" alt="" coords="268,383,438,408"/>
+<area shape="rect" id="node22" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="281,432,425,458"/>
+<area shape="rect" id="node25" href="$classquda_1_1_multi_shift_c_g.html#a5f96f73432fafb1a99336cf1ecee4736" title="quda::MultiShiftCG\l::operator()" alt="" coords="286,482,420,520"/>
+<area shape="rect" id="node26" href="$namespacequda.html#ab0fdd052fd3ec3ef5b47118b820fce01" title="Project the input matrix on the SU(3) group. First unitarize the matrix and then project onto the spe..." alt="" coords="297,544,409,570"/>
+<area shape="rect" id="node4" href="$namespacequda.html#afdecfba62668387d6195eea004bf363e" title="quda::genericCompare" alt="" coords="521,126,678,151"/>
+<area shape="rect" id="node5" href="$classquda_1_1cpu_color_spinor_field.html#ac9c5a3bf3e02799436aa004211ea4508" title="quda::cpuColorSpinorField\l::Compare" alt="" coords="764,98,944,136"/>
+<area shape="rect" id="node8" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="999,83,1073,108"/>
+<area shape="rect" id="node9" href="$pack__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1135,83,1185,108"/>
+<area shape="rect" id="node11" href="$domain__wall__dslash__reference_8h.html#a6b6ec25973e148650cf1b671e08ad18f" title="dslash_5_inv" alt="" coords="550,235,649,260"/>
+<area shape="rect" id="node12" href="$dslash__ctest_8cpp.html#a67d49cd517919ae845535dcd9e7585c7" title="dslashRef" alt="" coords="996,247,1076,272"/>
+<area shape="rect" id="node13" href="$domain__wall__dslash__reference_8h.html#a155c5b029b825831dc6a0896582e6c4c" title="dw_4d_matpc" alt="" coords="802,286,906,311"/>
+<area shape="rect" id="node15" href="$domain__wall__dslash__reference_8h.html#af3ffe4ee55bf74a0d73a0e372b451d56" title="mdw_matpc" alt="" coords="807,335,901,360"/>
+<area shape="rect" id="node14" href="$invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1011,310,1061,335"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a8a7af5890bfb8d240ccca2da1fe12caf" title="quda::computeOvrImpSTOUTStep" alt="" coords="487,284,712,310"/>
+<area shape="rect" id="node18" href="$classquda_1_1_gauge_ovr_imp_s_t_o_u_t.html#ad472371fabc020014c6f5d14f871658e" title="quda::GaugeOvrImpSTOUT\l::apply" alt="" coords="760,384,948,423"/>
+<area shape="rect" id="node20" href="$new__half_8cu.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="575,334,625,359"/>
+<area shape="rect" id="node23" href="$classquda_1_1_c_g_n_e.html#a4043b6e48b0794cf6876ae6398431e08" title="quda::CGNE::operator()" alt="" coords="518,408,681,434"/>
+<area shape="rect" id="node24" href="$classquda_1_1_c_g_n_r.html#a2afa3f3b11946d0b8e2251064dce3882" title="quda::CGNR::operator()" alt="" coords="518,458,681,483"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="quda::norm2" name="quda::norm2">
+<area shape="rect" id="node2" href="$namespacequda.html#a026455342b50e0274c0aad8886880e0c" title="quda::colorSpinorParam" alt="" coords="150,5,315,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="153,55,311,93"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="168,117,296,143"/>
+</map>

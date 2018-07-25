@@ -1,0 +1,13 @@
+<map id="lib/blas_magma_nopiv.cu" name="lib/blas_magma_nopiv.cu">
+<area shape="rect" id="node2" href="$blas__magma_8h.html" title="blas_magma.h" alt="" coords="253,152,362,177"/>
+<area shape="rect" id="node14" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="956,152,1043,177"/>
+<area shape="rect" id="node20" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="688,79,801,104"/>
+<area shape="rect" id="node9" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="841,225,944,251"/>
+<area shape="rect" id="node16" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="1056,225,1162,251"/>
+<area shape="rect" id="node18" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="1186,225,1271,251"/>
+<area shape="rect" id="node21" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="81,152,205,177"/>
+<area shape="rect" id="node23" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="714,152,776,177"/>
+<area shape="rect" id="node25" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="581,152,689,177"/>
+<area shape="rect" id="node27" href="$object_8h.html" title="object.h" alt="" coords="437,152,505,177"/>
+<area shape="rect" id="node24" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="607,225,733,251"/>
+</map>

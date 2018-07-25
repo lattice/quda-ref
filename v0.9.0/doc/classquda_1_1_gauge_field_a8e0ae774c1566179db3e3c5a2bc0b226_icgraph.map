@@ -1,0 +1,9 @@
+<map id="quda::GaugeField::Nface" name="quda::GaugeField::Nface">
+<area shape="rect" id="node2" href="$namespacequda.html#aa924faa20573b049c21ae4580e9a600b" title="quda::extractGhost" alt="" coords="264,5,398,31"/>
+<area shape="rect" id="node3" href="$structquda_1_1_extract_ghost_arg.html#a2c2a8400f85262cc6d016a94f26aa828" title="quda::ExtractGhostArg\l::ExtractGhostArg" alt="" coords="253,55,409,93"/>
+<area shape="rect" id="node4" href="$structquda_1_1gauge_1_1_float_n_order.html#a236cff3b22745b17176dcad87b20ea53" title="quda::gauge::FloatNOrder\l::FloatNOrder" alt="" coords="243,117,419,156"/>
+<area shape="rect" id="node5" href="$structquda_1_1gauge_1_1_ghost_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___q_d_p___g_a_u_g_e35098639cbe1803745b7443f51cf2c59.html#a31e10f50f47dd1374d6f2a5d0604c2a4" title="quda::gauge::GhostAccessor\l\&lt; Float, nColor, QUDA_QDP\l_GAUGE_ORDER, native_ghost\l \&gt;::GhostAccessor" alt="" coords="223,180,438,245"/>
+<area shape="rect" id="node6" href="$structquda_1_1gauge_1_1_ghost_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___m_i_l_c___g_a_u_gf8d10f0b7b8319956ba85030e4472c1d.html#a35d764cac071b065e6806b6ee6ec28cd" title="quda::gauge::GhostAccessor\l\&lt; Float, nColor, QUDA_MILC\l_GAUGE_ORDER, native_ghost\l \&gt;::GhostAccessor" alt="" coords="223,269,438,335"/>
+<area shape="rect" id="node7" href="$structquda_1_1gauge_1_1_ghost_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___f_l_o_a_t2___g_a_66dfff715aec4055aca87bd80148c0ad.html#a5af7512c7953c062949d16fad35e2c8b" title="quda::gauge::GhostAccessor\l\&lt; Float, nColor, QUDA_FLOAT2\l_GAUGE_ORDER, native_ghost\l \&gt;::GhostAccessor" alt="" coords="223,359,438,424"/>
+<area shape="rect" id="node8" href="$structquda_1_1gauge_1_1_legacy_order.html#afd5abf19c6706a4b8f1e940b4bad491b" title="quda::gauge::LegacyOrder\l::LegacyOrder" alt="" coords="241,448,421,487"/>
+</map>

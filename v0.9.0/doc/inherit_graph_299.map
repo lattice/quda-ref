@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$struct_multi_reduce_arg.html" title="Parameter struct for generic multi&#45;blas kernel. " alt="" coords="147,5,334,71"/>
+<area shape="rect" id="node3" href="$struct_reduction_arg.html" title="ReductionArg\&lt; ReduceType,\l SpinorX, SpinorY, SpinorZ,\l SpinorW, SpinorV, Reducer \&gt;" alt="" coords="141,95,340,147"/>
+</map>

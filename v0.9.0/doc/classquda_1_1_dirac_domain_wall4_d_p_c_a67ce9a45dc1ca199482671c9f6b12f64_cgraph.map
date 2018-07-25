@@ -1,0 +1,14 @@
+<map id="quda::DiracDomainWall4DPC::M" name="quda::DiracDomainWall4DPC::M">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="287,5,447,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a5ee14acb3891a4d37acef3cc4a504c95" title="quda::DiracDomainWall4DPC\l::Dslash4" alt="" coords="268,180,465,219"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a94c340c084683b1bcb7eddf0932306b5" title="quda::DiracDomainWall4DPC\l::Dslash4Xpay" alt="" coords="268,243,465,281"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#ae7f3c940e2c58e2da52cdd0dc35b5732" title="quda::DiracDomainWall4DPC\l::Dslash5inv" alt="" coords="268,305,465,344"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a336ae9729a8f72003255bb8e8b52b7f7" title="quda::DiracDomainWall4DPC\l::Dslash5invXpay" alt="" coords="268,55,465,93"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a5ccb9d7e6f202ed1ed5a7367403fca92" title="quda::DiracDomainWall4DPC\l::Dslash5Xpay" alt="" coords="268,117,465,156"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="293,368,441,393"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="530,117,696,156"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="528,180,698,219"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a0647509d3334c167dcd5e6b0836e6960" title="quda::domainWallDslashCuda" alt="" coords="513,243,713,268"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="761,87,888,125"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="761,149,888,188"/>
+</map>

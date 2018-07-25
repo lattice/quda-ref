@@ -1,0 +1,5 @@
+<map id="quda::blas::caxpbypcz" name="quda::blas::caxpbypcz">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a67926cd576d889b6af0f1a91ed52c5b8" title="quda::blas::caxpbypzYmbwCpu" alt="" coords="207,12,415,37"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a031eff872edd72a269f647ec4fef64d5" title="quda::blas::cxpaypbzCpu" alt="" coords="225,61,396,87"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#ad14c7980923194dba1716a6a74d78124" title="quda::blas::caxpbypzYmbwc\lDotProductUYNormYCpu" alt="" coords="463,5,653,44"/>
+</map>

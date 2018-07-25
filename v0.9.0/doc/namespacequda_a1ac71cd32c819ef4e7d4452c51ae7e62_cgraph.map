@@ -1,0 +1,6 @@
+<map id="quda::OvrImpSTOUTStep" name="quda::OvrImpSTOUTStep">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="290,5,368,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="266,55,392,93"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ab1ecadf071018ee4519c12ec2868e0f0" title="Wrapper around cudaDeviceSynchronize or cuDeviceSynchronize. " alt="" coords="228,117,430,143"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="478,5,570,31"/>
+</map>

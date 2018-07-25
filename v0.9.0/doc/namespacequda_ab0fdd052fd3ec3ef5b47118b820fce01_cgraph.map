@@ -1,0 +1,24 @@
+<map id="quda::polarSu3" name="quda::polarSu3">
+<area shape="rect" id="node2" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="187,5,279,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#af710d831fb5bc5b1fc065a5e1825163e" title="Check the unitarity of the input matrix to a given tolerance. " alt="" coords="165,157,301,183"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a15089a65bab280aad67819a1b7c74a88" title="quda::computeMatrixInverse" alt="" coords="349,107,538,132"/>
+<area shape="rect" id="node5" href="$namespacequda.html#aa2770ef66427e1e0861d7685d363907a" title="quda::getDeterminant" alt="" coords="586,81,736,107"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="191,207,274,232"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="1048,284,1127,309"/>
+<area shape="rect" id="node14" href="$comm__common_8cpp.html#af712be1a84bfcf29a5914cde089b4047" title="mod" alt="" coords="209,459,256,484"/>
+<area shape="rect" id="node15" href="$namespacequda.html#aaa35e68beb10c3fdbf3ba1d4915fa752" title="quda::pow" alt="" coords="191,308,274,333"/>
+<area shape="rect" id="node21" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="1050,333,1125,359"/>
+<area shape="rect" id="node6" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1354b6667fe971c1d7bf28dcef770265" title="fabs" alt="" coords="420,157,467,183"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="1175,284,1254,309"/>
+<area shape="rect" id="node10" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0546342e76f932239ccd5f92144a311b" title="cosf" alt="" coords="1306,333,1351,359"/>
+<area shape="rect" id="node11" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#ae37ce4924a4be38a9de85fc81ba79e58" title="coshf" alt="" coords="1302,383,1355,408"/>
+<area shape="rect" id="node12" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a312367f3e117fc37059783c301766042" title="sinf" alt="" coords="1308,235,1350,260"/>
+<area shape="rect" id="node13" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#ad02bd5acade33b7470f196d7b05f5176" title="sinhf" alt="" coords="1304,284,1353,309"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a8f1b0024386437f7839c283a815e3542" title="quda::pow" alt="" coords="402,308,485,333"/>
+<area shape="rect" id="node17" href="$namespacequda.html#ab9b7c656cfd4121b9d553997230d76e2" title="quda::exp" alt="" coords="621,357,701,383"/>
+<area shape="rect" id="node23" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87c1524bd1a5e838de0f40bd26a28e8c" title="logf" alt="" coords="640,308,682,333"/>
+<area shape="rect" id="node18" href="$namespacequda.html#afbd4cbea98feea6d4c555e1df3714f27" title="quda::exp" alt="" coords="784,357,864,383"/>
+<area shape="rect" id="node19" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0003d647b1182eafd145bac98768d27e" title="expf" alt="" coords="932,357,979,383"/>
+<area shape="rect" id="node20" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="912,308,1000,333"/>
+<area shape="rect" id="node22" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="1177,333,1252,359"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="commGlobalReductionSet" name="commGlobalReductionSet">
+<area shape="rect" id="node2" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="230,5,421,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="232,55,419,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="253,104,398,129"/>
+<area shape="rect" id="node6" href="$classquda_1_1_s_d.html#aa0937eb41102e35ab13f02db3cdd38b0" title="quda::SD::operator()" alt="" coords="254,153,397,179"/>
+<area shape="rect" id="node3" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="469,5,651,31"/>
+</map>

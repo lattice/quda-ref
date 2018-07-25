@@ -1,0 +1,31 @@
+<map id="quda::sin" name="quda::sin">
+<area shape="rect" id="node2" href="$namespacequda.html#a6ebc4d02987d18fd52d3b98589878bec" title="quda::cos" alt="" coords="167,5,246,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ac73afe5acacec2a2e9c2f852d404e538" title="quda::cosh" alt="" coords="163,55,250,80"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a07ecc1ec003a303ca19edfe2a37da461" title="quda::exponentiate_iQ" alt="" coords="129,104,284,129"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ad9be7a3b87a6bc4b699e3587032b2fda" title="quda::genericSource" alt="" coords="134,153,279,179"/>
+<area shape="rect" id="node12" href="$namespacequda.html#ae9c56db60afffa0e0e798d9229c05d0a" title="quda::genGauss" alt="" coords="147,203,266,228"/>
+<area shape="rect" id="node13" href="$new__half_8cu.html#a0248436541adbc9ac7a8ea32c10c511c" title="new_load_half" alt="" coords="153,252,260,277"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="163,301,251,327"/>
+<area shape="rect" id="node24" href="$namespacequda.html#ab0fdd052fd3ec3ef5b47118b820fce01" title="Project the input matrix on the SU(3) group. First unitarize the matrix and then project onto the spe..." alt="" coords="151,351,262,376"/>
+<area shape="rect" id="node25" href="$structquda_1_1_trig.html#afe66a80c6c28ae01e0d88c8a547442b8" title="quda::Trig::Sin" alt="" coords="153,400,260,425"/>
+<area shape="rect" id="node26" href="$namespacequda.html#aafe3d9ed047d8b98c733b4d2e271417f" title="quda::sin" alt="" coords="169,449,244,475"/>
+<area shape="rect" id="node27" href="$structquda_1_1_trig.html#a8d5b6aefcdc5be829b43916755c2a5ec" title="quda::Trig::SinCos" alt="" coords="141,499,272,524"/>
+<area shape="rect" id="node28" href="$namespacequda.html#ab8a73754097964634238dcddad582d31" title="quda::sinh" alt="" coords="165,548,248,573"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a3bf70a412163354fd89287713e9f564f" title="quda::tan" alt="" coords="168,597,245,623"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a8a7af5890bfb8d240ccca2da1fe12caf" title="quda::computeOvrImpSTOUTStep" alt="" coords="332,101,558,127"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_ovr_imp_s_t_o_u_t.html#ad472371fabc020014c6f5d14f871658e" title="quda::GaugeOvrImpSTOUT\l::apply" alt="" coords="606,95,793,133"/>
+<area shape="rect" id="node8" href="$classquda_1_1cpu_color_spinor_field.html#ac15d8b2aaff27079ef5c801e0bba4330" title="quda::cpuColorSpinorField\l::Source" alt="" coords="356,151,535,189"/>
+<area shape="rect" id="node9" href="$covdev__test_8cpp.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="680,157,719,183"/>
+<area shape="rect" id="node10" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="873,157,957,183"/>
+<area shape="rect" id="node11" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1037,157,1087,183"/>
+<area shape="rect" id="node14" href="$new__half_8cu.html#af02a63247f342b07b40e1e04e0945a87" title="newCopyToFloat" alt="" coords="385,228,505,253"/>
+<area shape="rect" id="node15" href="$new__half_8cu.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="674,228,725,253"/>
+<area shape="rect" id="node17" href="$test__util_8h.html#af21665b1a5a12dc63fc43891b55497e5" title="construct_fat_long\l_gauge_field" alt="" coords="380,277,510,316"/>
+<area shape="rect" id="node22" href="$namespacequda.html#ace287381e8bd109d55370a47fb3ada68" title="quda::exp" alt="" coords="405,340,485,365"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a71955a4d17608243e0db0fcdf30e97c5" title="quda::sqrt" alt="" coords="405,389,485,415"/>
+<area shape="rect" id="node18" href="$staggered__dslash__ctest_8cpp.html#a64129cf6a57ea1eaec3d8beb72214bd7" title="init" alt="" coords="680,280,719,305"/>
+<area shape="rect" id="node20" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="658,331,741,356"/>
+<area shape="rect" id="node19" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="841,271,989,309"/>
+<area shape="rect" id="node21" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="890,333,940,359"/>
+<area shape="rect" id="node30" href="$namespacequda.html#ade84420d640ee183d2dd92113d43f6ea" title="quda::tan" alt="" coords="407,597,484,623"/>
+</map>

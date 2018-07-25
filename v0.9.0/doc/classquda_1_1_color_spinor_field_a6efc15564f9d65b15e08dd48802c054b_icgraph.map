@@ -1,0 +1,6 @@
+<map id="quda::ColorSpinorField::create" name="quda::ColorSpinorField::create">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#a70838ed167603dbb7a0647eb87aace10" title="quda::ColorSpinorField\l::ColorSpinorField" alt="" coords="211,5,369,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a1771c7aad26729790245c4d9c72caf34" title="quda::ColorSpinorField\l::operator=" alt="" coords="211,68,369,107"/>
+<area shape="rect" id="node4" href="$classquda_1_1cpu_color_spinor_field.html#a38014a8fd2e08568c3b582cf2f1744e9" title="quda::cpuColorSpinorField\l::operator=" alt="" coords="420,36,600,75"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_color_spinor_field.html#a7b1c5a7388663a844bff4693a0b30854" title="quda::cudaColorSpinorField\l::operator=" alt="" coords="417,99,603,137"/>
+</map>

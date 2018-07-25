@@ -1,0 +1,19 @@
+<map id="dslash_quda_" name="dslash_quda_">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a6826eb81d4a6da7a9107670ff0bbcc77" title="dslashQuda" alt="" coords="158,315,250,340"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="301,5,453,31"/>
+<area shape="rect" id="node4" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="pushVerbosity" alt="" coords="324,55,430,80"/>
+<area shape="rect" id="node7" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="555,340,650,365"/>
+<area shape="rect" id="node8" href="$quda_8h.html#a3df6e48cb66b7fe0b8e5e2110ca28981" title="printQudaInvertParam" alt="" coords="301,153,453,179"/>
+<area shape="rect" id="node9" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="306,203,448,228"/>
+<area shape="rect" id="node10" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="298,252,456,291"/>
+<area shape="rect" id="node11" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="304,629,450,655"/>
+<area shape="rect" id="node12" href="$classquda_1_1_gauge_field.html#aea09fc8dc9f69a1bfebbbad4717e433a" title="quda::GaugeField::Anisotropy" alt="" coords="504,548,702,573"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="313,416,441,441"/>
+<area shape="rect" id="node15" href="$namespacequda_1_1blas.html#a68510b80be006181c00b6ebe8d90c57f" title="quda::blas::ax" alt="" coords="325,465,429,491"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac.html#ac13ad4c6bdcacd4b53a473176e7ab830" title="quda::Dirac::create" alt="" coords="310,315,444,340"/>
+<area shape="rect" id="node17" href="$classquda_1_1_gauge_cov_dev.html#af65bef1af831759afa914f47cd60ef38" title="quda::GaugeCovDev::\lDslash" alt="" coords="300,567,454,605"/>
+<area shape="rect" id="node18" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="popVerbosity" alt="" coords="328,104,426,129"/>
+<area shape="rect" id="node5" href="$util__quda_8cpp.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="555,55,650,80"/>
+<area shape="rect" id="node6" href="$util__quda_8cpp.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="556,104,650,129"/>
+<area shape="rect" id="node13" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="567,629,639,655"/>
+</map>

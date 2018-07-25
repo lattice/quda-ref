@@ -1,0 +1,10 @@
+<map id="deg_tm_dslash_cuda_gen.in_im" name="deg_tm_dslash_cuda_gen.in_im">
+<area shape="rect" id="node2" href="$namespacedeg__tm__dslash__cuda__gen.html#ae51871f38953388f95b70b9f5277ca1c" title="deg_tm_dslash_cuda\l_gen.def_input_spinor" alt="" coords="201,43,355,81"/>
+<area shape="rect" id="node3" href="$namespacedeg__tm__dslash__cuda__gen.html#aa2fe583bc583f87439c5395497f8c7b9" title="deg_tm_dslash_cuda\l_gen.generate_pack" alt="" coords="403,5,551,44"/>
+<area shape="rect" id="node4" href="$namespacedeg__tm__dslash__cuda__gen.html#ae812a1e01aabcf4e3c719bce64de05c2" title="deg_tm_dslash_cuda\l_gen.prolog" alt="" coords="403,88,551,127"/>
+<area shape="rect" id="node7" href="$namespacedeg__tm__dslash__cuda__gen.html#a98563b90a399e79b85fe72e12b13e3c2" title="deg_tm_dslash_cuda\l_gen.epilog" alt="" coords="403,151,551,189"/>
+<area shape="rect" id="node8" href="$namespacedeg__tm__dslash__cuda__gen.html#a640490269c52e135712750379d4b7e48" title="deg_tm_dslash_cuda\l_gen.gen" alt="" coords="204,208,352,247"/>
+<area shape="rect" id="node9" href="$namespacedeg__tm__dslash__cuda__gen.html#ae65e50dae93d9b5a75166c31c3ea120b" title="deg_tm_dslash_cuda\l_gen.input_spinor" alt="" coords="204,271,352,309"/>
+<area shape="rect" id="node5" href="$namespacedeg__tm__dslash__cuda__gen.html#ae5122513fb303c89a3ad14deb8b3427e" title="deg_tm_dslash_cuda\l_gen.generate_dslash" alt="" coords="599,120,752,159"/>
+<area shape="rect" id="node6" href="$namespacedeg__tm__dslash__cuda__gen.html#a3d7b745966a1dd0d96e128a5c7b50f10" title="deg_tm_dslash_cuda\l_gen.generate_dslash\l_kernels" alt="" coords="800,113,953,165"/>
+</map>

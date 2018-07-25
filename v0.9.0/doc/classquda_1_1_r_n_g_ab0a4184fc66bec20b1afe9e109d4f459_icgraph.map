@@ -1,0 +1,4 @@
+<map id="quda::RNG::State" name="quda::RNG::State">
+<area shape="rect" id="node2" href="$namespacequda.html#a16601fe9f7b34e449e18bbdbf51d54f7" title="quda::gaussSpinor" alt="" coords="199,5,332,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a89dbdd6372e2b1c89ff6c6d5bf185683" title="quda::gaussSpinorKernel" alt="" coords="180,55,351,80"/>
+</map>

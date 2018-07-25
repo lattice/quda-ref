@@ -1,0 +1,6 @@
+<map id="quda::updateMomentum" name="quda::updateMomentum">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="231,5,408,31"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#aff400a364829b50917d50d5730281830" title="computeHISQForceQuda" alt="" coords="234,55,405,80"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="219,104,420,129"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="468,97,644,136"/>
+</map>

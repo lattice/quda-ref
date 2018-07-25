@@ -1,0 +1,6 @@
+<map id="quda::blas::MultiBlasFunctor&lt; NXZ, Float2, FloatN &gt;" name="quda::blas::MultiBlasFunctor&lt; NXZ, Float2, FloatN &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1blas_1_1multi__axpy_bzpcx__.html" title="quda::blas::multi_axpyBzpcx\l_\&lt; NXZ, Float2, FloatN \&gt;" alt="" coords="243,5,433,44"/>
+<area shape="rect" id="node3" href="$structquda_1_1blas_1_1multi__caxpy_bxpz__.html" title="quda::blas::multi_caxpyBxpz\l_\&lt; NXZ, Float2, FloatN \&gt;" alt="" coords="243,68,433,107"/>
+<area shape="rect" id="node4" href="$structquda_1_1blas_1_1multicaxpy__.html" title="quda::blas::multicaxpy\l_\&lt; NXZ, Float2, FloatN \&gt;" alt="" coords="253,131,423,169"/>
+<area shape="rect" id="node5" href="$structquda_1_1blas_1_1multicaxpyz__.html" title="quda::blas::multicaxpyz\l_\&lt; NXZ, Float2, FloatN \&gt;" alt="" coords="253,193,423,232"/>
+</map>

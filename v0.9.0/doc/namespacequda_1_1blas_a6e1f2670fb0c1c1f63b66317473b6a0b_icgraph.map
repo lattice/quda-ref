@@ -1,0 +1,11 @@
+<map id="quda::blas::tripleCGUpdate" name="quda::blas::tripleCGUpdate">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="264,19,351,44"/>
+<area shape="rect" id="node4" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="236,80,380,105"/>
+<area shape="rect" id="node7" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="286,153,329,179"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="474,5,546,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_c_g_n_e.html#a4043b6e48b0794cf6876ae6398431e08" title="quda::CGNE::operator()" alt="" coords="428,55,591,80"/>
+<area shape="rect" id="node6" href="$classquda_1_1_c_g_n_r.html#a2afa3f3b11946d0b8e2251064dce3882" title="quda::CGNR::operator()" alt="" coords="428,104,591,129"/>
+<area shape="rect" id="node8" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="466,153,553,179"/>
+<area shape="rect" id="node10" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="474,203,546,228"/>
+<area shape="rect" id="node9" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="639,153,690,179"/>
+</map>

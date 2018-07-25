@@ -1,0 +1,8 @@
+<map id="setPolicyTuning" name="setPolicyTuning">
+<area shape="rect" id="node2" href="$classquda_1_1_dslash_coarse_policy_tune.html#a999e08702fb5769550ea1737534451b0" title="quda::DslashCoarsePolicy\lTune::DslashCoarsePolicyTune" alt="" coords="189,5,397,44"/>
+<area shape="rect" id="node3" href="$classanonymous__namespace_02dslash__policy_8cuh_03_1_1_dslash_policy_tune.html#ad85bfbcd1d4a1825bc7920e4e31aeea6" title="anonymous_namespace\l\{dslash_policy::cuh\}\l::DslashPolicyTune::DslashPolicyTune" alt="" coords="168,68,417,120"/>
+<area shape="rect" id="node4" href="$classquda_1_1blas_1_1_tile_size_tune.html#a2fb0bfb88975e4846733f3f254e21cba" title="quda::blas::TileSizeTune\l::TileSizeTune" alt="" coords="209,144,376,183"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dslash_coarse_policy_tune.html#a3990a1d30553c0d125a4a13083dd9ebf" title="quda::DslashCoarsePolicy\lTune::~DslashCoarsePolicyTune" alt="" coords="185,207,400,245"/>
+<area shape="rect" id="node6" href="$classanonymous__namespace_02dslash__policy_8cuh_03_1_1_dslash_policy_tune.html#ab36b7fc8d7e2b4b152d969b578b0e818" title="anonymous_namespace\l\{dslash_policy::cuh\}\l::DslashPolicyTune::\l~DslashPolicyTune" alt="" coords="209,269,376,335"/>
+<area shape="rect" id="node7" href="$classquda_1_1blas_1_1_tile_size_tune.html#ac67bc2a7049e4ba835a7422c68258036" title="quda::blas::TileSizeTune\l::~TileSizeTune" alt="" coords="209,359,376,397"/>
+</map>

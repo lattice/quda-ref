@@ -1,0 +1,5 @@
+<map id="quda::LatticeFieldParam" name="quda::LatticeFieldParam">
+<area shape="rect" id="node2" href="$structquda_1_1_clover_field_param.html" title="quda::CloverFieldParam" alt="" coords="5,79,170,104"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_param.html" title="quda::ColorSpinorParam" alt="" coords="195,79,363,104"/>
+<area shape="rect" id="node4" href="$structquda_1_1_gauge_field_param.html" title="quda::GaugeFieldParam" alt="" coords="387,79,554,104"/>
+</map>

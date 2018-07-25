@@ -1,0 +1,40 @@
+<map id="quda::setDiracParam" name="quda::setDiracParam">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#acb76b2ef5b4507f26c1970c95bad1a72" title="cloverQuda" alt="" coords="256,47,345,72"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="211,96,389,121"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="200,145,401,171"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ada109909225b2d5cca4fb855375fbe58" title="quda::createDirac" alt="" coords="473,196,600,221"/>
+<area shape="rect" id="node20" href="$structquda_1_1deflated__solver.html#aae585f4b6048e8195084a888877ff46e" title="quda::deflated_solver\l::deflated_solver" alt="" coords="462,357,611,396"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#a6826eb81d4a6da7a9107670ff0bbcc77" title="dslashQuda" alt="" coords="254,397,347,423"/>
+<area shape="rect" id="node25" href="$interface__quda_8cpp.html#a2d8a2a7758507a87ae669d556e409e68" title="dslashQuda_4dpc" alt="" coords="236,447,365,472"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#a7ea97611c29b71b948ea41f974cf777f" title="dslashQuda_mdwf" alt="" coords="234,496,366,521"/>
+<area shape="rect" id="node27" href="$covdev__test_8cpp.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="281,644,320,669"/>
+<area shape="rect" id="node30" href="$interface__quda_8cpp.html#ae223a0a3b030bdb2b81fdeca1bd449ff" title="lanczosQuda" alt="" coords="251,693,350,719"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#a752f99361f4f44f0d9662841736d9041" title="MatDagMatQuda" alt="" coords="239,545,362,571"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#afe79acaec8e033157d9214b5ad97ae66" title="MatQuda" alt="" coords="262,595,338,620"/>
+<area shape="rect" id="node35" href="$namespacequda.html#ae2157f2d523f81f8a36cea5e5a8c7ab4" title="quda::setDiracPreParam" alt="" coords="217,247,384,272"/>
+<area shape="rect" id="node39" href="$namespacequda.html#a2dcf8c16152e86f17cc410c9e206070c" title="quda::setDiracSloppyParam" alt="" coords="207,296,394,321"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#af2cd15b3a18d5966b95446fabba3c57b" title="clover_quda_" alt="" coords="486,47,587,72"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="449,133,625,172"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#a50832a69c2d3aef393f6daf85d3b0fe8" title="invertMultiShiftQuda" alt="" coords="673,99,814,124"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="676,233,811,259"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="700,160,787,185"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a5472502b8ffcfb415a7189b23ca61474" title="invert_multishift_quda_" alt="" coords="862,55,1021,80"/>
+<area shape="rect" id="node10" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="900,104,983,129"/>
+<area shape="rect" id="node12" href="$invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="916,5,967,31"/>
+<area shape="rect" id="node11" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1069,104,1119,129"/>
+<area shape="rect" id="node14" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="900,301,983,327"/>
+<area shape="rect" id="node16" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="916,252,967,277"/>
+<area shape="rect" id="node15" href="$staggered__invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1069,301,1119,327"/>
+<area shape="rect" id="node18" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="892,203,991,228"/>
+<area shape="rect" id="node19" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="916,153,967,179"/>
+<area shape="rect" id="node22" href="$interface__quda_8cpp.html#aa42de7cce1a9f65009aff63d57d14281" title="dslash_quda_" alt="" coords="485,420,589,445"/>
+<area shape="rect" id="node23" href="$dslash__ctest_8cpp.html#aae87026c545cd7c541478d495efebc47" title="dslashCUDA" alt="" coords="488,496,586,521"/>
+<area shape="rect" id="node24" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="708,496,779,521"/>
+<area shape="rect" id="node28" href="$covdev__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="495,644,579,669"/>
+<area shape="rect" id="node29" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="718,644,769,669"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#a72af035c9525f63bc925bd3bacb658e6" title="mat_dag_mat_quda_" alt="" coords="463,545,610,571"/>
+<area shape="rect" id="node34" href="$interface__quda_8cpp.html#a3bdec0b5768092765df5ec728df4f14a" title="mat_quda_" alt="" coords="493,595,581,620"/>
+<area shape="rect" id="node36" href="$structquda_1_1multigrid__solver.html#a90dca24011ab28a4f496484dbf79c27b" title="quda::multigrid_solver\l::multigrid_solver" alt="" coords="461,295,613,333"/>
+<area shape="rect" id="node37" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="464,245,609,271"/>
+<area shape="rect" id="node38" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="718,283,769,308"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="include/linalg.cuh" name="include/linalg.cuh">
+<area shape="rect" id="node2" href="$color__spinor_8h.html" title="color_spinor.h" alt="" coords="393,79,498,104"/>
+<area shape="rect" id="node3" href="$complex__quda_8h.html" title="complex_quda.h" alt="" coords="405,299,524,324"/>
+<area shape="rect" id="node9" href="$quda__matrix_8h.html" title="quda_matrix.h" alt="" coords="323,152,429,177"/>
+<area shape="rect" id="node15" href="$register__traits_8h.html" title="Provides precision abstractions and defines the register precision given the storage precision using ..." alt="" coords="989,225,1102,251"/>
+<area shape="rect" id="node37" href="$float__vector_8h.html" title="float_vector.h" alt="" coords="326,225,427,251"/>
+<area shape="rect" id="node16" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="989,299,1102,324"/>
+<area shape="rect" id="node36" href="$inline__ptx_8h.html" title="inline_ptx.h" alt="" coords="1255,299,1343,324"/>
+<area shape="rect" id="node17" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="908,372,1031,397"/>
+<area shape="rect" id="node21" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="1250,445,1353,471"/>
+<area shape="rect" id="node23" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="1191,372,1253,397"/>
+<area shape="rect" id="node26" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="1080,372,1166,397"/>
+<area shape="rect" id="node32" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="1501,372,1609,397"/>
+<area shape="rect" id="node33" href="$object_8h.html" title="object.h" alt="" coords="1328,372,1396,397"/>
+<area shape="rect" id="node25" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="1377,445,1504,471"/>
+<area shape="rect" id="node28" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="838,445,944,471"/>
+<area shape="rect" id="node30" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="968,445,1054,471"/>
+</map>

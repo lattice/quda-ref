@@ -1,0 +1,12 @@
+<map id="quda::blas::caxpyCpu" name="quda::blas::caxpyCpu">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#adb004a002674ab5e09fee95d7c5fbdc8" title="quda::blas::cabxpyAxCpu" alt="" coords="229,5,402,31"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a1740a3648023fbe215733f4f7fc11f6b" title="quda::blas::cabxpyAxNormCpu" alt="" coords="213,55,418,80"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#af69d43620b776f4926c48fcdca67b9d1" title="quda::blas::caxpbypczpwCpu" alt="" coords="218,104,413,129"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a0bf9c9c550ee4bb824f70c391cace603" title="quda::blas::caxpbypzCpu" alt="" coords="230,153,401,179"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a67926cd576d889b6af0f1a91ed52c5b8" title="quda::blas::caxpbypzYmbwCpu" alt="" coords="211,203,420,228"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#aa06687d3e1d1b1cef4c6a44784a507d5" title="quda::blas::caxpyDotzyCpu" alt="" coords="224,252,407,277"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#a2ef43dd8f59af7a3f6cdab5c72ad9a24" title="quda::blas::caxpyNormCpu" alt="" coords="224,301,407,327"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#a7bbff7965d82e048bbc458ea3fd88790" title="quda::blas::caxpyXmazCpu" alt="" coords="224,351,407,376"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1blas.html#a4a4a4aac794f2ee0be2ab07093957c85" title="quda::blas::caxpyXmazNormXCpu" alt="" coords="203,400,428,425"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#ad14c7980923194dba1716a6a74d78124" title="quda::blas::caxpbypzYmbwc\lDotProductUYNormYCpu" alt="" coords="476,196,666,235"/>
+</map>

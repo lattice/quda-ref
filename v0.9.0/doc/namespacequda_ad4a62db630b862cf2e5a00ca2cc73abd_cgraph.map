@@ -1,0 +1,10 @@
+<map id="quda::polar" name="quda::polar">
+<area shape="rect" id="node2" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="141,55,221,80"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="143,104,219,129"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="269,55,348,80"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0546342e76f932239ccd5f92144a311b" title="cosf" alt="" coords="399,104,445,129"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#ae37ce4924a4be38a9de85fc81ba79e58" title="coshf" alt="" coords="396,153,449,179"/>
+<area shape="rect" id="node6" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a312367f3e117fc37059783c301766042" title="sinf" alt="" coords="401,5,443,31"/>
+<area shape="rect" id="node7" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#ad02bd5acade33b7470f196d7b05f5176" title="sinhf" alt="" coords="398,55,447,80"/>
+<area shape="rect" id="node9" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="270,104,346,129"/>
+</map>

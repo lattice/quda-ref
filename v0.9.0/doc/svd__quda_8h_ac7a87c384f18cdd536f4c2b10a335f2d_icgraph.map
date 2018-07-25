@@ -1,0 +1,5 @@
+<map id="swap" name="swap">
+<area shape="rect" id="node2" href="$svd__quda_8h.html#ab80f803de45ab4ad8b169d3110182fcc" title="smallSVD" alt="" coords="106,5,186,31"/>
+<area shape="rect" id="node3" href="$svd__quda_8h.html#af157496dd626137ecd5ce0a08be230c4" title="bdSVD" alt="" coords="234,5,297,31"/>
+<area shape="rect" id="node4" href="$svd__quda_8h.html#a4a285471d66d6c7ae4a7d6e778ef4f5e" title="computeSVD" alt="" coords="345,5,445,31"/>
+</map>

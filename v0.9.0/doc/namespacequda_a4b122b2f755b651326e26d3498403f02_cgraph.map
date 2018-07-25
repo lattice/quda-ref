@@ -1,0 +1,9 @@
+<map id="quda::extractGhostEx" name="quda::extractGhostEx">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="366,5,443,31"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a589430861080cdc7c23a8d74cfe75c93" title="commDim" alt="" coords="217,79,299,104"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a16c8525f2c7aa95657a403d303228015" title="quda::extractor" alt="" coords="203,29,313,55"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="531,5,623,31"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="361,79,448,104"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="496,67,659,92"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="531,116,624,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="quda::reduce" name="quda::reduce">
+<area shape="rect" id="node2" href="$multi__reduce__core_8cuh.html#ad1d4f2dbd6aa2048ddc55ae67ed5ab56" title="multiReduceCuda" alt="" coords="153,5,280,31"/>
+<area shape="rect" id="node3" href="$reduce__core_8cuh.html#a4ce69fa2b54003ddfc21992dd7638860" title="reduceCuda" alt="" coords="169,55,263,80"/>
+</map>

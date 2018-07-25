@@ -1,0 +1,28 @@
+<map id="lib/read_gauge.h" name="lib/read_gauge.h">
+<area shape="rect" id="node2" href="$asym__wilson__clover__dslash__dagger__fermi__core_8h.html" title="lib/dslash_core/asym\l_wilson_clover_dslash\l_dagger_fermi_core.h" alt="" coords="5,79,160,131"/>
+<area shape="rect" id="node3" href="$asym__wilson__clover__dslash__dagger__gt200__core_8h.html" title="lib/dslash_core/asym\l_wilson_clover_dslash\l_dagger_gt200_core.h" alt="" coords="184,79,339,131"/>
+<area shape="rect" id="node4" href="$asym__wilson__clover__dslash__fermi__core_8h.html" title="lib/dslash_core/asym\l_wilson_clover_dslash\l_fermi_core.h" alt="" coords="363,79,517,131"/>
+<area shape="rect" id="node5" href="$asym__wilson__clover__dslash__gt200__core_8h.html" title="lib/dslash_core/asym\l_wilson_clover_dslash\l_gt200_core.h" alt="" coords="541,79,696,131"/>
+<area shape="rect" id="node6" href="$dw__dslash4__core_8h.html" title="lib/dslash_core/dw\l_dslash4_core.h" alt="" coords="720,85,851,124"/>
+<area shape="rect" id="node7" href="$dw__dslash4__dagger__core_8h.html" title="lib/dslash_core/dw\l_dslash4_dagger_core.h" alt="" coords="875,85,1043,124"/>
+<area shape="rect" id="node8" href="$dw__dslash__core_8h.html" title="lib/dslash_core/dw\l_dslash_core.h" alt="" coords="1067,85,1198,124"/>
+<area shape="rect" id="node9" href="$dw__dslash__dagger__core_8h.html" title="lib/dslash_core/dw\l_dslash_dagger_core.h" alt="" coords="1221,85,1382,124"/>
+<area shape="rect" id="node10" href="$staggered__dslash__core_8h.html" title="lib/dslash_core/staggered\l_dslash_core.h" alt="" coords="1405,85,1579,124"/>
+<area shape="rect" id="node11" href="$staggered__fused__exterior__dslash__core_8h.html" title="lib/dslash_core/staggered\l_fused_exterior_dslash_core.h" alt="" coords="1602,85,1806,124"/>
+<area shape="rect" id="node12" href="$tm__dslash__dagger__fermi__core_8h.html" title="lib/dslash_core/tm\l_dslash_dagger_fermi\l_core.h" alt="" coords="1830,79,1983,131"/>
+<area shape="rect" id="node13" href="$tm__dslash__dagger__gt200__core_8h.html" title="lib/dslash_core/tm\l_dslash_dagger_gt200\l_core.h" alt="" coords="2007,79,2164,131"/>
+<area shape="rect" id="node14" href="$tm__dslash__fermi__core_8h.html" title="lib/dslash_core/tm\l_dslash_fermi_core.h" alt="" coords="2188,85,2337,124"/>
+<area shape="rect" id="node15" href="$tm__dslash__gt200__core_8h.html" title="lib/dslash_core/tm\l_dslash_gt200_core.h" alt="" coords="2361,85,2514,124"/>
+<area shape="rect" id="node16" href="$tm__ndeg__dslash__core_8h.html" title="lib/dslash_core/tm\l_ndeg_dslash_core.h" alt="" coords="2538,85,2686,124"/>
+<area shape="rect" id="node17" href="$tm__ndeg__dslash__dagger__core_8h.html" title="lib/dslash_core/tm\l_ndeg_dslash_dagger\l_core.h" alt="" coords="2710,79,2863,131"/>
+<area shape="rect" id="node18" href="$tm__ndeg__fused__exterior__dslash__core_8h.html" title="lib/dslash_core/tm\l_ndeg_fused_exterior\l_dslash_core.h" alt="" coords="2888,79,3038,131"/>
+<area shape="rect" id="node19" href="$tm__ndeg__fused__exterior__dslash__dagger__core_8h.html" title="lib/dslash_core/tm\l_ndeg_fused_exterior\l_dslash_dagger_core.h" alt="" coords="3062,79,3223,131"/>
+<area shape="rect" id="node20" href="$tmc__dslash__dagger__fermi__core_8h.html" title="lib/dslash_core/tmc\l_dslash_dagger_fermi\l_core.h" alt="" coords="3247,79,3401,131"/>
+<area shape="rect" id="node21" href="$tmc__dslash__dagger__gt200__core_8h.html" title="lib/dslash_core/tmc\l_dslash_dagger_gt200\l_core.h" alt="" coords="3424,79,3581,131"/>
+<area shape="rect" id="node22" href="$tmc__dslash__fermi__core_8h.html" title="lib/dslash_core/tmc\l_dslash_fermi_core.h" alt="" coords="3606,85,3754,124"/>
+<area shape="rect" id="node23" href="$tmc__dslash__gt200__core_8h.html" title="lib/dslash_core/tmc\l_dslash_gt200_core.h" alt="" coords="3778,85,3931,124"/>
+<area shape="rect" id="node24" href="$wilson__dslash__dagger__fermi__core_8h.html" title="lib/dslash_core/wilson\l_dslash_dagger_fermi_core.h" alt="" coords="3954,85,4152,124"/>
+<area shape="rect" id="node25" href="$wilson__dslash__dagger__gt200__core_8h.html" title="lib/dslash_core/wilson\l_dslash_dagger_gt200_core.h" alt="" coords="4177,85,4378,124"/>
+<area shape="rect" id="node26" href="$wilson__dslash__fermi__core_8h.html" title="lib/dslash_core/wilson\l_dslash_fermi_core.h" alt="" coords="4402,85,4553,124"/>
+<area shape="rect" id="node27" href="$wilson__dslash__gt200__core_8h.html" title="lib/dslash_core/wilson\l_dslash_gt200_core.h" alt="" coords="4577,85,4730,124"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="comm_query" name="comm_query">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_color_spinor_field.html#a40b6a21c4b9703ac9f20dacb155b0453" title="Non&#45;blocking query if the halo communication has completed. " alt="" coords="152,5,338,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="386,5,573,44"/>
+</map>

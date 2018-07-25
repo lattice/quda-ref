@@ -1,0 +1,36 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="5,400,102,425"/>
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html" title="quda::Dirac" alt="" coords="169,228,258,253"/>
+<area shape="rect" id="node25" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="150,523,277,548"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_coarse.html" title="quda::DiracCoarse" alt="" coords="362,15,494,40"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_improved_staggered.html" title="quda::DiracImprovedStaggered" alt="" coords="325,73,531,99"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_staggered.html" title="quda::DiracStaggered" alt="" coords="353,141,504,167"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_wilson.html" title="quda::DiracWilson" alt="" coords="363,228,493,253"/>
+<area shape="rect" id="node22" href="$classquda_1_1_gauge_cov_dev.html" title="Full Covariant Derivative operator. Although not a Dirac operator per se, it&#39;s a linear operator so i..." alt="" coords="355,277,501,303"/>
+<area shape="rect" id="node23" href="$classquda_1_1_gauge_laplace.html" title="Full Gauge Laplace operator. Although not a Dirac operator per se, it&#39;s a linear operator so it&#39;s con..." alt="" coords="356,351,501,376"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_coarse_p_c.html" title="quda::DiracCoarsePC" alt="" coords="617,5,768,31"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_improved_staggered_p_c.html" title="quda::DiracImprovedStaggeredPC" alt="" coords="579,55,805,80"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_staggered_p_c.html" title="quda::DiracStaggeredPC" alt="" coords="607,104,777,129"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_clover.html" title="quda::DiracClover" alt="" coords="628,153,756,179"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_domain_wall.html" title="quda::DiracDomainWall" alt="" coords="612,203,773,228"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_twisted_clover.html" title="quda::DiracTwistedClover" alt="" coords="605,252,779,277"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_twisted_mass.html" title="quda::DiracTwistedMass" alt="" coords="609,301,775,327"/>
+<area shape="rect" id="node21" href="$classquda_1_1_dirac_wilson_p_c.html" title="quda::DiracWilsonPC" alt="" coords="618,351,766,376"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_clover_p_c.html" title="quda::DiracCloverPC" alt="" coords="875,104,1022,129"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_domain_wall_p_c.html" title="quda::DiracDomainWallPC" alt="" coords="859,153,1038,179"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_mobius.html" title="quda::DiracMobius" alt="" coords="882,203,1015,228"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html" title="quda::DiracDomainWall4DPC" alt="" coords="1092,153,1289,179"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_mobius_p_c.html" title="quda::DiracMobiusPC" alt="" coords="1115,203,1266,228"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_twisted_clover_p_c.html" title="quda::DiracTwistedCloverPC" alt="" coords="853,252,1044,277"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dirac_twisted_mass_p_c.html" title="quda::DiracTwistedMassPC" alt="" coords="856,301,1041,327"/>
+<area shape="rect" id="node24" href="$classquda_1_1_gauge_laplace_p_c.html" title="Even&#45;odd preconditioned Gauge Laplace operator. " alt="" coords="610,400,774,425"/>
+<area shape="rect" id="node26" href="$classquda_1_1_clover_field.html" title="quda::CloverField" alt="" coords="365,499,491,524"/>
+<area shape="rect" id="node29" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="349,548,507,573"/>
+<area shape="rect" id="node32" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="365,647,492,672"/>
+<area shape="rect" id="node27" href="$classquda_1_1cpu_clover_field.html" title="quda::cpuCloverField" alt="" coords="618,449,766,475"/>
+<area shape="rect" id="node28" href="$classquda_1_1cuda_clover_field.html" title="quda::cudaCloverField" alt="" coords="615,499,769,524"/>
+<area shape="rect" id="node30" href="$classquda_1_1cpu_color_spinor_field.html" title="quda::cpuColorSpinorField" alt="" coords="602,548,782,573"/>
+<area shape="rect" id="node31" href="$classquda_1_1cuda_color_spinor_field.html" title="quda::cudaColorSpinorField" alt="" coords="599,597,785,623"/>
+<area shape="rect" id="node33" href="$classquda_1_1cpu_gauge_field.html" title="quda::cpuGaugeField" alt="" coords="618,647,766,672"/>
+<area shape="rect" id="node34" href="$classquda_1_1cuda_gauge_field.html" title="quda::cudaGaugeField" alt="" coords="614,696,770,721"/>
+</map>

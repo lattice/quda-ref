@@ -1,0 +1,17 @@
+<map id="quda::computeStaggeredOprod" name="quda::computeStaggeredOprod">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_color_spinor_field.html#ae17ff77d97453e7bff3273c7a296b2b1" title="Allocate the ghost buffers. " alt="" coords="272,201,458,240"/>
+<area shape="rect" id="node14" href="$namespacedw__dslash__4_d__cuda__gen.html#addf26f8d1c6f0eb7bd01c67a0dcfc364" title="dw_dslash_4D_cuda_gen.coeff" alt="" coords="261,264,469,289"/>
+<area shape="rect" id="node15" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="281,313,449,339"/>
+<area shape="rect" id="node16" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="302,363,428,401"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#aaa41e877573c40c38c7542eda455145c" title="quda::ColorSpinorField\l::createGhostZone" alt="" coords="517,171,674,209"/>
+<area shape="rect" id="node13" href="$classquda_1_1_lattice_field.html#adc74cb2a2196e83fcafb640f0a8600f4" title="Allocate the static ghost buffers. " alt="" coords="523,233,668,272"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="731,31,887,56"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#add5b48c1aa0eea27d10193cd6d523bfc" title="quda::ColorSpinorField\l::GhostOffset" alt="" coords="730,80,888,119"/>
+<area shape="rect" id="node9" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="730,143,888,181"/>
+<area shape="rect" id="node10" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="762,205,857,231"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="730,255,888,293"/>
+<area shape="rect" id="node12" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="722,317,896,343"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="944,31,1031,56"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1079,5,1242,31"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1114,55,1207,80"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="include/tune_key.h" name="include/tune_key.h">
+<area shape="rect" id="node2" href="$tune__quda_8h.html" title="include/tune_quda.h" alt="" coords="3185,225,3327,251"/>
+<area shape="rect" id="node48" href="$util__quda_8h.html" title="include/util_quda.h" alt="" coords="4101,79,4233,104"/>
+<area shape="rect" id="node3" href="$dslash__quda_8h.html" title="include/dslash_quda.h" alt="" coords="5566,305,5720,331"/>
+<area shape="rect" id="node4" href="$clover__outer__product_8cu.html" title="lib/clover_outer_product.cu" alt="" coords="5539,392,5720,417"/>
+<area shape="rect" id="node5" href="$clover__sigma__outer__product_8cu.html" title="lib/clover_sigma_outer\l_product.cu" alt="" coords="5360,385,5515,424"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html" title="lib/interface_quda.cpp" alt="" coords="5744,392,5896,417"/>
+<area shape="rect" id="node7" href="$gauge__field__order_8h.html" title="Main header file for host and device accessors to GaugeFields. " alt="" coords="1528,299,1664,337"/>
+<area shape="rect" id="node8" href="$clover__deriv__quda_8cu.html" title="This kernel has been a bit of a pain to optimize since it is excessively register bound..." alt="" coords="5003,392,5168,417"/>
+<area shape="rect" id="node9" href="$clover__quda_8cu.html" title="lib/clover_quda.cu" alt="" coords="298,392,427,417"/>
+<area shape="rect" id="node10" href="$clover__trace__quda_8cu.html" title="lib/clover_trace_quda.cu" alt="" coords="4095,392,4260,417"/>
+<area shape="rect" id="node11" href="$color__spinor__wuppertal_8cu.html" title="lib/color_spinor_wuppertal.cu" alt="" coords="4784,392,4978,417"/>
+<area shape="rect" id="node12" href="$field__strength__tensor_8cu.html" title="lib/field_strength\l_tensor.cu" alt="" coords="1316,385,1434,424"/>
+<area shape="rect" id="node13" href="$gauge__ape_8cu.html" title="lib/gauge_ape.cu" alt="" coords="5,392,128,417"/>
+<area shape="rect" id="node14" href="$gauge__fix__fft_8cu.html" title="lib/gauge_fix_fft.cu" alt="" coords="639,392,772,417"/>
+<area shape="rect" id="node15" href="$gauge__fix__ovr_8cu.html" title="lib/gauge_fix_ovr.cu" alt="" coords="3767,392,3906,417"/>
+<area shape="rect" id="node16" href="$gauge__plaq_8cu.html" title="lib/gauge_plaq.cu" alt="" coords="4465,392,4591,417"/>
+<area shape="rect" id="node17" href="$gauge__random_8cu.html" title="lib/gauge_random.cu" alt="" coords="4615,392,4761,417"/>
+<area shape="rect" id="node18" href="$gauge__stout_8cu.html" title="lib/gauge_stout.cu" alt="" coords="1162,392,1292,417"/>
+<area shape="rect" id="node19" href="$gauge__update__quda_8cu.html" title="lib/gauge_update_quda.cu" alt="" coords="796,392,975,417"/>
+<area shape="rect" id="node20" href="$hisq__paths__force__quda_8cu.html" title="lib/hisq_paths_force\l_quda.cu" alt="" coords="998,385,1138,424"/>
+<area shape="rect" id="node21" href="$ks__force__quda_8cu.html" title="lib/ks_force_quda.cu" alt="" coords="5192,392,5336,417"/>
+<area shape="rect" id="node22" href="$momentum_8cu.html" title="lib/momentum.cu" alt="" coords="152,392,275,417"/>
+<area shape="rect" id="node23" href="$pgauge__det__trace_8cu.html" title="lib/pgauge_det_trace.cu" alt="" coords="452,392,615,417"/>
+<area shape="rect" id="node24" href="$pgauge__exchange_8cu.html" title="lib/pgauge_exchange.cu" alt="" coords="1459,392,1624,417"/>
+<area shape="rect" id="node25" href="$pgauge__heatbath_8cu.html" title="lib/pgauge_heatbath.cu" alt="" coords="1648,392,1808,417"/>
+<area shape="rect" id="node26" href="$pgauge__init_8cu.html" title="lib/pgauge_init.cu" alt="" coords="1832,392,1957,417"/>
+<area shape="rect" id="node27" href="$qcharge__quda_8cu.html" title="lib/qcharge_quda.cu" alt="" coords="3929,392,4071,417"/>
+<area shape="rect" id="node28" href="$staggered__oprod_8cu.html" title="lib/staggered_oprod.cu" alt="" coords="4284,392,4441,417"/>
+<area shape="rect" id="node29" href="$unitarize__force__quda_8cu.html" title="lib/unitarize_force\l_quda.cu" alt="" coords="1981,385,2107,424"/>
+<area shape="rect" id="node30" href="$unitarize__links__quda_8cu.html" title="lib/unitarize_links\l_quda.cu" alt="" coords="2873,385,2996,424"/>
+<area shape="rect" id="node31" href="$blas__quda_8cu.html" title="lib/blas_quda.cu" alt="" coords="4205,305,4323,331"/>
+<area shape="rect" id="node32" href="$clover__invert_8cu.html" title="lib/clover_invert.cu" alt="" coords="1688,305,1819,331"/>
+<area shape="rect" id="node33" href="$color__spinor__pack_8cu.html" title="lib/color_spinor_pack.cu" alt="" coords="1843,305,2008,331"/>
+<area shape="rect" id="node34" href="$copy__clover_8cu.html" title="lib/copy_clover.cu" alt="" coords="2031,305,2158,331"/>
+<area shape="rect" id="node35" href="$copy__color__spinor_8cuh.html" title="lib/copy_color_spinor.cuh" alt="" coords="2183,305,2354,331"/>
+<area shape="rect" id="node36" href="$copy__color__spinor__mg_8cuh.html" title="lib/copy_color_spinor\l_mg.cuh" alt="" coords="2377,299,2524,337"/>
+<area shape="rect" id="node37" href="$copy__quda_8cu.html" title="lib/copy_quda.cu" alt="" coords="2547,305,2669,331"/>
+<area shape="rect" id="node38" href="$extended__color__spinor__utilities_8cu.html" title="lib/extended_color\l_spinor_utilities.cu" alt="" coords="2693,299,2824,337"/>
+<area shape="rect" id="node39" href="$multi__blas__quda_8cu.html" title="lib/multi_blas_quda.cu" alt="" coords="4347,305,4501,331"/>
+<area shape="rect" id="node40" href="$multi__reduce__quda_8cu.html" title="lib/multi_reduce_quda.cu" alt="" coords="2849,305,3018,331"/>
+<area shape="rect" id="node41" href="$prolongator_8cu.html" title="lib/prolongator.cu" alt="" coords="3043,305,3166,331"/>
+<area shape="rect" id="node42" href="$quda__cuda__api_8cpp.html" title="lib/quda_cuda_api.cpp" alt="" coords="4525,305,4680,331"/>
+<area shape="rect" id="node43" href="$reduce__quda_8cu.html" title="lib/reduce_quda.cu" alt="" coords="3189,305,3323,331"/>
+<area shape="rect" id="node44" href="$restrictor_8cu.html" title="lib/restrictor.cu" alt="" coords="3346,305,3454,331"/>
+<area shape="rect" id="node45" href="$spinor__gauss_8cu.html" title="lib/spinor_gauss.cu" alt="" coords="3478,305,3613,331"/>
+<area shape="rect" id="node46" href="$transfer__util_8cu.html" title="lib/transfer_util.cu" alt="" coords="3688,305,3814,331"/>
+<area shape="rect" id="node47" href="$tune_8cpp.html" title="lib/tune.cpp" alt="" coords="3838,305,3928,331"/>
+<area shape="rect" id="node49" href="$quda__internal_8h.html" title="include/quda_internal.h" alt="" coords="4087,152,4246,177"/>
+<area shape="rect" id="node50" href="$blas__magma_8cu.html" title="lib/blas_magma.cu" alt="" coords="5846,225,5978,251"/>
+</map>

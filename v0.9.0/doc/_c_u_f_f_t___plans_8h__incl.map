@@ -1,0 +1,17 @@
+<map id="lib/CUFFT_Plans.h" name="lib/CUFFT_Plans.h">
+<area shape="rect" id="node2" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="449,225,562,251"/>
+<area shape="rect" id="node24" href="$quda__matrix_8h.html" title="quda_matrix.h" alt="" coords="693,79,798,104"/>
+<area shape="rect" id="node3" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="762,299,886,324"/>
+<area shape="rect" id="node9" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="543,372,646,397"/>
+<area shape="rect" id="node11" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="516,299,578,324"/>
+<area shape="rect" id="node14" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="652,299,738,324"/>
+<area shape="rect" id="node20" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="26,299,134,324"/>
+<area shape="rect" id="node22" href="$object_8h.html" title="object.h" alt="" coords="158,299,226,324"/>
+<area shape="rect" id="node13" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="309,372,436,397"/>
+<area shape="rect" id="node16" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="869,372,974,397"/>
+<area shape="rect" id="node18" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="671,372,756,397"/>
+<area shape="rect" id="node28" href="$register__traits_8h.html" title="Provides precision abstractions and defines the register precision given the storage precision using ..." alt="" coords="804,152,917,177"/>
+<area shape="rect" id="node30" href="$complex__quda_8h.html" title="complex_quda.h" alt="" coords="1019,225,1138,251"/>
+<area shape="rect" id="node36" href="$float__vector_8h.html" title="float_vector.h" alt="" coords="941,152,1041,177"/>
+<area shape="rect" id="node35" href="$inline__ptx_8h.html" title="inline_ptx.h" alt="" coords="737,225,826,251"/>
+</map>

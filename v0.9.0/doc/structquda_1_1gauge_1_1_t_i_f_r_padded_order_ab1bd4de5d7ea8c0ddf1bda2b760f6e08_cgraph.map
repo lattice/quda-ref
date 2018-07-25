@@ -1,0 +1,5 @@
+<map id="quda::gauge::TIFRPaddedOrder::load" name="quda::gauge::TIFRPaddedOrder::load">
+<area shape="rect" id="node2" href="$structquda_1_1gauge_1_1_t_i_f_r_padded_order.html#a762d40435c317bb75b5e4074bfdb5de3" title="Compute the index into the padded field. Assumes that parity doesn&#39;t change from unpadded to padded..." alt="" coords="266,24,478,63"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ac267e68929cc8df629a5c5471f6a7ca4" title="quda::getCoords" alt="" coords="526,5,646,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ac39b1ae3f7dc813ed8f258d3cffbd642" title="quda::linkIndex" alt="" coords="531,55,642,80"/>
+</map>

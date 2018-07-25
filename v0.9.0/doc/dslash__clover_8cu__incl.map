@@ -1,0 +1,31 @@
+<map id="lib/dslash_clover.cu" name="lib/dslash_clover.cu">
+<area shape="rect" id="node6" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="401,372,538,397"/>
+<area shape="rect" id="node7" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="770,445,884,471"/>
+<area shape="rect" id="node31" href="$clover__field_8h.html" title="clover_field.h" alt="" coords="333,299,433,324"/>
+<area shape="rect" id="node32" href="$dslash__quda_8h.html" title="dslash_quda.h" alt="" coords="733,79,841,104"/>
+<area shape="rect" id="node36" href="$blas__quda_8h.html" title="blas_quda.h" alt="" coords="507,299,601,324"/>
+<area shape="rect" id="node42" href="$inline__ptx_8h.html" title="inline_ptx.h" alt="" coords="1533,79,1622,104"/>
+<area shape="rect" id="node43" href="$dslash__constants_8h.html" title="dslash_constants.h" alt="" coords="1167,299,1303,324"/>
+<area shape="rect" id="node46" href="$dslash__textures_8h.html" title="dslash_textures.h" alt="" coords="868,152,994,177"/>
+<area shape="rect" id="node47" href="$dslash__index_8cuh.html" title="dslash_index.cuh" alt="" coords="1646,79,1771,104"/>
+<area shape="rect" id="node48" href="$dslash__quda_8cuh.html" title="dslash_quda.cuh" alt="" coords="1794,79,1916,104"/>
+<area shape="rect" id="node49" href="$dslash__events_8cuh.html" title="dslash_events.cuh" alt="" coords="1940,79,2072,104"/>
+<area shape="rect" id="node50" href="$dslash__policy_8cuh.html" title="dslash_policy.cuh" alt="" coords="2096,79,2222,104"/>
+<area shape="rect" id="node15" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="561,519,623,544"/>
+<area shape="rect" id="node26" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="341,445,441,471"/>
+<area shape="rect" id="node28" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="43,445,158,471"/>
+<area shape="rect" id="node30" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="988,445,1079,471"/>
+<area shape="rect" id="node8" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="1077,519,1201,544"/>
+<area shape="rect" id="node13" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="665,592,768,617"/>
+<area shape="rect" id="node18" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="966,519,1053,544"/>
+<area shape="rect" id="node23" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="429,519,537,544"/>
+<area shape="rect" id="node24" href="$object_8h.html" title="object.h" alt="" coords="793,519,861,544"/>
+<area shape="rect" id="node17" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="385,592,512,617"/>
+<area shape="rect" id="node20" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="535,592,641,617"/>
+<area shape="rect" id="node21" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="1032,592,1118,617"/>
+<area shape="rect" id="node33" href="$tune__quda_8h.html" title="tune_quda.h" alt="" coords="1022,152,1117,177"/>
+<area shape="rect" id="node35" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="562,372,663,397"/>
+<area shape="rect" id="node41" href="$worker_8h.html" title="worker.h" alt="" coords="715,152,787,177"/>
+<area shape="rect" id="node34" href="$dirac__quda_8h.html" title="dirac_quda.h" alt="" coords="638,225,736,251"/>
+<area shape="rect" id="node45" href="$convert_8h.html" title="convert.h" alt="" coords="1032,372,1108,397"/>
+</map>

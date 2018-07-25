@@ -1,0 +1,8 @@
+<map id="quda::fatLongKSLink" name="quda::fatLongKSLink">
+<area shape="rect" id="node2" href="$namespacedw__dslash__4_d__cuda__gen.html#addf26f8d1c6f0eb7bd01c67a0dcfc364" title="dw_dslash_4D_cuda_gen.coeff" alt="" coords="198,5,406,31"/>
+<area shape="rect" id="node3" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1354b6667fe971c1d7bf28dcef770265" title="fabs" alt="" coords="279,55,325,80"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab1ecadf071018ee4519c12ec2868e0f0" title="Wrapper around cudaDeviceSynchronize or cuDeviceSynchronize. " alt="" coords="201,104,403,129"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="199,153,405,179"/>
+<area shape="rect" id="node6" href="$structquda_1_1_gauge_field_param.html#a1b3f06e050d00ec142f9e2900ca6874c" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="219,203,385,241"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="231,265,373,291"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="gaugeLink" name="gaugeLink">
+<area shape="rect" id="node2" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="136,12,279,37"/>
+<area shape="rect" id="node3" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="327,12,452,37"/>
+<area shape="rect" id="node4" href="$namespacedeg__tm__dslash__cuda__gen.html#a25e7a316bad796aa725630abc74dc5a6" title="deg_tm_dslash_cuda\l_gen.block" alt="" coords="500,5,648,44"/>
+<area shape="rect" id="node5" href="$namespacedeg__tm__dslash__cuda__gen.html#ac31a39a5abf38a3f73ca45dd1f17d622" title="code generation ######################################################################## ..." alt="" coords="696,5,844,44"/>
+</map>

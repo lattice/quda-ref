@@ -1,0 +1,35 @@
+<map id="lib/multi_reduce_quda.cu" name="lib/multi_reduce_quda.cu">
+<area shape="rect" id="node2" href="$blas__quda_8h.html" title="blas_quda.h" alt="" coords="798,239,892,264"/>
+<area shape="rect" id="node21" href="$tune__quda_8h.html" title="tune_quda.h" alt="" coords="479,79,574,104"/>
+<area shape="rect" id="node30" href="$float__vector_8h.html" title="float_vector.h" alt="" coords="1356,159,1457,184"/>
+<area shape="rect" id="node36" href="$color__spinor__field__order_8h.html" title="color_spinor_field\l_order.h" alt="" coords="1206,152,1332,191"/>
+<area shape="rect" id="node42" href="$uint__to__char_8h.html" title="uint_to_char.h" alt="" coords="1259,79,1365,104"/>
+<area shape="rect" id="node43" href="$cub__helper_8cuh.html" title="cub_helper.cuh" alt="" coords="1439,79,1551,104"/>
+<area shape="rect" id="node45" href="$texture_8h.html" title="texture.h" alt="" coords="1091,79,1165,104"/>
+<area shape="rect" id="node47" href="$multi__reduce__core_8cuh.html" title="multi_reduce_core.cuh" alt="" coords="1575,79,1731,104"/>
+<area shape="rect" id="node49" href="$multi__reduce__core_8h.html" title="multi_reduce_core.h" alt="" coords="1756,79,1898,104"/>
+<area shape="rect" id="node3" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="819,385,933,411"/>
+<area shape="rect" id="node16" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="354,312,491,337"/>
+<area shape="rect" id="node4" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="814,459,938,484"/>
+<area shape="rect" id="node8" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="590,532,693,557"/>
+<area shape="rect" id="node9" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="512,459,574,484"/>
+<area shape="rect" id="node10" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="598,459,685,484"/>
+<area shape="rect" id="node13" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="1210,459,1318,484"/>
+<area shape="rect" id="node14" href="$object_8h.html" title="object.h" alt="" coords="1037,459,1105,484"/>
+<area shape="rect" id="node11" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="43,532,128,557"/>
+<area shape="rect" id="node18" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="642,385,742,411"/>
+<area shape="rect" id="node19" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="339,385,453,411"/>
+<area shape="rect" id="node20" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="477,385,568,411"/>
+<area shape="rect" id="node22" href="$dirac__quda_8h.html" title="dirac_quda.h" alt="" coords="477,159,576,184"/>
+<area shape="rect" id="node23" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="639,312,740,337"/>
+<area shape="rect" id="node24" href="$clover__field_8h.html" title="clover_field.h" alt="" coords="515,312,615,337"/>
+<area shape="rect" id="node25" href="$dslash__quda_8h.html" title="dslash_quda.h" alt="" coords="666,239,774,264"/>
+<area shape="rect" id="node31" href="$complex__quda_8h.html" title="complex_quda.h" alt="" coords="1498,312,1617,337"/>
+<area shape="rect" id="node37" href="$register__traits_8h.html" title="Provides precision abstractions and defines the register precision given the storage precision using ..." alt="" coords="1355,239,1469,264"/>
+<area shape="rect" id="node39" href="$index__helper_8cuh.html" title="index_helper.cuh" alt="" coords="1159,239,1281,264"/>
+<area shape="rect" id="node40" href="$color__spinor_8h.html" title="color_spinor.h" alt="" coords="1493,239,1598,264"/>
+<area shape="rect" id="node41" href="$thrust__helper_8cuh.html" title="thrust_helper.cuh" alt="" coords="1172,312,1295,337"/>
+<area shape="rect" id="node46" href="$convert_8h.html" title="convert.h" alt="" coords="967,239,1043,264"/>
+<area shape="rect" id="node48" href="$launch__kernel_8cuh.html" title="launch_kernel.cuh" alt="" coords="1599,159,1729,184"/>
+<area shape="rect" id="node50" href="$multi__reduce__mixed__core_8h.html" title="multi_reduce_mixed\l_core.h" alt="" coords="1756,152,1897,191"/>
+</map>

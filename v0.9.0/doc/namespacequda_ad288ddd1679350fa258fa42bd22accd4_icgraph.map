@@ -1,0 +1,51 @@
+<map id="quda::copyExtendedGauge" name="quda::copyExtendedGauge">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a8b0af6b94d7d5041eddf9e4a0a929c0c" title="Gauge fixing with overrelaxation with support for single and multi GPU. " alt="" coords="655,1133,864,1159"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#aff400a364829b50917d50d5730281830" title="computeHISQForceQuda" alt="" coords="674,167,846,192"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="239,655,396,693"/>
+<area shape="rect" id="node36" href="$classquda_1_1cpu_gauge_field.html#a6f4ec9b03d920ef9ad7ece9adbc10968" title="quda::cpuGaugeField\l::copy" alt="" coords="243,280,392,319"/>
+<area shape="rect" id="node37" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="450,1307,604,1332"/>
+<area shape="rect" id="node42" href="$hisq__paths__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="264,549,371,575"/>
+<area shape="rect" id="node43" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="292,1109,343,1135"/>
+<area shape="rect" id="node44" href="$interface__quda_8cpp.html#ad8e1cc7e05db09d619a92b8ac3782cb4" title="performWuppertalnStep" alt="" coords="236,1159,399,1184"/>
+<area shape="rect" id="node45" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="449,792,605,831"/>
+<area shape="rect" id="node48" href="$interface__quda_8cpp.html#a9697844b4e6ef5debe0b7d8c05a96b76" title="saveGaugeQuda" alt="" coords="699,1232,821,1257"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="449,596,605,635"/>
+<area shape="rect" id="node21" href="$classquda_1_1_dirac_coarse.html#ad73a48293b9e8280b63443263a4d4aac" title="quda::DiracCoarse::\linitializeCoarse" alt="" coords="457,280,597,319"/>
+<area shape="rect" id="node23" href="$interface__quda_8cpp.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="700,1183,819,1208"/>
+<area shape="rect" id="node29" href="$interface__quda_8cpp.html#a125414b3f860426d427e2f3f6953bdcf" title="loadSloppyGaugeQuda" alt="" coords="447,395,607,420"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#a51da31992209b588cc71641963307d56" title="performAPEnStep" alt="" coords="695,1331,824,1356"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#ad9b78b143153725974886c392285b906" title="performSTOUTnStep" alt="" coords="686,1528,833,1553"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#a0ee20ea90421939924df9903acb6b4d8" title="performOvrImpSTOUTnStep" alt="" coords="664,1577,855,1603"/>
+<area shape="rect" id="node34" href="$multigrid__benchmark__test_8cu.html#ab74e8c9c0b5eb4f70a8e36e650416d95" title="initFields" alt="" coords="490,444,564,469"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_gauge_field.html#a0e6dfaa97702635923e0ea2ba4078034" title="Download into this field from a CPU field. Overloaded variant that includes profiling. " alt="" coords="682,416,838,455"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="686,824,833,849"/>
+<area shape="rect" id="node8" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="925,571,1054,596"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="670,1084,849,1109"/>
+<area shape="rect" id="node11" href="$interface__quda_8cpp.html#a1eba8aae7c46eca4d44b31b53d4c6079" title="createGaugeFieldQuda" alt="" coords="680,479,840,504"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="659,528,860,553"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#a80c19191f476ca7c464ca450c3ae5c25" title="updateGaugeFieldQuda" alt="" coords="678,577,842,603"/>
+<area shape="rect" id="node14" href="$interface__quda_8cpp.html#af6e8d08f0e5477d56e09f07c940ebf65" title="projectSU3Quda" alt="" coords="700,627,820,652"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="684,676,835,701"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="699,216,820,241"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#a712409027ee905b83584cb83debd2226" title="Gauge fixing with Steepest descent method with FFTs with support for single GPU only. " alt="" coords="657,725,862,751"/>
+<area shape="rect" id="node18" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="704,367,816,392"/>
+<area shape="rect" id="node19" href="$hisq__unitarize__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="706,265,813,291"/>
+<area shape="rect" id="node20" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="723,775,797,800"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#a049fa0d60d43475bd7bb67f6c78750d4" title="Compute the gauge force and update the mometum field. " alt="" coords="912,1071,1066,1109"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dirac_coarse.html#a0af873c548f1d0b7b5aff5c00f188568" title="quda::DiracCoarse::\lDiracCoarse" alt="" coords="690,5,830,44"/>
+<area shape="rect" id="node24" href="$covdev__test_8cpp.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="970,1281,1009,1307"/>
+<area shape="rect" id="node25" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="948,1133,1031,1159"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#a3179d142bb1ad0a5bcc476a60e9f0b16" title="load_gauge_quda_" alt="" coords="922,1183,1057,1208"/>
+<area shape="rect" id="node27" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="964,1232,1015,1257"/>
+<area shape="rect" id="node28" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="955,1380,1024,1405"/>
+<area shape="rect" id="node30" href="$interface__quda_8cpp.html#a14655ba9617fddb93f72a17626baa80b" title="checkGauge" alt="" coords="712,68,808,93"/>
+<area shape="rect" id="node35" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="735,117,785,143"/>
+<area shape="rect" id="node38" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="671,1281,849,1307"/>
+<area shape="rect" id="node39" href="$interface__quda_8cpp.html#ae25ca55804c0192e0d941c2b276d7d6d" title="createCloverQuda" alt="" coords="695,1479,824,1504"/>
+<area shape="rect" id="node40" href="$interface__quda_8cpp.html#abedf6a5527d897fe4da194c5aa71ab04" title="plaqQuda" alt="" coords="720,1429,799,1455"/>
+<area shape="rect" id="node41" href="$interface__quda_8cpp.html#a08f4486c7d64528a33226bdbd1211824" title="qChargeCuda" alt="" coords="707,1380,812,1405"/>
+<area shape="rect" id="node46" href="$namespacequda.html#afd209a310946d067b22d56ff2e821c1d" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="700,873,819,899"/>
+<area shape="rect" id="node47" href="$classquda_1_1cuda_gauge_field.html#ad640087d39ac539ab3b676e1f585a4c3" title="Upload from this field into a CPU field. Overloaded variant that includes profiling. " alt="" coords="682,923,838,961"/>
+<area shape="rect" id="node49" href="$interface__quda_8cpp.html#a6516a0a03688b7c5931b44ae4244e7d2" title="saveGaugeFieldQuda" alt="" coords="684,985,835,1011"/>
+<area shape="rect" id="node50" href="$unitarize__link__test_8cpp.html#a529cfbd2a1809bcaf7b4b76a7fb35e5b" title="TEST" alt="" coords="732,1035,787,1060"/>
+</map>

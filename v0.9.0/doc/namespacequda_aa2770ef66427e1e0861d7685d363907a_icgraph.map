@@ -1,0 +1,12 @@
+<map id="quda::getDeterminant" name="quda::getDeterminant">
+<area shape="rect" id="node2" href="$namespacequda.html#ad976bda0be49038ef5ecc0d539b1cbd3" title="quda::computeLinkInverse" alt="" coords="209,5,387,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a15089a65bab280aad67819a1b7c74a88" title="quda::computeMatrixInverse" alt="" coords="203,157,392,183"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ab0fdd052fd3ec3ef5b47118b820fce01" title="Project the input matrix on the SU(3) group. First unitarize the matrix and then project onto the spe..." alt="" coords="752,107,864,132"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a07ecc1ec003a303ca19edfe2a37da461" title="quda::exponentiate_iQ" alt="" coords="220,207,375,232"/>
+<area shape="rect" id="node10" href="$structquda_1_1gauge_1_1_reconstruct_3_0113_00_01_float_01_4.html#a6d7c9a29b61f65b0da95ff7f42256c06" title="quda::gauge::Reconstruct\l\&lt; 13, Float \&gt;::getPhase" alt="" coords="211,256,385,295"/>
+<area shape="rect" id="node11" href="$structquda_1_1gauge_1_1_reconstruct_3_019_00_01_float_01_4.html#af72971f4d9ad167491aee1eb3233c21b" title="quda::gauge::Reconstruct\l\&lt; 9, Float \&gt;::getPhase" alt="" coords="211,319,385,357"/>
+<area shape="rect" id="node4" href="$namespacequda.html#af710d831fb5bc5b1fc065a5e1825163e" title="Check the unitarity of the input matrix to a given tolerance. " alt="" coords="486,157,621,183"/>
+<area shape="rect" id="node6" href="$namespacequda.html#af34de99c04f0a109be4805ca7c41d148" title="Check the unitarity of the input matrix to a given tolerance (1e&#45;14) and print out deviation for each..." alt="" coords="472,207,635,232"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a8a7af5890bfb8d240ccca2da1fe12caf" title="quda::computeOvrImpSTOUTStep" alt="" coords="440,256,666,281"/>
+<area shape="rect" id="node8" href="$classquda_1_1_gauge_ovr_imp_s_t_o_u_t.html#ad472371fabc020014c6f5d14f871658e" title="quda::GaugeOvrImpSTOUT\l::apply" alt="" coords="714,249,901,288"/>
+</map>

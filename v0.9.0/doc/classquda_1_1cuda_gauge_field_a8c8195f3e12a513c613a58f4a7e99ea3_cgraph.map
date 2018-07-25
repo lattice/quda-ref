@@ -1,0 +1,10 @@
+<map id="quda::cudaGaugeField::~cudaGaugeField" name="quda::cudaGaugeField::~cudaGaugeField">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html#a98a49db4ac99218a7a004d6e369e1e16" title="quda::LatticeField\l::destroyComms" alt="" coords="237,48,364,87"/>
+<area shape="rect" id="node9" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="210,111,392,136"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="440,31,585,56"/>
+<area shape="rect" id="node8" href="$comm__quda_8h.html#a64cf45acccdd7dcbbfd1803ac1f482af" title="comm_free" alt="" coords="468,80,556,105"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="633,31,789,56"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="837,31,924,56"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="972,5,1134,31"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1006,55,1100,80"/>
+</map>

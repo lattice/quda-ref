@@ -1,0 +1,4 @@
+<map id="quda::GaugeField::applyStaggeredPhase" name="quda::GaugeField::applyStaggeredPhase">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a327cb455334d59db3e501bb52c720fe0" title="Apply the staggered phase factors to the resident gauge field. " alt="" coords="281,5,445,44"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="288,68,439,93"/>
+</map>

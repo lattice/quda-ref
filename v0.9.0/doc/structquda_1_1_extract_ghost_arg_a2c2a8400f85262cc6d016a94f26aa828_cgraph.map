@@ -1,0 +1,9 @@
+<map id="quda::ExtractGhostArg::ExtractGhostArg" name="quda::ExtractGhostArg::ExtractGhostArg">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="216,31,372,56"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_field.html#a8e0ae774c1566179db3e3c5a2bc0b226" title="quda::GaugeField::Nface" alt="" coords="210,80,379,105"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html#a64969b1180e27da1fdbc1959f1cf644c" title="quda::LatticeField\l::SurfaceCB" alt="" coords="231,129,358,168"/>
+<area shape="rect" id="node8" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="223,192,366,217"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="427,31,514,56"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="562,5,725,31"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="597,55,690,80"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="quda::TunableLocalParity::advanceBlockDim" name="quda::TunableLocalParity::advanceBlockDim">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable.html#aa910847ecff2328c753eaa063cbb76e5" title="quda::Tunable::advanceBlockDim" alt="" coords="225,104,446,129"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable.html#abaacdcd8451528beb11777432d61f527" title="quda::Tunable::blockStep" alt="" coords="506,5,678,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#a06676e80d7fa5ba4ae66efde76f06118" title="quda::Tunable::maxBlockSize" alt="" coords="494,55,691,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#aef0531eaa7950ffe31b0aeb6bb61a75e" title="quda::Tunable::minThreads" alt="" coords="500,104,684,129"/>
+<area shape="rect" id="node6" href="$classquda_1_1_tunable.html#a67a816b5e7fde0357ea5315c5c2c7d52" title="quda::Tunable::sharedBytes\lPerThread" alt="" coords="498,153,686,192"/>
+<area shape="rect" id="node7" href="$classquda_1_1_tunable.html#a528dd6226511d3b6c1cf914dc578a44a" title="quda::Tunable::tuneGridDim" alt="" coords="498,216,686,241"/>
+</map>

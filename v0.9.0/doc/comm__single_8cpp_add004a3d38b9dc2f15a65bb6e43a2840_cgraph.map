@@ -1,0 +1,7 @@
+<map id="comm_init" name="comm_init">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a03fa1c0e94c2722e5f85d050bde726b5" title="comm_create_topology" alt="" coords="150,55,309,80"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#aabb1077a2f4eb1b7aa974b0e92ec305c" title="comm_set_default_topology" alt="" coords="135,104,324,129"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#a1ce76d2b3764460cbc6826cf8d0a2b57" title="advance_coords" alt="" coords="372,5,491,31"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="386,55,477,80"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="405,104,458,129"/>
+</map>

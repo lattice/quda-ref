@@ -1,0 +1,11 @@
+<map id="multiReduceLaunch" name="multiReduceLaunch">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="429,200,507,226"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a1234241a23f8abcdf7b435e2ebba7473" title="quda::blas::getHostReduce\lBuffer" alt="" coords="196,50,378,88"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a6af37e3b93667dd79f7d607c50957039" title="quda::blas::getMappedHost\lReduceBuffer" alt="" coords="195,112,379,151"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a6b9c5d5629de03076bc4d6a02f2ec7fc" title="quda::blas::getReduceEvent" alt="" coords="193,175,381,200"/>
+<area shape="rect" id="node7" href="$multi__reduce__core_8cuh.html#a3d3537e31bc06f08a74c35be177f031c" title="multiReduceKernel" alt="" coords="220,224,354,250"/>
+<area shape="rect" id="node8" href="$multi__reduce__core_8cuh.html#a915a78b163f1e321453b8d54429cc3ac" title="sum" alt="" coords="445,250,491,275"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a4ba350a11b881d7610ea6e03ced0015e" title="Wrapper around cudaEventQuery or cuEventQuery. " alt="" coords="208,326,366,351"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a3f2b731bceb1847d99e603f56717aa64" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="204,375,370,400"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="555,200,647,226"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="quda::blas::Caxpy_" name="quda::blas::Caxpy_">
+<area shape="rect" id="node2" href="$structquda_1_1blas_1_1caxpy_norm2.html#a6f66147ce49a15d5d11753dff029f484" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="217,5,382,44"/>
+<area shape="rect" id="node3" href="$structquda_1_1blas_1_1caxpyxmaznormx.html#a81b86562362e6f476c13d14bd726e617" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="203,68,397,107"/>
+<area shape="rect" id="node4" href="$structquda_1_1blas_1_1cabxpyaxnorm.html#a2302f3fb56e110f8ee727726f48315af" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="211,131,388,169"/>
+<area shape="rect" id="node5" href="$structquda_1_1blas_1_1caxpydotzy.html#a48d4b95065c6f8ab178714b867ae192e" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="221,193,378,232"/>
+<area shape="rect" id="node6" href="$structquda_1_1blas_1_1caxpbypz_ymbwc_dot_product_u_y_norm_y__.html#ae0bd755567a467a6bf522ee538ed85f8" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="189,256,410,295"/>
+</map>

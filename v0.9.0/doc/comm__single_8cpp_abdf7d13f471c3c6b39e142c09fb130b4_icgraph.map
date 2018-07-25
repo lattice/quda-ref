@@ -1,0 +1,5 @@
+<map id="comm_allreduce_max" name="comm_allreduce_max">
+<area shape="rect" id="node2" href="$comm__common_8cpp.html#a18fde49076d9ddfd4450f7bd7a983441" title="reduceMaxDouble" alt="" coords="205,12,335,37"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ab867764219575eee5200a7034d37d465" title="quda::maxGauge" alt="" coords="383,12,506,37"/>
+<area shape="rect" id="node4" href="$classquda_1_1cpu_gauge_field.html#aed4d23cd5eac14f6e2661f09a345254e" title="Constructor for cpuGaugeField from a GaugeFieldParam. " alt="" coords="554,5,703,44"/>
+</map>

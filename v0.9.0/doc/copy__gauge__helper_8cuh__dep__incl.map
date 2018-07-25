@@ -1,0 +1,7 @@
+<map id="lib/copy_gauge_helper.cuh" name="lib/copy_gauge_helper.cuh">
+<area shape="rect" id="node2" href="$copy__gauge__inc_8cu.html" title="lib/copy_gauge_inc.cu" alt="" coords="207,79,361,104"/>
+<area shape="rect" id="node6" href="$copy__gauge__mg_8cu.html" title="lib/copy_gauge_mg.cu" alt="" coords="385,79,540,104"/>
+<area shape="rect" id="node3" href="$copy__gauge__double_8cu.html" title="lib/copy_gauge_double.cu" alt="" coords="5,152,182,177"/>
+<area shape="rect" id="node4" href="$copy__gauge__half_8cu.html" title="lib/copy_gauge_half.cu" alt="" coords="205,152,363,177"/>
+<area shape="rect" id="node5" href="$copy__gauge__single_8cu.html" title="lib/copy_gauge_single.cu" alt="" coords="387,152,558,177"/>
+</map>

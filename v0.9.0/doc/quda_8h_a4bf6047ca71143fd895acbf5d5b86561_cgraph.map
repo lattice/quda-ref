@@ -1,0 +1,10 @@
+<map id="plaqQuda" name="plaqQuda">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="132,61,287,87"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a75aade410e5ac938012bb4fcdad6cd3f" title="quda::plaquette" alt="" coords="153,111,267,136"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="340,5,514,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="363,55,490,93"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ad288ddd1679350fa258fa42bd22accd4" title="quda::copyExtendedGauge" alt="" coords="335,117,518,143"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a9854f36dd6a6d0f458a975923366adf6" title="quda::copyGaugeEx" alt="" coords="566,117,708,143"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="756,117,834,143"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="882,117,974,143"/>
+</map>

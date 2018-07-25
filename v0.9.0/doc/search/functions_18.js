@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['x',['X',['../classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07',1,'quda::ColorSpinorField::X() const'],['../classquda_1_1_color_spinor_field.html#ae854092594ed9e3cebddb98b0ba05a2a',1,'quda::ColorSpinorField::X(int d) const'],['../classquda_1_1colorspinor_1_1_field_order_c_b.html#aa9fddcb9ea60163678de42320bda4846',1,'quda::colorspinor::FieldOrderCB::X(int d) const'],['../classquda_1_1colorspinor_1_1_field_order_c_b.html#aa15a7b282ff6e2a87e7514996b59273d',1,'quda::colorspinor::FieldOrderCB::X() const'],['../classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f',1,'quda::LatticeField::X()']]],
+  ['x4_5ffrom_5ffull_5findex',['x4_from_full_index',['../test__util_8cpp.html#a43463b7323f98d32f1563fd9b7295b78',1,'x4_from_full_index(int i):&#160;test_util.cpp'],['../test__util_8h.html#a43463b7323f98d32f1563fd9b7295b78',1,'x4_from_full_index(int i):&#160;test_util.cpp']]],
+  ['xmynorm',['xmyNorm',['../namespacequda_1_1blas.html#a53d7fb8e21b813343450b14c6ba7e631',1,'quda::blas']]],
+  ['xmynorm2',['xmyNorm2',['../structquda_1_1blas_1_1xmy_norm2.html#aa3ddd842b6afb5ec5c65cd54411e2c9c',1,'quda::blas::xmyNorm2']]],
+  ['xmynormcpu',['xmyNormCpu',['../namespacequda_1_1blas.html#ab5f82d99ec7b4fc046a3430b8e152bea',1,'quda::blas']]],
+  ['xpay',['xpay',['../namespacequda_1_1blas.html#a05c1eeac0ec0080a4fb3df73277944de',1,'quda::blas::xpay()'],['../namespacedslash__cuda__gen.html#af336689d285de22735b0de70d0f87cae',1,'dslash_cuda_gen.xpay()'],['../namespacedw__dslash__4_d__cuda__gen.html#a51e598a46d468663cf6a065d1d7b7894',1,'dw_dslash_4D_cuda_gen.xpay()'],['../namespacefused__exterior__dslash__gen.html#a4704213b0db1c47fce06dd45abd135ae',1,'fused_exterior_dslash_gen.xpay()'],['../namespacefused__exterior__dw__dslash__4_d__cuda__gen.html#a04aaf0ed82ea78ac6ae1d45a75fc550a',1,'fused_exterior_dw_dslash_4D_cuda_gen.xpay()'],['../namespacefused__exterior__ndeg__tm__dslash__cuda__gen.html#a073af0fea24030001f0210af823eeb80',1,'fused_exterior_ndeg_tm_dslash_cuda_gen.xpay()'],['../namespacendeg__tm__dslash__cuda__gen.html#ae2d5e05334c98f2eff7f44eea81dfea2',1,'ndeg_tm_dslash_cuda_gen.xpay()'],['../blas__reference_8cpp.html#a628501a368ea9795b22587cd1a1ffc56',1,'xpay(Float *x, Float a, Float *y, int len):&#160;blas_reference.cpp'],['../blas__reference_8cpp.html#a47b8c771f197d6f940c1d03abcc8329f',1,'xpay(void *x, double a, void *y, int length, QudaPrecision precision):&#160;blas_reference.cpp'],['../blas__reference_8h.html#a8209d054fb6a41c9b30740c11b1b2087',1,'xpay(void *x, double a, void *y, int len, QudaPrecision precision):&#160;blas_reference.cpp']]],
+  ['xpay_5flmem',['xpay_lmem',['../namespacedw__dslash__cuda__gen.html#a2b3fe304a76a78ba2959d7b2e77fc90f',1,'dw_dslash_cuda_gen.xpay_lmem()'],['../namespacefused__exterior__dw__dslash__cuda__gen.html#a89055f1e5e3398d44f12a0a58292d1e1',1,'fused_exterior_dw_dslash_cuda_gen.xpay_lmem()']]],
+  ['xpay_5flmem_5fpre',['xpay_lmem_pre',['../namespacedw__dslash__cuda__gen.html#a2d7f83bb97952a27c31729f020c2430b',1,'dw_dslash_cuda_gen']]],
+  ['xpaycdotzy',['xpaycdotzy',['../structquda_1_1blas_1_1xpaycdotzy.html#a3c95f1238e8807d2b9159d322925af79',1,'quda::blas::xpaycdotzy::xpaycdotzy()'],['../namespacequda_1_1blas.html#ae5cd522aa91eeaa385dfb70cf6f85c4a',1,'quda::blas::xpaycDotzy()']]],
+  ['xpaycdotzycpu',['xpaycDotzyCpu',['../namespacequda_1_1blas.html#a889d3205cdb898214de6a9ea684ee6ce',1,'quda::blas']]],
+  ['xpaycpu',['xpayCpu',['../namespacequda_1_1blas.html#a09adb90ec4fcbf227d1e531a5ab6ad87',1,'quda::blas']]],
+  ['xpayz',['xpayz',['../namespacequda_1_1blas.html#a1f3a59ff48866a2adec1f3015d309997',1,'quda::blas']]],
+  ['xpayz_5f',['xpayz_',['../structquda_1_1blas_1_1xpayz__.html#a2205dc9074513527eeced46a415d1741',1,'quda::blas::xpayz_']]],
+  ['xpy',['xpy',['../namespacequda_1_1blas.html#ae823e2784a147b1ef92f13b2a6f6941c',1,'quda::blas']]],
+  ['xpy_5f',['xpy_',['../structquda_1_1blas_1_1xpy__.html#acd29119cca8cf0f145a4ce8f6b04b1e4',1,'quda::blas::xpy_']]],
+  ['xpycpu',['xpyCpu',['../namespacequda_1_1blas.html#a8f1c19c5e84ce40a4898cee36eef7214',1,'quda::blas']]],
+  ['xpyheavyquarkresidualnorm',['xpyHeavyQuarkResidualNorm',['../namespacequda_1_1blas.html#a9762289d4fd95b386235c996d59763d3',1,'quda::blas']]],
+  ['xpyheavyquarkresidualnorm_5f',['xpyHeavyQuarkResidualNorm_',['../structquda_1_1blas_1_1xpy_heavy_quark_residual_norm__.html#a8d56fd044d67e17282ec18fe83dd221b',1,'quda::blas::xpyHeavyQuarkResidualNorm_']]],
+  ['xsd',['XSD',['../classquda_1_1_x_s_d.html#a16d7e32e566aefad0601f6dbe49c4207',1,'quda::XSD']]]
+];

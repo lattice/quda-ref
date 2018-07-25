@@ -1,0 +1,20 @@
+<map id="include/transfer.h" name="include/transfer.h">
+<area shape="rect" id="node2" href="$multigrid_8h.html" title="include/multigrid.h" alt="" coords="998,79,1126,104"/>
+<area shape="rect" id="node13" href="$transfer_8cpp.html" title="lib/transfer.cpp" alt="" coords="1684,152,1792,177"/>
+<area shape="rect" id="node14" href="$coarse__op_8cu.html" title="lib/coarse_op.cu" alt="" coords="1487,79,1605,104"/>
+<area shape="rect" id="node15" href="$coarsecoarse__op_8cu.html" title="lib/coarsecoarse_op.cu" alt="" coords="1629,79,1788,104"/>
+<area shape="rect" id="node16" href="$color__spinor__wuppertal_8cu.html" title="lib/color_spinor_wuppertal.cu" alt="" coords="1812,79,2006,104"/>
+<area shape="rect" id="node17" href="$cov_dev_8cu.html" title="lib/covDev.cu" alt="" coords="2030,79,2129,104"/>
+<area shape="rect" id="node18" href="$dslash__coarse_8cu.html" title="lib/dslash_coarse.cu" alt="" coords="2154,79,2296,104"/>
+<area shape="rect" id="node19" href="$laplace_8cu.html" title="lib/laplace.cu" alt="" coords="2319,79,2418,104"/>
+<area shape="rect" id="node3" href="$dirac__clover_8cpp.html" title="lib/dirac_clover.cpp" alt="" coords="5,152,140,177"/>
+<area shape="rect" id="node4" href="$dirac__coarse_8cpp.html" title="lib/dirac_coarse.cpp" alt="" coords="164,152,304,177"/>
+<area shape="rect" id="node5" href="$dirac__twisted__clover_8cpp.html" title="lib/dirac_twisted_clover.cpp" alt="" coords="328,152,511,177"/>
+<area shape="rect" id="node6" href="$dirac__twisted__mass_8cpp.html" title="lib/dirac_twisted_mass.cpp" alt="" coords="536,152,716,177"/>
+<area shape="rect" id="node7" href="$dirac__wilson_8cpp.html" title="lib/dirac_wilson.cpp" alt="" coords="740,152,877,177"/>
+<area shape="rect" id="node8" href="$gauge__covdev_8cpp.html" title="lib/gauge_covdev.cpp" alt="" coords="901,152,1050,177"/>
+<area shape="rect" id="node9" href="$gauge__laplace_8cpp.html" title="lib/gauge_laplace.cpp" alt="" coords="1074,152,1224,177"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html" title="lib/interface_quda.cpp" alt="" coords="1247,152,1399,177"/>
+<area shape="rect" id="node11" href="$multigrid_8cpp.html" title="lib/multigrid.cpp" alt="" coords="1424,152,1538,177"/>
+<area shape="rect" id="node12" href="$solver_8cpp.html" title="lib/solver.cpp" alt="" coords="1562,152,1661,177"/>
+</map>

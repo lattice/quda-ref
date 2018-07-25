@@ -1,0 +1,5 @@
+<map id="quda::aligned_malloc" name="quda::aligned_malloc">
+<area shape="rect" id="node2" href="$namespacequda.html#a0da0beaa22e0a3bb0c3ffba0c2e63a6d" title="quda::mapped_malloc_" alt="" coords="201,5,361,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a4856913d148b0eb6eca9a650a5d4cad9" title="quda::pinned_malloc_" alt="" coords="205,55,357,80"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1pool.html#a94e9c0fc3d13c90bab08f84428a5f1b9" title="Allocate pinned&#45;memory. If a free pre&#45;existing allocation exists reuse this. " alt="" coords="409,48,540,87"/>
+</map>

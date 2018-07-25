@@ -1,0 +1,26 @@
+<map id="gaussGaugeQuda" name="gaussGaugeQuda">
+<area shape="rect" id="node2" href="$namespacequda.html#aa9ae7d6e5007f5bf89e5ffacd0ae9aea" title="quda::exchangeExtendedGhost" alt="" coords="183,80,391,105"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a326605d7b325be6c096bf3d9c473a810" title="quda::gaugeGauss" alt="" coords="220,293,354,319"/>
+<area shape="rect" id="node14" href="$classquda_1_1_r_n_g.html#a8870863b35c992bae85971bfbd61efd9" title="Initialize CURAND RNG states. " alt="" coords="230,212,344,237"/>
+<area shape="rect" id="node23" href="$classquda_1_1_r_n_g.html#a53a7fd25b2b8ae4b5d02e9334444ec87" title="Release Device memory for CURAND RNG states. " alt="" coords="215,343,359,368"/>
+<area shape="rect" id="node24" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="224,392,350,431"/>
+<area shape="rect" id="node25" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="216,455,358,480"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#a589430861080cdc7c23a8d74cfe75c93" title="commDim" alt="" coords="501,5,583,31"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ab1ecadf071018ee4519c12ec2868e0f0" title="Wrapper around cudaDeviceSynchronize or cuDeviceSynchronize. " alt="" coords="693,105,895,131"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a3f2b731bceb1847d99e603f56717aa64" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="459,55,625,80"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="751,56,837,81"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="943,204,1106,229"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="978,105,1071,131"/>
+<area shape="rect" id="node10" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="479,416,605,455"/>
+<area shape="rect" id="node11" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="451,268,633,293"/>
+<area shape="rect" id="node12" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="458,317,626,343"/>
+<area shape="rect" id="node13" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="439,367,645,392"/>
+<area shape="rect" id="node15" href="$classquda_1_1_r_n_g.html#a91852388c0f96837f2c307be37dd12f2" title="allocate curand rng states array in device memory " alt="" coords="456,156,628,181"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a16ac9ee8a31b6d1dee5d59c3cfba76bc" title="Call CUDA kernel to initialize CURAND RNG states. " alt="" coords="471,205,613,244"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a2d9365a8573d7d34160257d4cff18f1c" title="quda::GetBlockDim" alt="" coords="726,155,862,180"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="755,303,833,328"/>
+<area shape="rect" id="node20" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="751,204,837,229"/>
+<area shape="rect" id="node21" href="$comm__quda_8h.html#a6c081bfedfe939a19ca8acd025864f14" title="comm_coord" alt="" coords="745,253,843,279"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="979,303,1070,328"/>
+<area shape="rect" id="node22" href="$comm__common_8cpp.html#ae272add21a9cc81ff61e2ae27f849ebd" title="comm_coords" alt="" coords="972,253,1077,279"/>
+</map>

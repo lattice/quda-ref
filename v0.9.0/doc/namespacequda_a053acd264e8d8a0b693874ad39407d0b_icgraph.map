@@ -1,0 +1,4 @@
+<map id="quda::device_free_" name="quda::device_free_">
+<area shape="rect" id="node2" href="$namespacequda_1_1pool.html#ac5fd9c5bb2b77dcc4c65f54c7acacc56" title="Virtual free of pinned&#45;memory allocation. " alt="" coords="188,5,318,44"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1pool.html#adf69f608446c13713a37dadebafd64f2" title="Allocate device&#45;memory. If free pre&#45;existing allocation exists reuse this. " alt="" coords="188,68,318,107"/>
+</map>

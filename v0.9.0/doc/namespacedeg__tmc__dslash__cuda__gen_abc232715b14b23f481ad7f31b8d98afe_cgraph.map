@@ -1,0 +1,26 @@
+<map id="deg_tmc_dslash_cuda_gen.generate_dslash_kernels" name="deg_tmc_dslash_cuda_gen.generate_dslash_kernels">
+<area shape="rect" id="node2" href="$namespacedeg__tmc__dslash__cuda__gen.html#af54b38d0210a5205779ed63015ea1763" title="deg_tmc_dslash_cuda\l_gen.generate_dslash" alt="" coords="208,697,363,735"/>
+<area shape="rect" id="node3" href="$namespacedeg__tmc__dslash__cuda__gen.html#ae14f54b06648e25d18c20459926c54d3" title="deg_tmc_dslash_cuda\l_gen.epilog" alt="" coords="614,537,768,575"/>
+<area shape="rect" id="node19" href="$namespacedeg__tmc__dslash__cuda__gen.html#a7bee0ac739e549eedd5603ee824b1791" title="deg_tmc_dslash_cuda\l_gen.prolog" alt="" coords="411,725,566,763"/>
+<area shape="rect" id="node4" href="$namespacedeg__tmc__dslash__cuda__gen.html#a5d11d4af920853905e431fcc168b447a" title="deg_tmc_dslash_cuda\l_gen.acc_im" alt="" coords="1039,298,1194,337"/>
+<area shape="rect" id="node5" href="$namespacedeg__tmc__dslash__cuda__gen.html#ab48e806f0d2b77494b1079082424aa63" title="deg_tmc_dslash_cuda\l_gen.acc_re" alt="" coords="1039,361,1194,399"/>
+<area shape="rect" id="node6" href="$namespacedeg__tmc__dslash__cuda__gen.html#ae384a2a079352c7c610f6c64406b66fb" title="deg_tmc_dslash_cuda\l_gen.block" alt="" coords="826,411,981,450"/>
+<area shape="rect" id="node8" href="$namespacedeg__tmc__dslash__cuda__gen.html#a78afafa5b46c839a3fc4a00a1ced3cf3" title="deg_tmc_dslash_cuda\l_gen.c_im" alt="" coords="826,662,981,701"/>
+<area shape="rect" id="node9" href="$namespacedeg__tmc__dslash__cuda__gen.html#ae35f24e9c51790e2c30f6f64bbdf71b2" title="deg_tmc_dslash_cuda\l_gen.c_re" alt="" coords="826,474,981,513"/>
+<area shape="rect" id="node10" href="$namespacedeg__tmc__dslash__cuda__gen.html#a15196e8e18187eac2b99b6601a5b4624" title="deg_tmc_dslash_cuda\l_gen.cinv_im" alt="" coords="826,537,981,575"/>
+<area shape="rect" id="node11" href="$namespacedeg__tmc__dslash__cuda__gen.html#af799cada1ab89c501c811a5a4e326fc6" title="deg_tmc_dslash_cuda\l_gen.cinv_re" alt="" coords="826,599,981,638"/>
+<area shape="rect" id="node12" href="$namespacedeg__tmc__dslash__cuda__gen.html#a2dccac1a88909695ec749a3880960e5a" title="deg_tmc_dslash_cuda\l_gen.clover_twisted_xpay" alt="" coords="816,246,991,285"/>
+<area shape="rect" id="node13" href="$namespacedeg__tmc__dslash__cuda__gen.html#ac6e6b07e210928e1b96add427c598d95" title="deg_tmc_dslash_cuda\l_gen.out_im" alt="" coords="1039,53,1194,91"/>
+<area shape="rect" id="node14" href="$namespacedeg__tmc__dslash__cuda__gen.html#a10e63e8fb08e224aa849616c868458e6" title="deg_tmc_dslash_cuda\l_gen.out_re" alt="" coords="1039,163,1194,202"/>
+<area shape="rect" id="node15" href="$namespacedeg__tmc__dslash__cuda__gen.html#a5c545215d2c519fca155214522170dbd" title="deg_tmc_dslash_cuda\l_gen.g_im" alt="" coords="826,787,981,826"/>
+<area shape="rect" id="node16" href="$namespacedeg__tmc__dslash__cuda__gen.html#ac6459ad117fca10529985b292846acbf" title="deg_tmc_dslash_cuda\l_gen.g_re" alt="" coords="826,725,981,763"/>
+<area shape="rect" id="node17" href="$namespacedeg__tmc__dslash__cuda__gen.html#a4083e5093ce3970ee68fb7808aa47278" title="deg_tmc_dslash_cuda\l_gen.in_im" alt="" coords="826,975,981,1014"/>
+<area shape="rect" id="node18" href="$namespacedeg__tmc__dslash__cuda__gen.html#a22392791f6bff55ab054aca3a9ce81c8" title="deg_tmc_dslash_cuda\l_gen.in_re" alt="" coords="826,1090,981,1129"/>
+<area shape="rect" id="node7" href="$namespacedeg__tmc__dslash__cuda__gen.html#a8b0bd4a3ba96f612e9b976187ae32c52" title="code generation ######################################################################## ..." alt="" coords="1039,807,1194,846"/>
+<area shape="rect" id="node20" href="$namespacedeg__tmc__dslash__cuda__gen.html#a9e0a01122e38880e98c645d195d9a516" title="deg_tmc_dslash_cuda\l_gen.def_input_spinor" alt="" coords="614,975,768,1014"/>
+<area shape="rect" id="node23" href="$namespacedeg__tmc__dslash__cuda__gen.html#abe0076d88ae9ce1d14a63e263f276898" title="deg_tmc_dslash_cuda\l_gen.def_gauge" alt="" coords="614,787,768,826"/>
+<area shape="rect" id="node24" href="$namespacedeg__tmc__dslash__cuda__gen.html#afa20af41d23b98e487b3dc6177b5babf" title="deg_tmc_dslash_cuda\l_gen.def_clover" alt="" coords="614,662,768,701"/>
+<area shape="rect" id="node25" href="$namespacedeg__tmc__dslash__cuda__gen.html#ad25d9dd994fbf964b4175b4c85160b6a" title="deg_tmc_dslash_cuda\l_gen.def_output_spinor" alt="" coords="823,81,984,119"/>
+<area shape="rect" id="node21" href="$namespacedeg__tmc__dslash__cuda__gen.html#ab2fa5b1af7d315e7ab58b263c2961a25" title="deg_tmc_dslash_cuda\l_gen.nthFloat2" alt="" coords="826,850,981,889"/>
+<area shape="rect" id="node22" href="$namespacedeg__tmc__dslash__cuda__gen.html#ae3d32baa196be73672abdbe5a0f7079f" title="deg_tmc_dslash_cuda\l_gen.nthFloat4" alt="" coords="826,913,981,951"/>
+</map>

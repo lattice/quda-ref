@@ -1,0 +1,24 @@
+<map id="quda::DiracTwistedMassPC::MdagM" name="quda::DiracTwistedMassPC::MdagM">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="732,68,892,93"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a51aab3a1d37104ab7202b55eda1a9c81" title="quda::DiracTwistedMassPC::M" alt="" coords="238,219,442,244"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="738,480,886,505"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="275,440,405,465"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aebad1f29b65f446d27b2454b45bbec13" title="quda::DiracTwistedMassPC\l::Dslash" alt="" coords="490,275,675,313"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aefa93709f581a5e61216f7b0a5e60c4b" title="quda::DiracTwistedMassPC\l::DslashXpay" alt="" coords="490,212,675,251"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dirac_twisted_mass.html#a4f8b2f9ca00505614ac105dbf60ea7c1" title="quda::DiracTwistedMass\l::NdegTwistedDslashXpay" alt="" coords="723,5,900,44"/>
+<area shape="rect" id="node21" href="$classquda_1_1_dirac_twisted_mass.html#a7689228d46df8cb10cfa9bfc3d4bf5f0" title="quda::DiracTwistedMass\l::TwistedDslashXpay" alt="" coords="728,117,895,156"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a6e7494d075405e71c9666c416c938cf1" title="Apply the twisted&#45;mass gamma operator to a color&#45;spinor field. " alt="" coords="727,431,896,456"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="729,368,895,407"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="726,180,897,219"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_twisted_mass.html#a06f68b3e2e4593f0e666ffda4ba0086d" title="quda::DiracTwistedMass\l::NdegTwistedDslash" alt="" coords="728,243,895,281"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_twisted_mass.html#a5c3f608538e22d88fb0e41ff81b818ee" title="quda::DiracTwistedMass\l::TwistedDslash" alt="" coords="728,305,895,344"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="1028,431,1106,456"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a2b7b791fa2bda557d7d6eff2fef84965" title="gamma" alt="" coords="1034,480,1100,505"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="1264,431,1356,456"/>
+<area shape="rect" id="node10" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="1004,305,1130,344"/>
+<area shape="rect" id="node11" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="1004,368,1130,407"/>
+<area shape="rect" id="node14" href="$namespacequda.html#a615c9dfce9234a38bc4d02ef52e7904c" title="quda::ndegTwistedMassDslashCuda" alt="" coords="948,77,1186,103"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a20e8b78ce4e01cdec09deb8188e83aef" title="quda::twistedMassDslashCuda" alt="" coords="965,191,1169,216"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="1234,191,1386,216"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="529,440,637,465"/>
+</map>

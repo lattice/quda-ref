@@ -1,0 +1,6 @@
+<map id="quda::Restrict" name="quda::Restrict">
+<area shape="rect" id="node2" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="157,50,282,75"/>
+<area shape="rect" id="node3" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="523,13,632,38"/>
+<area shape="rect" id="node4" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="343,50,462,75"/>
+<area shape="rect" id="node5" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="330,99,475,125"/>
+</map>

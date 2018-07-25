@@ -1,0 +1,10 @@
+<map id="reduceCuda" name="reduceCuda">
+<area shape="rect" id="node2" href="$reduce__quda_8cu.html#a676f28bd04ca40c360dc974cc8b16909" title="checkLength" alt="" coords="175,5,272,31"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a8579e2a0158ce1bbb34979b7c7b34d87" title="quda::blas::getStream" alt="" coords="147,55,299,80"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a36ea3d9efd722e180c16bfe59975ac0e" title="quda::reduce" alt="" coords="174,104,273,129"/>
+<area shape="rect" id="node7" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afdda3884407b500020ab100f831aea08" title="strcat" alt="" coords="196,153,250,179"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a53b054f03667fa7e48a9d6ede1e010a5" title="strcpy" alt="" coords="195,203,252,228"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="165,252,281,277"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="347,104,425,129"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="473,104,565,129"/>
+</map>

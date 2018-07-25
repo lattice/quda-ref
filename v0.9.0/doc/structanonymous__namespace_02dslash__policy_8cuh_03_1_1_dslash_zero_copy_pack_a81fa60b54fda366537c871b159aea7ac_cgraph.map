@@ -1,0 +1,13 @@
+<map id="anonymous_namespace{dslash_policy::cuh}::DslashZeroCopyPack::operator()" name="anonymous_namespace{dslash_policy::cuh}::DslashZeroCopyPack::operator()">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="478,199,658,225"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02dslash__policy_8cuh_03.html#aefc101396f18cb66461ba9c3dd2d5801" title="Wrapper for querying if communication is finished in the dslash, and if it is take the appropriate ac..." alt="" coords="239,122,405,174"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a88fef310d4d59eb0fe80ab65d465183d" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="472,59,664,85"/>
+<area shape="rect" id="node5" href="$namespaceanonymous__namespace_02dslash__policy_8cuh_03.html#aa89674ad2899a94fd08c8ac583baf87f" title="Ensure that the dslash is complete. By construction, the dslash will have completed (or is in flight)..." alt="" coords="239,46,405,98"/>
+<area shape="rect" id="node6" href="$namespaceanonymous__namespace_02dslash__policy_8cuh_03.html#af3836cb356bfc2fcce4f03ea49686d84" title="Returns a stream index for posting the pack/scatters to. We desire a stream index that is not being u..." alt="" coords="239,250,405,302"/>
+<area shape="rect" id="node8" href="$namespaceanonymous__namespace_02dslash__policy_8cuh_03.html#aee6cf8346ad54d1481ca0ee1dcd11591" title="This helper function simply posts the packing kernel needed for halo exchange. " alt="" coords="239,326,405,378"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a3f2b731bceb1847d99e603f56717aa64" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="485,395,651,421"/>
+<area shape="rect" id="node11" href="$namespaceanonymous__namespace_02dslash__policy_8cuh_03.html#abe536eb6d03f5977c5c9abb146a5c55b" title="This helper function simply posts all receives in all directions. " alt="" coords="239,454,405,506"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a11db6809606f57d0e63d09000334b823" title="Wrapper around cudaStreamSynchronize or cuStreamSynchronize. " alt="" coords="220,530,424,555"/>
+<area shape="rect" id="node7" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a61405661f3bf3097efcac27bcc31c137" title="index" alt="" coords="541,263,595,289"/>
+<area shape="rect" id="node9" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="491,339,645,365"/>
+</map>

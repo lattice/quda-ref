@@ -1,0 +1,36 @@
+<map id="lib/dslash_quda.cu" name="lib/dslash_quda.cu">
+<area shape="rect" id="node6" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="658,312,795,337"/>
+<area shape="rect" id="node7" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="335,385,449,411"/>
+<area shape="rect" id="node30" href="$clover__field_8h.html" title="clover_field.h" alt="" coords="572,239,671,264"/>
+<area shape="rect" id="node31" href="$dslash__quda_8h.html" title="dslash_quda.h" alt="" coords="290,239,398,264"/>
+<area shape="rect" id="node35" href="$blas__quda_8h.html" title="blas_quda.h" alt="" coords="453,239,547,264"/>
+<area shape="rect" id="node36" href="$inline__ptx_8h.html" title="inline_ptx.h" alt="" coords="1316,385,1405,411"/>
+<area shape="rect" id="node37" href="$color__spinor__field__order_8h.html" title="color_spinor_field\l_order.h" alt="" coords="1123,79,1248,117"/>
+<area shape="rect" id="node41" href="$index__helper_8cuh.html" title="index_helper.cuh" alt="" coords="1387,165,1509,191"/>
+<area shape="rect" id="node42" href="$color__spinor_8h.html" title="color_spinor.h" alt="" coords="960,165,1064,191"/>
+<area shape="rect" id="node45" href="$clover__field__order_8h.html" title="Main header file for host and device accessors to CloverFields. " alt="" coords="809,85,946,111"/>
+<area shape="rect" id="node46" href="$linalg_8cuh.html" title="linalg.cuh" alt="" coords="971,85,1048,111"/>
+<area shape="rect" id="node47" href="$contract_8cu.html" title="contract.cu" alt="" coords="1604,85,1690,111"/>
+<area shape="rect" id="node15" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="469,459,531,484"/>
+<area shape="rect" id="node25" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="573,385,672,411"/>
+<area shape="rect" id="node27" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="747,385,861,411"/>
+<area shape="rect" id="node29" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="885,385,977,411"/>
+<area shape="rect" id="node8" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="605,459,729,484"/>
+<area shape="rect" id="node13" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="186,532,289,557"/>
+<area shape="rect" id="node18" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="358,459,445,484"/>
+<area shape="rect" id="node22" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="1311,459,1419,484"/>
+<area shape="rect" id="node23" href="$object_8h.html" title="object.h" alt="" coords="185,459,253,484"/>
+<area shape="rect" id="node17" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="614,532,741,557"/>
+<area shape="rect" id="node20" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="485,532,590,557"/>
+<area shape="rect" id="node21" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="5,532,91,557"/>
+<area shape="rect" id="node32" href="$tune__quda_8h.html" title="tune_quda.h" alt="" coords="64,312,160,337"/>
+<area shape="rect" id="node33" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="483,312,584,337"/>
+<area shape="rect" id="node34" href="$worker_8h.html" title="worker.h" alt="" coords="235,312,307,337"/>
+<area shape="rect" id="node38" href="$register__traits_8h.html" title="Provides precision abstractions and defines the register precision given the storage precision using ..." alt="" coords="976,312,1089,337"/>
+<area shape="rect" id="node39" href="$complex__quda_8h.html" title="complex_quda.h" alt="" coords="1051,385,1170,411"/>
+<area shape="rect" id="node44" href="$thrust__helper_8cuh.html" title="thrust_helper.cuh" alt="" coords="1189,165,1313,191"/>
+<area shape="rect" id="node43" href="$quda__matrix_8h.html" title="quda_matrix.h" alt="" coords="1190,239,1296,264"/>
+<area shape="rect" id="node48" href="$dslash__constants_8h.html" title="dslash_constants.h" alt="" coords="1628,239,1764,264"/>
+<area shape="rect" id="node49" href="$dslash__textures_8h.html" title="dslash_textures.h" alt="" coords="1533,165,1659,191"/>
+<area shape="rect" id="node50" href="$io__spinor_8h.html" title="io_spinor.h" alt="" coords="1733,165,1819,191"/>
+</map>

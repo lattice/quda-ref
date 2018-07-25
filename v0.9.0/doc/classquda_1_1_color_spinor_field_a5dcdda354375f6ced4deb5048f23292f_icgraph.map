@@ -1,0 +1,20 @@
+<map id="quda::ColorSpinorField::TwistFlavor" name="quda::ColorSpinorField::TwistFlavor">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_wilson.html#ae5d7d91c1d9d0163e1d013569bb3edfe" title="Create the coarse Wilson operator. " alt="" coords="236,5,373,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_clover.html#a67bd09b3508ce62334202cdb18d7f919" title="Create the coarse clover operator. " alt="" coords="237,68,372,107"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_clover_p_c.html#af1af3786ae321dbfd20845a345596744" title="Create the coarse even&#45;odd preconditioned clover operator. Unlike the Wilson operator, the coarsening of the preconditioned clover operator differs from that of the unpreconditioned clover operator, so we need to specialize it. " alt="" coords="231,131,378,169"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_twisted_clover.html#a6d5e47bf61539cae1c43e0b709fd95e9" title="Create the coarse twisted&#45;clover operator. " alt="" coords="218,193,391,232"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a7faa63737629c198bc15929b11611f5d" title="Create the coarse even&#45;odd preconditioned twisted&#45;clover operator. Unlike the Wilson operator..." alt="" coords="218,256,391,295"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_coarse.html#afc4c76c6a14f4c769e558b7244fff983" title="Create the coarse operator from this coarse operator. " alt="" coords="234,319,374,357"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_coarse_p_c.html#ab6169b102bc6ab40072847ce25bc3dbc" title="Create the coarse even&#45;odd preconditioned coarse operator. Unlike the Wilson operator, the coarsening of the preconditioned coarse operator differs from that of the unpreconditioned coarse operator, so we need to specialize it. " alt="" coords="229,381,380,420"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a503bc0265a583054448836dd4e7e8335" title="quda::DiracTwistedClover\lPC::Dslash" alt="" coords="218,444,391,483"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_twisted_clover_p_c.html#af123fa46e3c363daa4f1748f5f33e242" title="quda::DiracTwistedClover\lPC::DslashXpay" alt="" coords="218,507,391,545"/>
+<area shape="rect" id="node13" href="$classquda_1_1cuda_color_spinor_field.html#ac2e23741f5cea98c5e8672f115ae41b2" title="quda::cudaColorSpinorField\l::sendGhost" alt="" coords="211,569,398,608"/>
+<area shape="rect" id="node15" href="$classquda_1_1cuda_color_spinor_field.html#a8f3aa5c756bc4cdb3c2e32248cf82192" title="Initiate halo communication sending. " alt="" coords="211,632,398,671"/>
+<area shape="rect" id="node18" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="245,728,364,753"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a359ba6db818f191e4eb0f51badf3f91b" title="quda::DiracTwistedClover\lPC::M" alt="" coords="452,471,626,509"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a29f45c7b93a76bdc5e1aea387d7c974a" title="quda::DiracTwistedClover\lPC::MdagM" alt="" coords="680,471,854,509"/>
+<area shape="rect" id="node14" href="$classquda_1_1cuda_color_spinor_field.html#aec1261adeb195641da74629f94b998f4" title="quda::cudaColorSpinorField\l::gather" alt="" coords="446,559,632,597"/>
+<area shape="rect" id="node16" href="$classquda_1_1cuda_color_spinor_field.html#ae4d6e2612a25647660363ddc28c7685f" title="Initiate halo communication. " alt="" coords="446,621,632,660"/>
+<area shape="rect" id="node17" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="446,684,632,723"/>
+<area shape="rect" id="node19" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="485,747,593,772"/>
+</map>

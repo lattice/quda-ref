@@ -1,0 +1,16 @@
+<map id="quda::Solver::PrintStats" name="quda::Solver::PrintStats">
+<area shape="rect" id="node2" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="220,5,411,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="243,55,388,80"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_p_c_g.html#a22dc04a12559494a1202da230c31a66a" title="quda::MPCG::operator()" alt="" coords="233,104,398,129"/>
+<area shape="rect" id="node8" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="222,153,409,179"/>
+<area shape="rect" id="node9" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="225,203,406,228"/>
+<area shape="rect" id="node10" href="$classquda_1_1_simple_bi_c_gstab.html#a2b9dbba1f56a02b726384c33ef5b1a82" title="quda::SimpleBiCGstab\l::operator()" alt="" coords="237,252,394,291"/>
+<area shape="rect" id="node11" href="$classquda_1_1_m_p_bi_c_gstab.html#aeaaa27e4d7c28168d04893447dab68b3" title="quda::MPBiCGstab::operator()" alt="" coords="215,315,416,340"/>
+<area shape="rect" id="node12" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="221,364,410,389"/>
+<area shape="rect" id="node13" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="238,413,392,439"/>
+<area shape="rect" id="node14" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="221,463,410,488"/>
+<area shape="rect" id="node15" href="$classquda_1_1_c_g.html#aedab089868d466a7aea69ca556ad1ea4" title="quda::CG::solve" alt="" coords="257,512,374,537"/>
+<area shape="rect" id="node3" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="464,5,646,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_c_g_n_e.html#a4043b6e48b0794cf6876ae6398431e08" title="quda::CGNE::operator()" alt="" coords="473,55,636,80"/>
+<area shape="rect" id="node6" href="$classquda_1_1_c_g_n_r.html#a2afa3f3b11946d0b8e2251064dce3882" title="quda::CGNR::operator()" alt="" coords="473,104,637,129"/>
+</map>

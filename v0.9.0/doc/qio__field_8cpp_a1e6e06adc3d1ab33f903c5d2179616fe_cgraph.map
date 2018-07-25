@@ -1,0 +1,24 @@
+<map id="read_gauge_field" name="read_gauge_field">
+<area shape="rect" id="node2" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afa9ad98643851ca03a428e264122dac0" title="fflush" alt="" coords="209,133,262,159"/>
+<area shape="rect" id="node3" href="$qio__field_8cpp.html#a1486b1e5dbaa20346d2388467ad540c5" title="open_test_input" alt="" coords="178,183,294,208"/>
+<area shape="rect" id="node4" href="$qio__field_8cpp.html#a0ca878d90e7f5fc90c381ff3815f6317" title="read_su3_field" alt="" coords="181,232,290,257"/>
+<area shape="rect" id="node5" href="$qio__field_8cpp.html#ab1500ef7f975e98f8c50b01db933f98b" title="set_layout" alt="" coords="195,281,277,307"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="350,55,437,80"/>
+<area shape="rect" id="node9" href="$layout__hyper_8h.html#a56d85412584d12084dd3378779b53cf8" title="setup_layout" alt="" coords="345,205,442,231"/>
+<area shape="rect" id="node17" href="$layout__hyper_8h.html#a2a3fdb971972d5e9dac23083157a317a" title="num_sites" alt="" coords="353,307,435,332"/>
+<area shape="rect" id="node18" href="$layout__hyper_8h.html#a5b11e050bb7e7e5f15aa55c2dd025609" title="node_number" alt="" coords="342,356,446,381"/>
+<area shape="rect" id="node19" href="$layout__hyper_8h.html#a33585abe4fa743ac67d107cd1c641dcc" title="node_index" alt="" coords="349,405,439,431"/>
+<area shape="rect" id="node20" href="$layout__hyper_8h.html#a74966f2e3fff08da47ef1e891396f08e" title="get_coords" alt="" coords="531,353,619,379"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="494,5,656,31"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="528,55,622,80"/>
+<area shape="rect" id="node10" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="545,304,605,329"/>
+<area shape="rect" id="node11" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afe176b0807dfea419d70b1376ea761a4" title="printf" alt="" coords="724,129,775,155"/>
+<area shape="rect" id="node12" href="$layout__hyper_8c.html#aa5611924ad1b48836873ae6507ab5827" title="setup_hyper_prime" alt="" coords="507,205,643,231"/>
+<area shape="rect" id="node15" href="$layout__hyper_8c.html#a2b78bbd6b5a1b817eb6e78a02f1257f6" title="setup_qmp_fixed" alt="" coords="514,255,636,280"/>
+<area shape="rect" id="node16" href="$layout__hyper_8c.html#a05e3e306adae7df614bdc3a901a57f6e" title="setup_qmp_grid" alt="" coords="517,104,633,129"/>
+<area shape="rect" id="node13" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a7459c10a5fdd8a4f91880bf0f46e722f" title="exit" alt="" coords="729,205,771,231"/>
+<area shape="rect" id="node14" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a6513e6416e469f8af2665d5793c3782f" title="fprintf" alt="" coords="722,255,777,280"/>
+<area shape="rect" id="node21" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="727,304,772,329"/>
+<area shape="rect" id="node22" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a61405661f3bf3097efcac27bcc31c137" title="index" alt="" coords="723,353,776,379"/>
+<area shape="rect" id="node23" href="$layout__hyper_8c.html#a33585abe4fa743ac67d107cd1c641dcc" title="node_index" alt="" coords="704,403,795,428"/>
+</map>

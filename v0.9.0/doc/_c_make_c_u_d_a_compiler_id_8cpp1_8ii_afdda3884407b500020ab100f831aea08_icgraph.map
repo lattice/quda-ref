@@ -1,0 +1,51 @@
+<map id="strcat" name="strcat">
+<area shape="rect" id="node2" href="$class_dslash_cuda.html#ad3b74b25ca3f7deab77b5000d450f812" title="DslashCuda::augmentAux" alt="" coords="132,375,308,400"/>
+<area shape="rect" id="node3" href="$blas__core_8cuh.html#a754c2c3fce1d593cd5c8b8e8fb343252" title="blasCuda" alt="" coords="181,424,259,449"/>
+<area shape="rect" id="node4" href="$classquda_1_1_calculate_y.html#a8c9883bfe9308d0608a31ac3c1402339" title="quda::CalculateY::CalculateY" alt="" coords="123,473,317,499"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas_1_1copy__ns.html#ad7353084a830c81feb7c3f4aa2f14f7f" title="quda::blas::copy_ns\l::copy" alt="" coords="150,523,290,561"/>
+<area shape="rect" id="node33" href="$classquda_1_1_dslash_coarse_policy_tune.html#a999e08702fb5769550ea1737534451b0" title="quda::DslashCoarsePolicy\lTune::DslashCoarsePolicyTune" alt="" coords="116,585,324,624"/>
+<area shape="rect" id="node34" href="$class_dslash_cuda.html#a7ef77d90a53488c12222c7b28e2c8673" title="DslashCuda::DslashCuda" alt="" coords="381,700,555,725"/>
+<area shape="rect" id="node35" href="$class_dslash_cuda.html#a4c0bf1374d6baf225eb7874b081a8785" title="Specialize the auxiliary strings for each kernel type. " alt="" coords="152,700,289,725"/>
+<area shape="rect" id="node36" href="$class_dslash_cuda.html#ac0a66769f33e90134e318ea65bcc6648" title="Set the base strings used by the different dslash kernel types for autotuning. " alt="" coords="137,749,304,775"/>
+<area shape="rect" id="node37" href="$classquda_1_1_generic_pack_ghost_launcher.html#a9ebc26a9eaf0cd233897dd03d0c3577a" title="quda::GenericPackGhostLauncher\l::GenericPackGhostLauncher" alt="" coords="107,799,333,837"/>
+<area shape="rect" id="node38" href="$classquda_1_1_laplace.html#ab1dc9cd76cf1117af0d3f02a926b08d2" title="quda::Laplace::Laplace" alt="" coords="141,861,300,887"/>
+<area shape="rect" id="node39" href="$multi__blas__core_8cuh.html#acf03100385d86bbb46eb2ba574f68511" title="multiblasCuda" alt="" coords="167,911,273,936"/>
+<area shape="rect" id="node40" href="$multi__reduce__core_8cuh.html#ad1d4f2dbd6aa2048ddc55ae67ed5ab56" title="multiReduceCuda" alt="" coords="157,960,284,985"/>
+<area shape="rect" id="node41" href="$classquda_1_1_quda_mem_copy.html#adfaa4a63f8b01c8bda523d451d11c58c" title="quda::QudaMemCopy::\lQudaMemCopy" alt="" coords="141,1009,300,1048"/>
+<area shape="rect" id="node42" href="$reduce__core_8cuh.html#a4ce69fa2b54003ddfc21992dd7638860" title="reduceCuda" alt="" coords="173,1072,267,1097"/>
+<area shape="rect" id="node43" href="$classquda_1_1blas_1_1_tile_size_tune.html#a2fb0bfb88975e4846733f3f254e21cba" title="quda::blas::TileSizeTune\l::TileSizeTune" alt="" coords="137,1121,304,1160"/>
+<area shape="rect" id="node44" href="$class_multi_blas_cuda.html#a51ffb097feed40ca37850b1980c9160b" title="MultiBlasCuda::tuneKey" alt="" coords="138,1184,302,1209"/>
+<area shape="rect" id="node45" href="$class_multi_reduce_cuda.html#acf573a089296c9340f245701532ac3f5" title="MultiReduceCuda::tuneKey" alt="" coords="128,1233,312,1259"/>
+<area shape="rect" id="node46" href="$classquda_1_1_calculate_y.html#aaaf33e1cfb386132415888132e02a630" title="quda::CalculateY::tuneKey" alt="" coords="131,1283,309,1308"/>
+<area shape="rect" id="node47" href="$classquda_1_1_calculate_yhat.html#a594ed5492fed9f25493d78890d146cb6" title="quda::CalculateYhat\l::tuneKey" alt="" coords="150,1332,291,1371"/>
+<area shape="rect" id="node48" href="$classanonymous__namespace_02dslash__policy_8cuh_03_1_1_dslash_policy_tune.html#a461ddb6470657f0f2ff241c1eb0fc072" title="anonymous_namespace\l\{dslash_policy::cuh\}\l::DslashPolicyTune::tuneKey" alt="" coords="125,1395,316,1447"/>
+<area shape="rect" id="node49" href="$classquda_1_1_twist_clover.html#ab6c742561d4f00b1faf89eae90f770e1" title="quda::TwistClover::\lTwistClover" alt="" coords="153,1471,288,1509"/>
+<area shape="rect" id="node50" href="$classquda_1_1_wuppertal_smearing.html#a021ef074e72e606f27aa9472d6e6dd8f" title="quda::WuppertalSmearing\l::WuppertalSmearing" alt="" coords="132,1533,308,1572"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#aee938c63ad4eaa9d0ccc7d50013a5618" title="quda::blas::copy" alt="" coords="409,529,527,555"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#ae431c1663f0dd56ed0b614dbf962bb90" title="comm_declare_send_relative_" alt="" coords="603,5,806,31"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#aeb9a185db7c2974f78056482fee0d9c7" title="comm_declare_strided\l_send_relative_" alt="" coords="627,55,783,93"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_color_spinor_field.html#abb0bcabac8d4e5a3775ff6508b558b69" title="quda::cudaColorSpinorField\l::copy" alt="" coords="611,117,798,156"/>
+<area shape="rect" id="node11" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="1096,183,1273,208"/>
+<area shape="rect" id="node13" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="1105,232,1264,257"/>
+<area shape="rect" id="node14" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="661,283,748,308"/>
+<area shape="rect" id="node18" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="637,332,772,357"/>
+<area shape="rect" id="node19" href="$interface__quda_8cpp.html#a50832a69c2d3aef393f6daf85d3b0fe8" title="invertMultiShiftQuda" alt="" coords="634,381,775,407"/>
+<area shape="rect" id="node20" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="614,431,795,456"/>
+<area shape="rect" id="node21" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="610,480,799,505"/>
+<area shape="rect" id="node22" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="632,529,777,555"/>
+<area shape="rect" id="node23" href="$classquda_1_1_c_g.html#aedab089868d466a7aea69ca556ad1ea4" title="quda::CG::solve" alt="" coords="646,579,763,604"/>
+<area shape="rect" id="node24" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="613,628,796,653"/>
+<area shape="rect" id="node25" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="854,653,1040,679"/>
+<area shape="rect" id="node26" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="1089,653,1280,679"/>
+<area shape="rect" id="node27" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="628,780,782,805"/>
+<area shape="rect" id="node28" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="605,829,805,855"/>
+<area shape="rect" id="node29" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="632,879,777,904"/>
+<area shape="rect" id="node30" href="$classquda_1_1_multi_shift_c_g.html#a5f96f73432fafb1a99336cf1ecee4736" title="quda::MultiShiftCG\l::operator()" alt="" coords="638,928,771,967"/>
+<area shape="rect" id="node31" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="661,991,748,1016"/>
+<area shape="rect" id="node32" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="683,1040,726,1065"/>
+<area shape="rect" id="node10" href="$classquda_1_1cuda_color_spinor_field.html#ac37ac6a9963555b7e4b3f9733c2d7c60" title="quda::cudaColorSpinorField\l::copySpinorField" alt="" coords="854,117,1041,156"/>
+<area shape="rect" id="node12" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="1328,232,1510,257"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="898,283,997,308"/>
+<area shape="rect" id="node16" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="922,332,973,357"/>
+<area shape="rect" id="node17" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="906,381,989,407"/>
+</map>

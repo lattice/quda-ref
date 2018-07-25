@@ -1,0 +1,9 @@
+<map id="quda::ColorSpinorField" name="quda::ColorSpinorField">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="317,174,444,199"/>
+<area shape="rect" id="node3" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="8,7,105,32"/>
+<area shape="rect" id="node4" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="5,174,108,199"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="652,126,765,151"/>
+<area shape="rect" id="node8" href="$structquda_1_1_composite_color_spinor_field_descriptor.html" title="quda::CompositeColorSpinor\lFieldDescriptor" alt="" coords="284,223,477,262"/>
+<area shape="rect" id="node9" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="304,318,457,343"/>
+<area shape="rect" id="node10" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="16,351,97,376"/>
+</map>

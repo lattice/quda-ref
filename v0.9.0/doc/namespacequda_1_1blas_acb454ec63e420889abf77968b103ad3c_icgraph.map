@@ -1,0 +1,19 @@
+<map id="quda::blas::cDotProductNormA" name="quda::blas::cDotProductNormA">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="309,5,397,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="quda::CG::operator()" alt="" coords="281,55,425,80"/>
+<area shape="rect" id="node7" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="262,104,444,129"/>
+<area shape="rect" id="node8" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="258,153,447,179"/>
+<area shape="rect" id="node9" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="276,203,430,228"/>
+<area shape="rect" id="node10" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="280,252,425,277"/>
+<area shape="rect" id="node11" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="273,351,432,376"/>
+<area shape="rect" id="node13" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="331,301,374,327"/>
+<area shape="rect" id="node17" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="278,400,428,425"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="550,5,622,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_c_g_n_e.html#a4043b6e48b0794cf6876ae6398431e08" title="quda::CGNE::operator()" alt="" coords="505,104,667,129"/>
+<area shape="rect" id="node6" href="$classquda_1_1_c_g_n_r.html#a2afa3f3b11946d0b8e2251064dce3882" title="quda::CGNR::operator()" alt="" coords="504,55,668,80"/>
+<area shape="rect" id="node12" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="495,351,677,376"/>
+<area shape="rect" id="node14" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="542,301,630,327"/>
+<area shape="rect" id="node16" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="550,252,622,277"/>
+<area shape="rect" id="node15" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="725,301,775,327"/>
+<area shape="rect" id="node18" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="500,400,672,425"/>
+</map>

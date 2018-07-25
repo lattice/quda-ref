@@ -1,0 +1,13 @@
+<map id="sprintf" name="sprintf">
+<area shape="rect" id="node2" href="$misc_8h.html#a0b9204fa994c88d68eb71466e82aaf40" title="get_quda_ver_str" alt="" coords="130,59,256,84"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="350,148,459,173"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a22de5dc35e882c7adfd00b7292215475" title="MPI_Init" alt="" coords="158,7,228,32"/>
+<area shape="rect" id="node10" href="$classquda_1_1_transfer.html#a8fac8ec77854057e73382ea354497516" title="quda::Transfer::Transfer" alt="" coords="111,233,275,259"/>
+<area shape="rect" id="node11" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="133,184,253,209"/>
+<area shape="rect" id="node12" href="$qio__field_8cpp.html#abd9b964749c9d1e1cc31caed95cc66bc" title="write_spinor_field" alt="" coords="130,283,256,308"/>
+<area shape="rect" id="node3" href="$test__util_8h.html#a4e297cefdba144e8efe42dca5514f572" title="process_command_line\l_option" alt="" coords="323,55,485,93"/>
+<area shape="rect" id="node4" href="$blas__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="543,8,593,33"/>
+<area shape="rect" id="node5" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="533,59,602,84"/>
+<area shape="rect" id="node6" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="650,59,700,84"/>
+<area shape="rect" id="node9" href="$test__util_8h.html#a629df5f9a9d54e7c434fc98bdf567fa7" title="initComms" alt="" coords="362,5,446,31"/>
+</map>

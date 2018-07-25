@@ -1,0 +1,18 @@
+<map id="comm_allreduce_array" name="comm_allreduce_array">
+<area shape="rect" id="node2" href="$comm__common_8cpp.html#a3202c04e5365bf7311de82bc57746467" title="reduceDoubleArray" alt="" coords="210,209,346,235"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#aaf1d0525540115aebfccf14f83fd58bc" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="421,5,584,31"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ad26c389150de84e619d46df94ccd768f" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="405,55,600,80"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a3147ebdb53a5ff9b98cec5b9132b7f80" title="quda::blas::cDotProductCpu" alt="" coords="409,104,597,129"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1blas.html#a2ea5daad2bfd62f4cc92efd8d9dc7eae" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="420,153,585,179"/>
+<area shape="rect" id="node12" href="$namespacequda_1_1blas.html#a13dee1195aac7eed123b27451b474e94" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="420,203,585,241"/>
+<area shape="rect" id="node13" href="$namespacequda_1_1blas.html#a9ec17191396cc3420a485e0cc66514a4" title="quda::blas::HeavyQuarkResidual\lNormCpu" alt="" coords="394,265,611,304"/>
+<area shape="rect" id="node15" href="$namespacequda_1_1blas.html#a16778b295023ae2106e045b5ac6bbfc0" title="quda::blas::reDotProduct" alt="" coords="418,328,587,353"/>
+<area shape="rect" id="node16" href="$reduce__core_8h.html#afa9ab6e6bf31b73d7ac43b3422680d02" title="reduceCuda" alt="" coords="456,377,550,403"/>
+<area shape="rect" id="node17" href="$namespacemixed.html#a152972c47cafae1842d42e409ce6218e" title="mixed::reduceCuda" alt="" coords="434,427,571,452"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a889d3205cdb898214de6a9ea684ee6ce" title="quda::blas::xpaycDotzyCpu" alt="" coords="682,31,865,56"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#a2ef3fe7663a0d628cc49759389ce4577" title="quda::blas::cDotProductNormACpu" alt="" coords="659,80,888,105"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#a3fb3691369fe4ccea735cdaebe6338e9" title="quda::blas::cDotProductNormBCpu" alt="" coords="659,129,888,155"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#aa06687d3e1d1b1cef4c6a44784a507d5" title="quda::blas::caxpyDotzyCpu" alt="" coords="682,179,865,204"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#ad14c7980923194dba1716a6a74d78124" title="quda::blas::caxpbypzYmbwc\lDotProductUYNormYCpu" alt="" coords="936,123,1127,161"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1blas.html#ac649e439b0bad9c3bafec0b35ffb3b17" title="quda::blas::HeavyQuarkResidual\lNormCpu" alt="" coords="665,265,882,304"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="quda::DiracMobius::Dslash4Xpay" name="quda::DiracMobius::Dslash4Xpay">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="197,36,362,75"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="194,99,365,137"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a0413c63fff4335a3cfb3e3508c8c9a94" title="quda::MDWFDslashCuda" alt="" coords="193,161,366,187"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="414,5,540,44"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="414,68,540,107"/>
+</map>

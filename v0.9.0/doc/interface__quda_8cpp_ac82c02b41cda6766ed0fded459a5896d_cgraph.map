@@ -1,0 +1,51 @@
+<map id="load_clover_quda_" name="load_clover_quda_">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a8df9daaddff2c4eaf29a0f7878dfe852" title="loadCloverQuda" alt="" coords="187,751,305,776"/>
+<area shape="rect" id="node3" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="pushVerbosity" alt="" coords="399,55,504,80"/>
+<area shape="rect" id="node6" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="405,205,499,231"/>
+<area shape="rect" id="node7" href="$quda_8h.html#a3df6e48cb66b7fe0b8e5e2110ca28981" title="printQudaInvertParam" alt="" coords="376,255,528,280"/>
+<area shape="rect" id="node8" href="$classquda_1_1_gauge_field.html#aea09fc8dc9f69a1bfebbbad4717e433a" title="quda::GaugeField::Anisotropy" alt="" coords="353,304,551,329"/>
+<area shape="rect" id="node9" href="$namespacedslash__cuda__gen.html#accdcfad27073a7fc9eaacc89b007e0fb" title="dslash_cuda_gen.twisted" alt="" coords="366,353,537,379"/>
+<area shape="rect" id="node18" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="630,421,773,447"/>
+<area shape="rect" id="node19" href="$structquda_1_1_clover_field_param.html#adbffb01dd75e06b5663b0ca29d2d293c" title="quda::CloverFieldParam\l::setPrecision" alt="" coords="619,769,784,808"/>
+<area shape="rect" id="node20" href="$classquda_1_1_clover_field.html#ac1a1797368377f98e7f9263c8ecc7c48" title="quda::CloverField::Csw" alt="" coords="372,928,531,953"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#a5851bc3e0c05e88bb7c3c11ec82034eb" title="freeSloppyCloverQuda" alt="" coords="624,832,780,857"/>
+<area shape="rect" id="node22" href="$classquda_1_1cuda_clover_field.html#a53d56abd8ffcb9994bf256899f7719c2" title="Copy into this CloverField from the generic CloverField src. " alt="" coords="624,933,779,972"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#ae25ca55804c0192e0d941c2b276d7d6d" title="createCloverQuda" alt="" coords="387,595,517,620"/>
+<area shape="rect" id="node42" href="$namespacequda.html#a9aab29fcd20dc920b5b9cab6d5563c06" title="This function compute the Cholesky decomposition of each clover matrix and stores the clover inverse ..." alt="" coords="388,977,516,1003"/>
+<area shape="rect" id="node43" href="$classquda_1_1_clover_field.html#a1fcab82ea56e11bd6638d799ea9591d5" title="quda::CloverField::\lTrLog" alt="" coords="385,1027,519,1065"/>
+<area shape="rect" id="node44" href="$classquda_1_1_lattice_field.html#a7ac2960550443f2a8d316155ffb6ad70" title="quda::LatticeField\l::GBytes" alt="" coords="389,1089,515,1128"/>
+<area shape="rect" id="node45" href="$classquda_1_1_clover_field.html#a5a9880bfddddd2d9e3e37abce63e8c4e" title="Bakes in the rho factor into the clover field, (for real diagonal additive Hasenbusch), e.g., A + rho. " alt="" coords="385,1152,519,1191"/>
+<area shape="rect" id="node46" href="$interface__quda_8cpp.html#a76b5f692349a4abc3466131413f5f920" title="loadSloppyCloverQuda" alt="" coords="373,776,531,801"/>
+<area shape="rect" id="node47" href="$classquda_1_1_clover_field.html#a6ee83d32cf08ff66f215da8eaa30f97f" title="quda::CloverField::V" alt="" coords="631,996,773,1021"/>
+<area shape="rect" id="node48" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="365,1215,539,1240"/>
+<area shape="rect" id="node49" href="$classquda_1_1_color_spinor_field.html#aa1f01c71a2ee151270ba4cf6fbd769af" title="quda::ColorSpinorField\l::Bytes" alt="" coords="373,1264,531,1303"/>
+<area shape="rect" id="node50" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="popVerbosity" alt="" coords="403,139,501,164"/>
+<area shape="rect" id="node4" href="$util__quda_8cpp.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="654,5,749,31"/>
+<area shape="rect" id="node5" href="$util__quda_8cpp.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="655,55,749,80"/>
+<area shape="rect" id="node10" href="$namespacedslash__cuda__gen.html#a05466193e61db8cc5e319f278851e02d" title="dslash_cuda_gen.twisted\l_rotate" alt="" coords="616,256,787,295"/>
+<area shape="rect" id="node12" href="$namespacedslash__cuda__gen.html#ae3fa36ad4ba817dbb677d9c67a8618de" title="dslash_cuda_gen.out_re" alt="" coords="860,209,1028,235"/>
+<area shape="rect" id="node13" href="$namespacedslash__cuda__gen.html#a5c5837bb0f54ab1b7be2dc2798150a12" title="dslash_cuda_gen.out_im" alt="" coords="859,316,1029,341"/>
+<area shape="rect" id="node14" href="$namespacedslash__cuda__gen.html#ab3d0998997519244668983b8f98f9a23" title="dslash_cuda_gen.tmp_re" alt="" coords="859,368,1030,393"/>
+<area shape="rect" id="node15" href="$namespacedslash__cuda__gen.html#aa60b5edbe45945c1bbb6df8bf4ebb066" title="dslash_cuda_gen.tmp_im" alt="" coords="857,157,1031,183"/>
+<area shape="rect" id="node16" href="$namespacedslash__cuda__gen.html#afbaedd681062b880b77a63e13b55cbc6" title="dslash_cuda_gen.block" alt="" coords="621,104,782,129"/>
+<area shape="rect" id="node11" href="$namespacedslash__cuda__gen.html#a72c6c6f8b1f64201031b493848b72b32" title="dslash_cuda_gen.sign" alt="" coords="867,263,1021,288"/>
+<area shape="rect" id="node17" href="$namespacedslash__cuda__gen.html#af79404325938841f99ad2537862e2e7d" title="code generation ######################################################################## ..." alt="" coords="861,104,1027,129"/>
+<area shape="rect" id="node23" href="$classquda_1_1_lattice_field.html#aa7454e5d3f27a4c7368be0b70fda40b2" title="quda::LatticeField\l::checkField" alt="" coords="881,877,1007,916"/>
+<area shape="rect" id="node24" href="$namespacequda.html#a66381cafed77b92ed2f0278b373d4ec5" title="This generic function is used for copying the clover field where in the input and output can be in an..." alt="" coords="858,940,1030,965"/>
+<area shape="rect" id="node25" href="$namespacequda.html#aa25deeec640690f50f16e136639e8450" title="Return whether data is reordered on the CPU or GPU. This can set at QUDA initialization using the env..." alt="" coords="867,989,1022,1015"/>
+<area shape="rect" id="node27" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="629,520,774,545"/>
+<area shape="rect" id="node32" href="$namespacequda.html#abde2f48169433b8ffdcd59c098b507c5" title="quda::computeClover" alt="" coords="628,668,776,693"/>
+<area shape="rect" id="node33" href="$namespacequda.html#aed40a6ac2cd3b05f18482abecbe197e0" title="quda::computeFmunu" alt="" coords="626,569,777,595"/>
+<area shape="rect" id="node34" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="881,641,1007,680"/>
+<area shape="rect" id="node35" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="624,471,779,496"/>
+<area shape="rect" id="node41" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="599,619,805,644"/>
+<area shape="rect" id="node28" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="866,520,1022,545"/>
+<area shape="rect" id="node29" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1111,520,1198,545"/>
+<area shape="rect" id="node30" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1274,471,1437,496"/>
+<area shape="rect" id="node31" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1309,520,1402,545"/>
+<area shape="rect" id="node36" href="$namespacequda.html#ad288ddd1679350fa258fa42bd22accd4" title="quda::copyExtendedGauge" alt="" coords="853,421,1036,447"/>
+<area shape="rect" id="node40" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="857,471,1031,496"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a9854f36dd6a6d0f458a975923366adf6" title="quda::copyGaugeEx" alt="" coords="1084,421,1226,447"/>
+<area shape="rect" id="node38" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="1316,421,1394,447"/>
+<area shape="rect" id="node39" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="1485,421,1576,447"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="quda::DiracDomainWallPC::M" name="quda::DiracDomainWallPC::M">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="252,15,412,40"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_domain_wall.html#a18c17cd8c16c534e1e83e244340adb17" title="quda::DiracDomainWall\l::Dslash" alt="" coords="251,64,412,103"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_domain_wall.html#a70e017028b12ac583ab32c5bea213590" title="quda::DiracDomainWall\l::DslashXpay" alt="" coords="251,127,412,165"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="258,189,406,215"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="477,36,643,75"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="475,99,645,137"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a0647509d3334c167dcd5e6b0836e6960" title="quda::domainWallDslashCuda" alt="" coords="460,161,660,187"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="708,5,835,44"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="708,68,835,107"/>
+</map>

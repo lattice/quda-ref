@@ -1,0 +1,6 @@
+<map id="posix_memalign" name="posix_memalign">
+<area shape="rect" id="node2" href="$namespacequda.html#a62cf380a3915873651b465076877ea67" title="quda::aligned_malloc" alt="" coords="171,37,318,63"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a4856913d148b0eb6eca9a650a5d4cad9" title="quda::pinned_malloc_" alt="" coords="370,12,522,37"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a0da0beaa22e0a3bb0c3ffba0c2e63a6d" title="quda::mapped_malloc_" alt="" coords="366,61,526,87"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1pool.html#a94e9c0fc3d13c90bab08f84428a5f1b9" title="Allocate pinned&#45;memory. If a free pre&#45;existing allocation exists reuse this. " alt="" coords="574,5,705,44"/>
+</map>

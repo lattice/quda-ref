@@ -1,0 +1,11 @@
+<map id="GaugeAlgTest" name="GaugeAlgTest">
+<area shape="rect" id="node3" href="$struct_quda_gauge_param__s.html" title="QudaGaugeParam_s" alt="" coords="122,400,269,425"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_gauge_field.html" title="quda::cudaGaugeField" alt="" coords="293,400,450,425"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="308,300,435,325"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="308,225,435,251"/>
+<area shape="rect" id="node7" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="262,5,359,31"/>
+<area shape="rect" id="node8" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="383,5,486,31"/>
+<area shape="rect" id="node9" href="$structquda_1_1_timer.html" title="quda::Timer" alt="" coords="474,400,566,425"/>
+<area shape="rect" id="node10" href="$structtimeval.html" title="timeval" alt="" coords="488,300,551,325"/>
+<area shape="rect" id="node11" href="$classquda_1_1_r_n_g.html" title="Class declaration to initialize and hold CURAND RNG states. " alt="" coords="590,400,678,425"/>
+</map>

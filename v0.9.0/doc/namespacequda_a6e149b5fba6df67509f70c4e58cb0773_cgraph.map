@@ -1,0 +1,10 @@
+<map id="quda::atanh" name="quda::atanh">
+<area shape="rect" id="node2" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="521,31,613,56"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a5fcc49d4f09db180d4e92bd10642ea25" title="quda::log" alt="" coords="145,31,221,56"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a474f0c39c22343df4a6bcf97076fdde1" title="quda::log" alt="" coords="269,55,345,80"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87c1524bd1a5e838de0f40bd26a28e8c" title="logf" alt="" coords="412,31,455,56"/>
+<area shape="rect" id="node6" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="393,129,473,155"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="395,80,472,105"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="527,129,607,155"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0cdb0b447bb2bd586b5a58bc9b61e285" title="hypot" alt="" coords="661,129,715,155"/>
+</map>

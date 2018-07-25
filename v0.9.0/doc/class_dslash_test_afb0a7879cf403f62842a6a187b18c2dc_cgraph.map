@@ -1,0 +1,51 @@
+<map id="DslashTest::SetUp" name="DslashTest::SetUp">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#af4ec6ef88884d17d9f1c2ced82828eaa" title="commDimPartitionedSet" alt="" coords="184,56,349,81"/>
+<area shape="rect" id="node4" href="$dslash__ctest_8cpp.html#ac41df3e52ad116b16dc89f0cc65ebb6f" title="display_test_info" alt="" coords="207,179,327,204"/>
+<area shape="rect" id="node12" href="$dslash__ctest_8cpp.html#a64129cf6a57ea1eaec3d8beb72214bd7" title="init" alt="" coords="248,712,286,737"/>
+<area shape="rect" id="node50" href="$quda_8h.html#ae875af655915d6785450991316471a0d" title="update the radius for halos. " alt="" coords="231,1175,303,1200"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#aca05a5e60e1864b54bd3aa2d19b0ef0f" title="comm_dim_partitioned_set" alt="" coords="397,5,579,31"/>
+<area shape="rect" id="node5" href="$misc_8cpp.html#a88eed4f59bea00917f29fbf0824ecea6" title="get_dslash_str" alt="" coords="434,55,542,80"/>
+<area shape="rect" id="node6" href="$misc_8cpp.html#a1977efe6792ef6e8881c716cdf694fa9" title="get_matpc_str" alt="" coords="435,104,541,129"/>
+<area shape="rect" id="node9" href="$misc_8cpp.html#a4550b28a101c3358860ee0e380929c39" title="get_prec_str" alt="" coords="440,153,536,179"/>
+<area shape="rect" id="node10" href="$misc_8cpp.html#afa5cab1d4b6b3dab0027167fe6adcc0e" title="get_recon_str" alt="" coords="437,203,540,228"/>
+<area shape="rect" id="node11" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a753204fd96f0ca29e05b9954cafa7c8c" title="return" alt="" coords="460,252,516,277"/>
+<area shape="rect" id="node7" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a7459c10a5fdd8a4f91880bf0f46e722f" title="exit" alt="" coords="705,128,747,153"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a6513e6416e469f8af2665d5793c3782f" title="fprintf" alt="" coords="698,79,753,104"/>
+<area shape="rect" id="node13" href="$test__util_8cpp.html#a016a05c092fcba38fdca37e4d90efbcd" title="construct_clover_field" alt="" coords="413,663,563,688"/>
+<area shape="rect" id="node15" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="911,511,1000,536"/>
+<area shape="rect" id="node16" href="$test__util_8cpp.html#a3d8f1952ab00bca45a06a88115580c8f" title="construct_gauge_field" alt="" coords="412,712,564,737"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dirac.html#ac13ad4c6bdcacd4b53a473176e7ab830" title="quda::Dirac::create" alt="" coords="421,1380,555,1405"/>
+<area shape="rect" id="node22" href="$test__util_8cpp.html#a760675a8bb552a8bfbeaa705c20057c4" title="dw_setDims" alt="" coords="441,863,535,888"/>
+<area shape="rect" id="node23" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a74b60e0751862ea91466ba899b3f9e37" title="if" alt="" coords="469,912,507,937"/>
+<area shape="rect" id="node24" href="$quda_8h.html#a8df9daaddff2c4eaf29a0f7878dfe852" title="loadCloverQuda" alt="" coords="429,1124,547,1149"/>
+<area shape="rect" id="node39" href="$quda_8h.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="429,1281,548,1307"/>
+<area shape="rect" id="node40" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="458,1331,518,1356"/>
+<area shape="rect" id="node41" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="690,761,762,787"/>
+<area shape="rect" id="node42" href="$quda_8h.html#a4d9475cdfdd2d15b5d94e8588f835645" title="newQudaGaugeParam" alt="" coords="409,1429,567,1455"/>
+<area shape="rect" id="node43" href="$quda_8h.html#a9c476795e5632077ae86f2022369f6a4" title="newQudaInvertParam" alt="" coords="413,301,564,327"/>
+<area shape="rect" id="node44" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="453,351,523,376"/>
+<area shape="rect" id="node45" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="415,813,561,839"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="412,452,564,477"/>
+<area shape="rect" id="node47" href="$test__util_8cpp.html#a86a5f0d3f4210c9f339154a1b47c5dff" title="setSpinorSiteSize" alt="" coords="425,501,551,527"/>
+<area shape="rect" id="node48" href="$util__quda_8h.html#a2017f5474af8f4baea321c025df7e24f" title="setVerbosity" alt="" coords="441,551,535,576"/>
+<area shape="rect" id="node49" href="$classquda_1_1cpu_color_spinor_field.html#ac15d8b2aaff27079ef5c801e0bba4330" title="quda::cpuColorSpinorField\l::Source" alt="" coords="399,600,578,639"/>
+<area shape="rect" id="node14" href="$test__util_8cpp.html#aaed7fdb762ab994dbcdbc4f92eb6eac2" title="constructCloverField" alt="" coords="654,561,797,587"/>
+<area shape="rect" id="node17" href="$test__util_8cpp.html#a3a53ed4a3eefe16c496a3e2d4c1a0f29" title="applyGaugeFieldScaling" alt="" coords="873,661,1038,687"/>
+<area shape="rect" id="node18" href="$test__util_8cpp.html#a90501c6aa892140ed3d96016b37cc0c9" title="constructGaugeField" alt="" coords="654,712,798,737"/>
+<area shape="rect" id="node19" href="$test__util_8cpp.html#a9c01d12d72f64c84cd87e4aba721cc06" title="constructUnitGaugeField" alt="" coords="642,611,810,636"/>
+<area shape="rect" id="node21" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="678,1537,773,1563"/>
+<area shape="rect" id="node25" href="$classquda_1_1_gauge_field.html#aea09fc8dc9f69a1bfebbbad4717e433a" title="quda::GaugeField::Anisotropy" alt="" coords="627,811,825,836"/>
+<area shape="rect" id="node26" href="$classquda_1_1_color_spinor_field.html#aa1f01c71a2ee151270ba4cf6fbd769af" title="quda::ColorSpinorField\l::Bytes" alt="" coords="647,860,805,899"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a9aab29fcd20dc920b5b9cab6d5563c06" title="This function compute the Cholesky decomposition of each clover matrix and stores the clover inverse ..." alt="" coords="662,923,789,948"/>
+<area shape="rect" id="node28" href="$classquda_1_1cuda_clover_field.html#a53d56abd8ffcb9994bf256899f7719c2" title="Copy into this CloverField from the generic CloverField src. " alt="" coords="878,992,1033,1031"/>
+<area shape="rect" id="node29" href="$interface__quda_8cpp.html#ae25ca55804c0192e0d941c2b276d7d6d" title="createCloverQuda" alt="" coords="661,1373,790,1399"/>
+<area shape="rect" id="node31" href="$classquda_1_1_clover_field.html#ac1a1797368377f98e7f9263c8ecc7c48" title="quda::CloverField::Csw" alt="" coords="646,1073,805,1099"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#a5851bc3e0c05e88bb7c3c11ec82034eb" title="freeSloppyCloverQuda" alt="" coords="877,1073,1034,1099"/>
+<area shape="rect" id="node33" href="$classquda_1_1_lattice_field.html#a7ac2960550443f2a8d316155ffb6ad70" title="quda::LatticeField\l::GBytes" alt="" coords="662,1423,789,1461"/>
+<area shape="rect" id="node34" href="$interface__quda_8cpp.html#a76b5f692349a4abc3466131413f5f920" title="loadSloppyCloverQuda" alt="" coords="646,1024,805,1049"/>
+<area shape="rect" id="node35" href="$structquda_1_1_clover_field_param.html#adbffb01dd75e06b5663b0ca29d2d293c" title="quda::CloverFieldParam\l::setPrecision" alt="" coords="873,1145,1038,1184"/>
+<area shape="rect" id="node36" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="popVerbosity" alt="" coords="676,1225,775,1251"/>
+<area shape="rect" id="node37" href="$quda_8h.html#a3df6e48cb66b7fe0b8e5e2110ca28981" title="printQudaInvertParam" alt="" coords="649,1275,802,1300"/>
+<area shape="rect" id="node38" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="pushVerbosity" alt="" coords="673,1324,778,1349"/>
+<area shape="rect" id="node30" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="883,1487,1028,1512"/>
+</map>

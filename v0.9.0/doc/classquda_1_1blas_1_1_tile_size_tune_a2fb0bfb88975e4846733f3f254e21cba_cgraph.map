@@ -1,0 +1,18 @@
+<map id="quda::blas::TileSizeTune::TileSizeTune" name="quda::blas::TileSizeTune::TileSizeTune">
+<area shape="rect" id="node2" href="$namespacequda.html#a0389a712c6d12dcb872044fcef1e04de" title="quda::disableProfileCount" alt="" coords="220,5,394,31"/>
+<area shape="rect" id="node3" href="$namespacequda.html#adc824e2717d7c08e09192f71c49ebc20" title="quda::enableProfileCount" alt="" coords="222,55,393,80"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="251,104,364,129"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a1668cec50be83643f8c8024622afddb8" title="quda::getTuneCache" alt="" coords="235,153,380,179"/>
+<area shape="rect" id="node7" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="267,203,348,228"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a694cc087833c97d4e304ab3423b718d3" title="quda::setPolicyTuning" alt="" coords="231,252,383,277"/>
+<area shape="rect" id="node14" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#afdda3884407b500020ab100f831aea08" title="strcat" alt="" coords="280,301,334,327"/>
+<area shape="rect" id="node15" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a53b054f03667fa7e48a9d6ede1e010a5" title="strcpy" alt="" coords="279,351,336,376"/>
+<area shape="rect" id="node16" href="$classquda_1_1blas_1_1_tile_size_tune.html#a0feda8d2d2f8685544c3fbc622ba3fbf" title="quda::blas::TileSizeTune\l::tuneKey" alt="" coords="224,400,391,439"/>
+<area shape="rect" id="node17" href="$namespacequda.html#acae335ae0d5853977fe51e5ce616600b" title="quda::u64toa" alt="" coords="258,463,357,488"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="442,104,601,129"/>
+<area shape="rect" id="node8" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a872ac3564834aa0ba70a9e1bd3c2f9de" title="getenv" alt="" coords="491,153,552,179"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#a2f7aa9affb07827bc351c97272c8d5cb" title="quda::blas::init" alt="" coords="468,203,575,228"/>
+<area shape="rect" id="node12" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a2a3c2e9ef2d275dd8caaad644163ad51" title="strcmp" alt="" coords="491,252,552,277"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="649,203,802,228"/>
+<area shape="rect" id="node11" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a1c2be9246be4db51c0f2c90ed370182b" title="memset" alt="" coords="850,203,919,228"/>
+</map>

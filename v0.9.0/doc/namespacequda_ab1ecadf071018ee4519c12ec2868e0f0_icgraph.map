@@ -1,0 +1,51 @@
+<map id="quda::qudaDeviceSynchronize" name="quda::qudaDeviceSynchronize">
+<area shape="rect" id="node2" href="$namespacequda_1_1cublas.html#a3b2d76170ea2a3e1b9e662b1c0b5bf7a" title="quda::cublas::BatchInvert\lMatrix" alt="" coords="277,5,449,44"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a8164ab74dafd1870a90cda608c0868d2" title="quda::completeKSForce" alt="" coords="281,68,445,93"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a2176cddf64e34c1e70669eb48029b6a5" title="quda::computeKSLongLinkForce" alt="" coords="256,117,471,143"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="1038,13,1239,39"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_gauge_field.html#afd84ce53bf3df8c690e6b2ada0c2f02f" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="544,411,722,449"/>
+<area shape="rect" id="node15" href="$namespacequda.html#aa9ae7d6e5007f5bf89e5ffacd0ae9aea" title="quda::exchangeExtendedGhost" alt="" coords="259,929,467,955"/>
+<area shape="rect" id="node18" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="285,615,441,653"/>
+<area shape="rect" id="node21" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="812,303,969,341"/>
+<area shape="rect" id="node38" href="$interface__quda_8cpp.html#ac0fd92020c06f4715a4ab16446481024" title="Remove the staggered phase factors to the resident gauge field. " alt="" coords="802,881,979,920"/>
+<area shape="rect" id="node40" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="270,979,457,1017"/>
+<area shape="rect" id="node41" href="$namespacequda.html#abdcc468dc619c7c3a6267a927cd0b417" title="Compute the fat and long links for an improved staggered (Kogut&#45;Susskind) fermions. " alt="" coords="561,195,706,220"/>
+<area shape="rect" id="node42" href="$classquda_1_1cuda_gauge_field.html#a35c80b98e5741d6cedb19c741198d47d" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="285,1041,441,1080"/>
+<area shape="rect" id="node43" href="$namespacequda.html#a16ac9ee8a31b6d1dee5d59c3cfba76bc" title="Call CUDA kernel to initialize CURAND RNG states. " alt="" coords="293,867,434,905"/>
+<area shape="rect" id="node45" href="$namespacequda.html#a1ac71cd32c819ef4e7d4452c51ae7e62" title="quda::OvrImpSTOUTStep" alt="" coords="276,1104,451,1129"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a3c307c013d43c3f829373c28c25cf7f0" title="Project the input gauge field onto the SU(3) group. This is a destructive operation. The number of link failures is reported so appropriate action can be taken. " alt="" coords="828,729,953,755"/>
+<area shape="rect" id="node47" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="301,1153,426,1179"/>
+<area shape="rect" id="node50" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="812,240,969,279"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ad71ac21abf22c5fc68c8588e128dab32" title="Calculate the coarse&#45;link field, include the clover field, and its inverse, and finally also compute ..." alt="" coords="573,12,693,37"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="1292,7,1468,45"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_gauge_field.html#a94fa5f8d036e51ce8e7a8b1f3a8d8645" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="801,365,980,404"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#aff400a364829b50917d50d5730281830" title="computeHISQForceQuda" alt="" coords="1053,720,1225,745"/>
+<area shape="rect" id="node11" href="$interface__quda_8cpp.html#a51da31992209b588cc71641963307d56" title="performAPEnStep" alt="" coords="826,480,955,505"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#ad9b78b143153725974886c392285b906" title="performSTOUTnStep" alt="" coords="817,529,964,555"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#a0ee20ea90421939924df9903acb6b4d8" title="performOvrImpSTOUTnStep" alt="" coords="795,579,986,604"/>
+<area shape="rect" id="node14" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="1083,112,1195,137"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#af17612b71e9ac3b8dfeba3a882945fa9" title="gaussGaugeQuda" alt="" coords="826,987,955,1012"/>
+<area shape="rect" id="node17" href="$classquda_1_1_x_s_d.html#a48275208fc7af93c3e35e5401171e93a" title="quda::XSD::operator()" alt="" coords="557,979,709,1004"/>
+<area shape="rect" id="node19" href="$classquda_1_1cuda_gauge_field.html#ad3f8d04434f551955d2e3654fabcbdd1" title="quda::cudaGaugeField\l::cudaGaugeField" alt="" coords="555,585,711,624"/>
+<area shape="rect" id="node20" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="555,523,711,561"/>
+<area shape="rect" id="node35" href="$interface__quda_8cpp.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="831,680,950,705"/>
+<area shape="rect" id="node36" href="$classquda_1_1_gauge_field.html#a47440c5d6ce3fa43b06f121db14a4ab2" title="quda::GaugeField::applyStaggered\lPhase" alt="" coords="519,700,747,739"/>
+<area shape="rect" id="node37" href="$classquda_1_1_gauge_field.html#a348b77beb2d1e61bacbd89b41a2c369a" title="quda::GaugeField::remove\lStaggeredPhase" alt="" coords="544,815,723,853"/>
+<area shape="rect" id="node39" href="$interface__quda_8cpp.html#ad8e1cc7e05db09d619a92b8ac3782cb4" title="performWuppertalnStep" alt="" coords="552,473,714,499"/>
+<area shape="rect" id="node22" href="$classquda_1_1cuda_gauge_field.html#a0e6dfaa97702635923e0ea2ba4078034" title="Download into this field from a CPU field. Overloaded variant that includes profiling. " alt="" coords="1061,509,1217,548"/>
+<area shape="rect" id="node23" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="1065,63,1212,88"/>
+<area shape="rect" id="node24" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="1316,239,1444,264"/>
+<area shape="rect" id="node25" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="1049,211,1228,236"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#a1eba8aae7c46eca4d44b31b53d4c6079" title="createGaugeFieldQuda" alt="" coords="1059,572,1219,597"/>
+<area shape="rect" id="node27" href="$interface__quda_8cpp.html#a80c19191f476ca7c464ca450c3ae5c25" title="updateGaugeFieldQuda" alt="" coords="1057,260,1221,285"/>
+<area shape="rect" id="node28" href="$interface__quda_8cpp.html#af6e8d08f0e5477d56e09f07c940ebf65" title="projectSU3Quda" alt="" coords="1079,460,1199,485"/>
+<area shape="rect" id="node29" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="1063,775,1214,800"/>
+<area shape="rect" id="node30" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="1078,621,1199,647"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#a8b0af6b94d7d5041eddf9e4a0a929c0c" title="Gauge fixing with overrelaxation with support for single and multi GPU. " alt="" coords="1034,309,1244,335"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#a712409027ee905b83584cb83debd2226" title="Gauge fixing with Steepest descent method with FFTs with support for single GPU only. " alt="" coords="1036,359,1241,384"/>
+<area shape="rect" id="node33" href="$hisq__unitarize__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="1085,671,1192,696"/>
+<area shape="rect" id="node34" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="1102,161,1176,187"/>
+<area shape="rect" id="node44" href="$classquda_1_1_r_n_g.html#a8870863b35c992bae85971bfbd61efd9" title="Initialize CURAND RNG states. " alt="" coords="577,929,690,955"/>
+<area shape="rect" id="node48" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="836,1153,945,1179"/>
+<area shape="rect" id="node49" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="574,1191,693,1216"/>
+</map>

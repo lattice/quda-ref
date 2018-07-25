@@ -1,0 +1,8 @@
+<map id="dslash_cuda_gen.def_input_spinor" name="dslash_cuda_gen.def_input_spinor">
+<area shape="rect" id="node2" href="$namespacedslash__cuda__gen.html#aadf39197edc80942a3bfa79fb0e9e709" title="dslash_cuda_gen.acc_im" alt="" coords="208,5,380,31"/>
+<area shape="rect" id="node3" href="$namespacedslash__cuda__gen.html#aaed4f4ed157dec554a2e0a80de8c1498" title="dslash_cuda_gen.acc_re" alt="" coords="209,55,379,80"/>
+<area shape="rect" id="node4" href="$namespacedslash__cuda__gen.html#a474a52a487dce5c69995d443331ca5af" title="dslash_cuda_gen.in_im" alt="" coords="213,104,375,129"/>
+<area shape="rect" id="node5" href="$namespacedslash__cuda__gen.html#aa2f8630c9f16324ad54d1f863ccce24a" title="dslash_cuda_gen.in_re" alt="" coords="214,153,374,179"/>
+<area shape="rect" id="node6" href="$namespacedslash__cuda__gen.html#acde5be5566e7e05a7eb89a996856dfc8" title="dslash_cuda_gen.nthFloat2" alt="" coords="201,203,387,228"/>
+<area shape="rect" id="node7" href="$namespacedslash__cuda__gen.html#a4312420cb432b80dd88fd02a0f62dc7d" title="dslash_cuda_gen.nthFloat4" alt="" coords="201,252,387,277"/>
+</map>

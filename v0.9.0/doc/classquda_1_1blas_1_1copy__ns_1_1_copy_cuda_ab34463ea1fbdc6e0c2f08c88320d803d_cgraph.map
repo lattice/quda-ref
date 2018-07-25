@@ -1,0 +1,10 @@
+<map id="quda::blas::copy_ns::CopyCuda::advanceSharedBytes" name="quda::blas::copy_ns::CopyCuda::advanceSharedBytes">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable.html#aa910847ecff2328c753eaa063cbb76e5" title="quda::Tunable::advanceBlockDim" alt="" coords="279,104,499,129"/>
+<area shape="rect" id="node8" href="$classquda_1_1blas_1_1copy__ns_1_1_copy_cuda.html#ae233990ebaf0bb0313d1a17d60779fe4" title="quda::blas::copy_ns\l::CopyCuda::sharedBytesPer\lBlock" alt="" coords="292,153,486,205"/>
+<area shape="rect" id="node9" href="$classquda_1_1blas_1_1copy__ns_1_1_copy_cuda.html#a4df728253f4dceef918397bfedae73eb" title="quda::blas::copy_ns\l::CopyCuda::sharedBytesPer\lThread" alt="" coords="292,229,486,281"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable.html#abaacdcd8451528beb11777432d61f527" title="quda::Tunable::blockStep" alt="" coords="560,5,732,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#a06676e80d7fa5ba4ae66efde76f06118" title="quda::Tunable::maxBlockSize" alt="" coords="547,55,745,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#aef0531eaa7950ffe31b0aeb6bb61a75e" title="quda::Tunable::minThreads" alt="" coords="554,104,738,129"/>
+<area shape="rect" id="node6" href="$classquda_1_1_tunable.html#a67a816b5e7fde0357ea5315c5c2c7d52" title="quda::Tunable::sharedBytes\lPerThread" alt="" coords="552,153,740,192"/>
+<area shape="rect" id="node7" href="$classquda_1_1_tunable.html#a528dd6226511d3b6c1cf914dc578a44a" title="quda::Tunable::tuneGridDim" alt="" coords="552,216,740,241"/>
+</map>

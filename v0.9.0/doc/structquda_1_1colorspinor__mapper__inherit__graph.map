@@ -1,0 +1,6 @@
+<map id="quda::colorspinor_mapper&lt; T, Ns, Nc &gt;" name="quda::colorspinor_mapper&lt; T, Ns, Nc &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1colorspinor__mapper.html" title="quda::colorspinor_mapper\l\&lt; Float, Ns, Nc \&gt;" alt="" coords="374,5,550,44"/>
+<area shape="rect" id="node3" href="$structquda_1_1colorspinor__mapper.html" title="quda::colorspinor_mapper\l\&lt; Float, 4, nColor \&gt;" alt="" coords="374,68,550,107"/>
+<area shape="rect" id="node4" href="$structquda_1_1colorspinor__mapper.html" title="quda::colorspinor_mapper\l\&lt; Float, 1, nColor \&gt;" alt="" coords="374,131,550,169"/>
+<area shape="rect" id="node5" href="$structquda_1_1colorspinor__mapper.html" title="quda::colorspinor_mapper\l\&lt; Float, nSpin, nColor \&gt;" alt="" coords="374,193,550,232"/>
+</map>

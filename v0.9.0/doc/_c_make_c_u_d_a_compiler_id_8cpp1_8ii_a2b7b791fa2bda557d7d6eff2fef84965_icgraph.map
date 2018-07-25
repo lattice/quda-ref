@@ -1,0 +1,23 @@
+<map id="gamma" name="gamma">
+<area shape="rect" id="node2" href="$namespacequda.html#ad599513d161a5af18367f5234ebf5421" title="quda::ApplyGamma" alt="" coords="134,5,273,31"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ab68e0ace6b5ed95302e23b8dd34b13b6" title="quda::applyT" alt="" coords="155,55,253,80"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ad775354748f7914f91cc9fa37c037f2c" title="quda::applyThirdTerm" alt="" coords="354,105,504,131"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a175c0d2c1e531afc0d5df2adc0272c81" title="quda::computeCoeffs" alt="" coords="598,131,746,156"/>
+<area shape="rect" id="node8" href="$classquda_1_1_m_p_c_g.html#a22dc04a12559494a1202da230c31a66a" title="quda::MPCG::operator()" alt="" coords="832,156,996,181"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a6e7494d075405e71c9666c416c938cf1" title="Apply the twisted&#45;mass gamma operator to a color&#45;spinor field. " alt="" coords="119,296,289,321"/>
+<area shape="rect" id="node19" href="$namespacequda.html#ab2f4051db5c282704a10d3d202c78856" title="quda::backSubs" alt="" coords="145,345,262,371"/>
+<area shape="rect" id="node20" href="$namespacequda.html#a14e36bd3b8e5cb88165149461cdc7386" title="quda::updateSolution" alt="" coords="356,477,503,503"/>
+<area shape="rect" id="node22" href="$namespacequda.html#aa69a698556e44888761b20d6dffc70c4" title="Do a single (AV)^ * UV product, where for preconditioned clover, AV correspond to the clover inverse ..." alt="" coords="138,447,269,472"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ab89bf31f53e61dcc0460e33950c6073b" title="Applies a gamma5 matrix to a spinor (wrapper to ApplyGamma) " alt="" coords="374,5,484,31"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="583,5,760,31"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_twisted_mass.html#a5dd80068e810cb9f6dfa12e6fe6fc3a2" title="quda::DiracTwistedMass\l::twistedApply" alt="" coords="346,289,513,328"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aebad1f29b65f446d27b2454b45bbec13" title="quda::DiracTwistedMassPC\l::Dslash" alt="" coords="337,352,522,391"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aefa93709f581a5e61216f7b0a5e60c4b" title="quda::DiracTwistedMassPC\l::DslashXpay" alt="" coords="337,415,522,453"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_twisted_mass.html#aef131657e083a3d1ac047246fef74780" title="quda::DiracTwistedMass\l::Twist" alt="" coords="588,232,755,271"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_twisted_mass_p_c.html#ab7aa7df54b69f2a391a98e54b61b821b" title="quda::DiracTwistedMassPC\l::TwistInv" alt="" coords="579,347,764,385"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a6be83a5144164ad7acf1151cb36cd2d2" title="quda::DiracTwistedMassPC\l::prepare" alt="" coords="821,309,1007,348"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a410ab24479e1571524de12f5faddbbef" title="quda::DiracTwistedMassPC\l::reconstruct" alt="" coords="821,381,1007,420"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a51aab3a1d37104ab7202b55eda1a9c81" title="quda::DiracTwistedMassPC::M" alt="" coords="570,461,773,487"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aaf975b69ccbb23454b2f42fd69e3bed2" title="quda::DiracTwistedMassPC\l::MdagM" alt="" coords="821,455,1007,493"/>
+<area shape="rect" id="node21" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="595,511,749,536"/>
+</map>

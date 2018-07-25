@@ -1,0 +1,5 @@
+<map id="quda::cudaColorSpinorField::unpackGhost" name="quda::cudaColorSpinorField::unpackGhost">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_color_spinor_field.html#a0c84cc5feb2ac1d16555d5cf06f84ac4" title="quda::cudaColorSpinorField\l::scatter" alt="" coords="240,5,427,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a589d2b6db0fd101a35b6f57ad40e7219" title="quda::cudaColorSpinorField\l::unpackGhostExtended" alt="" coords="240,68,427,107"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_color_spinor_field.html#a7dbcf6ea861ead1f8739c2adb80a1c7c" title="quda::cudaColorSpinorField\l::scatterExtended" alt="" coords="475,68,661,107"/>
+</map>

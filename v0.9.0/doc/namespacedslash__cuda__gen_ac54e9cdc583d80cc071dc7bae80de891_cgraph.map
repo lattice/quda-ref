@@ -1,0 +1,27 @@
+<map id="dslash_cuda_gen.epilog" name="dslash_cuda_gen.epilog">
+<area shape="rect" id="node2" href="$namespacedslash__cuda__gen.html#aadf39197edc80942a3bfa79fb0e9e709" title="dslash_cuda_gen.acc_im" alt="" coords="451,283,622,308"/>
+<area shape="rect" id="node3" href="$namespacedslash__cuda__gen.html#aaed4f4ed157dec554a2e0a80de8c1498" title="dslash_cuda_gen.acc_re" alt="" coords="452,339,621,364"/>
+<area shape="rect" id="node4" href="$namespacedslash__cuda__gen.html#a2fcd2cefb9fb7a1ae4ed308ea8b84b51" title="dslash_cuda_gen.apply\l_clover" alt="" coords="223,93,385,132"/>
+<area shape="rect" id="node8" href="$namespacedslash__cuda__gen.html#afbaedd681062b880b77a63e13b55cbc6" title="dslash_cuda_gen.block" alt="" coords="690,167,850,192"/>
+<area shape="rect" id="node10" href="$namespacedslash__cuda__gen.html#a2bf96b515c22a2eca20500a4050c4b68" title="dslash_cuda_gen.c_im" alt="" coords="691,224,849,249"/>
+<area shape="rect" id="node11" href="$namespacedslash__cuda__gen.html#a5274513734f0b1e0f09ea814fa4ae1c7" title="dslash_cuda_gen.c_re" alt="" coords="692,453,848,479"/>
+<area shape="rect" id="node15" href="$namespacedslash__cuda__gen.html#af260a07e9e20a93ab147e378eb0a2186" title="dslash_cuda_gen.g_im" alt="" coords="225,433,383,459"/>
+<area shape="rect" id="node16" href="$namespacedslash__cuda__gen.html#aac8520cded3ab2f89671b6bbff80fe36" title="dslash_cuda_gen.g_re" alt="" coords="226,483,382,508"/>
+<area shape="rect" id="node17" href="$namespacedslash__cuda__gen.html#a474a52a487dce5c69995d443331ca5af" title="dslash_cuda_gen.in_im" alt="" coords="223,532,385,557"/>
+<area shape="rect" id="node18" href="$namespacedslash__cuda__gen.html#aa2f8630c9f16324ad54d1f863ccce24a" title="dslash_cuda_gen.in_re" alt="" coords="224,581,384,607"/>
+<area shape="rect" id="node19" href="$namespacedslash__cuda__gen.html#a5c5837bb0f54ab1b7be2dc2798150a12" title="dslash_cuda_gen.out_im" alt="" coords="685,733,855,759"/>
+<area shape="rect" id="node20" href="$namespacedslash__cuda__gen.html#ae3fa36ad4ba817dbb677d9c67a8618de" title="dslash_cuda_gen.out_re" alt="" coords="686,809,854,835"/>
+<area shape="rect" id="node21" href="$namespacedslash__cuda__gen.html#accdcfad27073a7fc9eaacc89b007e0fb" title="dslash_cuda_gen.twisted" alt="" coords="218,835,390,860"/>
+<area shape="rect" id="node26" href="$namespacedslash__cuda__gen.html#af336689d285de22735b0de70d0f87cae" title="dslash_cuda_gen.xpay" alt="" coords="225,384,383,409"/>
+<area shape="rect" id="node5" href="$namespacedslash__cuda__gen.html#a7190ae972ec9551aa88657b3c37aca8b" title="dslash_cuda_gen.clover_mult" alt="" coords="438,131,635,156"/>
+<area shape="rect" id="node13" href="$namespacedslash__cuda__gen.html#a8787e2494569940d023f79b56d9d66f2" title="dslash_cuda_gen.from\l_chiral_basis" alt="" coords="458,68,615,107"/>
+<area shape="rect" id="node14" href="$namespacedslash__cuda__gen.html#a41a8aae217a38a6dc4ab2b31472ca737" title="dslash_cuda_gen.to\l_chiral_basis" alt="" coords="466,5,607,44"/>
+<area shape="rect" id="node6" href="$namespacedslash__cuda__gen.html#a06667df09996ae5dada8f1e74e4e185a" title="dslash_cuda_gen.a_im" alt="" coords="691,19,849,44"/>
+<area shape="rect" id="node7" href="$namespacedslash__cuda__gen.html#ac0e2e8cdd972db1e30e163aaafa5540a" title="dslash_cuda_gen.a_re" alt="" coords="692,68,848,93"/>
+<area shape="rect" id="node12" href="$namespacedslash__cuda__gen.html#a670416357aa22494d39055e929928ac0" title="dslash_cuda_gen.spinor" alt="" coords="687,117,853,143"/>
+<area shape="rect" id="node9" href="$namespacedslash__cuda__gen.html#af79404325938841f99ad2537862e2e7d" title="code generation ######################################################################## ..." alt="" coords="905,167,1070,192"/>
+<area shape="rect" id="node22" href="$namespacedslash__cuda__gen.html#a05466193e61db8cc5e319f278851e02d" title="dslash_cuda_gen.twisted\l_rotate" alt="" coords="451,885,622,924"/>
+<area shape="rect" id="node24" href="$namespacedslash__cuda__gen.html#ab3d0998997519244668983b8f98f9a23" title="dslash_cuda_gen.tmp_re" alt="" coords="684,945,855,971"/>
+<area shape="rect" id="node25" href="$namespacedslash__cuda__gen.html#aa60b5edbe45945c1bbb6df8bf4ebb066" title="dslash_cuda_gen.tmp_im" alt="" coords="683,995,857,1020"/>
+<area shape="rect" id="node23" href="$namespacedslash__cuda__gen.html#a72c6c6f8b1f64201031b493848b72b32" title="dslash_cuda_gen.sign" alt="" coords="693,892,847,917"/>
+</map>

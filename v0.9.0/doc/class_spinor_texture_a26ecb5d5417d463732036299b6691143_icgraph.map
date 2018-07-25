@@ -1,0 +1,5 @@
+<map id="SpinorTexture::set" name="SpinorTexture::set">
+<area shape="rect" id="node2" href="$class_spinor.html#ac738b665c99c9e99de2f39d3fc146476" title="Spinor::set" alt="" coords="182,12,267,37"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a88f9b8f3add45d5e4b156480335c4a70" title="Compute the outer product from the solver solution fields arising from the diagonal term of the fermi..." alt="" coords="315,5,501,44"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="549,12,727,37"/>
+</map>

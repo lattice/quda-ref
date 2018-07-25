@@ -1,0 +1,7 @@
+<map id="quda::ArpackArgs::save" name="quda::ArpackArgs::save">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="221,5,379,44"/>
+<area shape="rect" id="node3" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="256,68,345,93"/>
+<area shape="rect" id="node4" href="$struct_sort_evals.html#a6afe2611b86c724d57137ecc2e1ac063" title="SortEvals::SelectLarge" alt="" coords="222,117,379,143"/>
+<area shape="rect" id="node5" href="$struct_sort_evals.html#ae40d97421feda60a8d021b6c0b805155" title="SortEvals::SelectSmall" alt="" coords="222,167,378,192"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_param.html#aa037feb4140b5cf0f7748ce30da4ab16" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="216,216,384,255"/>
+</map>

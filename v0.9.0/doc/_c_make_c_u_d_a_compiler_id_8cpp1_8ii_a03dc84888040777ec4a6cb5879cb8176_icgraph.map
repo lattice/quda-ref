@@ -1,0 +1,6 @@
+<map id="atan2f" name="atan2f">
+<area shape="rect" id="node2" href="$namespacequda.html#ae45a35eca6c4d2af3767693482937f92" title="quda::arg" alt="" coords="147,5,225,31"/>
+<area shape="rect" id="node3" href="$structquda_1_1_trig_3_01false_00_01float_01_4.html#ab288d9f9fd86ce88436e30384919c000" title="quda::Trig\&lt; false,\l float \&gt;::Atan2" alt="" coords="124,55,248,93"/>
+<area shape="rect" id="node4" href="$structquda_1_1_trig_3_01true_00_01float_01_4.html#aadc657e7d63743c2109efbd660ea70b3" title="quda::Trig\&lt; true, float\l \&gt;::Atan2" alt="" coords="112,117,260,156"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a2a9d46e415ec375f368784f179559e35" title="quda::atanh" alt="" coords="140,180,232,205"/>
+</map>

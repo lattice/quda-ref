@@ -1,0 +1,6 @@
+<map id="write_spinor_field" name="write_spinor_field">
+<area shape="rect" id="node2" href="$classquda_1_1_deflation.html#a7e395f7e68cb32b49018246523a8a99e" title="Save the eigen space vectors in file. " alt="" coords="178,5,369,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_m_g.html#ae7e975d7dea5ec26b98ec9d7e2e2f336" title="Save the null space vectors in from file. " alt="" coords="194,55,354,80"/>
+<area shape="rect" id="node4" href="$classquda_1_1_m_g.html#ae01b451dc72536567de5edfed09ec5ab" title="Generate the null&#45;space vectors. " alt="" coords="417,55,625,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="673,55,782,80"/>
+</map>

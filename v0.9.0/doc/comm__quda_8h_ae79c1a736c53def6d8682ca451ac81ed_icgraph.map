@@ -1,0 +1,6 @@
+<map id="comm_peer2peer_enabled_global" name="comm_peer2peer_enabled_global">
+<area shape="rect" id="node2" href="$classanonymous__namespace_02dslash__policy_8cuh_03_1_1_dslash_policy_tune.html#ab32a1055db70148760dbd1112e419b96" title="anonymous_namespace\l\{dslash_policy::cuh\}\l::DslashPolicyTune::apply" alt="" coords="271,5,445,57"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dslash_coarse_policy_tune.html#a999e08702fb5769550ea1737534451b0" title="quda::DslashCoarsePolicy\lTune::DslashCoarsePolicyTune" alt="" coords="254,81,462,120"/>
+<area shape="rect" id="node4" href="$classanonymous__namespace_02dslash__policy_8cuh_03_1_1_dslash_policy_tune.html#ad85bfbcd1d4a1825bc7920e4e31aeea6" title="anonymous_namespace\l\{dslash_policy::cuh\}\l::DslashPolicyTune::DslashPolicyTune" alt="" coords="234,144,483,196"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="265,220,452,259"/>
+</map>

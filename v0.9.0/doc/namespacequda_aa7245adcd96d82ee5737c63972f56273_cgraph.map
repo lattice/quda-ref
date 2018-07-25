@@ -1,0 +1,11 @@
+<map id="quda::copyGauge" name="quda::copyGauge">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="220,5,298,31"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a9200b5b7b0bedfefee31634ea39a0f0a" title="quda::checkMomOrder" alt="" coords="180,55,337,80"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="180,104,338,143"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#a0fd1f89de7282388c6edb060396e8b8b" title="quda::ColorSpinorField\l::Ndim" alt="" coords="180,167,338,205"/>
+<area shape="rect" id="node9" href="$classquda_1_1_lattice_field.html#a64969b1180e27da1fdbc1959f1cf644c" title="quda::LatticeField\l::SurfaceCB" alt="" coords="195,229,322,268"/>
+<area shape="rect" id="node10" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="180,292,338,331"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="443,5,534,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="404,55,573,80"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="386,104,592,129"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="quda::GaugeLaplacePC::M" name="quda::GaugeLaplacePC::M">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="236,5,395,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_laplace.html#a9a4c195b71b16112e0c1e386ec3bc725" title="quda::GaugeLaplace\l::Dslash" alt="" coords="243,55,388,93"/>
+<area shape="rect" id="node9" href="$classquda_1_1_gauge_laplace.html#aae8b140931e499d45b2a2b18db7eb8e7" title="quda::GaugeLaplace\l::DslashXpay" alt="" coords="243,117,388,156"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="241,180,389,205"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ae0f4787275bfaae8f337350e0300ffd1" title="Driver for applying the Laplace stencil. " alt="" coords="459,64,598,89"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="443,115,614,153"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="810,64,888,89"/>
+<area shape="rect" id="node7" href="$namespacequda.html#aee5bf0e54d532db04a01a00dde5224c4" title="quda::laplace" alt="" coords="662,89,762,115"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="936,64,1028,89"/>
+</map>

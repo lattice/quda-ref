@@ -1,0 +1,5 @@
+<map id="quda::cudaColorSpinorField::createComms" name="quda::cudaColorSpinorField::createComms">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="240,5,427,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a53510b48ce49881f014b955a1e7fb1d3" title="quda::cudaColorSpinorField\l::pack" alt="" coords="240,68,427,107"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_color_spinor_field.html#aa9b3e1130d53dedce7d15801604d2f9f" title="quda::cudaColorSpinorField\l::packExtended" alt="" coords="240,131,427,169"/>
+</map>

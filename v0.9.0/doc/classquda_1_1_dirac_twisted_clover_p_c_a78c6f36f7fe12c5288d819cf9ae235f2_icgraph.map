@@ -1,0 +1,6 @@
+<map id="quda::DiracTwistedCloverPC::TwistCloverInv" name="quda::DiracTwistedCloverPC::TwistCloverInv">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a359ba6db818f191e4eb0f51badf3f91b" title="quda::DiracTwistedClover\lPC::M" alt="" coords="227,5,400,44"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a575011bb2425b78658f06c3d93eafc24" title="quda::DiracTwistedClover\lPC::prepare" alt="" coords="227,68,400,107"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_twisted_clover_p_c.html#acc55a7986745e4ad5a5291a394a502ac" title="quda::DiracTwistedClover\lPC::reconstruct" alt="" coords="227,131,400,169"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a29f45c7b93a76bdc5e1aea387d7c974a" title="quda::DiracTwistedClover\lPC::MdagM" alt="" coords="448,5,621,44"/>
+</map>

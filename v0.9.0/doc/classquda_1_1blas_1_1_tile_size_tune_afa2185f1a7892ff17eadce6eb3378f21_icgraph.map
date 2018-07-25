@@ -1,0 +1,6 @@
+<map id="quda::blas::TileSizeTune::apply" name="quda::blas::TileSizeTune::apply">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#aaf1d0525540115aebfccf14f83fd58bc" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="236,5,400,31"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#ad26c389150de84e619d46df94ccd768f" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="220,55,415,80"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a2ea5daad2bfd62f4cc92efd8d9dc7eae" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="236,104,400,129"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a13dee1195aac7eed123b27451b474e94" title="Computes the matrix of inner products between the vector set a and the vector set b..." alt="" coords="236,153,400,192"/>
+</map>

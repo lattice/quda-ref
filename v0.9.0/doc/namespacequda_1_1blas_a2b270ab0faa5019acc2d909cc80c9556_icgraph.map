@@ -1,0 +1,18 @@
+<map id="quda::blas::axpy" name="quda::blas::axpy">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="228,7,315,32"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_mobius.html#a3ddfab36f7b5596531abec291c057fc9" title="quda::DiracMobius::M" alt="" coords="196,59,347,84"/>
+<area shape="rect" id="node6" href="$invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="247,108,297,133"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_p_c_g.html#a22dc04a12559494a1202da230c31a66a" title="quda::MPCG::operator()" alt="" coords="190,157,354,183"/>
+<area shape="rect" id="node8" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="195,207,349,232"/>
+<area shape="rect" id="node9" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="199,256,344,281"/>
+<area shape="rect" id="node10" href="$classquda_1_1_multi_shift_c_g.html#a5f96f73432fafb1a99336cf1ecee4736" title="quda::MultiShiftCG\l::operator()" alt="" coords="205,305,338,344"/>
+<area shape="rect" id="node11" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="177,368,366,393"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_mdag_m.html#a5da6e6a17317fc0470b89f8438fb0960" title="quda::DiracMdagM::operator()" alt="" coords="172,417,372,443"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_m_mdag.html#a7c8261f061160d28433d85db4816ea56" title="quda::DiracMMdag::operator()" alt="" coords="172,467,372,492"/>
+<area shape="rect" id="node14" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="250,516,293,541"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="454,5,526,31"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_mobius.html#ad250f4e35dcb9afd0198a01691d06217" title="quda::DiracMobius::\lMdagM" alt="" coords="420,55,560,93"/>
+<area shape="rect" id="node15" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="446,491,533,516"/>
+<area shape="rect" id="node17" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="454,540,526,565"/>
+<area shape="rect" id="node16" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="608,491,658,516"/>
+</map>

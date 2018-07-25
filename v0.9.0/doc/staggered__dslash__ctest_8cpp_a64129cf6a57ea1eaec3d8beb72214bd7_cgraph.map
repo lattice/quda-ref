@@ -1,0 +1,51 @@
+<map id="init" name="init">
+<area shape="rect" id="node2" href="$test__util_8cpp.html#a56bb31290d6d42a81d326ac8cf368a2a" title="construct_fat_long\l_gauge_field" alt="" coords="116,221,247,260"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac.html#ac13ad4c6bdcacd4b53a473176e7ab830" title="quda::Dirac::create" alt="" coords="115,572,249,597"/>
+<area shape="rect" id="node16" href="$test__util_8cpp.html#a760675a8bb552a8bfbeaa705c20057c4" title="dw_setDims" alt="" coords="135,797,229,823"/>
+<area shape="rect" id="node17" href="$classquda_1_1_gauge_field.html#aedfa91e714c61b8e11caec9d2703dcfa" title="quda::GaugeField::Ghost" alt="" coords="337,1043,507,1068"/>
+<area shape="rect" id="node19" href="$quda_8h.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="122,696,241,721"/>
+<area shape="rect" id="node39" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a25bd26b055074f4ad5104721f796f9f0" title="malloc" alt="" coords="152,847,212,872"/>
+<area shape="rect" id="node40" href="$quda_8h.html#a4d9475cdfdd2d15b5d94e8588f835645" title="newQudaGaugeParam" alt="" coords="103,896,260,921"/>
+<area shape="rect" id="node41" href="$quda_8h.html#a9c476795e5632077ae86f2022369f6a4" title="newQudaInvertParam" alt="" coords="106,945,257,971"/>
+<area shape="rect" id="node42" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="147,995,216,1020"/>
+<area shape="rect" id="node43" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="108,1044,255,1069"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="105,1093,258,1119"/>
+<area shape="rect" id="node47" href="$test__util_8cpp.html#a86a5f0d3f4210c9f339154a1b47c5dff" title="setSpinorSiteSize" alt="" coords="118,1143,245,1168"/>
+<area shape="rect" id="node48" href="$util__quda_8h.html#a2017f5474af8f4baea321c025df7e24f" title="setVerbosity" alt="" coords="135,1192,229,1217"/>
+<area shape="rect" id="node49" href="$classquda_1_1cpu_color_spinor_field.html#ac15d8b2aaff27079ef5c801e0bba4330" title="quda::cpuColorSpinorField\l::Source" alt="" coords="92,67,271,105"/>
+<area shape="rect" id="node3" href="$test__util_8cpp.html#a9c01d12d72f64c84cd87e4aba721cc06" title="constructUnitGaugeField" alt="" coords="338,301,506,327"/>
+<area shape="rect" id="node5" href="$test__util_8cpp.html#a90501c6aa892140ed3d96016b37cc0c9" title="constructGaugeField" alt="" coords="350,228,494,253"/>
+<area shape="rect" id="node6" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aa694a6d7fb40940d8c44954194fcd4e6" title="rand" alt="" coords="648,104,696,129"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="378,55,466,80"/>
+<area shape="rect" id="node4" href="$test__util_8cpp.html#a3a53ed4a3eefe16c496a3e2d4c1a0f29" title="applyGaugeFieldScaling" alt="" coords="589,351,755,376"/>
+<area shape="rect" id="node7" href="$test__util_8cpp.html#a2b5502d2a7e51937f81b4bbe647c4ef9" title="normalize" alt="" coords="633,301,712,327"/>
+<area shape="rect" id="node8" href="$test__util_8cpp.html#a6ff77ced36e930f1bc260bab5c691bbb" title="orthogonalize" alt="" coords="622,153,723,179"/>
+<area shape="rect" id="node9" href="$test__util_8cpp.html#ac759861ca379a4dcca023c0bcaef6b0a" title="accumulateConjugateProduct" alt="" coords="574,203,770,228"/>
+<area shape="rect" id="node10" href="$test__util_8cpp.html#a89b20526a3b057ed51149add7befd83c" title="applyGaugeFieldScaling_long" alt="" coords="573,252,772,277"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="633,55,712,80"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="635,5,710,31"/>
+<area shape="rect" id="node15" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="375,499,470,524"/>
+<area shape="rect" id="node18" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="820,1061,1002,1087"/>
+<area shape="rect" id="node20" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="350,696,495,721"/>
+<area shape="rect" id="node22" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="344,745,500,784"/>
+<area shape="rect" id="node33" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="594,976,750,1015"/>
+<area shape="rect" id="node34" href="$classquda_1_1_lattice_field.html#a96eccffaa1381a45cd03db7bdc4af2f1" title="quda::LatticeField::R" alt="" coords="839,1012,982,1037"/>
+<area shape="rect" id="node35" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="345,597,500,623"/>
+<area shape="rect" id="node36" href="$classquda_1_1_lattice_field.html#a7ac2960550443f2a8d316155ffb6ad70" title="quda::LatticeField\l::GBytes" alt="" coords="359,980,485,1019"/>
+<area shape="rect" id="node37" href="$quda_8h.html#aebdf097fa999c08e5bf3c55ed98c8c50" title="printQudaGaugeParam" alt="" coords="343,548,502,573"/>
+<area shape="rect" id="node38" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="319,647,525,672"/>
+<area shape="rect" id="node21" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="594,452,750,477"/>
+<area shape="rect" id="node23" href="$classquda_1_1_gauge_field.html#adbc8edd6e827e616d393c9ce5c25cb51" title="quda::GaugeField::checkField" alt="" coords="573,551,772,576"/>
+<area shape="rect" id="node24" href="$namespacequda.html#a075839243ec706913684940d2ba4ce43" title="quda::copyGenericGauge" alt="" coords="824,601,997,627"/>
+<area shape="rect" id="node25" href="$classquda_1_1_lattice_field.html#ac28a222cabb75e131517b3f129807bd6" title="quda::LatticeField\l::GhostExchange" alt="" coords="1050,620,1176,659"/>
+<area shape="rect" id="node27" href="$namespacequda.html#ad288ddd1679350fa258fa42bd22accd4" title="quda::copyExtendedGauge" alt="" coords="581,501,764,527"/>
+<area shape="rect" id="node28" href="$namespacequda.html#aa25deeec640690f50f16e136639e8450" title="Return whether data is reordered on the CPU or GPU. This can set at QUDA initialization using the env..." alt="" coords="595,752,750,777"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a0138c2d76b9b477b5a914ed4ff09134b" title="quda::create_gauge\l_buffer" alt="" coords="602,801,742,840"/>
+<area shape="rect" id="node30" href="$namespacequda.html#a037d22e360b272cb3c5be04675a29b0c" title="quda::create_ghost\l_buffer" alt="" coords="605,864,740,903"/>
+<area shape="rect" id="node31" href="$namespacequda.html#a82845c78c417da7a26d264e491e78a05" title="quda::free_gauge_buffer" alt="" coords="589,927,756,952"/>
+<area shape="rect" id="node32" href="$namespacequda.html#a8e24b83a48d247f61634d3ca31b084c9" title="quda::free_ghost_buffer" alt="" coords="591,703,754,728"/>
+<area shape="rect" id="node26" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="1050,476,1176,515"/>
+<area shape="rect" id="node44" href="$classquda_1_1_gauge_field.html#aea09fc8dc9f69a1bfebbbad4717e433a" title="quda::GaugeField::Anisotropy" alt="" coords="323,1141,521,1167"/>
+<area shape="rect" id="node45" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="386,1092,458,1117"/>
+<area shape="rect" id="node50" href="$namespacequda.html#ad9be7a3b87a6bc4b699e3587032b2fda" title="quda::genericSource" alt="" coords="350,5,494,31"/>
+</map>

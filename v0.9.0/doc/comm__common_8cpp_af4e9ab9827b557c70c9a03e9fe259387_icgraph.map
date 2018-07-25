@@ -1,0 +1,6 @@
+<map id="commAsyncReduction" name="commAsyncReduction">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ae462068e0f6e4e517c84156dceea06b2" title="quda::blas::caxpyXmazMR" alt="" coords="217,5,397,31"/>
+<area shape="rect" id="node4" href="$structquda_1_1_reduce_arg.html#a6c8083f17378952464f8842f33368bc9" title="quda::ReduceArg::ReduceArg" alt="" coords="207,55,407,80"/>
+<area shape="rect" id="node5" href="$reduce__core_8cuh.html#a40d2e45acbd138fb7ab69bfeb48faea8" title="reduceLaunch" alt="" coords="254,104,360,129"/>
+<area shape="rect" id="node3" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="455,5,600,31"/>
+</map>

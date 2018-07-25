@@ -1,0 +1,6 @@
+<map id="deg_tm_dslash_cuda_gen.def_input_spinor" name="deg_tm_dslash_cuda_gen.def_input_spinor">
+<area shape="rect" id="node2" href="$namespacedeg__tm__dslash__cuda__gen.html#aa2fe583bc583f87439c5395497f8c7b9" title="deg_tm_dslash_cuda\l_gen.generate_pack" alt="" coords="207,5,355,44"/>
+<area shape="rect" id="node3" href="$namespacedeg__tm__dslash__cuda__gen.html#ae812a1e01aabcf4e3c719bce64de05c2" title="deg_tm_dslash_cuda\l_gen.prolog" alt="" coords="207,68,355,107"/>
+<area shape="rect" id="node4" href="$namespacedeg__tm__dslash__cuda__gen.html#ae5122513fb303c89a3ad14deb8b3427e" title="deg_tm_dslash_cuda\l_gen.generate_dslash" alt="" coords="403,68,556,107"/>
+<area shape="rect" id="node5" href="$namespacedeg__tm__dslash__cuda__gen.html#a3d7b745966a1dd0d96e128a5c7b50f10" title="deg_tm_dslash_cuda\l_gen.generate_dslash\l_kernels" alt="" coords="604,61,757,113"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="dslash_cuda_gen.spinor" name="dslash_cuda_gen.spinor">
+<area shape="rect" id="node2" href="$namespacedslash__cuda__gen.html#a7190ae972ec9551aa88657b3c37aca8b" title="dslash_cuda_gen.clover_mult" alt="" coords="219,5,417,31"/>
+<area shape="rect" id="node10" href="$namespacedslash__cuda__gen.html#a8787e2494569940d023f79b56d9d66f2" title="dslash_cuda_gen.from\l_chiral_basis" alt="" coords="240,55,396,93"/>
+<area shape="rect" id="node11" href="$namespacedslash__cuda__gen.html#a41a8aae217a38a6dc4ab2b31472ca737" title="dslash_cuda_gen.to\l_chiral_basis" alt="" coords="248,117,388,156"/>
+<area shape="rect" id="node3" href="$namespacedslash__cuda__gen.html#a2fcd2cefb9fb7a1ae4ed308ea8b84b51" title="dslash_cuda_gen.apply\l_clover" alt="" coords="465,55,626,93"/>
+<area shape="rect" id="node4" href="$namespacedslash__cuda__gen.html#a8df81f75a283e0eaaf1602ad034b5e39" title="dslash_cuda_gen.clover_xpay" alt="" coords="674,36,875,61"/>
+<area shape="rect" id="node9" href="$namespacedslash__cuda__gen.html#ac54e9cdc583d80cc071dc7bae80de891" title="dslash_cuda_gen.epilog" alt="" coords="924,87,1089,112"/>
+<area shape="rect" id="node5" href="$namespacedslash__cuda__gen.html#a2254180a1752c686325ad09edff7bd3a" title="dslash_cuda_gen.prolog" alt="" coords="923,36,1090,61"/>
+<area shape="rect" id="node6" href="$namespacedslash__cuda__gen.html#aa497c9d3329e36a56260ab57c1557cd4" title="dslash_cuda_gen.generate\l_clover" alt="" coords="1138,23,1320,61"/>
+<area shape="rect" id="node7" href="$namespacedslash__cuda__gen.html#ac21f65fcb7e34dd0cd89a3c5d9e87d60" title="dslash_cuda_gen.generate\l_dslash" alt="" coords="1138,85,1320,124"/>
+<area shape="rect" id="node8" href="$namespacedslash__cuda__gen.html#afcdf775bc62e287f4118c205baf62445" title="dslash_cuda_gen.generate\l_dslash_kernels" alt="" coords="1368,85,1550,124"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="__darwin_x86_avx_state64" name="__darwin_x86_avx_state64">
+<area shape="rect" id="node2" href="$struct____darwin__fp__status.html" title="__darwin_fp_status" alt="" coords="5,5,142,31"/>
+<area shape="rect" id="node3" href="$struct____darwin__fp__control.html" title="__darwin_fp_control" alt="" coords="166,5,307,31"/>
+<area shape="rect" id="node4" href="$struct____darwin__xmm__reg.html" title="__darwin_xmm_reg" alt="" coords="331,5,470,31"/>
+<area shape="rect" id="node5" href="$struct____darwin__mmst__reg.html" title="__darwin_mmst_reg" alt="" coords="493,5,636,31"/>
+</map>

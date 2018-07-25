@@ -1,0 +1,14 @@
+<map id="quda::DiracDomainWallPC::MdagM" name="quda::DiracDomainWallPC::MdagM">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="479,15,639,40"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_domain_wall_p_c.html#ada117b83ce2a2bcaa4ec3ff8ae94557b" title="quda::DiracDomainWallPC::M" alt="" coords="233,133,431,159"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="485,189,633,215"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="267,237,397,263"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_domain_wall.html#a18c17cd8c16c534e1e83e244340adb17" title="quda::DiracDomainWall\l::Dslash" alt="" coords="479,64,640,103"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_domain_wall.html#a70e017028b12ac583ab32c5bea213590" title="quda::DiracDomainWall\l::DslashXpay" alt="" coords="479,127,640,165"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="705,36,871,75"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="703,99,873,137"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a0647509d3334c167dcd5e6b0836e6960" title="quda::domainWallDslashCuda" alt="" coords="688,161,888,187"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="936,5,1062,44"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="936,68,1062,107"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="505,239,613,264"/>
+</map>

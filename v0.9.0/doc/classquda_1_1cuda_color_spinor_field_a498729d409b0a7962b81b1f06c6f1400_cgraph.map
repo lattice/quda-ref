@@ -1,0 +1,6 @@
+<map id="quda::cudaColorSpinorField::CopySubset" name="quda::cudaColorSpinorField::CopySubset">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#aaab752af85bc88bcf1338e6b8f236735" title="quda::ColorSpinorField\l::checkField" alt="" coords="254,5,412,44"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a32f2d2fd7ec78094748f94cb07a10f53" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="240,68,427,107"/>
+<area shape="rect" id="node4" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a7459c10a5fdd8a4f91880bf0f46e722f" title="exit" alt="" coords="312,131,354,156"/>
+<area shape="rect" id="node5" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="297,180,369,205"/>
+</map>

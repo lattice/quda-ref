@@ -1,0 +1,31 @@
+<map id="quda::MPBiCGstab::operator()" name="quda::MPBiCGstab::operator()">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ae3e5e69d87a6db7678c8fb7dc14daca7" title="quda::blas::caxpy" alt="" coords="289,5,414,31"/>
+<area shape="rect" id="node3" href="$classquda_1_1_m_p_bi_c_gstab.html#a14bbf948541d0e77567682c2b4421ce3" title="quda::MPBiCGstab::compute\lMatrixPowers" alt="" coords="255,55,449,93"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="310,117,393,143"/>
+<area shape="rect" id="node5" href="$classquda_1_1_solver.html#ab4d1f95fec24a3d3965f81192d21722e" title="quda::Solver::convergence" alt="" coords="262,167,442,192"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="288,216,416,241"/>
+<area shape="rect" id="node7" href="$classquda_1_1_solver.html#a0c5396164071736d5d830c714cc00b3a" title="quda::Solver::PrintStats" alt="" coords="271,265,432,291"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="504,315,584,340"/>
+<area shape="rect" id="node26" href="$classquda_1_1_solver.html#af42c498affd9ff60742b5244bee16635" title="quda::Solver::PrintSummary" alt="" coords="258,315,446,340"/>
+<area shape="rect" id="node27" href="$classquda_1_1_solver.html#a2090bcbc51080037764cd368bc525ff4" title="quda::Solver::stopping" alt="" coords="275,416,429,441"/>
+<area shape="rect" id="node28" href="$namespacequda_1_1blas.html#a53d7fb8e21b813343450b14c6ba7e631" title="quda::blas::xmyNorm" alt="" coords="278,465,425,491"/>
+<area shape="rect" id="node29" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="294,515,410,540"/>
+<area shape="rect" id="node30" href="$namespacequda.html#afdd60a37d49f6d12f8472e2a910e80c6" title="quda::zero" alt="" coords="310,564,394,589"/>
+<area shape="rect" id="node8" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="497,265,591,291"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a1fb8e565c0f61c1c18933d62344cfbd3" title="quda::sqrt" alt="" coords="639,315,720,340"/>
+<area shape="rect" id="node11" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="772,240,852,265"/>
+<area shape="rect" id="node14" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="773,289,851,315"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="768,339,856,364"/>
+<area shape="rect" id="node25" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a37bde043e94a6f074c78f10518fb5d99" title="sqrtf" alt="" coords="788,388,836,413"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="910,240,990,265"/>
+<area shape="rect" id="node13" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0cdb0b447bb2bd586b5a58bc9b61e285" title="hypot" alt="" coords="1057,240,1110,265"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="904,289,996,315"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="910,388,990,413"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="912,339,988,364"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="1044,388,1123,413"/>
+<area shape="rect" id="node19" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a0546342e76f932239ccd5f92144a311b" title="cosf" alt="" coords="1175,388,1221,413"/>
+<area shape="rect" id="node20" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#ae37ce4924a4be38a9de85fc81ba79e58" title="coshf" alt="" coords="1171,437,1224,463"/>
+<area shape="rect" id="node21" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a312367f3e117fc37059783c301766042" title="sinf" alt="" coords="1177,289,1219,315"/>
+<area shape="rect" id="node22" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#ad02bd5acade33b7470f196d7b05f5176" title="sinhf" alt="" coords="1173,339,1222,364"/>
+<area shape="rect" id="node24" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="1046,339,1121,364"/>
+</map>

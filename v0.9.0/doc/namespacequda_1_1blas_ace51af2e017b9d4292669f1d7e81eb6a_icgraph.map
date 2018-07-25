@@ -1,0 +1,9 @@
+<map id="quda::blas::cDotProductNormB" name="quda::blas::cDotProductNormB">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="287,5,375,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="258,55,404,80"/>
+<area shape="rect" id="node5" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="310,104,352,129"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="459,5,531,31"/>
+<area shape="rect" id="node6" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="452,79,539,104"/>
+<area shape="rect" id="node8" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="459,128,531,153"/>
+<area shape="rect" id="node7" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="587,79,637,104"/>
+</map>

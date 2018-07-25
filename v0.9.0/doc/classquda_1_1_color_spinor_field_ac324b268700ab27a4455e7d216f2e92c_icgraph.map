@@ -1,0 +1,51 @@
+<map id="quda::ColorSpinorField::isNative" name="quda::ColorSpinorField::isNative">
+<area shape="rect" id="node2" href="$namespacequda.html#a90d7109e1b685917b8ae1a05974f880b" title="quda::copyGauge" alt="" coords="237,399,364,424"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a2797b4a44331d0916ea48737f7064381" title="quda::copyGaugeMG" alt="" coords="227,448,375,473"/>
+<area shape="rect" id="node34" href="$classquda_1_1cuda_color_spinor_field.html#ac37ac6a9963555b7e4b3f9733c2d7c60" title="quda::cudaColorSpinorField\l::copySpinorField" alt="" coords="442,427,629,465"/>
+<area shape="rect" id="node36" href="$classquda_1_1_color_spinor_field.html#a6efc15564f9d65b15e08dd48802c054b" title="quda::ColorSpinorField\l::create" alt="" coords="222,549,379,588"/>
+<area shape="rect" id="node40" href="$classquda_1_1cpu_color_spinor_field.html#aa60b2a577bda46b3c32021353d09b76d" title="quda::cpuColorSpinorField\l::create" alt="" coords="211,612,390,651"/>
+<area shape="rect" id="node42" href="$classquda_1_1_color_spinor_field.html#aaa41e877573c40c38c7542eda455145c" title="quda::ColorSpinorField\l::createGhostZone" alt="" coords="222,703,379,741"/>
+<area shape="rect" id="node49" href="$classquda_1_1_color_spinor_field.html#aa42d5ff07172d9a61a8b9b8375731843" title="quda::ColorSpinorField\l::reset" alt="" coords="222,765,379,804"/>
+<area shape="rect" id="node4" href="$namespacequda.html#af671d7743a65468f3228f3148de9983d" title="quda::copyGenericGaugeMG" alt="" coords="438,377,633,403"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a075839243ec706913684940d2ba4ce43" title="quda::copyGenericGauge" alt="" coords="698,377,872,403"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="1208,428,1364,467"/>
+<area shape="rect" id="node21" href="$classquda_1_1cpu_gauge_field.html#a6f4ec9b03d920ef9ad7ece9adbc10968" title="quda::cpuGaugeField\l::copy" alt="" coords="1211,541,1360,580"/>
+<area shape="rect" id="node22" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="952,308,1109,347"/>
+<area shape="rect" id="node27" href="$classquda_1_1cuda_gauge_field.html#a35c80b98e5741d6cedb19c741198d47d" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="952,371,1109,409"/>
+<area shape="rect" id="node28" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="1465,147,1621,185"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="1465,456,1621,495"/>
+<area shape="rect" id="node11" href="$interface__quda_8cpp.html#aff400a364829b50917d50d5730281830" title="computeHISQForceQuda" alt="" coords="1701,512,1873,537"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_coarse.html#ad73a48293b9e8280b63443263a4d4aac" title="quda::DiracCoarse::\linitializeCoarse" alt="" coords="1473,620,1613,659"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="1484,209,1603,235"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#a125414b3f860426d427e2f3f6953bdcf" title="loadSloppyGaugeQuda" alt="" coords="1463,571,1623,596"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#a51da31992209b588cc71641963307d56" title="performAPEnStep" alt="" coords="1479,259,1608,284"/>
+<area shape="rect" id="node18" href="$interface__quda_8cpp.html#ad9b78b143153725974886c392285b906" title="performSTOUTnStep" alt="" coords="1470,308,1617,333"/>
+<area shape="rect" id="node19" href="$interface__quda_8cpp.html#a0ee20ea90421939924df9903acb6b4d8" title="performOvrImpSTOUTnStep" alt="" coords="1448,357,1639,383"/>
+<area shape="rect" id="node20" href="$multigrid__benchmark__test_8cu.html#ab74e8c9c0b5eb4f70a8e36e650416d95" title="initFields" alt="" coords="1506,407,1580,432"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="1713,364,1861,389"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="1697,413,1877,439"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="1687,463,1887,488"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#a80c19191f476ca7c464ca450c3ae5c25" title="updateGaugeFieldQuda" alt="" coords="1705,265,1869,291"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#af6e8d08f0e5477d56e09f07c940ebf65" title="projectSU3Quda" alt="" coords="1727,315,1847,340"/>
+<area shape="rect" id="node23" href="$classquda_1_1cuda_gauge_field.html#ad3f8d04434f551955d2e3654fabcbdd1" title="quda::cudaGaugeField\l::cudaGaugeField" alt="" coords="1208,251,1364,289"/>
+<area shape="rect" id="node24" href="$classquda_1_1_gauge_field.html#a47440c5d6ce3fa43b06f121db14a4ab2" title="quda::GaugeField::applyStaggered\lPhase" alt="" coords="1172,313,1400,352"/>
+<area shape="rect" id="node25" href="$classquda_1_1_gauge_field.html#a348b77beb2d1e61bacbd89b41a2c369a" title="quda::GaugeField::remove\lStaggeredPhase" alt="" coords="1196,139,1375,177"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#ad8e1cc7e05db09d619a92b8ac3782cb4" title="performWuppertalnStep" alt="" coords="1205,201,1367,227"/>
+<area shape="rect" id="node29" href="$namespacequda.html#afd209a310946d067b22d56ff2e821c1d" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="1727,153,1847,179"/>
+<area shape="rect" id="node30" href="$classquda_1_1cuda_gauge_field.html#ad640087d39ac539ab3b676e1f585a4c3" title="Upload from this field into a CPU field. Overloaded variant that includes profiling. " alt="" coords="1709,203,1865,241"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#a9697844b4e6ef5debe0b7d8c05a96b76" title="saveGaugeQuda" alt="" coords="1726,5,1848,31"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#a6516a0a03688b7c5931b44ae4244e7d2" title="saveGaugeFieldQuda" alt="" coords="1712,55,1863,80"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="1698,104,1876,129"/>
+<area shape="rect" id="node35" href="$classquda_1_1cuda_color_spinor_field.html#a7b1c5a7388663a844bff4693a0b30854" title="quda::cudaColorSpinorField\l::operator=" alt="" coords="692,487,878,525"/>
+<area shape="rect" id="node37" href="$classquda_1_1_color_spinor_field.html#a70838ed167603dbb7a0647eb87aace10" title="quda::ColorSpinorField\l::ColorSpinorField" alt="" coords="457,489,614,528"/>
+<area shape="rect" id="node38" href="$classquda_1_1_color_spinor_field.html#a1771c7aad26729790245c4d9c72caf34" title="quda::ColorSpinorField\l::operator=" alt="" coords="457,552,614,591"/>
+<area shape="rect" id="node39" href="$classquda_1_1cpu_color_spinor_field.html#a38014a8fd2e08568c3b582cf2f1744e9" title="quda::cpuColorSpinorField\l::operator=" alt="" coords="695,581,875,620"/>
+<area shape="rect" id="node41" href="$classquda_1_1cpu_color_spinor_field.html#a5fe12a2ecce6eb534ac31971237755a4" title="quda::cpuColorSpinorField\l::cpuColorSpinorField" alt="" coords="446,667,625,705"/>
+<area shape="rect" id="node43" href="$classquda_1_1cuda_color_spinor_field.html#ae17ff77d97453e7bff3273c7a296b2b1" title="Allocate the ghost buffers. " alt="" coords="442,729,629,768"/>
+<area shape="rect" id="node44" href="$classquda_1_1cuda_color_spinor_field.html#a1a36967996f6c7c4297da38fbedf3a6b" title="Create the communication handlers and buffers. " alt="" coords="692,757,878,796"/>
+<area shape="rect" id="node48" href="$namespacequda.html#ac761519fa6b50d06090188b96d777709" title="quda::computeStaggeredOprod" alt="" coords="681,708,889,733"/>
+<area shape="rect" id="node45" href="$classquda_1_1cuda_color_spinor_field.html#a53510b48ce49881f014b955a1e7fb1d3" title="quda::cudaColorSpinorField\l::pack" alt="" coords="937,695,1124,733"/>
+<area shape="rect" id="node46" href="$classquda_1_1cuda_color_spinor_field.html#aa9b3e1130d53dedce7d15801604d2f9f" title="quda::cudaColorSpinorField\l::packExtended" alt="" coords="937,757,1124,796"/>
+<area shape="rect" id="node47" href="$classquda_1_1cuda_color_spinor_field.html#a3c4bceec6cf2064b6b3ec487abaacfc3" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="937,820,1124,859"/>
+<area shape="rect" id="node50" href="$classquda_1_1cpu_color_spinor_field.html#a0513b4ff30e2490730a79821e176ec91" title="quda::cpuColorSpinorField\l::cpuColorSpinorField" alt="" coords="446,792,625,831"/>
+</map>

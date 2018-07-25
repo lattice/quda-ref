@@ -1,0 +1,10 @@
+<map id="anonymous_namespace{dslash_policy::cuh}::DslashGDR::operator()" name="anonymous_namespace{dslash_policy::cuh}::DslashGDR::operator()">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="440,152,621,177"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02dslash__policy_8cuh_03.html#aefc101396f18cb66461ba9c3dd2d5801" title="Wrapper for querying if communication is finished in the dslash, and if it is take the appropriate ac..." alt="" coords="220,81,387,133"/>
+<area shape="rect" id="node5" href="$namespaceanonymous__namespace_02dslash__policy_8cuh_03.html#aa89674ad2899a94fd08c8ac583baf87f" title="Ensure that the dslash is complete. By construction, the dslash will have completed (or is in flight)..." alt="" coords="220,5,387,57"/>
+<area shape="rect" id="node6" href="$namespaceanonymous__namespace_02dslash__policy_8cuh_03.html#aee6cf8346ad54d1481ca0ee1dcd11591" title="This helper function simply posts the packing kernel needed for halo exchange. " alt="" coords="220,209,387,261"/>
+<area shape="rect" id="node9" href="$namespaceanonymous__namespace_02dslash__policy_8cuh_03.html#abe536eb6d03f5977c5c9abb146a5c55b" title="This helper function simply posts all receives in all directions. " alt="" coords="220,285,387,337"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a88fef310d4d59eb0fe80ab65d465183d" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="435,57,626,83"/>
+<area shape="rect" id="node7" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="454,216,607,241"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a3f2b731bceb1847d99e603f56717aa64" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="448,265,613,291"/>
+</map>

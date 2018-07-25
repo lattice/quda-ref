@@ -1,0 +1,12 @@
+<map id="quda::solve" name="quda::solve">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="170,55,305,80"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="194,128,281,153"/>
+<area shape="rect" id="node11" href="$classquda_1_1_min_res_ext.html#ab4acc2e02a9f112b964b88e099f32b86" title="quda::MinResExt::operator()" alt="" coords="143,177,332,203"/>
+<area shape="rect" id="node3" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="387,5,470,31"/>
+<area shape="rect" id="node5" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="404,55,454,80"/>
+<area shape="rect" id="node4" href="$staggered__invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="526,5,576,31"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="380,104,478,129"/>
+<area shape="rect" id="node8" href="$staggered__invert__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="387,153,470,179"/>
+<area shape="rect" id="node10" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="404,203,454,228"/>
+<area shape="rect" id="node9" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="526,153,576,179"/>
+</map>

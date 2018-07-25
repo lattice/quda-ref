@@ -1,0 +1,35 @@
+<map id="quda::cpuColorSpinorField::operator=" name="quda::cpuColorSpinorField::operator=">
+<area shape="rect" id="node2" href="$classquda_1_1cpu_color_spinor_field.html#aaaea8e395144bc424fec1640376c15ce" title="quda::cpuColorSpinorField\l::copy" alt="" coords="233,509,412,548"/>
+<area shape="rect" id="node22" href="$classquda_1_1cpu_color_spinor_field.html#aa60b2a577bda46b3c32021353d09b76d" title="quda::cpuColorSpinorField\l::create" alt="" coords="233,828,412,867"/>
+<area shape="rect" id="node26" href="$classquda_1_1cpu_color_spinor_field.html#a3a0127bd871745d86eff960107b6c389" title="quda::cpuColorSpinorField\l::destroy" alt="" coords="233,891,412,929"/>
+<area shape="rect" id="node27" href="$classquda_1_1_color_spinor_field.html#a1771c7aad26729790245c4d9c72caf34" title="quda::ColorSpinorField\l::operator=" alt="" coords="243,965,401,1004"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#aaab752af85bc88bcf1338e6b8f236735" title="quda::ColorSpinorField\l::checkField" alt="" coords="483,363,640,401"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a56030a5d7b4c3ea09d49ba9f45a50ba2" title="quda::copyGenericColorSpinor" alt="" coords="460,425,663,451"/>
+<area shape="rect" id="node21" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a87f119ccdbced8800c5717b15054254e" title="memcpy" alt="" coords="798,835,869,860"/>
+<area shape="rect" id="node5" href="$namespacequda.html#aa129a341bc9cb22a0cb3307b3b477d6c" title="quda::copyGenericColorSpinorDD" alt="" coords="722,5,945,31"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a60ca21c7e4a197a92b150e3ecd8ede72" title="quda::copyGenericColorSpinorDH" alt="" coords="722,55,945,80"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a097ebc8d3a3598fe20bb6f410c2dd09a" title="quda::copyGenericColorSpinorDS" alt="" coords="723,104,945,129"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a2be58352d642b4637c527c81a0a07311" title="quda::copyGenericColorSpinorHD" alt="" coords="722,153,945,179"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a2ae76a7f220448c0a4b0a4caa11be905" title="quda::copyGenericColorSpinorHH" alt="" coords="722,203,945,228"/>
+<area shape="rect" id="node10" href="$namespacequda.html#ae64e15a531f5ec119f0d8d4a4bb15a47" title="quda::copyGenericColorSpinorHS" alt="" coords="723,252,945,277"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a2c4d03ba43c0434919f37fd32f8e4bf5" title="quda::copyGenericColorSpinorMGDD" alt="" coords="711,301,956,327"/>
+<area shape="rect" id="node12" href="$namespacequda.html#aa24f5438cac19d0463e3be4a61efcec3" title="quda::copyGenericColorSpinorMGDS" alt="" coords="712,351,955,376"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a335840cc1bf471aa21c2203c95b3df51" title="quda::copyGenericColorSpinorMGSD" alt="" coords="712,400,955,425"/>
+<area shape="rect" id="node14" href="$namespacequda.html#ad001575c91497418705b09a81f41c46b" title="quda::copyGenericColorSpinorMGSS" alt="" coords="712,449,955,475"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a6a1e2248526361f15fba4df5c187cc09" title="quda::copyGenericColorSpinorSD" alt="" coords="723,499,945,524"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a61ee55d4aa1c4c1ef581339de1c1d3c5" title="quda::copyGenericColorSpinorSH" alt="" coords="723,548,945,573"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a6fe5e000d4e97a33b3e55b9846b3f3db" title="quda::copyGenericColorSpinorSS" alt="" coords="723,597,944,623"/>
+<area shape="rect" id="node18" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="755,647,912,685"/>
+<area shape="rect" id="node19" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="770,709,897,748"/>
+<area shape="rect" id="node20" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="755,772,912,811"/>
+<area shape="rect" id="node23" href="$classquda_1_1_color_spinor_field.html#aa1f01c71a2ee151270ba4cf6fbd769af" title="quda::ColorSpinorField\l::Bytes" alt="" coords="483,765,640,804"/>
+<area shape="rect" id="node24" href="$classquda_1_1cpu_color_spinor_field.html#ae423bda70c0317718f68a44cf7508e31" title="quda::cpuColorSpinorField\l::cpuColorSpinorField" alt="" coords="472,828,651,867"/>
+<area shape="rect" id="node25" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="755,885,912,924"/>
+<area shape="rect" id="node28" href="$classquda_1_1_color_spinor_field.html#a6efc15564f9d65b15e08dd48802c054b" title="quda::ColorSpinorField\l::create" alt="" coords="483,991,640,1029"/>
+<area shape="rect" id="node29" href="$classquda_1_1_color_spinor_field.html#a0fd1f89de7282388c6edb060396e8b8b" title="quda::ColorSpinorField\l::Ndim" alt="" coords="755,948,912,987"/>
+<area shape="rect" id="node30" href="$classquda_1_1_color_spinor_field.html#aefc7d6c23f199d677d3a458a9add3934" title="quda::ColorSpinorField::Pad" alt="" coords="739,1011,928,1036"/>
+<area shape="rect" id="node31" href="$classquda_1_1_color_spinor_field.html#ae8773f62a646118e571b072c00505686" title="quda::ColorSpinorField\l::setTuningString" alt="" coords="755,1060,912,1099"/>
+<area shape="rect" id="node34" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="747,1123,921,1148"/>
+<area shape="rect" id="node32" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#aa1aad1016d610ca93301167398ca3d4e" title="snprintf" alt="" coords="1004,1043,1069,1068"/>
+<area shape="rect" id="node33" href="$_c_make_c_u_d_a_compiler_id_8cpp1_8ii.html#a53b054f03667fa7e48a9d6ede1e010a5" title="strcpy" alt="" coords="1008,1092,1065,1117"/>
+</map>

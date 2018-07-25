@@ -1,0 +1,24 @@
+<map id="quda::ColorSpinorField::Components" name="quda::ColorSpinorField::Components">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="278,5,365,31"/>
+<area shape="rect" id="node4" href="$classquda_1_1_g_m_res_d_r.html#aa869a115446b88110dcbf22c55e8d9b7" title="quda::GMResDR::FlexArnoldi\lProcedure" alt="" coords="223,153,420,192"/>
+<area shape="rect" id="node5" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="480,132,669,157"/>
+<area shape="rect" id="node6" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="725,505,902,531"/>
+<area shape="rect" id="node8" href="$classquda_1_1_deflation.html#a98318860027f484d1988bf45fa63ca5d" title="Load the eigen space vectors from file. " alt="" coords="228,429,416,455"/>
+<area shape="rect" id="node10" href="$classquda_1_1_deflation.html#a34216916176aa5676b2b4af567808b45" title="quda::Deflation::operator()" alt="" coords="233,268,410,293"/>
+<area shape="rect" id="node11" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="734,569,893,595"/>
+<area shape="rect" id="node12" href="$classquda_1_1_eig_c_g_args.html#a3e4601246aa5caa953b91b9ca0af1d3d" title="quda::EigCGArgs::Restart\lLanczos" alt="" coords="234,367,409,405"/>
+<area shape="rect" id="node13" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="230,705,413,731"/>
+<area shape="rect" id="node16" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="222,55,422,80"/>
+<area shape="rect" id="node17" href="$classquda_1_1_deflation.html#a7e395f7e68cb32b49018246523a8a99e" title="Save the eigen space vectors in file. " alt="" coords="226,531,417,556"/>
+<area shape="rect" id="node18" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="300,632,343,657"/>
+<area shape="rect" id="node22" href="$classquda_1_1_g_m_res_d_r.html#a80f9173c2c04c21db51934fa85521e4e" title="quda::GMResDR::UpdateSolution" alt="" coords="211,104,432,129"/>
+<area shape="rect" id="node23" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="247,317,397,343"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="539,5,611,31"/>
+<area shape="rect" id="node7" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="957,519,1138,544"/>
+<area shape="rect" id="node9" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="489,399,660,424"/>
+<area shape="rect" id="node14" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="482,731,668,756"/>
+<area shape="rect" id="node15" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="717,731,909,756"/>
+<area shape="rect" id="node19" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="531,681,619,707"/>
+<area shape="rect" id="node21" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="539,632,611,657"/>
+<area shape="rect" id="node20" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="788,681,838,707"/>
+</map>
