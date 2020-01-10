@@ -1,0 +1,6 @@
+<map id="TEST_F" name="TEST_F">
+<area shape="rect" id="node2" href="$namespacequda.html#a123d061b3fde1198e9a4fc3fde3f6176" title="Gauge fixing with overrelaxation with support for single and multi GPU. " alt="" coords="124,17,271,43"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a3e2c87fa81202d08ce4082c386bd7740" title="Compute the plaquette of the gauge field. " alt="" coords="143,71,252,98"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="319,5,441,47"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="319,71,441,112"/>
+</map>

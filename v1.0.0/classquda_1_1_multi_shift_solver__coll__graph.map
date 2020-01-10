@@ -1,0 +1,18 @@
+<map id="quda::MultiShiftSolver" name="quda::MultiShiftSolver">
+<area shape="rect" id="node2" href="$classquda_1_1_time_profile.html" title="quda::TimeProfile" alt="" coords="1258,151,1379,177"/>
+<area shape="rect" id="node3" href="$structquda_1_1_timer.html" title="quda::Timer" alt="" coords="1003,91,1092,117"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="1009,143,1085,169"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="624,121,745,162"/>
+<area shape="rect" id="node6" href="$structquda_1_1_solver_param.html" title="quda::SolverParam" alt="" coords="1253,243,1384,269"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="609,291,760,317"/>
+<area shape="rect" id="node9" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="307,187,429,213"/>
+<area shape="rect" id="node10" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="7,5,102,32"/>
+<area shape="rect" id="node11" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="5,187,104,213"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="629,413,740,440"/>
+<area shape="rect" id="node15" href="$structquda_1_1_composite_color_spinor_field_descriptor.html" title="quda::CompositeColorSpinor\lFieldDescriptor" alt="" coords="276,283,460,325"/>
+<area shape="rect" id="node16" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="295,356,441,383"/>
+<area shape="rect" id="node17" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="15,379,95,405"/>
+<area shape="rect" id="node18" href="$struct_quda_eig_param__s.html" title="QudaEigParam_s" alt="" coords="986,195,1109,221"/>
+<area shape="rect" id="node19" href="$struct_quda_invert_param__s.html" title="QudaInvertParam_s" alt="" coords="617,187,753,213"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="638,504,731,531"/>
+</map>

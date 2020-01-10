@@ -1,0 +1,26 @@
+<map id="quda::Staggered&lt; Float, nDim, nColor, Arg &gt;" name="quda::Staggered&lt; Float, nDim, nColor, Arg &gt;">
+<area shape="rect" id="node2" href="$classquda_1_1_dslash.html" title="quda::Dslash\&lt; Float \&gt;" alt="" coords="1453,256,1599,283"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable_vector_y_z.html" title="quda::TunableVectorYZ" alt="" coords="1113,203,1269,229"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable_vector_y.html" title="quda::TunableVectorY" alt="" coords="795,96,943,123"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html" title="quda::Tunable" alt="" coords="405,5,507,32"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="1116,320,1267,347"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="808,237,931,264"/>
+<area shape="rect" id="node8" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="409,56,503,83"/>
+<area shape="rect" id="node9" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="407,237,505,264"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="1136,433,1247,460"/>
+<area shape="rect" id="node13" href="$structquda_1_1_composite_color_spinor_field_descriptor.html" title="quda::CompositeColorSpinor\lFieldDescriptor" alt="" coords="777,313,961,354"/>
+<area shape="rect" id="node14" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="797,380,942,407"/>
+<area shape="rect" id="node15" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="416,429,496,456"/>
+<area shape="rect" id="node16" href="$structquda_1_1_arg.html" title="quda::Arg\&lt; real, Ns,\l Nc, order \&gt;" alt="" coords="1459,489,1593,530"/>
+<area shape="rect" id="node17" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; real,\l Ns, Nc, 1, order \&gt;" alt="" coords="1123,589,1259,645"/>
+<area shape="rect" id="node18" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; real, nSpin,\l nColor, nVec, order \&gt;" alt="" coords="581,844,751,900"/>
+<area shape="rect" id="node19" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; Float, nSpin,\l nColor, nVec, order \&gt;" alt="" coords="5,817,183,873"/>
+<area shape="rect" id="node28" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; storeFloat,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="373,774,539,845"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="47,672,141,699"/>
+<area shape="rect" id="node22" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; real,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="585,474,747,545"/>
+<area shape="rect" id="node23" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; Float,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="9,501,179,571"/>
+<area shape="rect" id="node26" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; ghostFloat,\l nSpin, nColor, nVec, order \&gt;" alt="" coords="355,541,557,597"/>
+<area shape="rect" id="node24" href="$structquda_1_1norm__type.html" title="quda::norm_type\&lt; T \&gt;" alt="" coords="796,635,943,661"/>
+<area shape="rect" id="node25" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l nSpin, nColor, nVec,\l order, storeFloat, ghostFloat,\l disable_ghost, block_float,\l use_tex \&gt;" alt="" coords="775,686,964,786"/>
+<area shape="rect" id="node30" href="$classquda_1_1_r_n_g.html" title="Class declaration to initialize and hold CURAND RNG states. " alt="" coords="1149,496,1233,523"/>
+</map>

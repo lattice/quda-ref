@@ -1,0 +1,8 @@
+<map id="quda::DiracWilson::M" name="quda::DiracWilson::M">
+<area shape="rect" id="node2" href="$namespacequda.html#adf4499ffc13acba25a93d8aa2de60861" title="Driver for applying the Wilson stencil. " alt="" coords="224,71,351,98"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="195,126,380,153"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="212,177,363,219"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="435,5,586,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="428,71,593,98"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="435,123,586,164"/>
+</map>

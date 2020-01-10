@@ -1,0 +1,11 @@
+<map id="newCopyToFloat" name="newCopyToFloat">
+<area shape="rect" id="node2" href="$new__half_8cu.html#a0248436541adbc9ac7a8ea32c10c511c" title="new_load_half" alt="" coords="172,81,276,108"/>
+<area shape="rect" id="node3" href="$namespacequda.html#abf5b4d5728021e058d90ff1d07446399" title="quda::copy" alt="" coords="324,5,407,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="327,56,403,83"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="329,107,401,133"/>
+<area shape="rect" id="node10" href="$new__half_8cu.html#ae516c561c185b5405f3fd4ecf6ee6ba9" title="ucopy" alt="" coords="337,157,393,184"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="455,56,531,83"/>
+<area shape="rect" id="node6" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="579,41,717,82"/>
+<area shape="rect" id="node7" href="$structquda_1_1complex_3_01float_01_4.html#a692127ea4240002b39f3581648d5bab4" title="quda::complex\&lt; float\l \&gt;::imag" alt="" coords="579,106,717,147"/>
+<area shape="rect" id="node9" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="457,107,529,133"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="quda::LatticeField::Location" name="quda::LatticeField::Location">
+<area shape="rect" id="node2" href="$structquda_1_1gauge_1_1_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___f_l_o_a_t2___g_a_u_g_e_0851bfc944ce664513b027bdb1e7938b.html#aaac76f7fdae0f7d7d82d1aa2368e5d2d" title="quda::gauge::Accessor\l\&lt; Float, nColor, QUDA\l_FLOAT2_GAUGE_ORDER, storeFloat,\l use_tex \&gt;::Accessor" alt="" coords="176,5,427,76"/>
+<area shape="rect" id="node3" href="$classquda_1_1_spinor_noise.html#aa01f13b56701fd4b1263f5316b87d0d3" title="quda::SpinorNoise::\ladvanceTuneParam" alt="" coords="233,100,370,141"/>
+<area shape="rect" id="node4" href="$classquda_1_1_calculate_y.html#a02aefc02a5b5a7410a4e35f2a756e5e2" title="quda::CalculateY::advance\lTuneParam" alt="" coords="215,165,388,207"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_plaq.html#a40686c88d0f9069fbf9dffa04005cddd" title="quda::GaugePlaq::apply" alt="" coords="223,231,379,258"/>
+<area shape="rect" id="node7" href="$classquda_1_1_staggered.html#a070c94e4112e52b693247a31a028404e" title="quda::Staggered::apply" alt="" coords="226,282,377,309"/>
+<area shape="rect" id="node8" href="$classquda_1_1_generic_pack_ghost_launcher.html#a7d92338a4bc5f7ffce7830f27f64d13d" title="quda::GenericPackGhostLauncher\l::apply" alt="" coords="192,333,411,375"/>
+<area shape="rect" id="node10" href="$classquda_1_1_gauge_gauss.html#a7bf16a3367d740d963d9d3a3260ab04a" title="quda::GaugeGauss::apply" alt="" coords="218,399,385,426"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dslash5.html#a8cf579e359aa793a0fee3652d9827635" title="quda::Dslash5::apply" alt="" coords="233,450,370,477"/>
+<area shape="rect" id="node14" href="$classquda_1_1_wuppertal_smearing.html#a1758fb9639397c69e0085d9e2f616163" title="quda::WuppertalSmearing\l::apply" alt="" coords="217,501,386,543"/>
+<area shape="rect" id="node16" href="$classquda_1_1_gauge_ovr_imp_s_t_o_u_t.html#a64284adad7975caf638bf081fe3ee165" title="quda::GaugeOvrImpSTOUT\l::apply" alt="" coords="211,567,391,608"/>
+<area shape="rect" id="node17" href="$classquda_1_1_calculate_y.html#ad46c33491314afdd5a385fd98849715f" title="quda::CalculateY::apply" alt="" coords="224,633,379,659"/>
+<area shape="rect" id="node19" href="$classquda_1_1_gamma.html#a281a4dc4bfad579d75e43f48615079ef" title="quda::Gamma::apply" alt="" coords="232,683,371,710"/>
+<area shape="rect" id="node20" href="$classquda_1_1_twist_gamma.html#a78d1744247236134a3e62d23f36cb1e8" title="quda::TwistGamma::apply" alt="" coords="217,734,385,761"/>
+<area shape="rect" id="node22" href="$classquda_1_1_clover.html#a505c55c3df1c5d79b865028c79805093" title="quda::Clover::apply" alt="" coords="237,785,365,811"/>
+<area shape="rect" id="node23" href="$classquda_1_1_twist_clover.html#a9b5995aa40d2b04fa601c65bb5812c13" title="quda::TwistClover::\lapply" alt="" coords="237,836,365,877"/>
+<area shape="rect" id="node24" href="$classquda_1_1_calculate_y.html#ad58cb9c4ac046f76c93cbf026993b648" title="quda::CalculateY::CalculateY" alt="" coords="490,959,678,986"/>
+<area shape="rect" id="node25" href="$namespacequda_1_1blas.html#ae462068e0f6e4e517c84156dceea06b2" title="quda::blas::caxpyXmazMR" alt="" coords="216,953,387,979"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a026455342b50e0274c0aad8886880e0c" title="quda::colorSpinorParam" alt="" coords="222,1003,381,1030"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a132db40101f41eca59f22245144fdab3" title="Helper function for setting auxilary string. " alt="" coords="225,1054,378,1081"/>
+<area shape="rect" id="node28" href="$classquda_1_1_generic_pack_ghost_launcher.html#afb3c4eb145beca84774f3bb7f97e105f" title="quda::GenericPackGhostLauncher\l::GenericPackGhostLauncher" alt="" coords="475,1068,693,1109"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a34dd1c4bb3cbe98eb22f8ff86fa0acf1" title="Compute and return global the momentum action 1/2 mom^2. " alt="" coords="498,1206,670,1233"/>
+<area shape="rect" id="node30" href="$namespacequda.html#a004044d1e9bec75f92aa844863084f95" title="quda::forceRecord" alt="" coords="741,1206,868,1233"/>
+<area shape="rect" id="node31" href="$namespacequda_1_1blas.html#aee938c63ad4eaa9d0ccc7d50013a5618" title="quda::blas::copy" alt="" coords="245,1257,357,1283"/>
+<area shape="rect" id="node32" href="$classquda_1_1_color_spinor_field.html#ab35ecfee5829a97f0cf7a7cdddadfce8" title="Create a coarse color&#45;spinor field, using this field to set the meta data. " alt="" coords="226,1308,377,1349"/>
+<area shape="rect" id="node33" href="$classquda_1_1_color_spinor_field.html#a6b637b6d85add5ba71ae879616fb6f2a" title="Create a fine color&#45;spinor field, using this field to set the meta data. " alt="" coords="226,1373,377,1415"/>
+<area shape="rect" id="node34" href="$classquda_1_1_gauge_field.html#a93b1219a2b9d0a7540162587f756a913" title="Exchange the buffers across all dimensions in a given direction. " alt="" coords="210,1439,393,1466"/>
+<area shape="rect" id="node35" href="$classquda_1_1_color_spinor_field.html#a03366c6ecf5bdea2e1988dd8d9e4d114" title="quda::ColorSpinorField\l::exchange" alt="" coords="226,1491,377,1532"/>
+<area shape="rect" id="node36" href="$classquda_1_1_color_spinor_field.html#a04bec375d7075f4802836e3d488d951e" title="quda::ColorSpinorField\l::fill" alt="" coords="226,1556,377,1597"/>
+<area shape="rect" id="node37" href="$structquda_1_1clover_1_1_float_n_order.html#a7fe20337c58af4fe4d901fa5682f6da6" title="host memory for backing up norm when tuning " alt="" coords="218,1621,385,1663"/>
+<area shape="rect" id="node38" href="$structquda_1_1colorspinor_1_1_float_n_order.html#a946f9c40478d2a450a7cc4a6967565f7" title="quda::colorspinor::\lFloatNOrder::FloatNOrder" alt="" coords="217,1687,385,1728"/>
+<area shape="rect" id="node39" href="$structquda_1_1gauge_1_1_float_n_order.html#a6351fb6fa9f56d2777e35c172db1f233" title="quda::gauge::FloatNOrder\l::FloatNOrder" alt="" coords="218,1752,385,1793"/>
+<area shape="rect" id="node40" href="$namespacequda.html#ae0a0c215d9b1eb1a2365adee27ef08a5" title="Compute the gauge&#45;force contribution to the momentum. " alt="" coords="239,1818,363,1845"/>
+<area shape="rect" id="node41" href="$classquda_1_1_dslash.html#a840347b8d284210b343406a084f3738e" title="This instantiate function is used to instantiate the the KernelType template required for the multi&#45;G..." alt="" coords="222,1869,381,1895"/>
+<area shape="rect" id="node42" href="$namespacequda.html#abdb69a3aeaaa0014a6b77f4279c2b954" title="Helper function for determining if the location of the fields is the same. " alt="" coords="245,1919,357,1946"/>
+<area shape="rect" id="node43" href="$classquda_1_1_transfer.html#acae8c442c5f6dd3a12530c010d556838" title="quda::Transfer::P" alt="" coords="242,1970,361,1997"/>
+<area shape="rect" id="node44" href="$namespacequda.html#a3e2c87fa81202d08ce4082c386bd7740" title="Compute the plaquette of the gauge field. " alt="" coords="247,2021,356,2047"/>
+<area shape="rect" id="node45" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="242,2071,361,2098"/>
+<area shape="rect" id="node46" href="$classquda_1_1_spinor_noise.html#a6ff1b653b467e9fcf15e9037e42f1ae4" title="quda::SpinorNoise::\lSpinorNoise" alt="" coords="236,2123,367,2164"/>
+<area shape="rect" id="node47" href="$namespacequda.html#af5dfe5132103d5e6adc57775ad51100e" title="Generate a random noise spinor. This variant allows the user to manage the RNG state. " alt="" coords="240,2189,363,2215"/>
+<area shape="rect" id="node48" href="$classquda_1_1_calculate_y.html#aaaf33e1cfb386132415888132e02a630" title="quda::CalculateY::tuneKey" alt="" coords="215,2239,387,2266"/>
+<area shape="rect" id="node49" href="$namespacequda.html#a7b04205cefd9a00558d7ca3f8190fd3c" title="quda::updateGaugeField" alt="" coords="221,2290,382,2317"/>
+<area shape="rect" id="node50" href="$namespacequda.html#ac915554f1abaaccfb9e2e974d855d473" title="quda::updateMomentum" alt="" coords="221,2341,381,2367"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a2a65984896dc13def20db6ba3fdd30bd" title="quda::plaquette" alt="" coords="529,231,639,258"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a014ceadabae12572d2dcd8215e8f5f77" title="Generic ghost packing routine. " alt="" coords="503,341,665,367"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a0119e786d84f723bb576cbf67f949903" title="quda::genGauss" alt="" coords="527,399,641,426"/>
+<area shape="rect" id="node13" href="$namespacequda.html#af7019e9408ff36b2d43c26b4e820e551" title="Apply either the domain&#45;wall / mobius Dslash5 operator or the M5 inverse operator. In the current implementation, it is expected that the color&#45;spinor fields are 4&#45;d preconditioned. " alt="" coords="517,450,651,477"/>
+<area shape="rect" id="node15" href="$namespacequda.html#ad68820237b5ce7ba722c70f3b26eb8eb" title="quda::wuppertalStep" alt="" coords="515,509,653,535"/>
+<area shape="rect" id="node18" href="$namespacequda.html#ab9137714d5730728d68f8e6baccdf7bc" title="Calculate the coarse&#45;link field, including the coarse clover field. " alt="" coords="525,633,643,659"/>
+<area shape="rect" id="node21" href="$namespacequda.html#a6e7494d075405e71c9666c416c938cf1" title="Apply the twisted&#45;mass gamma operator to a color&#45;spinor field. " alt="" coords="502,734,666,761"/>
+</map>

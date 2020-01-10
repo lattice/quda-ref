@@ -1,0 +1,4 @@
+<map id="quda::Tunable::maxSharedBytesPerBlock" name="quda::Tunable::maxSharedBytesPerBlock">
+<area shape="rect" id="node2" href="$classquda_1_1_dslash5.html#abf40066c67de67ff3e0fcd6781b35fda" title="The maximum shared memory that a CUDA thread block can use in the autotuner. This isn&#39;t necessarily t..." alt="" coords="236,5,408,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_pack.html#a025740d381be8fef7f78a93f088625e6" title="quda::Pack::tuneSharedBytes" alt="" coords="227,71,417,98"/>
+</map>

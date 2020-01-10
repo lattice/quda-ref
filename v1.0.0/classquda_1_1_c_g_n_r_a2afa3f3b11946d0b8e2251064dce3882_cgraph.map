@@ -1,0 +1,36 @@
+<map id="quda::CGNR::operator()" name="quda::CGNR::operator()">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#af85f40eeab3159691bfaece301466b3d" title="quda::blas::axpby" alt="" coords="266,13,385,39"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="250,64,401,105"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_matrix.html#a123030484afb5d8a15a1df5fcb08e3ca" title="quda::DiracMatrix::\lExpose" alt="" coords="262,129,389,171"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#a46268afb6cc8f820c3b37ff6607e6954" title="quda::blas::HeavyQuarkResidualNorm" alt="" coords="208,195,443,222"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="515,285,617,311"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="263,297,387,323"/>
+<area shape="rect" id="node12" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="265,347,386,374"/>
+<area shape="rect" id="node13" href="$classquda_1_1_c_g.html#aac9d0eacc4ea6d7c69590eb8a10ea017" title="Run CG. " alt="" coords="257,398,393,425"/>
+<area shape="rect" id="node14" href="$classquda_1_1_solver.html#a8db54e989f46e8edf99a9a344f22f77d" title="Prints out the summary of the solver convergence (requires a verbosity of QUDA_SUMMARIZE). Assumes SolverParam.true_res and SolverParam.true_res_hq has been set. " alt="" coords="235,449,415,475"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="527,499,605,526"/>
+<area shape="rect" id="node31" href="$classquda_1_1_solver.html#a9f6fb837af6f05e1c1986440dcd89095" title="Set the solver L2 stopping condition. " alt="" coords="252,550,399,577"/>
+<area shape="rect" id="node32" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="271,601,380,627"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a7a989a4b5814fab3ae2ad74d76bbc874" title="quda::blas::axpbyz" alt="" coords="504,13,628,39"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="689,5,812,47"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="491,155,641,196"/>
+<area shape="rect" id="node9" href="$comm__quda_8h.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="523,221,609,247"/>
+<area shape="rect" id="node15" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="520,449,612,475"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a7b851d44a9626b208c0ad84cee6eec79" title="quda::sqrt" alt="" coords="712,499,789,526"/>
+<area shape="rect" id="node18" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="864,449,940,475"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="865,499,939,526"/>
+<area shape="rect" id="node24" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="860,550,944,577"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="998,449,1074,475"/>
+<area shape="rect" id="node20" href="$structquda_1_1complex_3_01double_01_4.html#a3da47d570b43abe5d1720537d69c681c" title="quda::complex\&lt; double\l \&gt;::imag" alt="" coords="1128,397,1281,439"/>
+<area shape="rect" id="node21" href="$structquda_1_1complex_3_01double_01_4.html#adc5681045ec6cd66e5ab0c73c8dc4ffd" title="quda::complex\&lt; double\l \&gt;::real" alt="" coords="1128,463,1281,504"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="992,499,1080,526"/>
+<area shape="rect" id="node25" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="998,550,1074,577"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="1000,601,1072,627"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="1167,550,1243,577"/>
+<area shape="rect" id="node27" href="$structquda_1_1complex_3_01float_01_4.html#a692127ea4240002b39f3581648d5bab4" title="quda::complex\&lt; float\l \&gt;::imag" alt="" coords="1329,535,1468,576"/>
+<area shape="rect" id="node28" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="1329,600,1468,641"/>
+<area shape="rect" id="node30" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="1169,601,1241,627"/>
+<area shape="rect" id="node33" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="493,575,639,602"/>
+<area shape="rect" id="node35" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="491,626,641,653"/>
+<area shape="rect" id="node34" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="717,575,785,602"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="quda::applyStaggered" name="quda::applyStaggered">
+<area shape="rect" id="node2" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="234,5,314,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ab14419953c0b6e02a7e9ac4a4313e0b9" title="quda::linkIndexM1" alt="" coords="211,56,337,83"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a29a377b8266f65a52210764e05d7a24d" title="quda::linkIndexM3" alt="" coords="211,107,337,133"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a0b554befac535568a3866593316bfe26" title="quda::linkIndexP1" alt="" coords="213,157,335,184"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a28607f6fa1739e109ff41acd0e48b974" title="quda::linkIndexP3" alt="" coords="213,208,335,235"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a05261e247b2fa6bfb7bb1210c77d0636" title="quda::printLink" alt="" coords="221,259,327,285"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a82e883b0c8e9f4e028953ba20e274ca3" title="Compute the staggered phase factor at unit shift from the current lattice coordinates. The routine below optimizes out the shift where possible, hence is only visible where we need to consider the boundary condition. " alt="" coords="199,309,349,336"/>
+<area shape="rect" id="node4" href="$namespacequda.html#aea9824fc761818042d9da81d081dcdd9" title="quda::linkIndexDn" alt="" coords="397,81,520,108"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="421,309,496,336"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="568,309,656,336"/>
+</map>

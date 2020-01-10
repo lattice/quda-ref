@@ -1,0 +1,51 @@
+<map id="quda::getDeterminant" name="quda::getDeterminant">
+<area shape="rect" id="node2" href="$namespacequda.html#ad976bda0be49038ef5ecc0d539b1cbd3" title="quda::computeLinkInverse" alt="" coords="201,5,371,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a07ecc1ec003a303ca19edfe2a37da461" title="quda::exponentiate_iQ" alt="" coords="211,56,361,83"/>
+<area shape="rect" id="node6" href="$structquda_1_1gauge_1_1_reconstruct_3_0113_00_01_float_00_01ghost_exchange___00_01stag__phase_01_4.html#acd0e54904e9e4fb7b18eeaf2eb027da6" title="quda::gauge::Reconstruct\l\&lt; 13, Float, ghostExchange\l_, stag_phase \&gt;::getPhase" alt="" coords="197,259,375,315"/>
+<area shape="rect" id="node7" href="$structquda_1_1gauge_1_1_reconstruct_3_019_00_01_float_00_01ghost_exchange___00_01stag__phase_01_4.html#a846a8dbe5e9594fbbfcd82d72e0db209" title="quda::gauge::Reconstruct\l\&lt; 9, Float, ghostExchange\l_, stag_phase \&gt;::getPhase" alt="" coords="200,339,372,395"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a599ff2d7aba3544b3e0559cd50861906" title="quda::inverse" alt="" coords="238,157,334,184"/>
+<area shape="rect" id="node10" href="$namespacequda.html#ab0fdd052fd3ec3ef5b47118b820fce01" title="Project the input matrix on the SU(3) group. First unitarize the matrix and then project onto the spe..." alt="" coords="485,107,592,133"/>
+<area shape="rect" id="node33" href="$namespacequda.html#a3c09d0ff142aeda455e7fa29a0ef81f8" title="quda::setUnitarizeLinksConstants" alt="" coords="433,683,644,709"/>
+<area shape="rect" id="node4" href="$namespacequda.html#abb828db4d01a4a845f7448943e02d120" title="quda::computeOvrImpSTOUTStep" alt="" coords="429,5,648,32"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a4c6454379fb7e715088552d1f2340f9c" title="quda::computeSTOUTStep" alt="" coords="450,56,627,83"/>
+<area shape="rect" id="node9" href="$structquda_1_1clover_1_1_accessor_3_01_float_00_01n_color_00_01n_spin_00_01_q_u_d_a___p_a_c_k_e_232545b3542066bbebdd93a49a8fe0b1.html#aaf63f413ced2ccadfb3e533a308e15ef" title="quda::clover::Accessor\l\&lt; Float, nColor, nSpin,\l QUDA_PACKED_CLOVER_ORDER\l \&gt;::Accessor" alt="" coords="423,209,655,279"/>
+<area shape="rect" id="node11" href="$classquda_1_1cuda_clover_field.html#a53d56abd8ffcb9994bf256899f7719c2" title="Copy into this CloverField from the generic CloverField src. " alt="" coords="736,230,884,271"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#a8df9daaddff2c4eaf29a0f7878dfe852" title="loadCloverQuda" alt="" coords="990,153,1103,180"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a66381cafed77b92ed2f0278b373d4ec5" title="This generic function is used for copying the clover field where in the input and output can be in an..." alt="" coords="457,355,621,381"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a210a3e0c3de0fd822d91f68acfb207d9" title="Apply clover&#45;matrix field to a color&#45;spinor field. " alt="" coords="477,420,601,447"/>
+<area shape="rect" id="node12" href="$classquda_1_1cuda_clover_field.html#a58e96ae984405b79192937a165f47b32" title="quda::cudaCloverField\l::loadCPUField" alt="" coords="973,205,1121,246"/>
+<area shape="rect" id="node18" href="$interface__quda_8cpp.html#addf969ced5e38a4a3a0335433ada0984" title="loadSloppyCloverQuda" alt="" coords="971,271,1123,297"/>
+<area shape="rect" id="node14" href="$dslash__ctest_8cpp.html#a64129cf6a57ea1eaec3d8beb72214bd7" title="init" alt="" coords="1254,201,1293,228"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#ac82c02b41cda6766ed0fded459a5896d" title="load_clover_quda_" alt="" coords="1209,100,1338,127"/>
+<area shape="rect" id="node17" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1248,151,1299,177"/>
+<area shape="rect" id="node15" href="$class_dslash_test.html#afb0a7879cf403f62842a6a187b18c2dc" title="DslashTest::SetUp" alt="" coords="1419,201,1545,228"/>
+<area shape="rect" id="node20" href="$structquda_1_1_full_clover.html#ae938f6d152dff7d3bde7c508740418dc" title="quda::FullClover::FullClover" alt="" coords="722,361,898,388"/>
+<area shape="rect" id="node21" href="$classquda_1_1cuda_clover_field.html#abf10fe063596a163d24da96b3139c50d" title="quda::cudaCloverField\l::saveCPUField" alt="" coords="736,295,884,337"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a54730f68a5a027c068a61f7f078d9ce6" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="990,321,1103,348"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac_wilson.html#a4e873522da17bae973718aa7aa942b7e" title="Create the coarse Wilson operator. " alt="" coords="1208,383,1339,425"/>
+<area shape="rect" id="node24" href="$classquda_1_1_dirac_clover.html#a9c69f0fb58c5bd94644f141319473663" title="Create the coarse clover operator. " alt="" coords="1209,253,1337,294"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac_clover_p_c.html#a408ad9ed05b6ab10213f30e83e5fb5e2" title="Create the coarse even&#45;odd preconditioned clover operator. Unlike the Wilson operator, the coarsening of the preconditioned clover operator differs from that of the unpreconditioned clover operator, so we need to specialize it. " alt="" coords="1203,318,1343,359"/>
+<area shape="rect" id="node27" href="$classquda_1_1_dirac_clover.html#a88d17fecb06a32fdfb538541cb12a153" title="quda::DiracClover::\lClover" alt="" coords="746,413,874,454"/>
+<area shape="rect" id="node29" href="$classquda_1_1_dirac_clover_p_c.html#aa2154db33b7a739edaccd4b617224ecb" title="quda::DiracCloverPC\l::CloverInv" alt="" coords="740,478,880,519"/>
+<area shape="rect" id="node28" href="$interface__quda_8cpp.html#acb76b2ef5b4507f26c1970c95bad1a72" title="cloverQuda" alt="" coords="1003,372,1090,399"/>
+<area shape="rect" id="node30" href="$classquda_1_1_dirac_clover_p_c.html#a3b22e25becd343736df139f81ed36533" title="quda::DiracCloverPC::M" alt="" coords="968,489,1125,516"/>
+<area shape="rect" id="node31" href="$classquda_1_1_dirac_clover_p_c.html#a3ef0096d2bf6380732a2b84975963496" title="quda::DiracCloverPC\l::prepare" alt="" coords="977,541,1117,582"/>
+<area shape="rect" id="node32" href="$classquda_1_1_dirac_clover_p_c.html#aafe72319c000f86b469b523a261dbde4" title="quda::DiracCloverPC\l::reconstruct" alt="" coords="977,423,1117,465"/>
+<area shape="rect" id="node34" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="737,708,883,735"/>
+<area shape="rect" id="node41" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="1010,607,1083,633"/>
+<area shape="rect" id="node45" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="984,809,1109,836"/>
+<area shape="rect" id="node47" href="$class_gauge_alg_test.html#a93de3159fb703ef96631994b6d99c112" title="GaugeAlgTest::SetReunitarization\lConsts" alt="" coords="703,810,917,851"/>
+<area shape="rect" id="node48" href="$heatbath__test_8cpp.html#a438ddc479b7279720e562041921f78c5" title="setReunitarizationConsts" alt="" coords="729,876,891,903"/>
+<area shape="rect" id="node50" href="$staggered__gauge__utils_8cpp.html#a7bfa90250f756f10c19920c01d8058fd" title="setActionPaths" alt="" coords="992,657,1101,684"/>
+<area shape="rect" id="node35" href="$staggered__gauge__utils_8h.html#a80b581c4061de4f160efca53727a8ced" title="computeHISQLinksGPU" alt="" coords="965,708,1128,735"/>
+<area shape="rect" id="node43" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="1011,759,1082,785"/>
+<area shape="rect" id="node36" href="$staggered__gauge__utils_8h.html#af0aca89a3894a49dac7950c095b36bf4" title="computeFatLongGPU" alt="" coords="1200,708,1347,735"/>
+<area shape="rect" id="node39" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="1176,657,1371,684"/>
+<area shape="rect" id="node37" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="1427,708,1537,735"/>
+<area shape="rect" id="node38" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="1441,759,1523,785"/>
+<area shape="rect" id="node40" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="1463,657,1501,684"/>
+<area shape="rect" id="node42" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1248,607,1299,633"/>
+<area shape="rect" id="node44" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1248,759,1299,785"/>
+<area shape="rect" id="node46" href="$unitarize__link__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1248,809,1299,836"/>
+<area shape="rect" id="node49" href="$heatbath__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1021,876,1072,903"/>
+</map>

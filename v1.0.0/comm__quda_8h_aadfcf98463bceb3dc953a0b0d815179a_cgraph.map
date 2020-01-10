@@ -1,0 +1,5 @@
+<map id="comm_allreduce_min" name="comm_allreduce_min">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="199,31,305,57"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="353,5,469,32"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#aa494422fc1d868c35ecbfa909bf9d468" title="PMPI_Reduce" alt="" coords="358,56,465,83"/>
+</map>

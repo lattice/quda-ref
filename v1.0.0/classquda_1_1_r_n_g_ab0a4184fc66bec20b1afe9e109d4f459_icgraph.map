@@ -1,0 +1,4 @@
+<map id="quda::RNG::State" name="quda::RNG::State">
+<area shape="rect" id="node2" href="$namespacequda.html#a1dd7377a23d81715963d9b205bbf915e" title="quda::SpinorNoiseCPU" alt="" coords="175,5,327,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a9d7e8307cdd960106bc5fb02c23e16d9" title="quda::SpinorNoiseGPU" alt="" coords="175,56,328,83"/>
+</map>

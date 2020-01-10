@@ -1,0 +1,21 @@
+<map id="quda::DiracCoarse::createYhat" name="quda::DiracCoarse::createYhat">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_coarse.html#ad73a48293b9e8280b63443263a4d4aac" title="Initialize the coarse gauge fields. Location is determined by gpu_setup variable. ..." alt="" coords="185,100,317,141"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_coarse.html#a97b2f6b1749cc80498ea5a6309651832" title="Create the CPU or GPU coarse gauge fields on demand (requires that the fields have been created in th..." alt="" coords="185,260,317,301"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_coarse.html#af81e67218e509bd722ed75d087444d78" title="quda::DiracCoarse::\lDiracCoarse" alt="" coords="371,5,503,47"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_coarse.html#a12e57799c86f32aa433f8ca2a0e0b881" title="Apply the coarse clover operator. " alt="" coords="371,319,503,360"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_coarse.html#aa082a88d338cb65d6f251d1e7b7469f2" title="Apply the inverse coarse clover operator. " alt="" coords="371,449,503,491"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_coarse.html#a25227f748c269d75008717b8404bdcc1" title="Apply DslashXpay out = (D * in) " alt="" coords="371,384,503,425"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_coarse.html#ad450ec6c42dd0e2a8c9411446306cbb2" title="Apply DslashXpay out = (D * in + A * x) " alt="" coords="371,71,503,112"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_coarse.html#a89e6cba5df9f38343a33ebf585256887" title="Apply the full operator. " alt="" coords="366,267,509,294"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_coarse.html#ab76cf8673c2904f5a297c68a9d87745a" title="Create the coarse operator from this coarse operator. " alt="" coords="371,136,503,177"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_coarse_p_c.html#a8217d0fbec51cb52bd81be7b3fa78a63" title="Apply DslashXpay out = (D * in) " alt="" coords="365,552,509,593"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dirac_coarse_p_c.html#ae2a592a11d6cdbc7c513c1a2f3b972eb" title="Create the coarse even&#45;odd preconditioned coarse operator. Unlike the Wilson operator, the coarsening of the preconditioned coarse operator differs from that of the unpreconditioned coarse operator, so we need to specialize it. " alt="" coords="365,201,509,243"/>
+<area shape="rect" id="node6" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="586,275,673,302"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_coarse_p_c.html#a02e5998a7272e651f34c5e9dc5e921d8" title="Apply the full operator. " alt="" coords="749,467,911,494"/>
+<area shape="rect" id="node7" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="805,275,855,302"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_coarse_p_c.html#a8b3ca702350b5180d51c2968f7e3e558" title="quda::DiracCoarsePC\l::MdagM" alt="" coords="959,460,1103,501"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_coarse_p_c.html#a774dc231c855d3dcf0f904914317251f" title="quda::DiracCoarsePC\l::prepare" alt="" coords="557,428,701,469"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_coarse_p_c.html#a99702def183155f5a992f0113ea31e81" title="quda::DiracCoarsePC\l::reconstruct" alt="" coords="557,493,701,535"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_coarse.html#ab220d4707bf9bf7e83a76b249acf3835" title="quda::DiracCoarse::\lMdagM" alt="" coords="563,209,695,251"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_coarse_p_c.html#a3e88577a44e6b7d883da615181e34190" title="Apply DslashXpay out = (D * in + A * x) " alt="" coords="557,611,701,652"/>
+</map>

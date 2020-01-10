@@ -1,0 +1,4 @@
+<map id="quda::cudaColorSpinorField::streamInit" name="quda::cudaColorSpinorField::streamInit">
+<area shape="rect" id="node2" href="$classquda_1_1dslash_1_1_dslash_policy_tune.html#a9ce6f4942a6182e91f85bdad4ddd0fa0" title="quda::dslash::DslashPolicy\lTune::DslashPolicyTune" alt="" coords="236,5,407,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#aae55bde1a84a1d166de6a3a7ab30d47a" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="232,71,411,112"/>
+</map>

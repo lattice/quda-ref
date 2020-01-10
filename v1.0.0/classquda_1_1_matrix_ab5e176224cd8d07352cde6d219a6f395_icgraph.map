@@ -1,0 +1,6 @@
+<map id="quda::Matrix::L1" name="quda::Matrix::L1">
+<area shape="rect" id="node2" href="$namespacequda.html#a34dd1c4bb3cbe98eb22f8ff86fa0acf1" title="Compute and return global the momentum action 1/2 mom^2. " alt="" coords="164,5,336,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a004044d1e9bec75f92aa844863084f95" title="quda::forceRecord" alt="" coords="384,5,511,32"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="388,56,507,83"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a9942ec2c95b902f2a2c1bcf715ef4f0d" title="Evaluate the kinetic (momentum) contribution to classical Hamiltonian for Hybrid Monte Carlo..." alt="" coords="559,56,661,83"/>
+</map>

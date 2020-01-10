@@ -1,0 +1,5 @@
+<map id="quda::calculateYhat" name="quda::calculateYhat">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_coarse.html#a34a5be8511ca51c14f5e23f44eaaf160" title="Create the precondtioned coarse operator. " alt="" coords="188,5,389,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_coarse.html#ad73a48293b9e8280b63443263a4d4aac" title="Initialize the coarse gauge fields. Location is determined by gpu_setup variable. ..." alt="" coords="437,5,569,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_coarse.html#af81e67218e509bd722ed75d087444d78" title="quda::DiracCoarse::\lDiracCoarse" alt="" coords="617,5,749,47"/>
+</map>

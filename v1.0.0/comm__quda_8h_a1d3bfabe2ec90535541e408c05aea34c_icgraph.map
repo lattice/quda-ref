@@ -1,0 +1,6 @@
+<map id="comm_hostname" name="comm_hostname">
+<area shape="rect" id="node2" href="$comm__mpi_8cpp.html#a672f517336c21190ab990b5d77bd1657" title="Gather all hostnames. " alt="" coords="175,5,339,32"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#a28f2c1670b57527ab3a9ce34f1110caf" title="Initialize the communications common to all communications abstractions. " alt="" coords="387,81,525,108"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#adc5670739f5284d3d5a2f06d2e4e0cfd" title="comm_peer2peer_init" alt="" coords="183,107,330,133"/>
+<area shape="rect" id="node4" href="$comm__mpi_8cpp.html#add004a3d38b9dc2f15a65bb6e43a2840" title="Initialize the communications, implemented in comm_single.cpp, comm_qmp.cpp, and comm_mpi.cpp. " alt="" coords="573,81,656,108"/>
+</map>

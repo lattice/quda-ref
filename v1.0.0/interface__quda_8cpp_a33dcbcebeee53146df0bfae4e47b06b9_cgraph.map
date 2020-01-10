@@ -1,0 +1,5 @@
+<map id="checkClover" name="checkClover">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a5851bc3e0c05e88bb7c3c11ec82034eb" title="freeSloppyCloverQuda" alt="" coords="147,5,298,32"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a5ff865c49b52caacdd5838126e1e5f6e" title="loadSloppyCloverQuda" alt="" coords="147,56,299,83"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="161,107,284,149"/>
+</map>

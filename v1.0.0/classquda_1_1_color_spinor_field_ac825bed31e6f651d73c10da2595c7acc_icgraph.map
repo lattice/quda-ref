@@ -1,0 +1,51 @@
+<map id="quda::ColorSpinorField::FieldOrder" name="quda::ColorSpinorField::FieldOrder">
+<area shape="rect" id="node2" href="$namespacequda.html#a654d44d7961d8a259d1adb294329f4aa" title="Driver for applying the covariant derivative. " alt="" coords="262,118,394,145"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab37f5ab389e64f576459533641358a51" title="Driver for applying the batched Wilson 4&#45;d stencil to a 5&#45;d vector with 4&#45;d preconditioned data order..." alt="" coords="241,274,415,301"/>
+<area shape="rect" id="node11" href="$namespacequda.html#afaccbc07ed42a2a0a36ab1beac534bdd" title="Driver for applying the Domain&#45;wall 5&#45;d stencil to a 5&#45;d vector with 5&#45;d preconditioned data order..." alt="" coords="241,442,415,469"/>
+<area shape="rect" id="node15" href="$namespacequda.html#ad989249b72d50fc8f7a8f4bfbaa067fd" title="Apply the improved staggered dslash operator to a color&#45;spinor field. " alt="" coords="228,493,428,519"/>
+<area shape="rect" id="node16" href="$namespacequda.html#afd93a8e1b590f6288d3692226a5f3169" title="Driver for applying the Laplace stencil. " alt="" coords="261,543,395,570"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a6d0a97b4f3c8dc8326b3dc3650bb9802" title="Driver for applying the non&#45;degenerate twisted&#45;mass stencil. " alt="" coords="232,594,424,621"/>
+<area shape="rect" id="node18" href="$namespacequda.html#aea599aeddc6f7b741886bdebbd8027c4" title="Driver for applying the preconditioned non&#45;degenerate twisted&#45;mass stencil. " alt="" coords="232,645,424,687"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a1c42314cbf168315be9779b7ef3d9e27" title="Apply the staggered dslash operator to a color&#45;spinor field. " alt="" coords="255,711,401,738"/>
+<area shape="rect" id="node20" href="$namespacequda.html#aa6a7376a4c45d2b363b73e424f13bfe8" title="Driver for applying the twisted&#45;clover stencil. " alt="" coords="244,762,412,789"/>
+<area shape="rect" id="node21" href="$namespacequda.html#a3e70d37e4619233aed64b333bc293253" title="Driver for applying the preconditioned twisted&#45;clover stencil. " alt="" coords="244,813,412,855"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a8b4979ae367ca474762b8d8836c380c2" title="Driver for applying the twisted&#45;mass stencil. " alt="" coords="247,879,409,906"/>
+<area shape="rect" id="node23" href="$namespacequda.html#aa10722a05d416d0c36753694573e0dba" title="Driver for applying the preconditioned twisted&#45;mass stencil. " alt="" coords="204,930,452,957"/>
+<area shape="rect" id="node24" href="$namespacequda.html#adf4499ffc13acba25a93d8aa2de60861" title="Driver for applying the Wilson stencil. " alt="" coords="265,981,391,1007"/>
+<area shape="rect" id="node25" href="$namespacequda.html#a88f40b9e643aa8def1052e09e2145309" title="Driver for applying the Wilson&#45;clover stencil. " alt="" coords="247,1031,409,1058"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a959ac7a8ff440c9530f7028343ab7944" title="Driver for applying the preconditioned Wilson&#45;clover stencil. " alt="" coords="204,1082,452,1109"/>
+<area shape="rect" id="node27" href="$namespacequda.html#aef3d9d4bc466961551296a7825590aee" title="quda::copyExtendedColorSpinor" alt="" coords="227,1133,429,1159"/>
+<area shape="rect" id="node28" href="$namespacequda.html#ade1c2e8cef0f1d63a2b1fb35a40def2f" title="quda::copyGenericColorSpinor" alt="" coords="231,1183,425,1210"/>
+<area shape="rect" id="node29" href="$structquda_1_1_cov_dev_arg.html#a7d016a1d28c877f4ec0375f1cbc7c04b" title="quda::CovDevArg::CovDevArg" alt="" coords="233,1234,423,1261"/>
+<area shape="rect" id="node30" href="$classquda_1_1_color_spinor_field.html#aaa41e877573c40c38c7542eda455145c" title="quda::ColorSpinorField\l::createGhostZone" alt="" coords="253,1285,403,1327"/>
+<area shape="rect" id="node31" href="$structquda_1_1_dslash5_arg.html#afdfbac8405ba9e7881da53608ae9a0cf" title="quda::Dslash5Arg::Dslash5Arg" alt="" coords="232,1351,424,1378"/>
+<area shape="rect" id="node32" href="$structquda_1_1_gamma_arg.html#aa7befa94b27f55ba47e33ccdd017d378" title="quda::GammaArg::GammaArg" alt="" coords="231,1402,425,1429"/>
+<area shape="rect" id="node33" href="$namespacequda.html#afdecfba62668387d6195eea004bf363e" title="quda::genericCompare" alt="" coords="253,1453,403,1479"/>
+<area shape="rect" id="node34" href="$namespacequda.html#aae51189d185e6187af9024cf3c77155a" title="quda::genericCopyColorSpinor" alt="" coords="231,1503,425,1530"/>
+<area shape="rect" id="node35" href="$namespacequda.html#a37f44557d05c5e08a738babb787cd3dd" title="quda::genericCudaPrintVector" alt="" coords="232,1554,424,1581"/>
+<area shape="rect" id="node36" href="$namespacequda.html#a7a770f531eee55b8f4ddf394f8035cee" title="quda::genericPrintVector" alt="" coords="247,1605,409,1631"/>
+<area shape="rect" id="node37" href="$namespacequda.html#ad9be7a3b87a6bc4b699e3587032b2fda" title="quda::genericSource" alt="" coords="259,1655,397,1682"/>
+<area shape="rect" id="node38" href="$structquda_1_1_laplace_arg.html#a4e39b46fe46dac0a657050d632e8f4ed" title="quda::LaplaceArg::LaplaceArg" alt="" coords="232,1706,424,1733"/>
+<area shape="rect" id="node39" href="$classquda_1_1cuda_color_spinor_field.html#a843a105822fda21e1ad2f06bb03452a0" title="quda::cudaColorSpinorField\l::loadSpinorField" alt="" coords="239,1757,417,1799"/>
+<area shape="rect" id="node40" href="$namespacequda_1_1blas.html#a16a69ac7c8094d9438d7315185a7ee74" title="quda::blas::mixed_reduce" alt="" coords="245,1823,411,1850"/>
+<area shape="rect" id="node41" href="$classquda_1_1_lattice_field.html#a6ac04d638e49aa1ed1d6b66ec1dbca39" title="quda::LatticeField\l::Nvec" alt="" coords="267,1875,389,1916"/>
+<area shape="rect" id="node42" href="$structquda_1_1_pack_arg.html#af1e214811e0beacf208fc84e680ab896" title="quda::PackArg::PackArg" alt="" coords="247,1941,409,1967"/>
+<area shape="rect" id="node43" href="$namespacequda.html#afb0abb8036c81a571233a53873c66753" title="Apply the prolongation operator. " alt="" coords="269,1991,387,2018"/>
+<area shape="rect" id="node44" href="$namespacequda.html#acc66f23769a909d837800eb4ff90c729" title="Apply the restriction operator. " alt="" coords="278,2042,378,2069"/>
+<area shape="rect" id="node45" href="$classquda_1_1cuda_color_spinor_field.html#aefb99b153a3c0290ea9c192afff38cac" title="quda::cudaColorSpinorField\l::saveSpinorField" alt="" coords="239,2093,417,2135"/>
+<area shape="rect" id="node46" href="$namespacequda.html#af5dfe5132103d5e6adc57775ad51100e" title="Generate a random noise spinor. This variant allows the user to manage the RNG state. " alt="" coords="267,2159,389,2186"/>
+<area shape="rect" id="node47" href="$structquda_1_1_staggered_arg.html#a7d0ed79703d8468410c13c7239ed4394" title="quda::StaggeredArg\l::StaggeredArg" alt="" coords="261,2211,395,2252"/>
+<area shape="rect" id="node48" href="$namespacequda_1_1blas.html#a0845244a3b0b262b9c934c45e2fde411" title="quda::blas::uni_blas" alt="" coords="262,2277,394,2303"/>
+<area shape="rect" id="node49" href="$namespacequda_1_1blas.html#a2d529d7244e0e7a7453150f83c9620ae" title="quda::blas::uni_reduce" alt="" coords="254,2327,402,2354"/>
+<area shape="rect" id="node50" href="$structquda_1_1_wilson_arg.html#a18c37c6cb0e4af7c8fcaa7422d54ecc2" title="quda::WilsonArg::WilsonArg" alt="" coords="239,2378,417,2405"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_cov_dev.html#add1772de63a1b81e957fc63bd06b4897" title="quda::GaugeCovDev::\lDslashCD" alt="" coords="522,5,666,47"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_domain_wall4_d.html#ad5be2aa064ad2fc78ed63b83de7d5d99" title="quda::DiracDomainWall4D\l::Dslash4" alt="" coords="509,71,679,112"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_mobius.html#a21abad5b40b09b47dcbe01821a899d5a" title="quda::DiracMobius::\lDslash4" alt="" coords="527,136,661,177"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_domain_wall4_d.html#a7b48a29f41726bea46271e65cd97fd06" title="quda::DiracDomainWall4D\l::Dslash4Xpay" alt="" coords="509,201,679,243"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_mobius.html#aa086a0cabba100df75b877353f952645" title="quda::DiracMobius::\lDslash4Xpay" alt="" coords="527,267,661,308"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_domain_wall4_d.html#a044ffd3892667cbd119833791bc23143" title="quda::DiracDomainWall4D::M" alt="" coords="500,333,688,359"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_mobius.html#a3ddfab36f7b5596531abec291c057fc9" title="quda::DiracMobius::M" alt="" coords="522,383,666,410"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_domain_wall.html#a18c17cd8c16c534e1e83e244340adb17" title="quda::DiracDomainWall\l::Dslash" alt="" coords="517,435,671,476"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_domain_wall.html#a70e017028b12ac583ab32c5bea213590" title="quda::DiracDomainWall\l::DslashXpay" alt="" coords="517,500,671,541"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_domain_wall.html#ac3d9f67e73f829888dd875735cab894d" title="quda::DiracDomainWall::M" alt="" coords="508,566,680,593"/>
+</map>

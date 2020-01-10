@@ -1,0 +1,5 @@
+<map id="quda::blas::doubleCG3Update" name="quda::blas::doubleCG3Update">
+<area shape="rect" id="node2" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="244,5,404,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a2b7fb83a851af1be1a205ed4f6830983" title="quda::blas::xpayz" alt="" coords="265,56,383,83"/>
+<area shape="rect" id="node4" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="452,56,588,83"/>
+</map>

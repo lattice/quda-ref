@@ -1,0 +1,5 @@
+<map id="quda::DiracCoarsePC::Dslash" name="quda::DiracCoarsePC::Dslash">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_coarse_p_c.html#a3e88577a44e6b7d883da615181e34190" title="Apply DslashXpay out = (D * in + A * x) " alt="" coords="197,5,341,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_coarse_p_c.html#a02e5998a7272e651f34c5e9dc5e921d8" title="Apply the full operator. " alt="" coords="389,42,551,69"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_coarse_p_c.html#a8b3ca702350b5180d51c2968f7e3e558" title="quda::DiracCoarsePC\l::MdagM" alt="" coords="599,35,743,76"/>
+</map>

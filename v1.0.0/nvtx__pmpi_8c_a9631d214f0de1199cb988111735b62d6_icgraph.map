@@ -1,0 +1,5 @@
+<map id="PMPI_Barrier" name="PMPI_Barrier">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="161,5,252,32"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#a7da740686e0c293a9dc96322ec19f654" title="MPI_Sendrecv" alt="" coords="153,56,260,83"/>
+<area shape="rect" id="node3" href="$comm__mpi_8cpp.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="308,5,409,32"/>
+</map>

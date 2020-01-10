@@ -1,0 +1,18 @@
+<map id="quda::u32toa" name="quda::u32toa">
+<area shape="rect" id="node2" href="$namespacequda.html#ac415df4af0f9b21167ac47c75e8809e9" title="quda::i32toa" alt="" coords="180,205,271,231"/>
+<area shape="rect" id="node17" href="$classquda_1_1_laplace.html#a50107c0f7f104d95f33a7641ccd7d5ce" title="quda::Laplace::tuneKey" alt="" coords="148,255,303,282"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dslash_coarse_policy_tune.html#a999e08702fb5769550ea1737534451b0" title="quda::DslashCoarsePolicy\lTune::DslashCoarsePolicyTune" alt="" coords="351,168,549,209"/>
+<area shape="rect" id="node4" href="$namespacequda.html#aa9a18a50d6ba378f8bedf0c174db98fb" title="Post an event in the trace, recording where it was posted. " alt="" coords="390,234,510,261"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable_vector_y_z.html#ab1d3805314cce63fdee95b12691a14a9" title="quda::TunableVectorYZ\l::resizeStep" alt="" coords="597,227,753,268"/>
+<area shape="rect" id="node6" href="$classquda_1_1_calculate_y.html#a89d10e19bf4db2b562152748d671780f" title="quda::CalculateY::setComputeType" alt="" coords="801,209,1024,235"/>
+<area shape="rect" id="node16" href="$classquda_1_1_calculate_y.html#a23f8279007e8374fdee0d76e9a87e2e0" title="quda::CalculateY::advanceAux" alt="" coords="815,259,1010,286"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ab9137714d5730728d68f8e6baccdf7bc" title="Calculate the coarse&#45;link field, including the coarse clover field. " alt="" coords="1072,209,1189,235"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a54730f68a5a027c068a61f7f078d9ce6" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="1237,209,1351,235"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_wilson.html#a4e873522da17bae973718aa7aa942b7e" title="Create the coarse Wilson operator. " alt="" coords="1423,5,1553,47"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_clover.html#a9c69f0fb58c5bd94644f141319473663" title="Create the coarse clover operator. " alt="" coords="1424,71,1552,112"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_clover_p_c.html#a408ad9ed05b6ab10213f30e83e5fb5e2" title="Create the coarse even&#45;odd preconditioned clover operator. Unlike the Wilson operator, the coarsening of the preconditioned clover operator differs from that of the unpreconditioned clover operator, so we need to specialize it. " alt="" coords="1418,136,1558,177"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_twisted_mass.html#a6e7562d19f5427f7a47f7c852b9c544c" title="Create the coarse twisted&#45;mass operator. " alt="" coords="1408,201,1568,243"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a485936f051761f68c0862ec486d2050c" title="Create the coarse even&#45;odd preconditioned twisted&#45;mass operator. " alt="" coords="1399,267,1577,308"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_twisted_clover.html#abd2fd1a9b0e159f1d5afb99dd16ee89d" title="Create the coarse twisted&#45;clover operator. " alt="" coords="1405,332,1571,373"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a245cabe1d6dfdae79a388cde83b5729b" title="Create the coarse even&#45;odd preconditioned twisted&#45;clover operator. Unlike the Wilson operator..." alt="" coords="1405,397,1571,439"/>
+</map>

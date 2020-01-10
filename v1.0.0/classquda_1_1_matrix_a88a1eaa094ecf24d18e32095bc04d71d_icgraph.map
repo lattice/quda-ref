@@ -1,0 +1,5 @@
+<map id="quda::Matrix::size" name="quda::Matrix::size">
+<area shape="rect" id="node2" href="$namespacequda.html#aac15af205c85a22d3116ff3cff2cb860" title="Check the unitarity of the input matrix to a given tolerance. " alt="" coords="186,5,317,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a4007ebf000dd6cb5d236661a6f7dd9df" title="Print out deviation for each component (used for debugging only). " alt="" coords="172,56,331,83"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ab0fdd052fd3ec3ef5b47118b820fce01" title="Project the input matrix on the SU(3) group. First unitarize the matrix and then project onto the spe..." alt="" coords="379,5,485,32"/>
+</map>

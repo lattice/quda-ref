@@ -1,0 +1,20 @@
+<map id="quda::GaugeGauss&lt; Float, Arg &gt;" name="quda::GaugeGauss&lt; Float, Arg &gt;">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable_vector_y.html" title="quda::TunableVectorY" alt="" coords="1341,139,1489,165"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable.html" title="quda::Tunable" alt="" coords="1153,139,1255,165"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="1354,189,1477,216"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="1143,189,1265,216"/>
+<area shape="rect" id="node6" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="822,189,917,216"/>
+<area shape="rect" id="node7" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="820,139,919,165"/>
+<area shape="rect" id="node8" href="$structquda_1_1_arg.html" title="quda::Arg\&lt; real, Ns,\l Nc, order \&gt;" alt="" coords="1348,347,1483,389"/>
+<area shape="rect" id="node9" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; real,\l Ns, Nc, 1, order \&gt;" alt="" coords="1136,340,1272,396"/>
+<area shape="rect" id="node10" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; real, nSpin,\l nColor, nVec, order \&gt;" alt="" coords="581,177,751,233"/>
+<area shape="rect" id="node11" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; Float, nSpin,\l nColor, nVec, order \&gt;" alt="" coords="5,188,183,244"/>
+<area shape="rect" id="node20" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; storeFloat,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="373,223,539,294"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="47,369,141,396"/>
+<area shape="rect" id="node14" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; real,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="585,519,747,590"/>
+<area shape="rect" id="node15" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; Float,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="9,497,179,567"/>
+<area shape="rect" id="node18" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; ghostFloat,\l nSpin, nColor, nVec, order \&gt;" alt="" coords="355,471,557,527"/>
+<area shape="rect" id="node16" href="$structquda_1_1norm__type.html" title="quda::norm_type\&lt; T \&gt;" alt="" coords="796,568,943,595"/>
+<area shape="rect" id="node17" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l nSpin, nColor, nVec,\l order, storeFloat, ghostFloat,\l disable_ghost, block_float,\l use_tex \&gt;" alt="" coords="775,381,964,481"/>
+<area shape="rect" id="node22" href="$classquda_1_1_r_n_g.html" title="Class declaration to initialize and hold CURAND RNG states. " alt="" coords="1162,420,1246,447"/>
+</map>

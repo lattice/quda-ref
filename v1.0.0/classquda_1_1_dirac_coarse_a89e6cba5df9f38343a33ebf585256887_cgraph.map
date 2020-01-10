@@ -1,0 +1,51 @@
+<map id="quda::DiracCoarse::M" name="quda::DiracCoarse::M">
+<area shape="rect" id="node2" href="$namespacequda.html#a78a0668700c44d8cd0385fae3358e486" title="Apply the coarse dslash stencil. This single driver accounts for all variations with and without the ..." alt="" coords="207,621,335,647"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_coarse.html#a97b2f6b1749cc80498ea5a6309651832" title="Create the CPU or GPU coarse gauge fields on demand (requires that the fields have been created in th..." alt="" coords="205,1355,337,1396"/>
+<area shape="rect" id="node40" href="$classquda_1_1_color_spinor_field.html#a6067aeefbeb02a469fadc6534ce01794" title="quda::ColorSpinorField\l::Nspin" alt="" coords="635,1599,786,1640"/>
+<area shape="rect" id="node48" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="196,1472,347,1513"/>
+<area shape="rect" id="node49" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="196,1537,347,1579"/>
+<area shape="rect" id="node50" href="$classquda_1_1_color_spinor_field.html#a54263c7556bad9742b00f2c625bb7331" title="quda::ColorSpinorField\l::VolumeCB" alt="" coords="196,1603,347,1644"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dslash_coarse_policy_tune.html#addb535ba24edd5c03cd05fce2f132398" title="quda::DslashCoarsePolicy\lTune::apply" alt="" coords="395,115,564,156"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="649,71,772,98"/>
+<area shape="rect" id="node8" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="671,122,750,149"/>
+<area shape="rect" id="node9" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="665,173,757,199"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a8a7c6b85a2582ed662a0ff81789a44ed" title="quda::policies" alt="" coords="661,21,760,47"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#a6b682b3aa1e943bbb981c5e0948513d1" title="quda::Tunable::advanceTune\lParam" alt="" coords="857,5,1043,47"/>
+<area shape="rect" id="node6" href="$classquda_1_1_tunable.html#a1d6de8001096e7620593315fa6fb51f6" title="quda::Tunable::apply" alt="" coords="881,71,1019,98"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a215058968f858fd16b5368d56a916790" title="quda::broadcastTuneCache" alt="" coords="861,122,1039,149"/>
+<area shape="rect" id="node12" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="404,769,555,811"/>
+<area shape="rect" id="node34" href="$classquda_1_1cpu_gauge_field.html#a6f4ec9b03d920ef9ad7ece9adbc10968" title="quda::cpuGaugeField\l::copy" alt="" coords="408,1169,551,1211"/>
+<area shape="rect" id="node37" href="$classquda_1_1_dirac_coarse.html#a7c4bcf10b7406f0d9f13962194a7fa48" title="Allocate the Y and X fields. " alt="" coords="413,1876,545,1917"/>
+<area shape="rect" id="node47" href="$classquda_1_1_dirac_coarse.html#a3dec40de37312f60ad0283a4e6f3cf06" title="Allocate the Yhat and Xinv fields. " alt="" coords="413,1811,545,1852"/>
+<area shape="rect" id="node13" href="$classquda_1_1_gauge_field.html#a741d99f6a1d461a0fbbb4775d9a4d4ee" title="quda::GaugeField::Bytes" alt="" coords="631,878,791,905"/>
+<area shape="rect" id="node14" href="$classquda_1_1_gauge_field.html#adbc8edd6e827e616d393c9ce5c25cb51" title="quda::GaugeField::checkField" alt="" coords="615,929,806,955"/>
+<area shape="rect" id="node15" href="$namespacequda.html#ad288ddd1679350fa258fa42bd22accd4" title="quda::copyExtendedGauge" alt="" coords="623,777,798,803"/>
+<area shape="rect" id="node16" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="1121,787,1244,828"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a075839243ec706913684940d2ba4ce43" title="quda::copyGenericGauge" alt="" coords="867,617,1033,643"/>
+<area shape="rect" id="node18" href="$classquda_1_1_gauge_field.html#a02bc76f698126cbaa08301110983f779" title="quda::GaugeField::Geometry" alt="" coords="1091,533,1275,559"/>
+<area shape="rect" id="node19" href="$classquda_1_1_lattice_field.html#ac28a222cabb75e131517b3f129807bd6" title="quda::LatticeField\l::GhostExchange" alt="" coords="1121,609,1244,651"/>
+<area shape="rect" id="node20" href="$namespacequda.html#a0138c2d76b9b477b5a914ed4ff09134b" title="quda::create_gauge\l_buffer" alt="" coords="643,1199,778,1240"/>
+<area shape="rect" id="node21" href="$namespacequda.html#a037d22e360b272cb3c5be04675a29b0c" title="quda::create_ghost\l_buffer" alt="" coords="645,1081,776,1123"/>
+<area shape="rect" id="node22" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="635,660,786,701"/>
+<area shape="rect" id="node24" href="$namespacequda.html#a82845c78c417da7a26d264e491e78a05" title="quda::free_gauge_buffer" alt="" coords="631,1147,790,1174"/>
+<area shape="rect" id="node25" href="$namespacequda.html#a8e24b83a48d247f61634d3ca31b084c9" title="quda::free_ghost_buffer" alt="" coords="633,1265,788,1291"/>
+<area shape="rect" id="node26" href="$classquda_1_1_gauge_field.html#ab875db966189cb025989e43275f78830" title="quda::GaugeField::Gauge_p" alt="" coords="621,223,801,250"/>
+<area shape="rect" id="node27" href="$classquda_1_1_gauge_field.html#aedfa91e714c61b8e11caec9d2703dcfa" title="quda::GaugeField::Ghost" alt="" coords="629,827,792,854"/>
+<area shape="rect" id="node28" href="$classquda_1_1_gauge_field.html#a6d424948785fbc67b92e1f9febf028be" title="quda::GaugeField::LinkMax" alt="" coords="623,979,799,1006"/>
+<area shape="rect" id="node29" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="631,274,791,301"/>
+<area shape="rect" id="node30" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="612,325,809,351"/>
+<area shape="rect" id="node31" href="$namespacequda.html#aa25deeec640690f50f16e136639e8450" title="Return whether data is reordered on the CPU or GPU. This can set at QUDA initialization using the env..." alt="" coords="637,1030,785,1057"/>
+<area shape="rect" id="node32" href="$classquda_1_1_gauge_field.html#a08c5aeb84134058a821ffcec017769ad" title="quda::GaugeField::Staggered\lPhase" alt="" coords="617,376,804,417"/>
+<area shape="rect" id="node33" href="$classquda_1_1_gauge_field.html#af5f3aa9538ba862bc6fba406e7e7a0f3" title="quda::GaugeField::Staggered\lPhaseApplied" alt="" coords="617,441,804,483"/>
+<area shape="rect" id="node23" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="863,667,1037,694"/>
+<area shape="rect" id="node35" href="$classquda_1_1cpu_gauge_field.html#abcb214de4fba03d89b8d4a83db847b1d" title="Exchange the ghost and store store in the padded region. " alt="" coords="639,1468,782,1509"/>
+<area shape="rect" id="node36" href="$classquda_1_1cpu_gauge_field.html#a31d35c35d809f3907d76408bcd10ca86" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="639,1533,782,1575"/>
+<area shape="rect" id="node38" href="$classquda_1_1_transfer.html#a4208ea856d2bc1baf9d71b538421a02e" title="quda::Transfer::Geo_bs" alt="" coords="634,1715,787,1742"/>
+<area shape="rect" id="node39" href="$classquda_1_1_color_spinor_field.html#a0fd1f89de7282388c6edb060396e8b8b" title="quda::ColorSpinorField\l::Ndim" alt="" coords="635,1767,786,1808"/>
+<area shape="rect" id="node41" href="$classquda_1_1_transfer.html#a9e59b755506f8fcbca8e1da9ad1dcd85" title="The precision of the packed null&#45;space vectors. " alt="" coords="619,1833,803,1859"/>
+<area shape="rect" id="node42" href="$classquda_1_1_transfer.html#a080b7fc33d7d4c22c5a43f957be27d58" title="quda::Transfer::nvec" alt="" coords="643,1883,779,1910"/>
+<area shape="rect" id="node43" href="$structquda_1_1_gauge_field_param.html#a3dd48f43933d09bb14ee9d05733dd8c0" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="631,1935,791,1976"/>
+<area shape="rect" id="node44" href="$classquda_1_1_transfer.html#aaf0d832412995c0ccbbdf86c1d0a34f6" title="quda::Transfer::Spin_bs" alt="" coords="633,2001,788,2027"/>
+<area shape="rect" id="node45" href="$classquda_1_1_transfer.html#aff9a183805a9c82a6a859b5df2f44814" title="quda::Transfer::Vectors" alt="" coords="635,2051,787,2078"/>
+<area shape="rect" id="node46" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="627,2102,794,2129"/>
+</map>

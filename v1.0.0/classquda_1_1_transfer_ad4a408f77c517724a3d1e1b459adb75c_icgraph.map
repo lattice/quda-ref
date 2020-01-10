@@ -1,0 +1,13 @@
+<map id="quda::Transfer::createTmp" name="quda::Transfer::createTmp">
+<area shape="rect" id="node2" href="$classquda_1_1_transfer.html#a2468fcfbd528d5b9a8cfc631301cf8aa" title="Lazy allocation of the transfer operator in a given location. " alt="" coords="224,80,405,107"/>
+<area shape="rect" id="node12" href="$classquda_1_1_transfer.html#a2573e86d95cc265add15c12b04d00df1" title="quda::Transfer::Transfer" alt="" coords="237,131,393,157"/>
+<area shape="rect" id="node3" href="$classquda_1_1_transfer.html#acae8c442c5f6dd3a12530c010d556838" title="quda::Transfer::P" alt="" coords="453,55,572,81"/>
+<area shape="rect" id="node11" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="453,105,572,132"/>
+<area shape="rect" id="node4" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="633,29,746,56"/>
+<area shape="rect" id="node10" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="620,80,759,107"/>
+<area shape="rect" id="node5" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="807,95,917,121"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="965,181,1164,208"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="1212,95,1316,121"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="994,32,1135,59"/>
+<area shape="rect" id="node9" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1239,32,1289,59"/>
+</map>

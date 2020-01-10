@@ -1,0 +1,4 @@
+<map id="quda::blas::ReductionArg&lt; ReduceType, SpinorX, SpinorY, SpinorZ, SpinorW, SpinorV, Reducer &gt;" name="quda::blas::ReductionArg&lt; ReduceType, SpinorX, SpinorY, SpinorZ, SpinorW, SpinorV, Reducer &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1_reduce_arg.html" title="quda::ReduceArg\&lt; ReduceType \&gt;" alt="" coords="5,213,220,240"/>
+<area shape="rect" id="node3" href="$structquda_1_1_reduce_arg.html" title="quda::ReduceArg\&lt; T \&gt;" alt="" coords="37,124,188,151"/>
+</map>

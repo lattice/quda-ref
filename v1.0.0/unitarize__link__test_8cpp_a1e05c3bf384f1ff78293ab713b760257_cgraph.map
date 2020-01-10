@@ -1,0 +1,51 @@
+<map id="unitarize_link_test" name="unitarize_link_test">
+<area shape="rect" id="node2" href="$quda_8h.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="185,249,330,276"/>
+<area shape="rect" id="node5" href="$structquda_1_1_gauge_field_param.html#a3dd48f43933d09bb14ee9d05733dd8c0" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="643,152,803,194"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="414,264,565,306"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a3c09d0ff142aeda455e7fa29a0ef81f8" title="quda::setUnitarizeLinksConstants" alt="" coords="384,381,595,408"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a6a7482fee61fb7805862e6b22ab9d28a" title="quda::unitarizeLinks" alt="" coords="422,330,557,357"/>
+<area shape="rect" id="node18" href="$test__util_8cpp.html#a6623ee545f9e26e20e2f9205e31805e6" title="createSiteLinkCPU" alt="" coords="191,482,323,509"/>
+<area shape="rect" id="node22" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="220,1040,295,1066"/>
+<area shape="rect" id="node44" href="$face__gauge_8cpp.html#ac57fe6230b3746a92db316942b3a9cd4" title="exchange_llfat_cleanup" alt="" coords="179,1090,336,1117"/>
+<area shape="rect" id="node45" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="222,1417,293,1444"/>
+<area shape="rect" id="node49" href="$quda_8h.html#a4d9475cdfdd2d15b5d94e8588f835645" title="newQudaGaugeParam" alt="" coords="181,1468,333,1494"/>
+<area shape="rect" id="node50" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="223,1518,291,1545"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="415,112,564,138"/>
+<area shape="rect" id="node4" href="$namespacequda.html#abdcc468dc619c7c3a6267a927cd0b417" title="Compute the fat and long links for an improved staggered (Kogut&#45;Susskind) fermions. " alt="" coords="419,162,560,189"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="414,46,565,87"/>
+<area shape="rect" id="node6" href="$namespacequda.html#afd4bd2cb9895c735da434b82bb7cd7bb" title="quda::operator\&lt;\&lt;" alt="" coords="851,160,969,186"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="647,218,798,259"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="683,436,763,462"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="685,486,760,513"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a6dee5a13d3c20e5499dc454b004c20d1" title="quda::getTrace" alt="" coords="669,537,776,564"/>
+<area shape="rect" id="node14" href="$namespacequda.html#a361a56f9cf11aa6823f868fa26447b84" title="quda::acos" alt="" coords="681,284,764,310"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="685,334,761,361"/>
+<area shape="rect" id="node16" href="$namespacequda.html#aa2770ef66427e1e0861d7685d363907a" title="quda::getDeterminant" alt="" coords="651,385,795,412"/>
+<area shape="rect" id="node19" href="$test__util_8cpp.html#ad9e6d31f3ed9ea6998c9444fd56789a8" title="constructUnitaryGaugeField" alt="" coords="399,432,580,458"/>
+<area shape="rect" id="node20" href="$test__util_8cpp.html#abd8308e0d3bb82711cf9d214112d9cbc" title="fullLatticeIndex" alt="" coords="435,482,544,509"/>
+<area shape="rect" id="node21" href="$test__util_8cpp.html#ace310e6f1c317157f01e11e59068dd5d" title="last_node_in_t" alt="" coords="437,533,542,560"/>
+<area shape="rect" id="node23" href="$namespacequda.html#ac466a953381d986b1eca6880f1fda568" title="quda::assertAllMemFree" alt="" coords="409,1593,569,1620"/>
+<area shape="rect" id="node24" href="$comm__quda_8h.html#acae24b1f48d2fe459c280cf33e61cc6e" title="comm_finalize" alt="" coords="437,584,541,610"/>
+<area shape="rect" id="node25" href="$namespacequda_1_1cublas.html#ac01bc3ebeb04196a5e5612ff8c99e286" title="Destroy the CUBLAS context. " alt="" coords="419,634,559,661"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a4f1346eb3e34bbda30ff8983af3f81c1" title="quda::destroyDslashEvents" alt="" coords="403,685,576,712"/>
+<area shape="rect" id="node27" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="436,736,543,762"/>
+<area shape="rect" id="node28" href="$namespacequda_1_1pool.html#aafe898a5f018221ffd9f6336376a3a01" title="Free all outstanding device&#45;memory allocations. " alt="" coords="411,786,567,813"/>
+<area shape="rect" id="node29" href="$namespacequda_1_1pool.html#aa026d9c5ea0fa0090dfce4792b96908c" title="Free all outstanding pinned&#45;memory allocations. " alt="" coords="411,837,568,864"/>
+<area shape="rect" id="node30" href="$interface__quda_8cpp.html#ab1d3e5c24eb7fcb0d2afffd71ce807f5" title="Flush the chronological history for the given index. " alt="" coords="429,938,549,965"/>
+<area shape="rect" id="node31" href="$namespacequda.html#a7079faa2397250063ca3076015ac7bd3" title="Flush any outstanding force monitoring information. " alt="" coords="410,1644,569,1670"/>
+<area shape="rect" id="node32" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="677,1542,769,1569"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#a9221f8639873c0844f04bc64d5e31ccd" title="freeCloverQuda" alt="" coords="434,989,545,1016"/>
+<area shape="rect" id="node34" href="$interface__quda_8cpp.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="433,1040,546,1066"/>
+<area shape="rect" id="node35" href="$classquda_1_1_lattice_field.html#af3e43730f50a448d8b818413b9256fbc" title="Free statically allocated ghost buffers. " alt="" coords="428,1091,551,1132"/>
+<area shape="rect" id="node36" href="$classquda_1_1cpu_color_spinor_field.html#a51d79fe9a54a572b777123a2cd133752" title="quda::cpuColorSpinorField\l::freeGhostBuffer" alt="" coords="403,1156,575,1198"/>
+<area shape="rect" id="node37" href="$classquda_1_1_time_profile.html#a352ad271eb6f06f75cf3c3c0a28e8023" title="quda::TimeProfile::\lPrint" alt="" coords="659,1048,786,1090"/>
+<area shape="rect" id="node38" href="$namespacequda.html#a5db490f30c5b118722f667e80b022be0" title="Print out the timer profile for CUDA API calls. " alt="" coords="420,1324,559,1350"/>
+<area shape="rect" id="node39" href="$classquda_1_1_time_profile.html#a5ef400ee2d1499bd42a68a73eaf2ef7f" title="quda::TimeProfile::\lPrintGlobal" alt="" coords="426,1375,553,1416"/>
+<area shape="rect" id="node40" href="$namespacequda.html#ab980a6a7a4544d736fb7ede6931f4a18" title="quda::printLaunchTimer" alt="" coords="411,1222,567,1249"/>
+<area shape="rect" id="node41" href="$namespacequda.html#a4fc3a6b54caf9c55ffafa5066f7d715a" title="quda::printPeakMemUsage" alt="" coords="401,1441,577,1468"/>
+<area shape="rect" id="node42" href="$namespacequda.html#ae545834b5a0f9d48e009ad5c3ce44389" title="Save profile to disk. " alt="" coords="430,1492,549,1518"/>
+<area shape="rect" id="node43" href="$namespacequda.html#a1c01992fa9197e82c2463a91820a1d87" title="quda::saveTuneCache" alt="" coords="415,1273,563,1300"/>
+<area shape="rect" id="node46" href="$interface__quda_8cpp.html#add03448c5bbe339a93332f6907881a7e" title="init_default_comms" alt="" coords="655,1770,790,1797"/>
+<area shape="rect" id="node47" href="$interface__quda_8cpp.html#a7d267ad5d21c4f5e5be730c7a6a916e9" title="initQudaDevice" alt="" coords="435,1694,544,1721"/>
+<area shape="rect" id="node48" href="$interface__quda_8cpp.html#a016889ba93ea2794377f06cd752b2d50" title="initQudaMemory" alt="" coords="431,1745,547,1772"/>
+</map>

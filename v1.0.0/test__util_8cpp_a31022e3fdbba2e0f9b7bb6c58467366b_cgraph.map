@@ -1,0 +1,10 @@
+<map id="applyStaggeredScaling" name="applyStaggeredScaling">
+<area shape="rect" id="node2" href="$test__util_8cpp.html#a89b20526a3b057ed51149add7befd83c" title="applyGaugeFieldScaling_long" alt="" coords="208,56,400,83"/>
+<area shape="rect" id="node3" href="$test__util_8cpp.html#abd8308e0d3bb82711cf9d214112d9cbc" title="fullLatticeIndex" alt="" coords="448,5,557,32"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="477,56,529,83"/>
+<area shape="rect" id="node5" href="$test__util_8cpp.html#ace310e6f1c317157f01e11e59068dd5d" title="last_node_in_t" alt="" coords="450,107,555,133"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#a206b67c95a89bcfed306b2994205b473" title="commCoords" alt="" coords="605,107,704,133"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a6c081bfedfe939a19ca8acd025864f14" title="comm_coord" alt="" coords="752,107,849,133"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#ae272add21a9cc81ff61e2ae27f849ebd" title="comm_coords" alt="" coords="925,81,1028,108"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="897,132,1056,159"/>
+</map>

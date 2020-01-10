@@ -1,0 +1,7 @@
+<map id="quda::colorspinor::FieldOrderCB&lt; Float, nSpin, nColor, nVec, order, storeFloat, ghostFloat, disable_ghost, block_float, use_tex &gt;" name="quda::colorspinor::FieldOrderCB&lt; Float, nSpin, nColor, nVec, order, storeFloat, ghostFloat, disable_ghost, block_float, use_tex &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; ghostFloat,\l nSpin, nColor, nVec, order \&gt;" alt="" coords="355,13,557,69"/>
+<area shape="rect" id="node3" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; Float,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="9,5,179,76"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="47,122,141,149"/>
+<area shape="rect" id="node6" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; storeFloat,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="373,195,539,265"/>
+<area shape="rect" id="node7" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; Float, nSpin,\l nColor, nVec, order \&gt;" alt="" coords="5,202,183,258"/>
+</map>

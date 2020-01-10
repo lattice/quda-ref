@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$namespacequda.html#a4e5e8ddc62dac184981ffe1ed46f4c54" title="Scale the gauge field by the scalar a. " alt="" coords="151,68,220,95"/>
+<area shape="rect" id="node6" href="$clover__reference_8cpp.html#a69e3f1607c121be48fc540b0b4fd43a3" title="clover_mat" alt="" coords="143,275,228,301"/>
+<area shape="rect" id="node8" href="$clover__reference_8cpp.html#aa44d6283bd416112a1b8b041504c413d" title="clover_matpc" alt="" coords="136,224,235,251"/>
+<area shape="rect" id="node9" href="$test__util_8cpp.html#a016a05c092fcba38fdca37e4d90efbcd" title="construct_clover_field" alt="" coords="112,325,259,352"/>
+<area shape="rect" id="node10" href="$test__util_8cpp.html#a3d8f1952ab00bca45a06a88115580c8f" title="construct_gauge_field" alt="" coords="112,376,259,403"/>
+<area shape="rect" id="node11" href="$test__util_8cpp.html#a88ab21203c6c7e1f46ebc383ef3d8367" title="construct_spinor_source" alt="" coords="105,427,266,453"/>
+<area shape="rect" id="node12" href="$quda_8h.html#ad2af5b3c68e269006c19df43f7f1673a" title="Free resources allocated by the multigrid solver. " alt="" coords="114,477,257,504"/>
+<area shape="rect" id="node13" href="$multigrid__invert__test_8cpp.html#ae063707e89350232265068d2f3955950" title="display_test_info" alt="" coords="127,528,244,555"/>
+<area shape="rect" id="node14" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="148,579,223,605"/>
+<area shape="rect" id="node15" href="$test__util_8cpp.html#a41580396542087e712ad716d410052b4" title="finalizeComms" alt="" coords="133,629,238,656"/>
+<area shape="rect" id="node16" href="$quda_8h.html#a9221f8639873c0844f04bc64d5e31ccd" title="freeCloverQuda" alt="" coords="130,680,241,707"/>
+<area shape="rect" id="node17" href="$quda_8h.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="129,731,242,757"/>
+<area shape="rect" id="node18" href="$test__util_8cpp.html#ad38053da3d147f8f635495faa57b7108" title="initComms" alt="" coords="144,781,227,808"/>
+<area shape="rect" id="node19" href="$test__util_8cpp.html#affc667f54d3aad05a212a708a1967851" title="initRand" alt="" coords="359,807,429,833"/>
+<area shape="rect" id="node20" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="150,883,221,909"/>
+<area shape="rect" id="node21" href="$quda_8h.html#ad634424a6de6d5516225070ba53768d1" title="invertQuda" alt="" coords="143,123,227,149"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="355,173,433,200"/>
+<area shape="rect" id="node23" href="$quda_8h.html#a8df9daaddff2c4eaf29a0f7878dfe852" title="loadCloverQuda" alt="" coords="129,933,242,960"/>
+<area shape="rect" id="node24" href="$quda_8h.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="128,984,243,1011"/>
+<area shape="rect" id="node25" href="$namespacequda_1_1blas.html#aec46e12571788f582965fead61365873" title="quda::blas::mxpy" alt="" coords="128,1035,243,1061"/>
+<area shape="rect" id="node26" href="$quda_8h.html#a4b57a4d1f4f510f96012abaa174070d6" title="newMultigridQuda" alt="" coords="123,1085,248,1112"/>
+<area shape="rect" id="node27" href="$quda_8h.html#aaff8a2c1c74871f96f7291e712732aba" title="newQudaEigParam" alt="" coords="119,1136,251,1163"/>
+<area shape="rect" id="node28" href="$quda_8h.html#a4d9475cdfdd2d15b5d94e8588f835645" title="newQudaGaugeParam" alt="" coords="109,1187,261,1213"/>
+<area shape="rect" id="node29" href="$quda_8h.html#a9c476795e5632077ae86f2022369f6a4" title="newQudaInvertParam" alt="" coords="112,1237,259,1264"/>
+<area shape="rect" id="node30" href="$quda_8h.html#a781f3c5590375d63bb6d1cd2b6aec58c" title="newQudaMultigridParam" alt="" coords="104,1288,267,1315"/>
+<area shape="rect" id="node31" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="143,1339,228,1365"/>
+<area shape="rect" id="node32" href="$blas__reference_8cpp.html#a4e6be905840c911996d41675ac54a062" title="norm_2" alt="" coords="153,1389,218,1416"/>
+<area shape="rect" id="node33" href="$quda_8h.html#a4bf6047ca71143fd895acbf5d5b86561" title="plaqQuda" alt="" coords="147,1440,224,1467"/>
+<area shape="rect" id="node34" href="$test__util_8cpp.html#a4e297cefdba144e8efe42dca5514f572" title="process_command_line\l_option" alt="" coords="107,1491,264,1533"/>
+<area shape="rect" id="node35" href="$qio__field_8h.html#ac852356af7fb74a7696987292f101bce" title="read_gauge_field" alt="" coords="126,1557,245,1584"/>
+<area shape="rect" id="node36" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="151,1608,219,1635"/>
+<area shape="rect" id="node37" href="$multigrid__invert__test_8cpp.html#a22b1387fdb6d910318b6577c6e44f4ec" title="setEigParam" alt="" coords="138,1659,233,1685"/>
+<area shape="rect" id="node38" href="$multigrid__invert__test_8cpp.html#aef93f536d7e512775b2a564b3f8ac3fa" title="setGaugeParam" alt="" coords="128,1709,243,1736"/>
+<area shape="rect" id="node39" href="$multigrid__invert__test_8cpp.html#a6764243a6dd4a6ebb99801861b898e02" title="setInvertParam" alt="" coords="131,1760,240,1787"/>
+<area shape="rect" id="node40" href="$multigrid__invert__test_8cpp.html#ac3bd45d5375e0b33c110bcc0a8af74d9" title="setMultigridParam" alt="" coords="122,1811,249,1837"/>
+<area shape="rect" id="node41" href="$test__util_8cpp.html#a86a5f0d3f4210c9f339154a1b47c5dff" title="setSpinorSiteSize" alt="" coords="123,1861,247,1888"/>
+<area shape="rect" id="node42" href="$wilson__dslash__reference_8cpp.html#a574b6467cf1e1a4e613cd462aec4f28b" title="tm_mat" alt="" coords="152,1912,219,1939"/>
+<area shape="rect" id="node43" href="$wilson__dslash__reference_8cpp.html#ae98d7c6ef6be2871d2a360674522f62e" title="tm_matpc" alt="" coords="145,1963,225,1989"/>
+<area shape="rect" id="node44" href="$wilson__dslash__reference_8cpp.html#a7e5dd9055676da0d98601d65339ad224" title="tm_ndeg_mat" alt="" coords="135,2013,236,2040"/>
+<area shape="rect" id="node45" href="$wilson__dslash__reference_8cpp.html#ace3a83f92f18d14318cadae0b97dea83" title="tm_ndeg_matpc" alt="" coords="128,2064,243,2091"/>
+<area shape="rect" id="node46" href="$clover__reference_8cpp.html#a9ec587006fc538ff89d33e0d9ea6c5fd" title="tmc_mat" alt="" coords="149,2115,222,2141"/>
+<area shape="rect" id="node47" href="$clover__reference_8cpp.html#af47d4a96b1e9667333ae7973e3c8cc0f" title="tmc_matpc" alt="" coords="142,2165,229,2192"/>
+<area shape="rect" id="node48" href="$multigrid__invert__test_8cpp.html#acbd2db65dfdaa2559f23006893e692c8" title="usage" alt="" coords="157,2216,213,2243"/>
+<area shape="rect" id="node49" href="$wilson__dslash__reference_8cpp.html#a4a3540f8ddb276998234921f3241e22e" title="wil_mat" alt="" coords="152,2267,219,2293"/>
+<area shape="rect" id="node50" href="$wilson__dslash__reference_8cpp.html#ab14504a5d4602633b4988c93859d4601" title="wil_matpc" alt="" coords="145,2317,225,2344"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="319,57,469,98"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a026455342b50e0274c0aad8886880e0c" title="quda::colorSpinorParam" alt="" coords="315,5,473,32"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a9a001f8e31cfe48d8b3b67db4b14dd92" title="quda::blas::ax" alt="" coords="345,123,443,149"/>
+<area shape="rect" id="node7" href="$clover__reference_8cpp.html#af9cbba0297a2c57aefe515c4fb1a94cf" title="apply_clover" alt="" coords="347,249,441,276"/>
+</map>

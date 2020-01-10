@@ -1,0 +1,24 @@
+<map id="quda::Dirac::Flops" name="quda::Dirac::Flops">
+<area shape="rect" id="node2" href="$staggered__dslash__test_8cpp.html#ab482eec2f0549ff0977e2068429424f3" title="dslashTest" alt="" coords="198,153,281,180"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_matrix.html#a70fd2aa9efa763e92789b478badb02b0" title="quda::DiracMatrix::\lflops" alt="" coords="176,353,303,394"/>
+<area shape="rect" id="node22" href="$dslash__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="214,419,265,445"/>
+<area shape="rect" id="node23" href="$dslash__ctest_8cpp.html#a8777439d6eb54a1e982c540a9b45d8d1" title="TEST_P" alt="" coords="204,469,275,496"/>
+<area shape="rect" id="node3" href="$staggered__dslash__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="417,5,467,32"/>
+<area shape="rect" id="node5" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="356,56,528,83"/>
+<area shape="rect" id="node6" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="353,107,531,133"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="365,157,519,184"/>
+<area shape="rect" id="node10" href="$classquda_1_1_c_a_g_c_r.html#a53e792abb6297c7cc6b5fddee7fdda3d" title="quda::CAGCR::operator()" alt="" coords="361,208,523,235"/>
+<area shape="rect" id="node11" href="$classquda_1_1_c_g3.html#affe2eda59aece923ef89de0a0d57f0b2" title="quda::CG3::operator()" alt="" coords="371,259,513,285"/>
+<area shape="rect" id="node12" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="362,309,522,336"/>
+<area shape="rect" id="node13" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="374,360,510,387"/>
+<area shape="rect" id="node14" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="371,411,513,437"/>
+<area shape="rect" id="node15" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="351,461,533,488"/>
+<area shape="rect" id="node17" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="369,512,515,539"/>
+<area shape="rect" id="node18" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="353,563,531,589"/>
+<area shape="rect" id="node19" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="373,613,511,640"/>
+<area shape="rect" id="node20" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="377,665,507,706"/>
+<area shape="rect" id="node21" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="353,731,531,757"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_a_c_g_n_e.html#a5d7dae59806e1f16af69cee4707ebfdf" title="quda::CACGNE::operator()" alt="" coords="582,132,753,159"/>
+<area shape="rect" id="node9" href="$classquda_1_1_c_a_c_g_n_r.html#a88172e047b80fe722212635b3e44eeca" title="quda::CACGNR::operator()" alt="" coords="581,183,753,209"/>
+<area shape="rect" id="node16" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="581,461,753,488"/>
+</map>

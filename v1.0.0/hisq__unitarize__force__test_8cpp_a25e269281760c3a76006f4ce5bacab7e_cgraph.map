@@ -1,0 +1,51 @@
+<map id="hisq_force_init" name="hisq_force_init">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="852,56,943,83"/>
+<area shape="rect" id="node3" href="$hisq__unitarize__force__test_8cpp.html#ae555bbae3a6f178ba9545d6b4923045e" title="createNoisyLinkCPU" alt="" coords="164,462,304,488"/>
+<area shape="rect" id="node12" href="$classquda_1_1cpu_gauge_field.html#a31d35c35d809f3907d76408bcd10ca86" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="163,513,305,554"/>
+<area shape="rect" id="node13" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="199,347,269,374"/>
+<area shape="rect" id="node28" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="159,578,309,620"/>
+<area shape="rect" id="node50" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="200,644,268,671"/>
+<area shape="rect" id="node4" href="$test__util_8cpp.html#a6623ee545f9e26e20e2f9205e31805e6" title="createSiteLinkCPU" alt="" coords="367,614,499,640"/>
+<area shape="rect" id="node5" href="$test__util_8cpp.html#ad9e6d31f3ed9ea6998c9444fd56789a8" title="constructUnitaryGaugeField" alt="" coords="564,690,745,716"/>
+<area shape="rect" id="node9" href="$test__util_8cpp.html#abd8308e0d3bb82711cf9d214112d9cbc" title="fullLatticeIndex" alt="" coords="600,588,709,615"/>
+<area shape="rect" id="node10" href="$test__util_8cpp.html#ace310e6f1c317157f01e11e59068dd5d" title="last_node_in_t" alt="" coords="602,639,707,666"/>
+<area shape="rect" id="node6" href="$test__util_8cpp.html#a2b5502d2a7e51937f81b4bbe647c4ef9" title="normalize" alt="" coords="859,715,936,742"/>
+<area shape="rect" id="node7" href="$test__util_8cpp.html#a6ff77ced36e930f1bc260bab5c691bbb" title="orthogonalize" alt="" coords="848,766,947,792"/>
+<area shape="rect" id="node8" href="$test__util_8cpp.html#ac759861ca379a4dcca023c0bcaef6b0a" title="accumulateConjugateProduct" alt="" coords="801,664,993,691"/>
+<area shape="rect" id="node11" href="$comm__quda_8h.html#a206b67c95a89bcfed306b2994205b473" title="commCoords" alt="" coords="848,614,947,640"/>
+<area shape="rect" id="node14" href="$interface__quda_8cpp.html#add03448c5bbe339a93332f6907881a7e" title="init_default_comms" alt="" coords="587,284,722,311"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#a7d267ad5d21c4f5e5be730c7a6a916e9" title="initQudaDevice" alt="" coords="378,132,487,159"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#a016889ba93ea2794377f06cd752b2d50" title="initQudaMemory" alt="" coords="375,374,491,400"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#acf46984ae469d1d7603f8fbf34bc221c" title="initCommsGridQuda" alt="" coords="828,284,967,311"/>
+<area shape="rect" id="node17" href="$comm__quda_8h.html#aed9cf3a332bd56a53d524699b0fd0776" title="comm_gpuid" alt="" coords="607,31,703,58"/>
+<area shape="rect" id="node18" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="851,208,943,235"/>
+<area shape="rect" id="node19" href="$namespacequda.html#aaf67ea136dee872a19103cca2522f488" title="Set whether data is reorderd on the CPU or GPU. This can set at QUDA initialization using the environ..." alt="" coords="569,82,741,108"/>
+<area shape="rect" id="node20" href="$numa__affinity_8h.html#afc2c8f007904bc8e54d738389d53c965" title="setNumaAffinityNVML" alt="" coords="582,132,727,159"/>
+<area shape="rect" id="node22" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="583,335,726,362"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a17b42aa349702cfaf3810343f0735a31" title="quda::createDslashEvents" alt="" coords="571,386,739,412"/>
+<area shape="rect" id="node24" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="597,436,713,463"/>
+<area shape="rect" id="node25" href="$namespacequda_1_1blas.html#a2f7aa9affb07827bc351c97272c8d5cb" title="quda::blas::init" alt="" coords="603,487,706,514"/>
+<area shape="rect" id="node26" href="$namespacequda_1_1pool.html#a401799164747bba00c6b8ebd41127ed8" title="Initialize the memory pool allocator. " alt="" coords="603,538,706,564"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a2741f6831197038513428673ff834f8f" title="quda::loadTuneCache" alt="" coords="581,183,728,210"/>
+<area shape="rect" id="node29" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="357,1205,508,1246"/>
+<area shape="rect" id="node30" href="$classquda_1_1_gauge_field.html#adbc8edd6e827e616d393c9ce5c25cb51" title="quda::GaugeField::checkField" alt="" coords="559,740,750,767"/>
+<area shape="rect" id="node31" href="$classquda_1_1_gauge_field.html#a6d424948785fbc67b92e1f9febf028be" title="quda::GaugeField::LinkMax" alt="" coords="567,791,743,818"/>
+<area shape="rect" id="node32" href="$classquda_1_1_lattice_field.html#ac28a222cabb75e131517b3f129807bd6" title="quda::LatticeField\l::GhostExchange" alt="" coords="1072,845,1195,886"/>
+<area shape="rect" id="node33" href="$namespacequda.html#a075839243ec706913684940d2ba4ce43" title="quda::copyGenericGauge" alt="" coords="814,943,981,970"/>
+<area shape="rect" id="node34" href="$classquda_1_1_gauge_field.html#a02bc76f698126cbaa08301110983f779" title="quda::GaugeField::Geometry" alt="" coords="1041,932,1225,959"/>
+<area shape="rect" id="node35" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="1072,1053,1195,1094"/>
+<area shape="rect" id="node36" href="$namespacequda.html#ad288ddd1679350fa258fa42bd22accd4" title="quda::copyExtendedGauge" alt="" coords="810,1111,985,1138"/>
+<area shape="rect" id="node37" href="$namespacequda.html#aa25deeec640690f50f16e136639e8450" title="Return whether data is reordered on the CPU or GPU. This can set at QUDA initialization using the env..." alt="" coords="581,1162,729,1188"/>
+<area shape="rect" id="node38" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="575,1212,735,1239"/>
+<area shape="rect" id="node39" href="$classquda_1_1_gauge_field.html#ab875db966189cb025989e43275f78830" title="quda::GaugeField::Gauge_p" alt="" coords="565,1263,745,1290"/>
+<area shape="rect" id="node40" href="$namespacequda.html#a0138c2d76b9b477b5a914ed4ff09134b" title="quda::create_gauge\l_buffer" alt="" coords="587,1314,722,1356"/>
+<area shape="rect" id="node41" href="$classquda_1_1_gauge_field.html#a741d99f6a1d461a0fbbb4775d9a4d4ee" title="quda::GaugeField::Bytes" alt="" coords="575,1380,735,1407"/>
+<area shape="rect" id="node42" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="556,1431,753,1458"/>
+<area shape="rect" id="node43" href="$namespacequda.html#a037d22e360b272cb3c5be04675a29b0c" title="quda::create_ghost\l_buffer" alt="" coords="589,1482,720,1524"/>
+<area shape="rect" id="node44" href="$classquda_1_1_gauge_field.html#aedfa91e714c61b8e11caec9d2703dcfa" title="quda::GaugeField::Ghost" alt="" coords="573,1548,736,1575"/>
+<area shape="rect" id="node45" href="$namespacequda.html#a82845c78c417da7a26d264e491e78a05" title="quda::free_gauge_buffer" alt="" coords="575,1599,734,1626"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a8e24b83a48d247f61634d3ca31b084c9" title="quda::free_ghost_buffer" alt="" coords="577,1650,732,1676"/>
+<area shape="rect" id="node47" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="579,994,730,1036"/>
+<area shape="rect" id="node48" href="$classquda_1_1_gauge_field.html#af5f3aa9538ba862bc6fba406e7e7a0f3" title="quda::GaugeField::Staggered\lPhaseApplied" alt="" coords="561,1701,748,1742"/>
+<area shape="rect" id="node49" href="$classquda_1_1_gauge_field.html#a08c5aeb84134058a821ffcec017769ad" title="quda::GaugeField::Staggered\lPhase" alt="" coords="561,1766,748,1808"/>
+</map>

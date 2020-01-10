@@ -1,0 +1,35 @@
+<map id="quda::get_pointer_location" name="quda::get_pointer_location">
+<area shape="rect" id="node2" href="$namespacequda.html#a62282e363a5bf69d92080e6c91640ee7" title="quda::file_name" alt="" coords="244,233,355,260"/>
+<area shape="rect" id="node3" href="$check__params_8h.html#a3df6e48cb66b7fe0b8e5e2110ca28981" title="printQudaInvertParam" alt="" coords="225,284,373,311"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#acb76b2ef5b4507f26c1970c95bad1a72" title="cloverQuda" alt="" coords="461,5,547,32"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#a6826eb81d4a6da7a9107670ff0bbcc77" title="dslashQuda" alt="" coords="459,56,549,83"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#a2d8a2a7758507a87ae669d556e409e68" title="dslashQuda_4dpc" alt="" coords="442,107,566,133"/>
+<area shape="rect" id="node11" href="$interface__quda_8cpp.html#a7ea97611c29b71b948ea41f974cf777f" title="dslashQuda_mdwf" alt="" coords="441,157,567,184"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#a012ffe14f6791a1b0838a2627a36e99d" title="eigensolveQuda" alt="" coords="447,309,561,336"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="438,360,570,387"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="462,436,546,463"/>
+<area shape="rect" id="node22" href="$interface__quda_8cpp.html#a8df9daaddff2c4eaf29a0f7878dfe852" title="loadCloverQuda" alt="" coords="447,512,561,539"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#a752f99361f4f44f0d9662841736d9041" title="MatDagMatQuda" alt="" coords="444,208,564,235"/>
+<area shape="rect" id="node28" href="$interface__quda_8cpp.html#afe79acaec8e033157d9214b5ad97ae66" title="MatQuda" alt="" coords="467,259,541,285"/>
+<area shape="rect" id="node30" href="$interface__quda_8cpp.html#ad8e1cc7e05db09d619a92b8ac3782cb4" title="performWuppertalnStep" alt="" coords="425,563,583,589"/>
+<area shape="rect" id="node31" href="$check__params_8h.html#a26e777659332ef13b97221b6327dcaf4" title="printQudaMultigridParam" alt="" coords="421,643,587,669"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#af2cd15b3a18d5966b95446fabba3c57b" title="clover_quda_" alt="" coords="658,5,757,32"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#aa42de7cce1a9f65009aff63d57d14281" title="dslash_quda_" alt="" coords="657,56,757,83"/>
+<area shape="rect" id="node8" href="$dslash__ctest_8cpp.html#aae87026c545cd7c541478d495efebc47" title="dslashCUDA" alt="" coords="660,157,755,184"/>
+<area shape="rect" id="node9" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="856,157,927,184"/>
+<area shape="rect" id="node14" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="667,360,748,387"/>
+<area shape="rect" id="node16" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="682,309,733,336"/>
+<area shape="rect" id="node15" href="$staggered__invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="866,360,917,387"/>
+<area shape="rect" id="node18" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="660,461,755,488"/>
+<area shape="rect" id="node19" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="667,411,748,437"/>
+<area shape="rect" id="node21" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="682,512,733,539"/>
+<area shape="rect" id="node20" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="866,411,917,437"/>
+<area shape="rect" id="node23" href="$dslash__ctest_8cpp.html#a64129cf6a57ea1eaec3d8beb72214bd7" title="init" alt="" coords="688,613,727,640"/>
+<area shape="rect" id="node25" href="$interface__quda_8cpp.html#ac82c02b41cda6766ed0fded459a5896d" title="load_clover_quda_" alt="" coords="643,563,772,589"/>
+<area shape="rect" id="node24" href="$class_dslash_test.html#afb0a7879cf403f62842a6a187b18c2dc" title="DslashTest::SetUp" alt="" coords="828,613,955,640"/>
+<area shape="rect" id="node27" href="$interface__quda_8cpp.html#a72af035c9525f63bc925bd3bacb658e6" title="mat_dag_mat_quda_" alt="" coords="636,208,779,235"/>
+<area shape="rect" id="node29" href="$interface__quda_8cpp.html#a3bdec0b5768092765df5ec728df4f14a" title="mat_quda_" alt="" coords="664,259,751,285"/>
+<area shape="rect" id="node32" href="$structquda_1_1multigrid__solver.html#a90dca24011ab28a4f496484dbf79c27b" title="quda::multigrid_solver\l::multigrid_solver" alt="" coords="635,665,780,706"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#a6a28289975c3807a01815e6484f78b01" title="newMultigridQuda" alt="" coords="829,672,954,699"/>
+<area shape="rect" id="node34" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1003,672,1053,699"/>
+</map>

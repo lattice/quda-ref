@@ -1,0 +1,6 @@
+<map id="quda::GaugeField" name="quda::GaugeField">
+<area shape="rect" id="node4" href="$classquda_1_1cpu_gauge_field.html" title="quda::cpuGaugeField" alt="" coords="5,229,148,256"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_gauge_field.html" title="quda::cudaGaugeField" alt="" coords="172,229,323,256"/>
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="101,80,223,107"/>
+<area shape="rect" id="node3" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="115,5,209,32"/>
+</map>

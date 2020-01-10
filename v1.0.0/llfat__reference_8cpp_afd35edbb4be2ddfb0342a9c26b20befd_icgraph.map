@@ -1,0 +1,14 @@
+<map id="reorderMILCtoQDP" name="reorderMILCtoQDP">
+<area shape="rect" id="node2" href="$llfat__reference_8h.html#a80444b8d9b6fba55e969c8afa100c26a" title="computeHISQLinksCPU" alt="" coords="186,31,347,57"/>
+<area shape="rect" id="node8" href="$staggered__gauge__utils_8h.html#a80b581c4061de4f160efca53727a8ced" title="computeHISQLinksGPU" alt="" coords="185,81,348,108"/>
+<area shape="rect" id="node3" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="457,5,530,32"/>
+<area shape="rect" id="node5" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="396,56,591,83"/>
+<area shape="rect" id="node4" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="669,5,719,32"/>
+<area shape="rect" id="node6" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="675,56,713,83"/>
+<area shape="rect" id="node7" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="797,45,941,86"/>
+<area shape="rect" id="node9" href="$staggered__gauge__utils_8h.html#af0aca89a3894a49dac7950c095b36bf4" title="computeFatLongGPU" alt="" coords="420,111,567,137"/>
+<area shape="rect" id="node10" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="639,111,749,137"/>
+<area shape="rect" id="node12" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="653,161,735,188"/>
+<area shape="rect" id="node11" href="$staggered__eigensolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="844,111,895,137"/>
+<area shape="rect" id="node13" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="844,161,895,188"/>
+</map>

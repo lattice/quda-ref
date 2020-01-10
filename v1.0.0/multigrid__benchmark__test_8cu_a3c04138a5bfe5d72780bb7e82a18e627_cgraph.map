@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="139,1255,226,1281"/>
+<area shape="rect" id="node9" href="$multigrid__benchmark__test_8cu.html#ae063707e89350232265068d2f3955950" title="display_test_info" alt="" coords="124,1389,241,1416"/>
+<area shape="rect" id="node11" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="145,537,220,564"/>
+<area shape="rect" id="node32" href="$test__util_8cpp.html#a41580396542087e712ad716d410052b4" title="finalizeComms" alt="" coords="130,1440,235,1467"/>
+<area shape="rect" id="node33" href="$classquda_1_1_dirac.html#a2c29da01d1a8aa6de6bba0f3218d3b0c" title="quda::Dirac::Flops" alt="" coords="121,1491,244,1517"/>
+<area shape="rect" id="node34" href="$multigrid__benchmark__test_8cu.html#a33c94d897656798b6879f3556e282abe" title="freeFields" alt="" coords="143,1541,222,1568"/>
+<area shape="rect" id="node35" href="$misc_8cpp.html#a4550b28a101c3358860ee0e380929c39" title="get_prec_str" alt="" coords="136,1592,229,1619"/>
+<area shape="rect" id="node36" href="$test__util_8cpp.html#ad38053da3d147f8f635495faa57b7108" title="initComms" alt="" coords="141,1643,224,1669"/>
+<area shape="rect" id="node43" href="$multigrid__benchmark__test_8cu.html#ab74e8c9c0b5eb4f70a8e36e650416d95" title="initFields" alt="" coords="146,1693,219,1720"/>
+<area shape="rect" id="node47" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="147,1744,218,1771"/>
+<area shape="rect" id="node48" href="$test__util_8cpp.html#a4e297cefdba144e8efe42dca5514f572" title="process_command_line\l_option" alt="" coords="104,1795,261,1837"/>
+<area shape="rect" id="node49" href="$util__quda_8h.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="137,1861,228,1888"/>
+<area shape="rect" id="node50" href="$multigrid__benchmark__test_8cu.html#acbd2db65dfdaa2559f23006893e692c8" title="usage" alt="" coords="155,1912,211,1939"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_coarse.html#a12e57799c86f32aa433f8ca2a0e0b881" title="Apply the coarse clover operator. " alt="" coords="334,1117,466,1158"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_coarse.html#a25227f748c269d75008717b8404bdcc1" title="Apply DslashXpay out = (D * in) " alt="" coords="334,1182,466,1223"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="347,1065,453,1092"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="325,1247,475,1289"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_coarse.html#a89e6cba5df9f38343a33ebf585256887" title="Apply the full operator. " alt="" coords="329,1313,471,1340"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#a4113be893234cf6813ad7438d6d0b210" title="quda::ColorSpinorField::Odd" alt="" coords="309,1364,491,1391"/>
+<area shape="rect" id="node10" href="$test__util_8cpp.html#a1f5e8402377cf926fbd86a430d7e6131" title="dimPartitioned" alt="" coords="347,1415,453,1441"/>
+<area shape="rect" id="node12" href="$namespacequda.html#ac466a953381d986b1eca6880f1fda568" title="quda::assertAllMemFree" alt="" coords="320,5,480,32"/>
+<area shape="rect" id="node13" href="$comm__quda_8h.html#acae24b1f48d2fe459c280cf33e61cc6e" title="comm_finalize" alt="" coords="348,56,452,83"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1cublas.html#ac01bc3ebeb04196a5e5612ff8c99e286" title="Destroy the CUBLAS context. " alt="" coords="330,107,470,133"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a4f1346eb3e34bbda30ff8983af3f81c1" title="quda::destroyDslashEvents" alt="" coords="313,157,487,184"/>
+<area shape="rect" id="node16" href="$namespacequda_1_1pool.html#aafe898a5f018221ffd9f6336376a3a01" title="Free all outstanding device&#45;memory allocations. " alt="" coords="322,208,478,235"/>
+<area shape="rect" id="node17" href="$namespacequda_1_1pool.html#aa026d9c5ea0fa0090dfce4792b96908c" title="Free all outstanding pinned&#45;memory allocations. " alt="" coords="321,259,479,285"/>
+<area shape="rect" id="node18" href="$interface__quda_8cpp.html#ab1d3e5c24eb7fcb0d2afffd71ce807f5" title="Flush the chronological history for the given index. " alt="" coords="340,309,460,336"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a7079faa2397250063ca3076015ac7bd3" title="Flush any outstanding force monitoring information. " alt="" coords="321,411,479,437"/>
+<area shape="rect" id="node20" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="556,436,648,463"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#a9221f8639873c0844f04bc64d5e31ccd" title="freeCloverQuda" alt="" coords="345,563,455,589"/>
+<area shape="rect" id="node22" href="$interface__quda_8cpp.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="343,613,457,640"/>
+<area shape="rect" id="node23" href="$classquda_1_1_lattice_field.html#af3e43730f50a448d8b818413b9256fbc" title="Free statically allocated ghost buffers. " alt="" coords="339,665,461,706"/>
+<area shape="rect" id="node24" href="$classquda_1_1cpu_color_spinor_field.html#a51d79fe9a54a572b777123a2cd133752" title="quda::cpuColorSpinorField\l::freeGhostBuffer" alt="" coords="314,730,486,771"/>
+<area shape="rect" id="node25" href="$classquda_1_1_time_profile.html#a352ad271eb6f06f75cf3c3c0a28e8023" title="quda::TimeProfile::\lPrint" alt="" coords="539,814,665,855"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a5db490f30c5b118722f667e80b022be0" title="Print out the timer profile for CUDA API calls. " alt="" coords="331,897,469,924"/>
+<area shape="rect" id="node27" href="$classquda_1_1_time_profile.html#a5ef400ee2d1499bd42a68a73eaf2ef7f" title="quda::TimeProfile::\lPrintGlobal" alt="" coords="337,949,463,990"/>
+<area shape="rect" id="node28" href="$namespacequda.html#ab980a6a7a4544d736fb7ede6931f4a18" title="quda::printLaunchTimer" alt="" coords="322,847,478,873"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a4fc3a6b54caf9c55ffafa5066f7d715a" title="quda::printPeakMemUsage" alt="" coords="312,1015,488,1041"/>
+<area shape="rect" id="node30" href="$namespacequda.html#ae545834b5a0f9d48e009ad5c3ce44389" title="Save profile to disk. " alt="" coords="341,461,459,488"/>
+<area shape="rect" id="node31" href="$namespacequda.html#a1c01992fa9197e82c2463a91820a1d87" title="quda::saveTuneCache" alt="" coords="326,512,474,539"/>
+<area shape="rect" id="node37" href="$test__util_8cpp.html#a1951651440c5ddcb5ad54323e902f80d" title="get_gridsize_from_env" alt="" coords="325,1465,475,1492"/>
+<area shape="rect" id="node38" href="$nvtx__pmpi_8c.html#a22de5dc35e882c7adfd00b7292215475" title="MPI_Init" alt="" coords="365,1516,435,1543"/>
+<area shape="rect" id="node39" href="$test__util_8cpp.html#a4f892f0d09ea7473fe32fed5e5de3b75" title="lex_rank_from_coords_t" alt="" coords="321,1567,479,1593"/>
+<area shape="rect" id="node40" href="$test__util_8cpp.html#a383c2945b1320c63394b2440dbdcee1e" title="lex_rank_from_coords_x" alt="" coords="319,1617,481,1644"/>
+<area shape="rect" id="node41" href="$quda_8h.html#acf46984ae469d1d7603f8fbf34bc221c" title="initCommsGridQuda" alt="" coords="331,1668,469,1695"/>
+<area shape="rect" id="node42" href="$test__util_8cpp.html#affc667f54d3aad05a212a708a1967851" title="initRand" alt="" coords="365,1719,435,1745"/>
+<area shape="rect" id="node44" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="325,1770,475,1811"/>
+<area shape="rect" id="node45" href="$structquda_1_1_lattice_field_param.html#afcae9aaaf7cf0fdedd44b9d11f216c30" title="quda::LatticeFieldParam\l::Precision" alt="" coords="319,1835,481,1877"/>
+<area shape="rect" id="node46" href="$structquda_1_1_gauge_field_param.html#a3dd48f43933d09bb14ee9d05733dd8c0" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="320,1901,480,1942"/>
+</map>

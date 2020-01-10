@@ -1,0 +1,8 @@
+<map id="quda::Tunable::advanceBlockDim" name="quda::Tunable::advanceBlockDim">
+<area shape="rect" id="node2" href="$classquda_1_1_generic_pack_ghost_launcher.html#a548459316b1cbcfcaa1ba329235cd500" title="quda::GenericPackGhostLauncher\l::advanceBlockDim" alt="" coords="732,53,951,95"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable_local_parity.html#ae8720654fab7919b827cc2d5ef2d821c" title="quda::TunableLocalParity\l::advanceBlockDim" alt="" coords="289,49,456,91"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable_vector_y.html#a3ca1d8f6805f118f9d345837c321f4ff" title="quda::TunableVectorY\l::advanceBlockDim" alt="" coords="299,115,447,156"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable_vector_y_z.html#abcd79c820d328d5997b407696d33bfa1" title="quda::TunableVectorYZ\l::advanceBlockDim" alt="" coords="528,115,684,156"/>
+<area shape="rect" id="node6" href="$classquda_1_1blas_1_1_blas_cuda.html#a78e5b4a5745a2e1e651f172daabb1e4c" title="quda::blas::BlasCuda\l::advanceSharedBytes" alt="" coords="298,232,447,273"/>
+<area shape="rect" id="node7" href="$classquda_1_1blas_1_1copy__ns_1_1_copy_cuda.html#ab34463ea1fbdc6e0c2f08c88320d803d" title="quda::blas::copy_ns\l::CopyCuda::advanceSharedBytes" alt="" coords="265,297,480,339"/>
+</map>

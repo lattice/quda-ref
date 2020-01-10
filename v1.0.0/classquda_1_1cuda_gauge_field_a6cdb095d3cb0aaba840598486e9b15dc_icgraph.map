@@ -1,0 +1,40 @@
+<map id="quda::cudaGaugeField::loadCPUField" name="quda::cudaGaugeField::loadCPUField">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="214,71,389,98"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="217,198,385,225"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="229,249,374,275"/>
+<area shape="rect" id="node21" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="469,299,595,326"/>
+<area shape="rect" id="node23" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="204,350,399,377"/>
+<area shape="rect" id="node25" href="$interface__quda_8cpp.html#a1eba8aae7c46eca4d44b31b53d4c6079" title="createGaugeFieldQuda" alt="" coords="224,401,379,427"/>
+<area shape="rect" id="node26" href="$hisq__unitarize__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="249,451,354,478"/>
+<area shape="rect" id="node29" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="247,502,356,529"/>
+<area shape="rect" id="node31" href="$classquda_1_1cuda_gauge_field.html#a0e6dfaa97702635923e0ea2ba4078034" title="Download into this field from a CPU field. Overloaded variant that includes profiling. " alt="" coords="226,553,377,595"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="242,619,361,646"/>
+<area shape="rect" id="node34" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="264,670,339,697"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#af6e8d08f0e5477d56e09f07c940ebf65" title="projectSU3Quda" alt="" coords="243,721,360,747"/>
+<area shape="rect" id="node37" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="229,771,374,798"/>
+<area shape="rect" id="node38" href="$interface__quda_8cpp.html#a80c19191f476ca7c464ca450c3ae5c25" title="updateGaugeFieldQuda" alt="" coords="222,822,381,849"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a049fa0d60d43475bd7bb67f6c78750d4" title="Compute the gauge force and update the mometum field. " alt="" coords="457,5,607,47"/>
+<area shape="rect" id="node4" href="$gauge__force__test_8cpp.html#a7ca518d5f65b192c3be1c0afc9157c04" title="gauge_force_test" alt="" coords="471,71,593,98"/>
+<area shape="rect" id="node5" href="$gauge__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="737,46,788,73"/>
+<area shape="rect" id="node8" href="$staggered__gauge__utils_8h.html#a80b581c4061de4f160efca53727a8ced" title="computeHISQLinksGPU" alt="" coords="451,147,613,174"/>
+<area shape="rect" id="node17" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="495,198,569,225"/>
+<area shape="rect" id="node19" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="497,249,567,275"/>
+<area shape="rect" id="node9" href="$staggered__gauge__utils_8h.html#af0aca89a3894a49dac7950c095b36bf4" title="computeFatLongGPU" alt="" coords="689,97,836,123"/>
+<area shape="rect" id="node14" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="665,147,860,174"/>
+<area shape="rect" id="node10" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="908,46,1019,73"/>
+<area shape="rect" id="node12" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="923,97,1004,123"/>
+<area shape="rect" id="node11" href="$staggered__eigensolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1113,46,1164,73"/>
+<area shape="rect" id="node13" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1113,97,1164,123"/>
+<area shape="rect" id="node15" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="944,151,983,178"/>
+<area shape="rect" id="node16" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="1067,148,1211,189"/>
+<area shape="rect" id="node18" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="737,198,788,225"/>
+<area shape="rect" id="node20" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="737,249,788,275"/>
+<area shape="rect" id="node22" href="$unitarize__link__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="737,299,788,326"/>
+<area shape="rect" id="node24" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="447,351,617,392"/>
+<area shape="rect" id="node27" href="$hisq__unitarize__force__test_8cpp.html#acbcbd7509ba920cdb4ae408a2e12a03c" title="hisq_force_test" alt="" coords="477,451,587,478"/>
+<area shape="rect" id="node28" href="$hisq__unitarize__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="737,451,788,478"/>
+<area shape="rect" id="node30" href="$hisq__paths__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="507,502,557,529"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#a9942ec2c95b902f2a2c1bcf715ef4f0d" title="Evaluate the kinetic (momentum) contribution to classical Hamiltonian for Hybrid Monte Carlo..." alt="" coords="481,619,583,646"/>
+<area shape="rect" id="node35" href="$pack__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="507,670,557,697"/>
+<area shape="rect" id="node39" href="$interface__quda_8cpp.html#a10b88dca0675ace31cbc23583a9353e5" title="update_gauge_field\l_quda_" alt="" coords="465,815,599,856"/>
+</map>

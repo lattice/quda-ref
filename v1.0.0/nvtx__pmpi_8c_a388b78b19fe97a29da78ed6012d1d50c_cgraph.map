@@ -1,0 +1,4 @@
+<map id="MPI_Send_init" name="MPI_Send_init">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#a49d39933d4a53b2f189b3d9988ef454a" title="PMPI_Recv_init" alt="" coords="161,5,275,32"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#ad41dd6cfb107200597ff5bf228a244b2" title="PMPI_Send_init" alt="" coords="160,56,276,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="quda::dslash::completeDslash" name="quda::dslash::completeDslash">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="247,5,422,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#aaa8ee9176159a6b0198e4523b0c6364c" title="quda::LatticeField\l::getIPCCopyEvent" alt="" coords="270,57,399,98"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a88fef310d4d59eb0fe80ab65d465183d" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="243,123,427,149"/>
+</map>

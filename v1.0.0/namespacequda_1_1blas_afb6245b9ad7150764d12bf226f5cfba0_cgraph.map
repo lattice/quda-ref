@@ -1,0 +1,9 @@
+<map id="quda::blas::nativeReduce" name="quda::blas::nativeReduce">
+<area shape="rect" id="node2" href="$namespacequda.html#a1c95f5f34704e891522307b3e12c78ad" title="quda::checkLength" alt="" coords="223,57,354,83"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a8579e2a0158ce1bbb34979b7c7b34d87" title="quda::blas::getStream" alt="" coords="216,107,361,134"/>
+<area shape="rect" id="node6" href="$namespacequda.html#af44bc363b2fdab4b390c29417724c316" title="quda::reduce" alt="" coords="241,158,336,185"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a002d065313f670d2960dd8b7f5ea87dd" title="quda::ColorSpinorField\l::Length" alt="" coords="409,5,560,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#a0cafcb630c9233708e17ceab841c922d" title="quda::ColorSpinorField\l::Stride" alt="" coords="409,71,560,112"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="447,158,522,185"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="608,158,696,185"/>
+</map>

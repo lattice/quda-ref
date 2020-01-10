@@ -1,0 +1,14 @@
+<map id="quda::cudaGaugeField::commsComplete" name="quda::cudaGaugeField::commsComplete">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="221,31,374,57"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#a6dcfe5c3faff54a12f659933a1f58546" title="Query if GPU Direct RDMA communication is enabled (global setting) " alt="" coords="230,81,365,108"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="210,132,385,159"/>
+<area shape="rect" id="node8" href="$comm__quda_8h.html#aa949084ae3512a75d7218748b38f7015" title="comm_wait" alt="" coords="253,183,341,209"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a9e409ab8e377074cc9bd1ee0588568a2" title="Wrapper around cudaEventSynchronize or cuEventSynchronize. " alt="" coords="204,233,391,260"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="439,31,525,57"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="573,5,732,32"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="607,56,699,83"/>
+<area shape="rect" id="node9" href="$nvtx__pmpi_8c.html#a65a90a976c9dc2704d5661ee066ca937" title="MPI_Wait" alt="" coords="443,183,521,209"/>
+<area shape="rect" id="node10" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="627,132,679,159"/>
+<area shape="rect" id="node11" href="$nvtx__pmpi_8c.html#a89a5128619ef11cdf9173a34436ad3d5" title="PMPI_Wait" alt="" coords="609,183,697,209"/>
+<area shape="rect" id="node12" href="$nvtx__pmpi_8c.html#a6da5aebfab9343484ea0cbeb0954e11a" title="PMPI_Waitany" alt="" coords="599,233,707,260"/>
+</map>

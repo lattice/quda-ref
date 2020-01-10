@@ -1,0 +1,15 @@
+<map id="orthogonalize" name="orthogonalize">
+<area shape="rect" id="node2" href="$hisq__force__reference2_8cpp.html#ad1593bcb1050aa9bf83bbd2ca53077bc" title="conj" alt="" coords="152,176,199,203"/>
+<area shape="rect" id="node11" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="979,157,1019,184"/>
+<area shape="rect" id="node3" href="$covdev__reference_8cpp.html#ab0f599f28b95625a5325f690bfba3341" title="mat" alt="" coords="247,151,291,177"/>
+<area shape="rect" id="node4" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="339,139,383,165"/>
+<area shape="rect" id="node5" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="431,132,552,159"/>
+<area shape="rect" id="node6" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="613,5,694,32"/>
+<area shape="rect" id="node9" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="600,56,707,83"/>
+<area shape="rect" id="node10" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="791,132,854,159"/>
+<area shape="rect" id="node12" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="618,157,689,184"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="630,208,677,235"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="755,31,891,57"/>
+<area shape="rect" id="node8" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="939,31,1060,57"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="772,183,873,209"/>
+</map>

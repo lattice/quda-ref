@@ -1,0 +1,17 @@
+<map id="quda::DiracWilson" name="quda::DiracWilson">
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_clover.html" title="quda::DiracClover" alt="" coords="477,37,599,64"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_domain_wall.html" title="quda::DiracDomainWall" alt="" coords="461,119,615,145"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_twisted_clover.html" title="quda::DiracTwistedClover" alt="" coords="455,195,621,221"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_twisted_mass.html" title="quda::DiracTwistedMass" alt="" coords="458,245,618,272"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_wilson_p_c.html" title="quda::DiracWilsonPC" alt="" coords="467,296,609,323"/>
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html" title="quda::Dirac" alt="" coords="148,195,235,221"/>
+<area shape="rect" id="node3" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="5,195,100,221"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_clover_p_c.html" title="quda::DiracCloverPC" alt="" coords="691,5,831,32"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_domain_wall4_d.html" title="quda::DiracDomainWall4D" alt="" coords="676,56,847,83"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_domain_wall_p_c.html" title="quda::DiracDomainWallPC" alt="" coords="675,107,848,133"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_mobius.html" title="quda::DiracMobius" alt="" coords="698,157,825,184"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html" title="quda::DiracDomainWall4DPC" alt="" coords="901,56,1091,83"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_mobius_p_c.html" title="quda::DiracMobiusPC" alt="" coords="923,157,1069,184"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_twisted_clover_p_c.html" title="quda::DiracTwistedCloverPC" alt="" coords="669,208,853,235"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_twisted_mass_p_c.html" title="quda::DiracTwistedMassPC" alt="" coords="672,259,851,285"/>
+</map>

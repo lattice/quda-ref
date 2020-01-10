@@ -1,0 +1,4 @@
+<map id="quda::SortedEvals::SelectSmall" name="quda::SortedEvals::SelectSmall">
+<area shape="rect" id="node2" href="$namespacequda.html#ac973fcc768c8805999bf969d55d74b6f" title="quda::ComputeHarmonicRitz\l\&lt; libtype::eigen_lib \&gt;" alt="" coords="184,5,369,47"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a70335f89785e7fec8596640185e70900" title="quda::ComputeHarmonicRitz\l\&lt; libtype::magma_lib \&gt;" alt="" coords="184,71,369,112"/>
+</map>

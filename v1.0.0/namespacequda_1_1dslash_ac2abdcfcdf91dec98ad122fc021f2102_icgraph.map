@@ -1,0 +1,6 @@
+<map id="quda::dslash::issueGather" name="quda::dslash::issueGather">
+<area shape="rect" id="node2" href="$structquda_1_1dslash_1_1_dslash_basic.html#ac6a299ccb6cb6c87d77390ecced0b717" title="quda::dslash::DslashBasic\l::operator()" alt="" coords="233,5,401,47"/>
+<area shape="rect" id="node3" href="$structquda_1_1dslash_1_1_dslash_fused_exterior.html#aed1c7ad89c2c0e497aefb6e585c677ab" title="quda::dslash::DslashFused\lExterior::operator()" alt="" coords="231,71,402,112"/>
+<area shape="rect" id="node4" href="$structquda_1_1dslash_1_1_dslash_g_d_r_recv.html#a654d1bca65e88abd0d162b988838b36a" title="quda::dslash::DslashGDRRecv\l::operator()" alt="" coords="220,136,413,177"/>
+<area shape="rect" id="node5" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r_recv.html#a3fc0abd7a77ae5ef90a310e711f2524f" title="quda::dslash::DslashFused\lGDRRecv::operator()" alt="" coords="231,201,402,243"/>
+</map>

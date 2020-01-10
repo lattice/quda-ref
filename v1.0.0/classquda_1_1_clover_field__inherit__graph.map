@@ -1,0 +1,6 @@
+<map id="quda::CloverField" name="quda::CloverField">
+<area shape="rect" id="node4" href="$classquda_1_1cpu_clover_field.html" title="quda::cpuCloverField" alt="" coords="5,229,147,256"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_clover_field.html" title="quda::cudaCloverField" alt="" coords="171,229,319,256"/>
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="99,80,221,107"/>
+<area shape="rect" id="node3" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="113,5,207,32"/>
+</map>

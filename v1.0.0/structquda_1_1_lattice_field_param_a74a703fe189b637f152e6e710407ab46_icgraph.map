@@ -1,0 +1,6 @@
+<map id="quda::LatticeFieldParam::GhostPrecision" name="quda::LatticeFieldParam::GhostPrecision">
+<area shape="rect" id="node2" href="$namespacequda.html#af9f53bab240560bfa5d4e70082ba259d" title="quda::operator\&lt;\&lt;" alt="" coords="231,5,349,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#aa42d5ff07172d9a61a8b9b8375731843" title="quda::ColorSpinorField\l::reset" alt="" coords="215,57,365,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1cpu_color_spinor_field.html#a0513b4ff30e2490730a79821e176ec91" title="quda::cpuColorSpinorField\l::cpuColorSpinorField" alt="" coords="417,23,589,65"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_color_spinor_field.html#a9ee48a7d12288038fd11211b34b7152f" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="413,89,592,130"/>
+</map>

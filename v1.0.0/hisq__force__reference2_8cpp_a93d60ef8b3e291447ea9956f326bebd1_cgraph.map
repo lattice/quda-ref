@@ -1,0 +1,25 @@
+<map id="computeMiddleLinkSite" name="computeMiddleLinkSite">
+<area shape="rect" id="node2" href="$class_load_store.html#ade2fa2bd0df6ad5e7b9f8333b737fd98" title="LoadStore::addMatrixToField" alt="" coords="211,165,397,192"/>
+<area shape="rect" id="node15" href="$hisq__force__reference2_8cpp.html#ad1593bcb1050aa9bf83bbd2ca53077bc" title="conj" alt="" coords="281,48,327,75"/>
+<area shape="rect" id="node16" href="$struct_locator.html#ab8121724003da1d8a85e1e0fcf671afb" title="Locator::getFullFromHalf\lIndex" alt="" coords="223,217,385,258"/>
+<area shape="rect" id="node19" href="$struct_locator.html#a3d3ff8505e979292f71bf44207009294" title="Locator::getNeighborFrom\lFullIndex" alt="" coords="219,451,389,493"/>
+<area shape="rect" id="node21" href="$hisq__force__reference2_8cpp.html#a5bc00defb9fcd3e059f9bf3eb5fd13f5" title="GOES_FORWARDS" alt="" coords="233,283,375,309"/>
+<area shape="rect" id="node22" href="$class_load_store.html#a2cf9a3101348eb38dcac8bb3e40923b8" title="LoadStore::loadMatrixFrom\lField" alt="" coords="216,334,392,375"/>
+<area shape="rect" id="node23" href="$hisq__force__reference2_8cpp.html#a56607ba4f7be43ceaca6f77e68148d46" title="OPP_DIR" alt="" coords="265,400,343,427"/>
+<area shape="rect" id="node24" href="$class_load_store.html#a64cf756f178b5834e25ccc84733e409a" title="LoadStore::storeMatrixTo\lField" alt="" coords="221,99,387,141"/>
+<area shape="rect" id="node3" href="$covdev__reference_8cpp.html#ab0f599f28b95625a5325f690bfba3341" title="mat" alt="" coords="513,107,557,133"/>
+<area shape="rect" id="node4" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="743,107,787,133"/>
+<area shape="rect" id="node5" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="904,107,1025,133"/>
+<area shape="rect" id="node6" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="1086,56,1167,83"/>
+<area shape="rect" id="node9" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="1073,5,1180,32"/>
+<area shape="rect" id="node10" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="1265,107,1327,133"/>
+<area shape="rect" id="node12" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="1091,157,1162,184"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="1103,208,1150,235"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="1228,31,1364,57"/>
+<area shape="rect" id="node8" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1412,31,1533,57"/>
+<area shape="rect" id="node11" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1453,107,1493,133"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="1245,157,1347,184"/>
+<area shape="rect" id="node17" href="$struct_locator.html#aa14ed01844cf88999dabca843f0061f7" title="Locator::cache" alt="" coords="482,224,589,251"/>
+<area shape="rect" id="node18" href="$struct_locator.html#a5ac045ca5d0a1084375a9535572b685b" title="Locator::getCoordsFromHalf\lIndex" alt="" coords="673,217,856,258"/>
+<area shape="rect" id="node20" href="$struct_locator.html#af32ce188f190a688fb62c7de1dd12ee0" title="Locator::getCoordsFromFull\lIndex" alt="" coords="445,451,625,493"/>
+</map>

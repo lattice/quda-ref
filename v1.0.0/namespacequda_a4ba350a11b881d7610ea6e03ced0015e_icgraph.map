@@ -1,0 +1,8 @@
+<map id="quda::qudaEventQuery" name="quda::qudaEventQuery">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ad1c808c1ffe67d6977642a97e47529f0" title="quda::blas::multiReduceLaunch" alt="" coords="204,5,403,32"/>
+<area shape="rect" id="node3" href="$structquda_1_1dslash_1_1_dslash_basic.html#ac6a299ccb6cb6c87d77390ecced0b717" title="quda::dslash::DslashBasic\l::operator()" alt="" coords="219,57,387,98"/>
+<area shape="rect" id="node4" href="$structquda_1_1dslash_1_1_dslash_fused_exterior.html#aed1c7ad89c2c0e497aefb6e585c677ab" title="quda::dslash::DslashFused\lExterior::operator()" alt="" coords="218,122,389,163"/>
+<area shape="rect" id="node5" href="$structquda_1_1dslash_1_1_dslash_g_d_r_recv.html#a654d1bca65e88abd0d162b988838b36a" title="quda::dslash::DslashGDRRecv\l::operator()" alt="" coords="207,187,400,229"/>
+<area shape="rect" id="node6" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r_recv.html#a3fc0abd7a77ae5ef90a310e711f2524f" title="quda::dslash::DslashFused\lGDRRecv::operator()" alt="" coords="218,253,389,294"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#af9f7b3bc9c35b3921606691afdf1dc7e" title="quda::blas::reduceLaunch" alt="" coords="220,319,387,345"/>
+</map>

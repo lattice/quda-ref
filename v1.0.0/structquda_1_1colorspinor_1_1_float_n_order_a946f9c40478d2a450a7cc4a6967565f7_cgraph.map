@@ -1,0 +1,9 @@
+<map id="quda::colorspinor::FloatNOrder::FloatNOrder" name="quda::colorspinor::FloatNOrder::FloatNOrder">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#a0d45bf80605bab8567bdd9a1566babc7" title="quda::ColorSpinorField\l::Ghost" alt="" coords="229,5,379,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="243,71,365,112"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#a37215d878b1f82b333e03b070f0ea47c" title="quda::ColorSpinorField\l::Norm" alt="" coords="229,136,379,177"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="243,201,365,243"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html#a64969b1180e27da1fdbc1959f1cf644c" title="quda::LatticeField\l::SurfaceCB" alt="" coords="243,267,365,308"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="221,333,387,359"/>
+<area shape="rect" id="node5" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="435,143,520,170"/>
+</map>

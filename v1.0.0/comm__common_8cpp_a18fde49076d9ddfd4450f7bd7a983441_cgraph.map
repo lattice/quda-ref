@@ -1,0 +1,6 @@
+<map id="reduceMaxDouble" name="reduceMaxDouble">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#abdf7d13f471c3c6b39e142c09fb130b4" title="comm_allreduce_max" alt="" coords="179,31,327,57"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="375,31,481,57"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="529,5,645,32"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#aa494422fc1d868c35ecbfa909bf9d468" title="PMPI_Reduce" alt="" coords="534,56,641,83"/>
+</map>

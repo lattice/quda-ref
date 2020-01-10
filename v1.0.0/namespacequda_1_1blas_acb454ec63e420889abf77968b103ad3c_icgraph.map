@@ -1,0 +1,39 @@
+<map id="quda::blas::cDotProductNormA" name="quda::blas::cDotProductNormA">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="549,46,635,72"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ace51af2e017b9d4292669f1d7e81eb6a" title="Return (a,b) and ||b||^2 &#45; implemented using cDotProductNormA. " alt="" coords="251,46,448,72"/>
+<area shape="rect" id="node5" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="571,96,613,123"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="524,147,660,174"/>
+<area shape="rect" id="node8" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="506,198,678,224"/>
+<area shape="rect" id="node9" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="503,248,681,275"/>
+<area shape="rect" id="node10" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="519,299,665,326"/>
+<area shape="rect" id="node11" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="523,350,661,376"/>
+<area shape="rect" id="node12" href="$classquda_1_1_s_d.html#aa0937eb41102e35ab13f02db3cdd38b0" title="quda::SD::operator()" alt="" coords="525,400,659,427"/>
+<area shape="rect" id="node13" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="274,978,425,1004"/>
+<area shape="rect" id="node15" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="278,1352,421,1379"/>
+<area shape="rect" id="node17" href="$namespacequda_1_1blas.html#a53d7fb8e21b813343450b14c6ba7e631" title="quda::blas::xmyNorm" alt="" coords="280,603,419,630"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="787,46,857,72"/>
+<area shape="rect" id="node6" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="787,96,857,123"/>
+<area shape="rect" id="node14" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="736,1276,908,1303"/>
+<area shape="rect" id="node16" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="511,1403,673,1430"/>
+<area shape="rect" id="node18" href="$classquda_1_1_c_a_c_g_n_e.html#a5d7dae59806e1f16af69cee4707ebfdf" title="quda::CACGNE::operator()" alt="" coords="737,476,907,503"/>
+<area shape="rect" id="node19" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="515,552,669,579"/>
+<area shape="rect" id="node21" href="$classquda_1_1_c_a_g_c_r.html#a53e792abb6297c7cc6b5fddee7fdda3d" title="quda::CAGCR::operator()" alt="" coords="511,603,673,630"/>
+<area shape="rect" id="node22" href="$classquda_1_1_c_g3.html#affe2eda59aece923ef89de0a0d57f0b2" title="quda::CG3::operator()" alt="" coords="521,728,663,755"/>
+<area shape="rect" id="node23" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="512,779,672,806"/>
+<area shape="rect" id="node24" href="$classquda_1_1_c_g_n_e.html#a4043b6e48b0794cf6876ae6398431e08" title="Run CG. " alt="" coords="515,830,669,856"/>
+<area shape="rect" id="node25" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="521,880,663,907"/>
+<area shape="rect" id="node26" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="501,931,683,958"/>
+<area shape="rect" id="node27" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="503,982,681,1008"/>
+<area shape="rect" id="node28" href="$classquda_1_1_m_p_bi_c_gstab.html#aeaaa27e4d7c28168d04893447dab68b3" title="quda::MPBiCGstab::operator()" alt="" coords="496,1032,688,1059"/>
+<area shape="rect" id="node29" href="$classquda_1_1_m_p_c_g.html#a22dc04a12559494a1202da230c31a66a" title="quda::MPCG::operator()" alt="" coords="514,1083,670,1110"/>
+<area shape="rect" id="node30" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="527,1134,657,1176"/>
+<area shape="rect" id="node31" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="503,1200,681,1227"/>
+<area shape="rect" id="node32" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="535,678,649,704"/>
+<area shape="rect" id="node38" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="523,502,661,528"/>
+<area shape="rect" id="node20" href="$classquda_1_1_c_a_c_g_n_r.html#a88172e047b80fe722212635b3e44eeca" title="quda::CACGNR::operator()" alt="" coords="736,552,908,579"/>
+<area shape="rect" id="node33" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="767,678,877,704"/>
+<area shape="rect" id="node34" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="956,615,1155,642"/>
+<area shape="rect" id="node35" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="1203,678,1307,704"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="985,740,1126,767"/>
+<area shape="rect" id="node37" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1229,740,1280,767"/>
+</map>

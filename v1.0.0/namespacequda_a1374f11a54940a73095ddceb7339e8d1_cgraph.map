@@ -1,0 +1,9 @@
+<map id="quda::CoarseCoarseOp" name="quda::CoarseCoarseOp">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#a7bfb625f29a8fcc9a456ce63f725cc6c" title="Create the gauge field, with meta data specified in the parameter struct. " alt="" coords="207,5,373,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="215,57,365,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#abf48a71855b8e8460561da41eaa486ce" title="quda::LatticeField\l::MemType" alt="" coords="229,122,351,163"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="229,187,351,229"/>
+<area shape="rect" id="node6" href="$structquda_1_1_gauge_field_param.html#a3dd48f43933d09bb14ee9d05733dd8c0" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="210,253,370,294"/>
+<area shape="rect" id="node8" href="$classquda_1_1_transfer.html#aff9a183805a9c82a6a859b5df2f44814" title="quda::Transfer::Vectors" alt="" coords="214,319,366,345"/>
+<area shape="rect" id="node7" href="$namespacequda.html#afd4bd2cb9895c735da434b82bb7cd7bb" title="quda::operator\&lt;\&lt;" alt="" coords="421,260,540,287"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="quda::extractGhost" name="quda::extractGhost">
+<area shape="rect" id="node2" href="$namespacequda.html#abe091511f03b1c04c4a18b3235bb7368" title="quda::extractGaugeGhostMG" alt="" coords="183,111,371,137"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="629,5,803,32"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="617,115,815,141"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="636,165,796,192"/>
+<area shape="rect" id="node8" href="$classquda_1_1_gauge_field.html#a08c5aeb84134058a821ffcec017769ad" title="quda::GaugeField::Staggered\lPhase" alt="" coords="183,242,370,283"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a7e2c22a17b3ff299b7a1a6d220a6d343" title="quda::extractGhostMG" alt="" coords="419,140,569,167"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="433,74,555,115"/>
+</map>

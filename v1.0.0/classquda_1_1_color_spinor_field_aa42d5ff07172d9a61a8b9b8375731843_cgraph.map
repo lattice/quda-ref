@@ -1,0 +1,6 @@
+<map id="quda::ColorSpinorField::reset" name="quda::ColorSpinorField::reset">
+<area shape="rect" id="node2" href="$structquda_1_1_lattice_field_param.html#a74a703fe189b637f152e6e710407ab46" title="quda::LatticeFieldParam\l::GhostPrecision" alt="" coords="204,5,365,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="209,71,360,112"/>
+<area shape="rect" id="node4" href="$structquda_1_1_lattice_field_param.html#afcae9aaaf7cf0fdedd44b9d11f216c30" title="quda::LatticeFieldParam\l::Precision" alt="" coords="204,136,365,177"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#ae8773f62a646118e571b072c00505686" title="Set the vol_string and aux_string for use in tuning. " alt="" coords="209,201,360,243"/>
+</map>

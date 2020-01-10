@@ -1,0 +1,51 @@
+<map id="dot" name="dot">
+<area shape="rect" id="node2" href="$namespacequda.html#a60ca31fc800c90b7ff0ee8bfd6347536" title="quda::__launch_bounds__" alt="" coords="93,625,264,652"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ae070c0e7ac25fc2ff06bce00abbdaee4" title="quda::blockOrthoCPU" alt="" coords="105,676,252,703"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a46211838c9524cfd47aa67e6fa24bdc4" title="Compute the inner product over color and spin dot = ,c conj(a(s,c)) * b(s,c) " alt="" coords="114,727,243,753"/>
+<area shape="rect" id="node8" href="$test__util_8cpp.html#a6ff77ced36e930f1bc260bab5c691bbb" title="orthogonalize" alt="" coords="613,487,711,513"/>
+<area shape="rect" id="node27" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="147,904,210,931"/>
+<area shape="rect" id="node46" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="122,1080,235,1107"/>
+<area shape="rect" id="node5" href="$namespacequda.html#aec53f3855afc8c4c07738c1508fecac3" title="quda::innerProduct" alt="" coords="349,676,478,703"/>
+<area shape="rect" id="node6" href="$namespacequda.html#af8aabfd5129c6217a93eccdba3ba8f60" title="quda::computeColorContraction" alt="" coords="312,727,515,753"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a23604db2aaff592c7ff354a6856e88cf" title="quda::computeDegrandRossi\lContraction" alt="" coords="321,610,506,651"/>
+<area shape="rect" id="node9" href="$test__util_8cpp.html#a90501c6aa892140ed3d96016b37cc0c9" title="constructGaugeField" alt="" coords="829,487,971,513"/>
+<area shape="rect" id="node19" href="$test__util_8cpp.html#ad9e6d31f3ed9ea6998c9444fd56789a8" title="constructUnitaryGaugeField" alt="" coords="809,284,991,311"/>
+<area shape="rect" id="node10" href="$test__util_8h.html#a3d8f1952ab00bca45a06a88115580c8f" title="construct_gauge_field" alt="" coords="1053,457,1199,484"/>
+<area shape="rect" id="node17" href="$test__util_8h.html#af21665b1a5a12dc63fc43891b55497e5" title="construct_fat_long\l_gauge_field" alt="" coords="1062,509,1190,550"/>
+<area shape="rect" id="node11" href="$covdev__test_8cpp.html#aa1cd5eafa5245aa7c3ded9b3b470f0b9" title="init" alt="" coords="1312,309,1351,336"/>
+<area shape="rect" id="node12" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1306,360,1357,387"/>
+<area shape="rect" id="node13" href="$plaq__test_8cpp.html#a039131f3799421d26e6bbc9eee5c68af" title="plaq_test" alt="" coords="1294,411,1369,437"/>
+<area shape="rect" id="node14" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="1276,512,1387,539"/>
+<area shape="rect" id="node15" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="1291,613,1372,640"/>
+<area shape="rect" id="node16" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="1297,461,1365,488"/>
+<area shape="rect" id="node18" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="1312,563,1351,589"/>
+<area shape="rect" id="node20" href="$test__util_8h.html#a6623ee545f9e26e20e2f9205e31805e6" title="createSiteLinkCPU" alt="" coords="1060,157,1192,184"/>
+<area shape="rect" id="node21" href="$gauge__force__test_8cpp.html#a7ca518d5f65b192c3be1c0afc9157c04" title="gauge_force_test" alt="" coords="1271,107,1392,133"/>
+<area shape="rect" id="node22" href="$hisq__paths__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="1279,157,1384,184"/>
+<area shape="rect" id="node23" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="1295,208,1368,235"/>
+<area shape="rect" id="node24" href="$hisq__unitarize__force__test_8cpp.html#ae555bbae3a6f178ba9545d6b4923045e" title="createNoisyLinkCPU" alt="" coords="1261,259,1401,285"/>
+<area shape="rect" id="node25" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="1296,5,1367,32"/>
+<area shape="rect" id="node26" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="1269,56,1394,83"/>
+<area shape="rect" id="node28" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="601,879,723,905"/>
+<area shape="rect" id="node40" href="$covdev__reference_8h.html#a889c78c66d143bdfb3ade7271407a422" title="matdagmat" alt="" coords="1083,1031,1169,1057"/>
+<area shape="rect" id="node42" href="$domain__wall__dslash__reference_8cpp.html#a3964f6b215e1dda74b994183560f238e" title="dslashReference_4d_sgpu" alt="" coords="576,980,748,1007"/>
+<area shape="rect" id="node43" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="378,929,449,956"/>
+<area shape="rect" id="node44" href="$staggered__dslash__reference_8cpp.html#a74c575aa20c8f163c5f9bfe2e4431ea3" title="dslashReference" alt="" coords="603,828,721,855"/>
+<area shape="rect" id="node29" href="$covdev__reference_8h.html#aab04171420a0617681f38c9811faa347" title="covdev_dslash" alt="" coords="847,879,953,905"/>
+<area shape="rect" id="node30" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="878,777,922,804"/>
+<area shape="rect" id="node39" href="$covdev__reference_8cpp.html#a8698d271fa81fce7f2cdd9d01f5bd37e" title="Matdagmat" alt="" coords="857,828,943,855"/>
+<area shape="rect" id="node31" href="$namespacequda.html#a8a3d36aa906fc8cf6984a8f951a67095" title="quda::cloverInvertCompute" alt="" coords="1039,879,1213,905"/>
+<area shape="rect" id="node32" href="$namespacequda.html#aa987cec88bf5e971204dfe852f169dbe" title="quda::ComputeTMAVGPU" alt="" coords="1040,929,1212,956"/>
+<area shape="rect" id="node33" href="$namespacequda.html#aa2770ef66427e1e0861d7685d363907a" title="quda::getDeterminant" alt="" coords="1054,980,1198,1007"/>
+<area shape="rect" id="node34" href="$namespacequda.html#a6dee5a13d3c20e5499dc454b004c20d1" title="quda::getTrace" alt="" coords="1073,625,1179,652"/>
+<area shape="rect" id="node35" href="$blas__magma_8cu.html#ac65c95f58fc45bfd95869a0a46610df0" title="magma_Xgeev" alt="" coords="1072,676,1180,703"/>
+<area shape="rect" id="node36" href="$blas__magma_8cu.html#a4c2682b088feef2f297278a95dcbe6a7" title="magma_Xgels" alt="" coords="1074,727,1178,753"/>
+<area shape="rect" id="node37" href="$blas__magma_8cu.html#a83177cddacc20617163e82b33b49f89d" title="magma_Xgesv" alt="" coords="1073,777,1179,804"/>
+<area shape="rect" id="node38" href="$blas__magma_8cu.html#aea89e41651e9e05f3af08a4c9062a842" title="magma_Xheev" alt="" coords="1072,828,1180,855"/>
+<area shape="rect" id="node41" href="$staggered__dslash__ctest_8cpp.html#a395582865fa2cf85dfdc964a961ac000" title="staggeredDslashRef" alt="" coords="1263,845,1399,872"/>
+<area shape="rect" id="node45" href="$staggered__dslash__reference_8h.html#a644fdeeba8af318dc56a43af6791d46f" title="staggered_dslash" alt="" coords="1065,575,1187,601"/>
+<area shape="rect" id="node47" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="358,1156,469,1183"/>
+<area shape="rect" id="node48" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="591,1081,733,1108"/>
+<area shape="rect" id="node49" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="848,1219,952,1245"/>
+<area shape="rect" id="node50" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="563,1156,761,1183"/>
+</map>

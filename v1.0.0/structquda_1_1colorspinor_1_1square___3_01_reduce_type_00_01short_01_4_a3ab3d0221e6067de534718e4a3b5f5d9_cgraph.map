@@ -1,0 +1,5 @@
+<map id="quda::colorspinor::square_&lt; ReduceType, short &gt;::operator()" name="quda::colorspinor::square_&lt; ReduceType, short &gt;::operator()">
+<area shape="rect" id="node2" href="$structquda_1_1complex_3_01short_01_4.html#aa203635a627c53a8978aeee859a49c7c" title="quda::complex\&lt; short\l \&gt;::imag" alt="" coords="208,5,351,47"/>
+<area shape="rect" id="node3" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="237,71,322,98"/>
+<area shape="rect" id="node4" href="$structquda_1_1complex_3_01short_01_4.html#a9240d517dba02ea9c9f28d0045468d21" title="quda::complex\&lt; short\l \&gt;::real" alt="" coords="208,123,351,164"/>
+</map>

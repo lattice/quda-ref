@@ -1,0 +1,9 @@
+<map id="comm_gdr_blacklist" name="comm_gdr_blacklist">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="191,31,292,57"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#aed9cf3a332bd56a53d524699b0fd0776" title="comm_gpuid" alt="" coords="193,81,289,108"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="196,132,287,159"/>
+<area shape="rect" id="node8" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="195,183,287,209"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="340,31,431,57"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="479,5,579,32"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="483,56,574,83"/>
+</map>

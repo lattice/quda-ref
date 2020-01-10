@@ -1,0 +1,47 @@
+<map id="quda::cudaGaugeField::saveCPUField" name="quda::cudaGaugeField::saveCPUField">
+<area shape="rect" id="node2" href="$namespacequda.html#a54730f68a5a027c068a61f7f078d9ce6" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="245,242,358,269"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="215,490,387,517"/>
+<area shape="rect" id="node11" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="214,541,389,567"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="217,605,385,631"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="229,655,374,682"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="204,706,399,733"/>
+<area shape="rect" id="node34" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="247,757,356,783"/>
+<area shape="rect" id="node36" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="264,807,339,834"/>
+<area shape="rect" id="node38" href="$interface__quda_8cpp.html#af6e8d08f0e5477d56e09f07c940ebf65" title="projectSU3Quda" alt="" coords="243,858,360,885"/>
+<area shape="rect" id="node39" href="$classquda_1_1cuda_gauge_field.html#ad640087d39ac539ab3b676e1f585a4c3" title="Upload from this field into a CPU field. Overloaded variant that includes profiling. " alt="" coords="226,909,377,951"/>
+<area shape="rect" id="node40" href="$interface__quda_8cpp.html#a6516a0a03688b7c5931b44ae4244e7d2" title="saveGaugeFieldQuda" alt="" coords="229,975,374,1002"/>
+<area shape="rect" id="node42" href="$interface__quda_8cpp.html#a9697844b4e6ef5debe0b7d8c05a96b76" title="saveGaugeQuda" alt="" coords="243,1026,360,1053"/>
+<area shape="rect" id="node45" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="229,1077,374,1103"/>
+<area shape="rect" id="node46" href="$unitarize__link__test_8cpp.html#a529cfbd2a1809bcaf7b4b76a7fb35e5b" title="TEST" alt="" coords="274,1127,329,1154"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_wilson.html#a4e873522da17bae973718aa7aa942b7e" title="Create the coarse Wilson operator. " alt="" coords="471,5,601,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_clover.html#a9c69f0fb58c5bd94644f141319473663" title="Create the coarse clover operator. " alt="" coords="472,71,600,112"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_clover_p_c.html#a408ad9ed05b6ab10213f30e83e5fb5e2" title="Create the coarse even&#45;odd preconditioned clover operator. Unlike the Wilson operator, the coarsening of the preconditioned clover operator differs from that of the unpreconditioned clover operator, so we need to specialize it. " alt="" coords="466,136,606,177"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_twisted_mass.html#a6e7562d19f5427f7a47f7c852b9c544c" title="Create the coarse twisted&#45;mass operator. " alt="" coords="456,201,616,243"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a485936f051761f68c0862ec486d2050c" title="Create the coarse even&#45;odd preconditioned twisted&#45;mass operator. " alt="" coords="447,267,625,308"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_twisted_clover.html#abd2fd1a9b0e159f1d5afb99dd16ee89d" title="Create the coarse twisted&#45;clover operator. " alt="" coords="453,332,619,373"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a245cabe1d6dfdae79a388cde83b5729b" title="Create the coarse even&#45;odd preconditioned twisted&#45;clover operator. Unlike the Wilson operator..." alt="" coords="453,397,619,439"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#a049fa0d60d43475bd7bb67f6c78750d4" title="Compute the gauge force and update the mometum field. " alt="" coords="461,463,611,504"/>
+<area shape="rect" id="node13" href="$gauge__force__test_8cpp.html#a7ca518d5f65b192c3be1c0afc9157c04" title="gauge_force_test" alt="" coords="475,529,597,555"/>
+<area shape="rect" id="node14" href="$gauge__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="745,478,796,505"/>
+<area shape="rect" id="node17" href="$staggered__gauge__utils_8h.html#a80b581c4061de4f160efca53727a8ced" title="computeHISQLinksGPU" alt="" coords="455,579,617,606"/>
+<area shape="rect" id="node26" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="499,630,573,657"/>
+<area shape="rect" id="node28" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="501,681,571,707"/>
+<area shape="rect" id="node30" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="473,731,599,758"/>
+<area shape="rect" id="node18" href="$staggered__gauge__utils_8h.html#af0aca89a3894a49dac7950c095b36bf4" title="computeFatLongGPU" alt="" coords="697,529,844,555"/>
+<area shape="rect" id="node23" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="673,579,868,606"/>
+<area shape="rect" id="node19" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="916,478,1027,505"/>
+<area shape="rect" id="node21" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="931,529,1012,555"/>
+<area shape="rect" id="node20" href="$staggered__eigensolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1121,478,1172,505"/>
+<area shape="rect" id="node22" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1121,529,1172,555"/>
+<area shape="rect" id="node24" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="952,583,991,610"/>
+<area shape="rect" id="node25" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="1075,580,1219,621"/>
+<area shape="rect" id="node27" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="745,630,796,657"/>
+<area shape="rect" id="node29" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="745,681,796,707"/>
+<area shape="rect" id="node31" href="$unitarize__link__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="745,731,796,758"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="451,783,621,824"/>
+<area shape="rect" id="node35" href="$hisq__paths__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="511,849,561,875"/>
+<area shape="rect" id="node37" href="$pack__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="511,899,561,926"/>
+<area shape="rect" id="node41" href="$heatbath__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="511,975,561,1002"/>
+<area shape="rect" id="node43" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="502,1026,570,1053"/>
+<area shape="rect" id="node44" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="745,1026,796,1053"/>
+</map>

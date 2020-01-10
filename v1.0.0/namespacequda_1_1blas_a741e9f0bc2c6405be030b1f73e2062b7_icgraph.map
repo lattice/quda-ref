@@ -1,0 +1,7 @@
+<map id="quda::blas::caxpyXmazNormX" name="quda::blas::caxpyXmazNormX">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="489,5,576,32"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ace51af2e017b9d4292669f1d7e81eb6a" title="Return (a,b) and ||b||^2 &#45; implemented using cDotProductNormA. " alt="" coords="244,31,441,57"/>
+<area shape="rect" id="node5" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="511,68,554,95"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="624,5,695,32"/>
+<area shape="rect" id="node6" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="624,68,695,95"/>
+</map>

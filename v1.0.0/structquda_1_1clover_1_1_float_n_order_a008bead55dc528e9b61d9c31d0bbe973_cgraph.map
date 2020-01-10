@@ -1,0 +1,4 @@
+<map id="quda::clover::FloatNOrder::load" name="quda::clover::FloatNOrder::load">
+<area shape="rect" id="node2" href="$namespacequda.html#abf5b4d5728021e058d90ff1d07446399" title="quda::copy" alt="" coords="416,13,499,39"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ac323f3a5a3665f54d224c1427d1085e7" title="Specialized variants of the copy function that include an additional scale factor. Note the scale factor is ignored unless the input type (b) is either a short or char vector. " alt="" coords="220,38,368,65"/>
+</map>

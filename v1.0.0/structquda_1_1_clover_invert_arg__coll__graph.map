@@ -1,0 +1,6 @@
+<map id="quda::CloverInvertArg&lt; Float &gt;" name="quda::CloverInvertArg&lt; Float &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1_reduce_arg.html" title="quda::ReduceArg\&lt; double2 \&gt;" alt="" coords="5,235,192,262"/>
+<area shape="rect" id="node3" href="$structquda_1_1_reduce_arg.html" title="quda::ReduceArg\&lt; T \&gt;" alt="" coords="23,131,174,158"/>
+<area shape="rect" id="node6" href="$structquda_1_1clover__mapper.html" title="quda::clover_mapper\l\&lt; Float \&gt;" alt="" coords="291,228,431,269"/>
+<area shape="rect" id="node7" href="$structquda_1_1clover__mapper.html" title="quda::clover_mapper\l\&lt; Float, N, add_rho \&gt;" alt="" coords="290,124,433,165"/>
+</map>

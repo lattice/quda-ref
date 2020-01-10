@@ -1,0 +1,25 @@
+<map id="quda::Solver" name="quda::Solver">
+<area shape="rect" id="node2" href="$classquda_1_1_bi_c_gstab.html" title="quda::BiCGstab" alt="" coords="179,5,290,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_bi_c_gstab_l.html" title="quda::BiCGstabL" alt="" coords="175,56,294,83"/>
+<area shape="rect" id="node4" href="$classquda_1_1_c_a_c_g.html" title="Communication&#45;avoiding CG solver. This solver does un&#45;preconditioned CG, running in steps of nKrylov..." alt="" coords="188,107,281,133"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_a_g_c_r.html" title="Communication&#45;avoiding GCR solver. This solver does un&#45;preconditioned GCR, first building up a polyno..." alt="" coords="183,157,286,184"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_g.html" title="Conjugate&#45;Gradient Solver. " alt="" coords="197,208,272,235"/>
+<area shape="rect" id="node11" href="$classquda_1_1_c_g3.html" title="quda::CG3" alt="" coords="193,259,276,285"/>
+<area shape="rect" id="node12" href="$classquda_1_1_c_g3_n_e.html" title="quda::CG3NE" alt="" coords="185,309,284,336"/>
+<area shape="rect" id="node13" href="$classquda_1_1_g_c_r.html" title="quda::GCR" alt="" coords="193,360,277,387"/>
+<area shape="rect" id="node14" href="$classquda_1_1_g_m_res_d_r.html" title="quda::GMResDR" alt="" coords="176,411,293,437"/>
+<area shape="rect" id="node15" href="$classquda_1_1_inc_eig_c_g.html" title="quda::IncEigCG" alt="" coords="179,461,290,488"/>
+<area shape="rect" id="node16" href="$classquda_1_1_m_g.html" title="quda::MG" alt="" coords="196,512,273,539"/>
+<area shape="rect" id="node17" href="$classquda_1_1_m_p_bi_c_gstab.html" title="quda::MPBiCGstab" alt="" coords="169,563,300,589"/>
+<area shape="rect" id="node18" href="$classquda_1_1_m_p_c_g.html" title="quda::MPCG" alt="" coords="187,613,282,640"/>
+<area shape="rect" id="node19" href="$classquda_1_1_m_r.html" title="quda::MR" alt="" coords="197,664,273,691"/>
+<area shape="rect" id="node20" href="$classquda_1_1_precon_c_g.html" title="quda::PreconCG" alt="" coords="177,715,293,741"/>
+<area shape="rect" id="node21" href="$classquda_1_1_preconditioned_solver.html" title="quda::PreconditionedSolver" alt="" coords="145,765,324,792"/>
+<area shape="rect" id="node22" href="$classquda_1_1_s_d.html" title="quda::SD" alt="" coords="197,816,272,843"/>
+<area shape="rect" id="node23" href="$classquda_1_1_simple_bi_c_gstab.html" title="quda::SimpleBiCGstab" alt="" coords="159,867,310,893"/>
+<area shape="rect" id="node24" href="$classquda_1_1_x_s_d.html" title="quda::XSD" alt="" coords="193,917,276,944"/>
+<area shape="rect" id="node5" href="$classquda_1_1_c_a_c_g_n_e.html" title="quda::CACGNE" alt="" coords="372,69,483,96"/>
+<area shape="rect" id="node6" href="$classquda_1_1_c_a_c_g_n_r.html" title="quda::CACGNR" alt="" coords="372,120,483,147"/>
+<area shape="rect" id="node9" href="$classquda_1_1_c_g_n_e.html" title="quda::CGNE" alt="" coords="381,183,473,209"/>
+<area shape="rect" id="node10" href="$classquda_1_1_c_g_n_r.html" title="quda::CGNR" alt="" coords="381,233,474,260"/>
+</map>

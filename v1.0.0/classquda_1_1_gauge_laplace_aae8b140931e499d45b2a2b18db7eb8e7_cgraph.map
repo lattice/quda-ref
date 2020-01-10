@@ -1,0 +1,12 @@
+<map id="quda::GaugeLaplace::DslashXpay" name="quda::GaugeLaplace::DslashXpay">
+<area shape="rect" id="node2" href="$namespacequda.html#afd93a8e1b590f6288d3692226a5f3169" title="Driver for applying the Laplace stencil. " alt="" coords="207,13,341,39"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="192,64,356,105"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="443,130,530,157"/>
+<area shape="rect" id="node9" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="197,181,351,207"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="199,232,349,273"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="411,5,562,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="404,71,569,98"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="617,130,776,157"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="651,181,743,207"/>
+<area shape="rect" id="node10" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="443,181,530,207"/>
+</map>

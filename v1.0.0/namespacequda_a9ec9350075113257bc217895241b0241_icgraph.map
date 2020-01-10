@@ -1,0 +1,12 @@
+<map id="quda::setIdentity" name="quda::setIdentity">
+<area shape="rect" id="node2" href="$svd__quda_8h.html#af157496dd626137ecd5ce0a08be230c4" title="bdSVD" alt="" coords="461,137,523,163"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a394985ba1067a539551f0eef739f8036" title="quda::computeAPEStep" alt="" coords="172,41,331,67"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ad5d9b851e0a336ed8d7815f3e4957f93" title="quda::computeGenGauss" alt="" coords="168,91,335,118"/>
+<area shape="rect" id="node6" href="$namespacequda.html#abb828db4d01a4a845f7448943e02d120" title="quda::computeOvrImpSTOUTStep" alt="" coords="383,199,601,226"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a4c6454379fb7e715088552d1f2340f9c" title="quda::computeSTOUTStep" alt="" coords="403,275,581,302"/>
+<area shape="rect" id="node8" href="$svd__quda_8h.html#ab364ab5ee9f2da1cc48e6576b1f7a37a" title="constructHHMat" alt="" coords="194,345,309,371"/>
+<area shape="rect" id="node9" href="$svd__quda_8h.html#a9f379a7d68a1ec725f9e496aa753c75b" title="getRealBidiagMatrix" alt="" coords="423,370,561,397"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a07ecc1ec003a303ca19edfe2a37da461" title="quda::exponentiate_iQ" alt="" coords="177,243,326,270"/>
+<area shape="rect" id="node11" href="$svd__quda_8h.html#ab80f803de45ab4ad8b169d3110182fcc" title="smallSVD" alt="" coords="212,142,291,169"/>
+<area shape="rect" id="node3" href="$svd__quda_8h.html#a4a285471d66d6c7ae4a7d6e778ef4f5e" title="computeSVD" alt="" coords="649,137,748,163"/>
+</map>

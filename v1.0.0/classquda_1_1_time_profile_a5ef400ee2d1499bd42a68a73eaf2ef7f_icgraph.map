@@ -1,0 +1,48 @@
+<map id="quda::TimeProfile::PrintGlobal" name="quda::TimeProfile::PrintGlobal">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="218,335,293,361"/>
+<area shape="rect" id="node25" href="$classquda_1_1_time_profile.html#a6b6019dff862e546af7693a702ff69d0" title="quda::TimeProfile::Last" alt="" coords="180,1101,331,1128"/>
+<area shape="rect" id="node3" href="$covdev__test_8cpp.html#adbbc3f0ff970d893b225fa7462d2f887" title="end" alt="" coords="459,31,501,57"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#a31d863afe2d830c1cda501126aec245c" title="end_quda_" alt="" coords="437,81,523,108"/>
+<area shape="rect" id="node7" href="$gauge__force__test_8cpp.html#a7ca518d5f65b192c3be1c0afc9157c04" title="gauge_force_test" alt="" coords="419,132,541,159"/>
+<area shape="rect" id="node9" href="$hisq__paths__force__test_8cpp.html#a1ed189dcfacfaa59bd03c4a0dda61771" title="hisq_force_end" alt="" coords="425,183,535,209"/>
+<area shape="rect" id="node12" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="443,233,517,260"/>
+<area shape="rect" id="node14" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="445,284,515,311"/>
+<area shape="rect" id="node16" href="$blas__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="455,335,505,361"/>
+<area shape="rect" id="node17" href="$plaq__test_8cpp.html#a039131f3799421d26e6bbc9eee5c68af" title="plaq_test" alt="" coords="443,385,517,412"/>
+<area shape="rect" id="node19" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="446,436,514,463"/>
+<area shape="rect" id="node21" href="$class_staggered_dslash_test.html#a8b1ae842bbfb2d5bf343c927540bf7c3" title="StaggeredDslashTest\l::TearDownTestCase" alt="" coords="408,487,552,529"/>
+<area shape="rect" id="node22" href="$class_dslash_test.html#abd278de08be6074222e4dc1b9413cab1" title="DslashTest::TearDownTestCase" alt="" coords="379,553,581,580"/>
+<area shape="rect" id="node23" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="417,604,543,631"/>
+<area shape="rect" id="node4" href="$covdev__test_8cpp.html#a489117f6510f66a2a2ee5e0f085cd7a4" title="dslashCUDA" alt="" coords="668,5,763,32"/>
+<area shape="rect" id="node5" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="910,31,961,57"/>
+<area shape="rect" id="node8" href="$gauge__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="690,132,741,159"/>
+<area shape="rect" id="node10" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="661,183,770,209"/>
+<area shape="rect" id="node11" href="$hisq__paths__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="910,183,961,209"/>
+<area shape="rect" id="node13" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="690,233,741,260"/>
+<area shape="rect" id="node15" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="690,284,741,311"/>
+<area shape="rect" id="node18" href="$plaq__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="690,385,741,412"/>
+<area shape="rect" id="node20" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="690,436,741,463"/>
+<area shape="rect" id="node24" href="$unitarize__link__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="690,604,741,631"/>
+<area shape="rect" id="node26" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="409,655,551,681"/>
+<area shape="rect" id="node27" href="$classquda_1_1_c_a_c_g.html#a9fc24e3145040c8a5597fcb21619e96b" title="Compute the alpha coefficients. " alt="" coords="405,706,555,747"/>
+<area shape="rect" id="node28" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="638,772,793,799"/>
+<area shape="rect" id="node31" href="$classquda_1_1_c_a_c_g.html#a8291788a62cd02ed3da2c3e6aa85b4f6" title="Compute the beta coefficients. " alt="" coords="389,823,571,849"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#a712409027ee905b83584cb83debd2226" title="Gauge fixing with Steepest descent method with FFTs with support for single GPU only. " alt="" coords="381,873,579,900"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#a8b0af6b94d7d5041eddf9e4a0a929c0c" title="Gauge fixing with overrelaxation with support for single and multi GPU. " alt="" coords="379,924,581,951"/>
+<area shape="rect" id="node34" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="389,975,571,1001"/>
+<area shape="rect" id="node36" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="412,1025,548,1052"/>
+<area shape="rect" id="node37" href="$classquda_1_1_c_g3.html#affe2eda59aece923ef89de0a0d57f0b2" title="quda::CG3::operator()" alt="" coords="409,1076,551,1103"/>
+<area shape="rect" id="node38" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="400,1127,560,1153"/>
+<area shape="rect" id="node39" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="391,1177,569,1204"/>
+<area shape="rect" id="node40" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="394,1228,566,1255"/>
+<area shape="rect" id="node41" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="391,1279,569,1305"/>
+<area shape="rect" id="node42" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="407,1329,553,1356"/>
+<area shape="rect" id="node43" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="411,1380,549,1407"/>
+<area shape="rect" id="node44" href="$classquda_1_1_c_a_g_c_r.html#a53e792abb6297c7cc6b5fddee7fdda3d" title="quda::CAGCR::operator()" alt="" coords="634,1515,797,1541"/>
+<area shape="rect" id="node45" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="415,1482,545,1523"/>
+<area shape="rect" id="node46" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="391,1548,569,1575"/>
+<area shape="rect" id="node47" href="$classquda_1_1_c_a_g_c_r.html#a62cbe8b49644fc5591d54b9c49895e67" title="Solve the equation A p_k psi_k = q_k psi_k = b by minimizing the least square residual using Eigen&#39;s ..." alt="" coords="411,1599,549,1625"/>
+<area shape="rect" id="node29" href="$classquda_1_1_c_a_c_g_n_e.html#a5d7dae59806e1f16af69cee4707ebfdf" title="quda::CACGNE::operator()" alt="" coords="850,747,1021,773"/>
+<area shape="rect" id="node30" href="$classquda_1_1_c_a_c_g_n_r.html#a88172e047b80fe722212635b3e44eeca" title="quda::CACGNR::operator()" alt="" coords="849,797,1021,824"/>
+<area shape="rect" id="node35" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="629,975,801,1001"/>
+</map>

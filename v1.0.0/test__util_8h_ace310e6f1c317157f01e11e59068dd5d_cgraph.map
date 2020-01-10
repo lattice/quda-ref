@@ -1,0 +1,6 @@
+<map id="last_node_in_t" name="last_node_in_t">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a206b67c95a89bcfed306b2994205b473" title="commCoords" alt="" coords="159,31,257,57"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#a6c081bfedfe939a19ca8acd025864f14" title="comm_coord" alt="" coords="305,31,403,57"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#ae272add21a9cc81ff61e2ae27f849ebd" title="comm_coords" alt="" coords="479,5,581,32"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="451,56,609,83"/>
+</map>

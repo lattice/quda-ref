@@ -1,0 +1,11 @@
+<map id="quda::blas::axpyNorm" name="quda::blas::axpyNorm">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="244,5,331,32"/>
+<area shape="rect" id="node4" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="196,56,379,83"/>
+<area shape="rect" id="node6" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="219,107,355,133"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_g3.html#affe2eda59aece923ef89de0a0d57f0b2" title="quda::CG3::operator()" alt="" coords="216,157,359,184"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="207,208,367,235"/>
+<area shape="rect" id="node9" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="266,259,309,285"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="477,5,548,32"/>
+<area shape="rect" id="node5" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="427,56,599,83"/>
+<area shape="rect" id="node10" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="477,259,548,285"/>
+</map>

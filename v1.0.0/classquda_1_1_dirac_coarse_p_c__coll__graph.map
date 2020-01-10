@@ -1,0 +1,20 @@
+<map id="quda::DiracCoarsePC" name="quda::DiracCoarsePC">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_coarse.html" title="quda::DiracCoarse" alt="" coords="1515,171,1641,197"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac.html" title="quda::Dirac" alt="" coords="1325,215,1412,241"/>
+<area shape="rect" id="node4" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="7,216,102,243"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="307,249,429,276"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_gauge_field.html" title="quda::cudaGaugeField" alt="" coords="972,140,1123,167"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="623,140,746,167"/>
+<area shape="rect" id="node20" href="$classquda_1_1cpu_gauge_field.html" title="quda::cpuGaugeField" alt="" coords="1151,44,1293,71"/>
+<area shape="rect" id="node13" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="609,457,760,484"/>
+<area shape="rect" id="node8" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="5,413,104,440"/>
+<area shape="rect" id="node9" href="$classquda_1_1_time_profile.html" title="quda::TimeProfile" alt="" coords="987,271,1108,297"/>
+<area shape="rect" id="node21" href="$classquda_1_1_transfer.html" title="quda::Transfer" alt="" coords="1317,492,1420,519"/>
+<area shape="rect" id="node10" href="$structquda_1_1_timer.html" title="quda::Timer" alt="" coords="640,249,729,276"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="647,308,723,335"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="307,301,429,342"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="629,671,740,697"/>
+<area shape="rect" id="node17" href="$structquda_1_1_composite_color_spinor_field_descriptor.html" title="quda::CompositeColorSpinor\lFieldDescriptor" alt="" coords="276,450,460,491"/>
+<area shape="rect" id="node18" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="295,581,441,608"/>
+<area shape="rect" id="node19" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="15,605,95,632"/>
+</map>

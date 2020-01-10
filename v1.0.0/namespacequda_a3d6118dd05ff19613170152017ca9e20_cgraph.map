@@ -1,0 +1,8 @@
+<map id="quda::dslash5" name="quda::dslash5">
+<area shape="rect" id="node2" href="$classquda_1_1coeff__type.html#a2460264e7f8e11496fcf7d0f3191abff" title="quda::coeff_type::a" alt="" coords="152,5,279,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1coeff__type.html#ad4066c7187502f2f8c53a4fae37b0b62" title="quda::coeff_type::b" alt="" coords="152,56,279,83"/>
+<area shape="rect" id="node4" href="$classquda_1_1coeff__type.html#ad59899f3fd523feb48188b8ef4a51c61" title="quda::coeff_type::c" alt="" coords="152,107,279,133"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a8f3009e9e4a4bfe40b4d3f20d03c2f45" title="quda::blas::xpay" alt="" coords="160,157,271,184"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a7a989a4b5814fab3ae2ad74d76bbc874" title="quda::blas::axpbyz" alt="" coords="327,157,451,184"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="499,150,621,191"/>
+</map>

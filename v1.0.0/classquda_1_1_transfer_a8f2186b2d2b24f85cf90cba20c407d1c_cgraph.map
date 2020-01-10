@@ -1,0 +1,9 @@
+<map id="quda::Transfer::setTransferGPU" name="quda::Transfer::setTransferGPU">
+<area shape="rect" id="node2" href="$namespacequda.html#adb5b687f3f7ae5bea9dd42f5d0aaaee0" title="Block orthogonnalize the matrix field, where the blocks are defined by lookup tables that map the fin..." alt="" coords="265,5,433,32"/>
+<area shape="rect" id="node4" href="$classquda_1_1_transfer.html#a71cd5cd8e7fdd42ac9a3d8af79ef5c14" title="quda::Transfer::flops" alt="" coords="282,56,417,83"/>
+<area shape="rect" id="node5" href="$namespacequda.html#afb0abb8036c81a571233a53873c66753" title="Apply the prolongation operator. " alt="" coords="290,107,409,133"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a5dc486d143d6fdfd3a1aced4ce237891" title="quda::Restrict" alt="" coords="299,157,399,184"/>
+<area shape="rect" id="node8" href="$classquda_1_1_transfer.html#a4e342b78b6d5ffe90317e86d54743187" title="Sets whether the transfer operator is to act on full fields or single parity fields, and if single&#45;parity which parity. " alt="" coords="255,208,444,235"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="506,17,629,58"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="492,99,643,141"/>
+</map>

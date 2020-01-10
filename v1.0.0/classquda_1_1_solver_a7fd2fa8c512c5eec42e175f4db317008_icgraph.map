@@ -1,0 +1,6 @@
+<map id="quda::Solver::convergenceHQ" name="quda::Solver::convergenceHQ">
+<area shape="rect" id="node2" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="253,5,395,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="256,56,392,83"/>
+<area shape="rect" id="node4" href="$classquda_1_1_c_g3.html#affe2eda59aece923ef89de0a0d57f0b2" title="quda::CG3::operator()" alt="" coords="253,107,395,133"/>
+<area shape="rect" id="node5" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="244,157,404,184"/>
+</map>

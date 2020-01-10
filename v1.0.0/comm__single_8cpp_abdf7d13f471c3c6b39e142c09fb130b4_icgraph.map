@@ -1,0 +1,7 @@
+<map id="comm_allreduce_max" name="comm_allreduce_max">
+<area shape="rect" id="node2" href="$structquda_1_1clover_1_1_field_order.html#a7210f54cd7b3800ad69e041039743a8c" title="Returns the Linfinity norm of the field. " alt="" coords="217,5,373,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html#a6dbbf179ea531504ecbba1e710d97fdf" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l coarseSpin, coarseColor,\l 1, csOrder, Float, ghostFloat\l \&gt;::abs_max" alt="" coords="201,71,388,157"/>
+<area shape="rect" id="node5" href="$structquda_1_1gauge_1_1_field_order.html#a83413a86b675367b641675963eace5ab" title="Returns the Linfinity norm of the field in a given dimension. " alt="" coords="216,181,373,223"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a18fde49076d9ddfd4450f7bd7a983441" title="reduceMaxDouble" alt="" coords="232,247,357,274"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a50d3cfe4817fa34d1fac8539b3a0a574" title="quda::norm" alt="" coords="436,13,521,39"/>
+</map>

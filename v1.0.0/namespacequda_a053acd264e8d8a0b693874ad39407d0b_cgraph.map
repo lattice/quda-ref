@@ -1,0 +1,5 @@
+<map id="quda::device_free_" name="quda::device_free_">
+<area shape="rect" id="node2" href="$namespacequda.html#a7f0c27a7c48f3352db18e9885044228b" title="quda::device_pinned\l_free_" alt="" coords="183,5,321,47"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a532555e4bd75f141d2099bedc8f9f8c6" title="quda::track_free" alt="" coords="397,67,512,94"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#a452c79ca36c562d2fe52d9bcbacae069" title="Returns true if any peer&#45;to&#45;peer capability is present on this system (regardless of whether it has b..." alt="" coords="369,13,540,39"/>
+</map>

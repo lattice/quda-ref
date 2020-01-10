@@ -1,0 +1,5 @@
+<map id="genericReduce" name="genericReduce">
+<area shape="rect" id="node2" href="$generic__reduce_8cuh.html#a6c20d4a2b76f10360ca8b6bd9ab97cdb" title="genericReduce" alt="" coords="190,5,298,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a16a69ac7c8094d9438d7315185a7ee74" title="quda::blas::mixed_reduce" alt="" coords="161,56,327,83"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a2d529d7244e0e7a7453150f83c9620ae" title="quda::blas::uni_reduce" alt="" coords="170,107,318,133"/>
+</map>

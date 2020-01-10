@@ -1,0 +1,19 @@
+<map id="quda::norm" name="quda::norm">
+<area shape="rect" id="node2" href="$structquda_1_1clover_1_1_field_order.html#a7210f54cd7b3800ad69e041039743a8c" title="Returns the Linfinity norm of the field. " alt="" coords="139,5,295,47"/>
+<area shape="rect" id="node8" href="$structquda_1_1clover_1_1_field_order.html#aac48e9ca0e7b74e518966486cb941f2b" title="Returns the minimum absolute value of the field. " alt="" coords="139,71,295,112"/>
+<area shape="rect" id="node10" href="$structquda_1_1clover_1_1_field_order.html#a2f8135432ab105e69c40018af3d2a37b" title="Returns the L1 norm of the field. " alt="" coords="139,136,295,177"/>
+<area shape="rect" id="node18" href="$structquda_1_1clover_1_1_field_order.html#a3c65469c2fa4a20cd104211d46b5b83e" title="Returns the L2 norm suared of the field. " alt="" coords="139,201,295,243"/>
+<area shape="rect" id="node3" href="$structquda_1_1clover_1_1_accessor.html#acd10a705d2c216fb249faccf6bbf45ab" title="quda::clover::Accessor\l::transform_reduce" alt="" coords="343,125,492,167"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#abdf7d13f471c3c6b39e142c09fb130b4" title="comm_allreduce_max" alt="" coords="343,17,491,43"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="557,74,664,101"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="731,62,847,89"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#aa494422fc1d868c35ecbfa909bf9d468" title="PMPI_Reduce" alt="" coords="735,113,842,139"/>
+<area shape="rect" id="node9" href="$comm__quda_8h.html#aadfcf98463bceb3dc953a0b0d815179a" title="comm_allreduce_min" alt="" coords="345,74,490,101"/>
+<area shape="rect" id="node11" href="$comm__quda_8h.html#ad219441b0cdddb8ddf27cf958557713e" title="comm_allreduce" alt="" coords="359,191,476,218"/>
+<area shape="rect" id="node12" href="$comm__quda_8h.html#a7518e44660d59793c0e6a5c0621b8fc3" title="comm_deterministic\l_reduce" alt="" coords="541,277,680,319"/>
+<area shape="rect" id="node13" href="$comm__mpi_8cpp.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="567,125,654,151"/>
+<area shape="rect" id="node14" href="$comm__mpi_8cpp.html#a27b2b7d99e593219e858574324a8cfe0" title="deterministic_reduce" alt="" coords="540,175,681,202"/>
+<area shape="rect" id="node15" href="$nvtx__pmpi_8c.html#a41222d5360f1da1bf44f776c24ddb046" title="MPI_Allgather" alt="" coords="559,226,663,253"/>
+<area shape="rect" id="node16" href="$nvtx__pmpi_8c.html#a3281b70c6bb31afc9d093e5eb01ce823" title="PMPI_Allgather" alt="" coords="732,189,845,215"/>
+<area shape="rect" id="node17" href="$nvtx__pmpi_8c.html#a28ca8e45f5b1eb17533778f96ec09e13" title="PMPI_Allgatherv" alt="" coords="729,239,848,266"/>
+</map>

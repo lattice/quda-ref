@@ -1,0 +1,51 @@
+<map id="performWuppertalnStep" name="performWuppertalnStep">
+<area shape="rect" id="node2" href="$namespacequda.html#ad288ddd1679350fa258fa42bd22accd4" title="quda::copyExtendedGauge" alt="" coords="212,123,387,149"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="463,5,602,32"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="224,614,375,655"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="224,679,375,721"/>
+<area shape="rect" id="node33" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="715,1496,807,1523"/>
+<area shape="rect" id="node34" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="257,1039,342,1065"/>
+<area shape="rect" id="node35" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="239,1089,360,1116"/>
+<area shape="rect" id="node36" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="Pop the verbosity restoring the prior one on the stack. " alt="" coords="252,1140,347,1167"/>
+<area shape="rect" id="node38" href="$quda_8h.html#a3df6e48cb66b7fe0b8e5e2110ca28981" title="printQudaInvertParam" alt="" coords="225,988,373,1015"/>
+<area shape="rect" id="node42" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="Push a new verbosity onto the stack. " alt="" coords="249,1191,350,1217"/>
+<area shape="rect" id="node44" href="$namespacequda.html#ad68820237b5ce7ba722c70f3b26eb8eb" title="quda::wuppertalStep" alt="" coords="230,1467,369,1493"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#ac7938570cd9e0f6d7ff2328b0df441d7" title="quda::LatticeField\l::Ndim" alt="" coords="471,57,594,98"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="1137,930,1260,971"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a9854f36dd6a6d0f458a975923366adf6" title="quda::copyGaugeEx" alt="" coords="465,123,600,149"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1gauge.html#a6cd40608aabdb9080a2df09bb7c10203" title="Return the number of colors of the accessor based on the length of the field. " alt="" coords="694,123,829,149"/>
+<area shape="rect" id="node10" href="$classquda_1_1_lattice_field.html#a96eccffaa1381a45cd03db7bdc4af2f1" title="quda::LatticeField::R" alt="" coords="463,712,602,739"/>
+<area shape="rect" id="node11" href="$classquda_1_1cuda_gauge_field.html#a294b5722e5ddd8d532a6bd4a76f7c075" title="Create the communication handlers and buffers. " alt="" coords="457,537,608,578"/>
+<area shape="rect" id="node14" href="$comm__quda_8h.html#a6dcfe5c3faff54a12f659933a1f58546" title="Query if GPU Direct RDMA communication is enabled (global setting) " alt="" coords="923,661,1058,688"/>
+<area shape="rect" id="node16" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="903,457,1078,484"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a30c73bae2ad5e120dd0c2fea452b7924" title="quda::extractGaugeGhost" alt="" coords="449,887,616,913"/>
+<area shape="rect" id="node23" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="904,1064,1077,1091"/>
+<area shape="rect" id="node25" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="914,316,1067,343"/>
+<area shape="rect" id="node27" href="$classquda_1_1cuda_gauge_field.html#a39ea1d8407ea192a18c920114e41b50b" title="Start the receive communicators. " alt="" coords="686,341,837,382"/>
+<area shape="rect" id="node28" href="$namespacequda.html#a11db6809606f57d0e63d09000334b823" title="Wrapper around cudaStreamSynchronize or cuStreamSynchronize. " alt="" coords="435,384,631,411"/>
+<area shape="rect" id="node29" href="$classquda_1_1cuda_gauge_field.html#aef802319d1de1743c220eb5e0199cc12" title="Start the sending communicators. " alt="" coords="686,275,837,317"/>
+<area shape="rect" id="node31" href="$classquda_1_1cuda_gauge_field.html#afb0cd33fc1d3f2441c530a0b750eef1b" title="Wait for communication to complete. " alt="" coords="686,654,837,695"/>
+<area shape="rect" id="node32" href="$namespacequda.html#a075839243ec706913684940d2ba4ce43" title="quda::copyGenericGauge" alt="" coords="449,836,616,863"/>
+<area shape="rect" id="node12" href="$classquda_1_1cuda_gauge_field.html#a94e130abf2404a411824f5bcf08dfbe4" title="Allocate the ghost buffers. " alt="" coords="686,537,837,578"/>
+<area shape="rect" id="node13" href="$classquda_1_1_lattice_field.html#aec6375f2e46d9ad87a71ce212e437e18" title="quda::LatticeField\l::createComms" alt="" coords="700,719,823,761"/>
+<area shape="rect" id="node15" href="$classquda_1_1_lattice_field.html#a6914c75efd90a13ecb619356e632e63a" title="quda::LatticeField\l::destroyIPCComms" alt="" coords="694,471,829,513"/>
+<area shape="rect" id="node17" href="$classquda_1_1_lattice_field.html#a0888a2cb649719504a1611733e4208aa" title="quda::LatticeField\l::createIPCComms" alt="" coords="696,406,827,447"/>
+<area shape="rect" id="node18" href="$comm__quda_8h.html#a0498a56438662fb30281fb92b5bc40b4" title="comm_start" alt="" coords="945,367,1036,393"/>
+<area shape="rect" id="node20" href="$classquda_1_1_gauge_field.html#ab655802370bde3461711f30a2da68bb7" title="quda::GaugeField::Ncolor" alt="" coords="679,887,844,913"/>
+<area shape="rect" id="node21" href="$namespacequda.html#abe091511f03b1c04c4a18b3235bb7368" title="quda::extractGaugeGhostMG" alt="" coords="897,988,1085,1015"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a04def932827868afffccb9716ff55018" title="quda::extractGhost" alt="" coords="697,1039,826,1065"/>
+<area shape="rect" id="node24" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="892,1191,1089,1217"/>
+<area shape="rect" id="node26" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1155,316,1242,343"/>
+<area shape="rect" id="node30" href="$namespacequda.html#a3f2b731bceb1847d99e603f56717aa64" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="912,265,1069,292"/>
+<area shape="rect" id="node37" href="$util__quda_8cpp.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="487,1140,578,1167"/>
+<area shape="rect" id="node39" href="$namespacequda.html#aee1dc55d8f32802f2e4d3400113f9ec2" title="quda::get_pointer_location" alt="" coords="447,1089,619,1116"/>
+<area shape="rect" id="node40" href="$check__params_8h.html#aca62d56369d5531d0110d2e56516b404" title="printQudaCloverParam" alt="" coords="457,988,609,1015"/>
+<area shape="rect" id="node41" href="$quda_8h.html#a781f3c5590375d63bb6d1cd2b6aec58c" title="newQudaMultigridParam" alt="" coords="451,1039,614,1065"/>
+<area shape="rect" id="node43" href="$util__quda_8cpp.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="487,1191,579,1217"/>
+<area shape="rect" id="node45" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="724,1679,799,1705"/>
+<area shape="rect" id="node46" href="$classquda_1_1_wuppertal_smearing.html#a1758fb9639397c69e0085d9e2f616163" title="quda::WuppertalSmearing\l::apply" alt="" coords="448,1642,617,1683"/>
+<area shape="rect" id="node47" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="457,1394,608,1435"/>
+<area shape="rect" id="node48" href="$classquda_1_1_color_spinor_field.html#a6067aeefbeb02a469fadc6534ce01794" title="quda::ColorSpinorField\l::Nspin" alt="" coords="457,1459,608,1501"/>
+<area shape="rect" id="node49" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="450,1525,615,1552"/>
+<area shape="rect" id="node50" href="$classquda_1_1_color_spinor_field.html#ac7edc95db8134adcf94fd749d85b9ccd" title="quda::ColorSpinorField\l::exchangeGhost" alt="" coords="457,1577,608,1618"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="exchange_cpu_staple" name="exchange_cpu_staple">
+<area shape="rect" id="node2" href="$llfat__reference_8h.html#acd5781bd4bc58c138d6853b33c60a525" title="llfat_reference" alt="" coords="200,89,304,115"/>
+<area shape="rect" id="node3" href="$llfat__reference_8h.html#a80444b8d9b6fba55e969c8afa100c26a" title="computeHISQLinksCPU" alt="" coords="352,63,513,90"/>
+<area shape="rect" id="node9" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="397,114,468,141"/>
+<area shape="rect" id="node4" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="561,13,756,39"/>
+<area shape="rect" id="node7" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="622,63,695,90"/>
+<area shape="rect" id="node5" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="810,13,849,39"/>
+<area shape="rect" id="node6" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="903,5,1047,47"/>
+<area shape="rect" id="node8" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="804,63,855,90"/>
+<area shape="rect" id="node10" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="633,114,684,141"/>
+</map>

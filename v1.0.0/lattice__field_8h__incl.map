@@ -1,0 +1,10 @@
+<map id="include/lattice_field.h" name="include/lattice_field.h">
+<area shape="rect" id="node3" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="508,80,568,107"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="5,155,108,181"/>
+<area shape="rect" id="node12" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="360,80,444,107"/>
+<area shape="rect" id="node16" href="$object_8h.html" title="object.h" alt="" coords="269,80,335,107"/>
+<area shape="rect" id="node4" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="301,229,399,256"/>
+<area shape="rect" id="node8" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="767,155,890,181"/>
+<area shape="rect" id="node14" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="400,155,484,181"/>
+<area shape="rect" id="node17" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="132,155,237,181"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="computeCloverForceQuda" name="computeCloverForceQuda">
+<area shape="rect" id="node2" href="$namespacequda.html#a97a2de656e6f32e57831bb95a5b36bc7" title="Compute the derivative of the clover matrix in the direction mu,nu and compute the resulting force gi..." alt="" coords="480,5,627,32"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a4b255172e59a1940f5b0477ebcd78695" title="Compute the force contribution from the solver solution fields. " alt="" coords="229,680,403,707"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a88f9b8f3add45d5e4b156480335c4a70" title="Compute the outer product from the solver solution fields arising from the diagonal term of the fermi..." alt="" coords="227,481,405,522"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a459ff6e1c00560a077c68fcd674b0e68" title="Compute the matrix tensor field necessary for the force calculation from the clover trace action..." alt="" coords="227,1342,405,1383"/>
+<area shape="rect" id="node13" href="$namespacequda.html#abf5b4d5728021e058d90ff1d07446399" title="quda::copy" alt="" coords="275,1459,357,1485"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac.html#ac13ad4c6bdcacd4b53a473176e7ab830" title="quda::Dirac::create" alt="" coords="252,904,380,931"/>
+<area shape="rect" id="node16" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="241,1510,391,1551"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="241,309,391,336"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dirac.html#aa7376b02cee50aa41fcaea8c76ce9c37" title="quda::Dirac::Dagger" alt="" coords="249,1576,383,1603"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac.html#a69792f182bbe560af9e1358109df730d" title="quda::Dirac::Dslash" alt="" coords="251,1627,381,1653"/>
+<area shape="rect" id="node24" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="241,1678,391,1719"/>
+<area shape="rect" id="node25" href="$namespacequda.html#ab89bf31f53e61dcc0460e33950c6073b" title="Applies a gamma5 matrix to a spinor (wrapper to ApplyGamma) " alt="" coords="263,1408,369,1435"/>
+<area shape="rect" id="node28" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="265,1744,367,1771"/>
+<area shape="rect" id="node29" href="$classquda_1_1_color_spinor_field.html#a4113be893234cf6813ad7438d6d0b210" title="quda::ColorSpinorField::Odd" alt="" coords="225,1795,407,1821"/>
+<area shape="rect" id="node30" href="$structquda_1_1_lattice_field_param.html#afcae9aaaf7cf0fdedd44b9d11f216c30" title="quda::LatticeFieldParam\l::Precision" alt="" coords="235,1846,397,1887"/>
+<area shape="rect" id="node31" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="241,1078,391,1119"/>
+<area shape="rect" id="node43" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="245,601,387,628"/>
+<area shape="rect" id="node44" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="235,1911,397,1953"/>
+<area shape="rect" id="node45" href="$namespacequda.html#ac915554f1abaaccfb9e2e974d855d473" title="quda::updateMomentum" alt="" coords="236,1291,396,1317"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_field.html#a02bc76f698126cbaa08301110983f779" title="quda::GaugeField::Geometry" alt="" coords="700,389,884,416"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="723,259,861,285"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="731,589,853,630"/>
+<area shape="rect" id="node7" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="473,629,633,656"/>
+<area shape="rect" id="node8" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="455,731,652,757"/>
+<area shape="rect" id="node9" href="$classquda_1_1_color_spinor_field.html#a91faefc0bc35e8ad8654d6e1824159d7" title="quda::ColorSpinorField\l::GhostFace" alt="" coords="478,563,629,605"/>
+<area shape="rect" id="node11" href="$class_spinor.html#adce7deb6b8ef4229d5427ed03ba5c186" title="Spinor::set" alt="" coords="512,309,595,336"/>
+<area shape="rect" id="node15" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="507,781,599,808"/>
+<area shape="rect" id="node18" href="$classquda_1_1_gauge_field.html#a95348092c16d3174debf3bd7a3678583" title="quda::GaugeField::TBoundary" alt="" coords="458,157,649,184"/>
+<area shape="rect" id="node19" href="$classquda_1_1_gauge_field.html#a86422b6d879ea6f69354980c746e8ddd" title="quda::GaugeField::Tadpole" alt="" coords="466,56,641,83"/>
+<area shape="rect" id="node20" href="$classquda_1_1_gauge_field.html#aea09fc8dc9f69a1bfebbbad4717e433a" title="quda::GaugeField::Anisotropy" alt="" coords="459,360,647,387"/>
+<area shape="rect" id="node21" href="$namespacequda.html#ad288ddd1679350fa258fa42bd22accd4" title="quda::copyExtendedGauge" alt="" coords="466,411,641,437"/>
+<area shape="rect" id="node26" href="$namespacequda.html#ad599513d161a5af18367f5234ebf5421" title="quda::ApplyGamma" alt="" coords="486,2039,621,2065"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="755,1988,829,2015"/>
+<area shape="rect" id="node32" href="$classquda_1_1_gauge_field.html#adbc8edd6e827e616d393c9ce5c25cb51" title="quda::GaugeField::checkField" alt="" coords="458,1085,649,1112"/>
+<area shape="rect" id="node33" href="$namespacequda.html#aa25deeec640690f50f16e136639e8450" title="Return whether data is reordered on the CPU or GPU. This can set at QUDA initialization using the env..." alt="" coords="479,1136,627,1163"/>
+<area shape="rect" id="node34" href="$classquda_1_1cpu_gauge_field.html#a31d35c35d809f3907d76408bcd10ca86" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="482,1187,625,1229"/>
+<area shape="rect" id="node35" href="$classquda_1_1_lattice_field.html#ac28a222cabb75e131517b3f129807bd6" title="quda::LatticeField\l::GhostExchange" alt="" coords="731,1530,853,1571"/>
+<area shape="rect" id="node36" href="$namespacequda.html#a075839243ec706913684940d2ba4ce43" title="quda::copyGenericGauge" alt="" coords="470,1487,637,1513"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a0138c2d76b9b477b5a914ed4ff09134b" title="quda::create_gauge\l_buffer" alt="" coords="486,1253,621,1294"/>
+<area shape="rect" id="node38" href="$classquda_1_1_gauge_field.html#a741d99f6a1d461a0fbbb4775d9a4d4ee" title="quda::GaugeField::Bytes" alt="" coords="473,1319,633,1345"/>
+<area shape="rect" id="node39" href="$namespacequda.html#a037d22e360b272cb3c5be04675a29b0c" title="quda::create_ghost\l_buffer" alt="" coords="488,1370,619,1411"/>
+<area shape="rect" id="node40" href="$classquda_1_1_gauge_field.html#aedfa91e714c61b8e11caec9d2703dcfa" title="quda::GaugeField::Ghost" alt="" coords="472,933,635,960"/>
+<area shape="rect" id="node41" href="$namespacequda.html#a82845c78c417da7a26d264e491e78a05" title="quda::free_gauge_buffer" alt="" coords="474,984,633,1011"/>
+<area shape="rect" id="node42" href="$namespacequda.html#a8e24b83a48d247f61634d3ca31b084c9" title="quda::free_ghost_buffer" alt="" coords="476,1035,631,1061"/>
+<area shape="rect" id="node46" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="492,1705,615,1746"/>
+<area shape="rect" id="node47" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="492,1770,615,1811"/>
+<area shape="rect" id="node48" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="492,1836,615,1863"/>
+<area shape="rect" id="node49" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="514,1887,593,1913"/>
+<area shape="rect" id="node50" href="$classquda_1_1_lattice_field.html#a3e73db8978503626d9fbc60a07702e65" title="quda::LatticeField\l::VolString" alt="" coords="492,1639,615,1681"/>
+</map>

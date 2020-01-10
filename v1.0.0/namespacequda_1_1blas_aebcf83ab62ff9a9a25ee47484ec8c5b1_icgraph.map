@@ -1,0 +1,4 @@
+<map id="quda::blas::initFastReduce" name="quda::blas::initFastReduce">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ad1c808c1ffe67d6977642a97e47529f0" title="quda::blas::multiReduceLaunch" alt="" coords="224,5,423,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#af9f7b3bc9c35b3921606691afdf1dc7e" title="quda::blas::reduceLaunch" alt="" coords="240,56,407,83"/>
+</map>

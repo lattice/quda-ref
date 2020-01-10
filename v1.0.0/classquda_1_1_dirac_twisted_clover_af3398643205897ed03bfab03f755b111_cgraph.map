@@ -1,0 +1,9 @@
+<map id="quda::DiracTwistedClover::M" name="quda::DiracTwistedClover::M">
+<area shape="rect" id="node2" href="$namespacequda.html#aa6a7376a4c45d2b363b73e424f13bfe8" title="Driver for applying the twisted&#45;clover stencil. " alt="" coords="245,71,413,98"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="236,126,421,153"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#a5dcdda354375f6ced4deb5048f23292f" title="quda::ColorSpinorField\l::TwistFlavor" alt="" coords="253,177,404,219"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="253,243,404,284"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="477,5,627,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="469,71,635,98"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="477,123,627,164"/>
+</map>

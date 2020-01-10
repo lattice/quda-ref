@@ -1,0 +1,7 @@
+<map id="quda::DiracMdag::operator()" name="quda::DiracMdag::operator()">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#aca6d0abadc46cf0048397a98c7e64316" title="quda::blas::axpy" alt="" coords="239,13,349,39"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="232,63,356,90"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a7a989a4b5814fab3ae2ad74d76bbc874" title="quda::blas::axpbyz" alt="" coords="404,13,528,39"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="576,5,699,47"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="415,63,517,90"/>
+</map>

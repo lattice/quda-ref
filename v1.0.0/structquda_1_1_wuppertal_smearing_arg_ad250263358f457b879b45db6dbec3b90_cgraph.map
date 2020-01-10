@@ -1,0 +1,7 @@
+<map id="quda::WuppertalSmearingArg::WuppertalSmearingArg" name="quda::WuppertalSmearingArg::WuppertalSmearingArg">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="249,31,403,57"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="243,81,409,108"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="457,31,544,57"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="592,5,751,32"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="625,56,717,83"/>
+</map>

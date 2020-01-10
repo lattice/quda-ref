@@ -1,0 +1,6 @@
+<map id="quda::computeCloverForce" name="quda::computeCloverForce">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#a91faefc0bc35e8ad8654d6e1824159d7" title="quda::ColorSpinorField\l::GhostFace" alt="" coords="251,5,402,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="247,71,407,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="265,123,388,164"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="228,189,425,215"/>
+</map>

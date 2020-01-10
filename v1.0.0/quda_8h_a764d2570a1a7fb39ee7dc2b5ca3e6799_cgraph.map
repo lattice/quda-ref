@@ -1,0 +1,20 @@
+<map id="qChargeDensityQuda" name="qChargeDensityQuda">
+<area shape="rect" id="node2" href="$namespacequda.html#ac423005dee03865b313537ff8183328c" title="Compute the Fmunu tensor. " alt="" coords="222,5,369,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="696,99,819,141"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a75d8cdc4f4c2ac59f6060bcdad489308" title="Compute the topological charge density per lattice site. " alt="" coords="196,208,395,235"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="221,385,370,412"/>
+<area shape="rect" id="node9" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="688,613,827,640"/>
+<area shape="rect" id="node19" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="234,715,357,757"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="455,157,628,184"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="461,208,621,235"/>
+<area shape="rect" id="node7" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="443,259,640,285"/>
+<area shape="rect" id="node10" href="$classquda_1_1_gauge_field.html#a02bc76f698126cbaa08301110983f779" title="quda::GaugeField::Geometry" alt="" coords="449,411,633,437"/>
+<area shape="rect" id="node11" href="$classquda_1_1_gauge_field.html#a95348092c16d3174debf3bd7a3678583" title="quda::GaugeField::TBoundary" alt="" coords="446,461,637,488"/>
+<area shape="rect" id="node12" href="$classquda_1_1_gauge_field.html#a86422b6d879ea6f69354980c746e8ddd" title="quda::GaugeField::Tadpole" alt="" coords="454,512,629,539"/>
+<area shape="rect" id="node13" href="$classquda_1_1_gauge_field.html#aea09fc8dc9f69a1bfebbbad4717e433a" title="quda::GaugeField::Anisotropy" alt="" coords="447,563,635,589"/>
+<area shape="rect" id="node14" href="$namespacequda.html#ad288ddd1679350fa258fa42bd22accd4" title="quda::copyExtendedGauge" alt="" coords="454,360,629,387"/>
+<area shape="rect" id="node15" href="$classquda_1_1_lattice_field.html#ac7938570cd9e0f6d7ff2328b0df441d7" title="quda::LatticeField\l::Ndim" alt="" coords="696,382,819,423"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a9854f36dd6a6d0f458a975923366adf6" title="quda::copyGaugeEx" alt="" coords="690,331,825,357"/>
+<area shape="rect" id="node17" href="$namespacequda_1_1gauge.html#a6cd40608aabdb9080a2df09bb7c10203" title="Return the number of colors of the accessor based on the length of the field. " alt="" coords="875,331,1009,357"/>
+<area shape="rect" id="node18" href="$namespacequda_1_1gauge.html#a038c45259e95c5426f880805d15b8a4e" title="quda::gauge::ct_sqrt" alt="" coords="1057,331,1193,357"/>
+</map>

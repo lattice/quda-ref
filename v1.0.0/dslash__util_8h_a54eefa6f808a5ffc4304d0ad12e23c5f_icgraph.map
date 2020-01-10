@@ -1,0 +1,51 @@
+<map id="gaugeLink" name="gaugeLink">
+<area shape="rect" id="node2" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="135,1035,256,1061"/>
+<area shape="rect" id="node48" href="$staggered__dslash__reference_8cpp.html#a74c575aa20c8f163c5f9bfe2e4431ea3" title="dslashReference" alt="" coords="137,665,254,692"/>
+<area shape="rect" id="node3" href="$covdev__reference_8h.html#aab04171420a0617681f38c9811faa347" title="covdev_dslash" alt="" coords="304,1417,409,1444"/>
+<area shape="rect" id="node4" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="335,1367,379,1393"/>
+<area shape="rect" id="node44" href="$covdev__reference_8cpp.html#a8698d271fa81fce7f2cdd9d01f5bd37e" title="Matdagmat" alt="" coords="313,703,400,729"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a8a3d36aa906fc8cf6984a8f951a67095" title="quda::cloverInvertCompute" alt="" coords="457,1392,632,1419"/>
+<area shape="rect" id="node6" href="$namespacequda.html#aa987cec88bf5e971204dfe852f169dbe" title="quda::ComputeTMAVGPU" alt="" coords="459,1443,631,1469"/>
+<area shape="rect" id="node7" href="$namespacequda.html#aa2770ef66427e1e0861d7685d363907a" title="quda::getDeterminant" alt="" coords="473,823,617,849"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a6dee5a13d3c20e5499dc454b004c20d1" title="quda::getTrace" alt="" coords="491,1108,598,1135"/>
+<area shape="rect" id="node20" href="$blas__magma_8cu.html#ac65c95f58fc45bfd95869a0a46610df0" title="magma_Xgeev" alt="" coords="491,1493,599,1520"/>
+<area shape="rect" id="node22" href="$blas__magma_8cu.html#a4c2682b088feef2f297278a95dcbe6a7" title="magma_Xgels" alt="" coords="493,1544,597,1571"/>
+<area shape="rect" id="node24" href="$blas__magma_8cu.html#a83177cddacc20617163e82b33b49f89d" title="magma_Xgesv" alt="" coords="491,1291,598,1317"/>
+<area shape="rect" id="node26" href="$blas__magma_8cu.html#aea89e41651e9e05f3af08a4c9062a842" title="magma_Xheev" alt="" coords="491,1240,599,1267"/>
+<area shape="rect" id="node30" href="$covdev__reference_8h.html#a8678fbff3ed31d6f486ab33232e2d005" title="mat" alt="" coords="523,391,567,417"/>
+<area shape="rect" id="node39" href="$namespacequda.html#abbe6dad1180560e1d62ffcc4231f0d44" title="quda::operator*" alt="" coords="491,1595,599,1621"/>
+<area shape="rect" id="node40" href="$namespacequda.html#aae0df96f85eda0c72f93ca6398fad2db" title="quda::operator*=" alt="" coords="487,1645,603,1672"/>
+<area shape="rect" id="node41" href="$namespacequda.html#a8ce4314c844c230d4bd9b2bb0b7cfdfa" title="quda::operator+=" alt="" coords="485,1696,604,1723"/>
+<area shape="rect" id="node42" href="$namespacequda.html#ad0da1353efb2b6174454d8416e3be158" title="quda::twistCloverApply" alt="" coords="469,1747,620,1773"/>
+<area shape="rect" id="node43" href="$namespacequda.html#a991eb0331f3bc1e606d590e7daa72aee" title="Apply the preconditioned twisted&#45;clover dslash. " alt="" coords="479,1341,611,1368"/>
+<area shape="rect" id="node8" href="$structquda_1_1gauge_1_1_reconstruct_3_0113_00_01_float_00_01ghost_exchange___00_01stag__phase_01_4.html#acd0e54904e9e4fb7b18eeaf2eb027da6" title="quda::gauge::Reconstruct\l\&lt; 13, Float, ghostExchange\l_, stag_phase \&gt;::getPhase" alt="" coords="695,695,873,751"/>
+<area shape="rect" id="node9" href="$structquda_1_1gauge_1_1_reconstruct_3_019_00_01_float_00_01ghost_exchange___00_01stag__phase_01_4.html#a846a8dbe5e9594fbbfcd82d72e0db209" title="quda::gauge::Reconstruct\l\&lt; 9, Float, ghostExchange\l_, stag_phase \&gt;::getPhase" alt="" coords="698,775,870,831"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a599ff2d7aba3544b3e0559cd50861906" title="quda::inverse" alt="" coords="736,956,832,983"/>
+<area shape="rect" id="node13" href="$namespacequda.html#ab0fdd052fd3ec3ef5b47118b820fce01" title="Project the input matrix on the SU(3) group. First unitarize the matrix and then project onto the spe..." alt="" coords="992,956,1099,983"/>
+<area shape="rect" id="node14" href="$namespacequda.html#a3c09d0ff142aeda455e7fa29a0ef81f8" title="quda::setUnitarizeLinksConstants" alt="" coords="940,905,1151,932"/>
+<area shape="rect" id="node15" href="$namespacequda.html#ad976bda0be49038ef5ecc0d539b1cbd3" title="quda::computeLinkInverse" alt="" coords="699,644,869,671"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a07ecc1ec003a303ca19edfe2a37da461" title="quda::exponentiate_iQ" alt="" coords="709,1057,859,1084"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a4c6454379fb7e715088552d1f2340f9c" title="quda::computeSTOUTStep" alt="" coords="957,1057,1134,1084"/>
+<area shape="rect" id="node12" href="$namespacequda.html#abb828db4d01a4a845f7448943e02d120" title="quda::computeOvrImpSTOUTStep" alt="" coords="936,1007,1155,1033"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a2510f4db6080796d8778edac3f7f22d2" title="quda::plaquette" alt="" coords="729,1108,839,1135"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a3af3c043803491aaea5c22d9c7807115" title="quda::qChargeComputeKernel" alt="" coords="687,1159,881,1185"/>
+<area shape="rect" id="node21" href="$namespacequda.html#a70335f89785e7fec8596640185e70900" title="quda::ComputeHarmonicRitz\l\&lt; libtype::magma_lib \&gt;" alt="" coords="691,1479,877,1521"/>
+<area shape="rect" id="node23" href="$namespacequda.html#afb3199dc8e4c0947782ffcc22db3ac8f" title="quda::ComputeEta\&lt; libtype\l::magma_lib \&gt;" alt="" coords="697,1545,871,1586"/>
+<area shape="rect" id="node25" href="$classquda_1_1_deflation.html#a34216916176aa5676b2b4af567808b45" title="quda::Deflation::operator()" alt="" coords="701,1428,867,1455"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a58f1c005a18684056d8a5995af8121a2" title="quda::ComputeRitz\&lt;\l libtype::magma_lib \&gt;" alt="" coords="713,1261,855,1302"/>
+<area shape="rect" id="node28" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="709,1327,859,1353"/>
+<area shape="rect" id="node29" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="713,1377,855,1404"/>
+<area shape="rect" id="node31" href="$class_load_store.html#ade2fa2bd0df6ad5e7b9f8333b737fd98" title="LoadStore::addMatrixToField" alt="" coords="691,289,877,316"/>
+<area shape="rect" id="node32" href="$namespacequda.html#af12fa48718d32d8605e7ad9e24f90f50" title="quda::appendMatrixToArray" alt="" coords="695,340,873,367"/>
+<area shape="rect" id="node33" href="$hisq__force__reference2_8cpp.html#ad1593bcb1050aa9bf83bbd2ca53077bc" title="conj" alt="" coords="761,441,807,468"/>
+<area shape="rect" id="node34" href="$svd__quda_8h.html#a9f379a7d68a1ec725f9e496aa753c75b" title="getRealBidiagMatrix" alt="" coords="977,416,1114,443"/>
+<area shape="rect" id="node35" href="$covdev__test_8cpp.html#ab75da1a58a5123f2bf58327b7d2e10bb" title="covdevRef" alt="" coords="743,492,825,519"/>
+<area shape="rect" id="node36" href="$classquda_1_1_m_g.html#ad881072a23857253e540cf789cd73594" title="Generate lowest eigenvectors. " alt="" coords="680,543,888,569"/>
+<area shape="rect" id="node37" href="$classquda_1_1_eigen_solver.html#a1368eaa43f6ed45d936fc9a082e2edfe" title="Applies the specified matVec operation: M, Mdag, MMdag, MdagM. " alt="" coords="719,158,849,199"/>
+<area shape="rect" id="node38" href="$classquda_1_1_dirac_dagger.html#acb4f257b3da5ba383f26e6b4bf8f3c75" title="quda::DiracDagger::\loperator()" alt="" coords="717,223,851,265"/>
+<area shape="rect" id="node45" href="$covdev__reference_8h.html#a889c78c66d143bdfb3ade7271407a422" title="matdagmat" alt="" coords="501,107,588,133"/>
+<area shape="rect" id="node46" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="743,107,825,133"/>
+<area shape="rect" id="node47" href="$staggered__dslash__ctest_8cpp.html#a395582865fa2cf85dfdc964a961ac000" title="staggeredDslashRef" alt="" coords="716,56,852,83"/>
+<area shape="rect" id="node49" href="$staggered__dslash__reference_8h.html#a644fdeeba8af318dc56a43af6791d46f" title="staggered_dslash" alt="" coords="484,56,605,83"/>
+<area shape="rect" id="node50" href="$staggered__dslash__reference_8h.html#a4c8ec3cadcd9089eb793c2d8bbb57045" title="matdagmat" alt="" coords="741,5,827,32"/>
+</map>

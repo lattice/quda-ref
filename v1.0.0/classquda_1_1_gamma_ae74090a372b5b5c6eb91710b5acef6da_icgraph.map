@@ -1,0 +1,7 @@
+<map id="quda::Gamma::apply" name="quda::Gamma::apply">
+<area shape="rect" id="node2" href="$namespacequda.html#ad599513d161a5af18367f5234ebf5421" title="quda::ApplyGamma" alt="" coords="192,31,327,57"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a8d3d68016de7540f102ed8e5af6f2616" title="Do a single (AV)^ * UV product, where for preconditioned clover, AV correspond to the clover inverse ..." alt="" coords="197,81,322,108"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a9f36ac87697d9fb03507fadf76267b22" title="quda::ApplyGamma" alt="" coords="375,5,509,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab89bf31f53e61dcc0460e33950c6073b" title="Applies a gamma5 matrix to a spinor (wrapper to ApplyGamma) " alt="" coords="389,56,495,83"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="557,56,729,83"/>
+</map>

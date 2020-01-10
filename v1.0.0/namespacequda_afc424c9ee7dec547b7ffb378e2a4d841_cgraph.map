@@ -1,0 +1,5 @@
+<map id="quda::applyGaugePhase" name="quda::applyGaugePhase">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#ad6403d97073e3ff8c584773147955a8a" title="quda::GaugeField::exchange\lGhost" alt="" coords="213,5,396,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#ac28a222cabb75e131517b3f129807bd6" title="quda::LatticeField\l::GhostExchange" alt="" coords="243,71,366,112"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="243,136,366,177"/>
+</map>

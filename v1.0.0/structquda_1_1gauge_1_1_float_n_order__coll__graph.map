@@ -1,0 +1,7 @@
+<map id="quda::gauge::FloatNOrder&lt; Float, length, N, reconLenParam, stag_phase, huge_alloc, ghostExchange_, use_inphase &gt;" name="quda::gauge::FloatNOrder&lt; Float, length, N, reconLenParam, stag_phase, huge_alloc, ghostExchange_, use_inphase &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1gauge_1_1_reconstruct.html" title="quda::gauge::Reconstruct\l\&lt; reconLenParam, Float,\l ghostExchange_, stag_phase \&gt;" alt="" coords="904,33,1107,89"/>
+<area shape="rect" id="node3" href="$structquda_1_1mapper.html" title="quda::mapper\&lt; Float \&gt;" alt="" coords="285,52,436,79"/>
+<area shape="rect" id="node5" href="$structquda_1_1gauge_1_1_reconstruct.html" title="Generic reconstruction helper with no reconstruction. " alt="" coords="537,75,711,131"/>
+<area shape="rect" id="node4" href="$structquda_1_1mapper.html" title="quda::mapper\&lt; typename \&gt;" alt="" coords="5,52,183,79"/>
+<area shape="rect" id="node6" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="965,113,1045,140"/>
+</map>

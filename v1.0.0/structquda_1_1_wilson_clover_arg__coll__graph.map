@@ -1,0 +1,10 @@
+<map id="quda::WilsonCloverArg&lt; Float, nColor, reconstruct_, twist_ &gt;" name="quda::WilsonCloverArg&lt; Float, nColor, reconstruct_, twist_ &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1_wilson_arg.html" title="Parameter structure for driving the Wilson operator. " alt="" coords="951,235,1109,277"/>
+<area shape="rect" id="node3" href="$structquda_1_1_dslash_arg.html" title="quda::DslashArg\&lt; Float \&gt;" alt="" coords="691,205,856,232"/>
+<area shape="rect" id="node4" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="54,111,134,137"/>
+<area shape="rect" id="node5" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="329,179,474,205"/>
+<area shape="rect" id="node6" href="$structquda_1_1mapper.html" title="quda::mapper\&lt; Float \&gt;" alt="" coords="326,249,477,276"/>
+<area shape="rect" id="node7" href="$structquda_1_1mapper.html" title="quda::mapper\&lt; typename \&gt;" alt="" coords="5,249,183,276"/>
+<area shape="rect" id="node8" href="$structquda_1_1colorspinor__mapper.html" title="quda::colorspinor_mapper\l\&lt; Float, nSpin, nColor,\l spin_project, spinor_direct_load \&gt;" alt="" coords="665,260,881,316"/>
+<area shape="rect" id="node9" href="$structquda_1_1colorspinor__mapper.html" title="quda::colorspinor_mapper\l\&lt; T, Ns, Nc, project, huge\l_alloc \&gt;" alt="" coords="317,309,485,365"/>
+</map>

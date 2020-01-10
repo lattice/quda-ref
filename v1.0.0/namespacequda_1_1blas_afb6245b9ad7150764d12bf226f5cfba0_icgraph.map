@@ -1,0 +1,4 @@
+<map id="quda::blas::nativeReduce" name="quda::blas::nativeReduce">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a16a69ac7c8094d9438d7315185a7ee74" title="quda::blas::mixed_reduce" alt="" coords="216,5,381,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a2d529d7244e0e7a7453150f83c9620ae" title="quda::blas::uni_reduce" alt="" coords="225,56,373,83"/>
+</map>

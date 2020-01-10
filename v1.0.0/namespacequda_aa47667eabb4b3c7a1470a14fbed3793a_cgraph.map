@@ -1,0 +1,10 @@
+<map id="quda::computeVUV" name="quda::computeVUV">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="411,18,485,45"/>
+<area shape="rect" id="node4" href="$atomic_8cuh.html#a5723b0bba0d65bedce0e1bb329366d8c" title="Implementation of double2 atomic addition using two double&#45;precision additions. " alt="" coords="215,30,299,57"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="217,81,297,107"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a416e52d2ea7f201272f902122f06668d" title="Compute the space&#45;time coordinates we are at. " alt="" coords="200,131,315,158"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a005515a24573e522f9f567c166b3316f" title="quda::virtualThreadIdx" alt="" coords="184,182,331,209"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="565,18,653,45"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a90286e7aed518e4cf52d5ca5a2175073" title="quda::getCoords5CB" alt="" coords="379,106,517,133"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a4534d3429a5a0d143e119a6e3e77f6ab" title="quda::getCoordsCB" alt="" coords="382,157,514,183"/>
+</map>

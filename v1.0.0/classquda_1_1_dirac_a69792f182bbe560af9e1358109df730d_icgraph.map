@@ -1,0 +1,7 @@
+<map id="quda::Dirac::Dslash" name="quda::Dirac::Dslash">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="195,5,367,32"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="184,56,379,83"/>
+<area shape="rect" id="node5" href="$dslash__ctest_8cpp.html#aae87026c545cd7c541478d495efebc47" title="dslashCUDA" alt="" coords="234,108,329,135"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="427,46,597,87"/>
+<area shape="rect" id="node6" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="477,112,547,139"/>
+</map>

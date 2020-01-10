@@ -1,0 +1,4 @@
+<map id="quda::coeff_type::a" name="quda::coeff_type::a">
+<area shape="rect" id="node2" href="$namespacequda.html#a3d6118dd05ff19613170152017ca9e20" title="Apply the D5 operator at given site. " alt="" coords="188,5,287,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#af777e107cf1788892e869cf8978b5b4e" title="Apply the M5 inverse operator at a given site on the lattice. " alt="" coords="180,56,295,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="quda::device_pinned_malloc_" name="quda::device_pinned_malloc_">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a452c79ca36c562d2fe52d9bcbacae069" title="Returns true if any peer&#45;to&#45;peer capability is present on this system (regardless of whether it has b..." alt="" coords="192,5,363,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ac95492d4517e1e02b0a778bb1ae23925" title="quda::device_malloc_" alt="" coords="205,56,350,83"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a48b853dffcb810ee388424076403d694" title="quda::track_malloc" alt="" coords="411,81,541,108"/>
+</map>

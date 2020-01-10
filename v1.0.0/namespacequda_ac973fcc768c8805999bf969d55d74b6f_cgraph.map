@@ -1,0 +1,8 @@
+<map id="quda::ComputeHarmonicRitz&lt; libtype::eigen_lib &gt;" name="quda::ComputeHarmonicRitz&lt; libtype::eigen_lib &gt;">
+<area shape="rect" id="node2" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="266,46,342,73"/>
+<area shape="rect" id="node6" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="261,97,347,123"/>
+<area shape="rect" id="node7" href="$structquda_1_1_sorted_evals.html#ac5bfe99a7c0e428dd9c2bcde0986758b" title="quda::SortedEvals::\lSelectSmall" alt="" coords="239,148,369,189"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="417,46,493,73"/>
+<area shape="rect" id="node4" href="$structquda_1_1complex_3_01double_01_4.html#a3da47d570b43abe5d1720537d69c681c" title="quda::complex\&lt; double\l \&gt;::imag" alt="" coords="541,5,695,47"/>
+<area shape="rect" id="node5" href="$structquda_1_1complex_3_01double_01_4.html#adc5681045ec6cd66e5ab0c73c8dc4ffd" title="quda::complex\&lt; double\l \&gt;::real" alt="" coords="541,71,695,112"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="lib/CUFFT_Plans.h" name="lib/CUFFT_Plans.h">
+<area shape="rect" id="node2" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="871,304,981,331"/>
+<area shape="rect" id="node26" href="$quda__matrix_8h.html" title="quda_matrix.h" alt="" coords="1049,80,1152,107"/>
+<area shape="rect" id="node3" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="1069,379,1188,405"/>
+<area shape="rect" id="node9" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="305,528,403,555"/>
+<area shape="rect" id="node11" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="345,379,405,405"/>
+<area shape="rect" id="node15" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="637,379,721,405"/>
+<area shape="rect" id="node21" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="916,453,1021,480"/>
+<area shape="rect" id="node23" href="$object_8h.html" title="object.h" alt="" coords="893,379,959,405"/>
+<area shape="rect" id="node24" href="$timer_8h.html" title="timer.h" alt="" coords="983,379,1045,405"/>
+<area shape="rect" id="node14" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="314,453,437,480"/>
+<area shape="rect" id="node17" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="681,453,784,480"/>
+<area shape="rect" id="node19" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="808,453,892,480"/>
+<area shape="rect" id="node30" href="$register__traits_8h.html" title="Provides precision abstractions and defines the register precision given the storage precision using ..." alt="" coords="1102,155,1211,181"/>
+<area shape="rect" id="node33" href="$complex__quda_8h.html" title="complex_quda.h" alt="" coords="1222,229,1337,256"/>
+<area shape="rect" id="node37" href="$float__vector_8h.html" title="float_vector.h" alt="" coords="1286,155,1385,181"/>
+<area shape="rect" id="node31" href="$convert_8h.html" title="convert.h" alt="" coords="1123,229,1198,256"/>
+<area shape="rect" id="node36" href="$inline__ptx_8h.html" title="inline_ptx.h" alt="" coords="961,229,1048,256"/>
+</map>

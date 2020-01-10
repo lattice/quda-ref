@@ -1,0 +1,8 @@
+<map id="l2" name="l2">
+<area shape="rect" id="node2" href="$classquda_1_1_matrix.html#a103583ed3cfab61f443970ca920b65e2" title="Compute the matrix L2 norm. We actually compute the Frobenius norm which is an upper bound on the L2 ..." alt="" coords="92,56,203,83"/>
+<area shape="rect" id="node7" href="$new__half_8cu.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="122,107,173,133"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a34dd1c4bb3cbe98eb22f8ff86fa0acf1" title="Compute and return global the momentum action 1/2 mom^2. " alt="" coords="251,56,423,83"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="475,5,593,32"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a004044d1e9bec75f92aa844863084f95" title="quda::forceRecord" alt="" coords="471,56,597,83"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a9942ec2c95b902f2a2c1bcf715ef4f0d" title="Evaluate the kinetic (momentum) contribution to classical Hamiltonian for Hybrid Monte Carlo..." alt="" coords="645,5,748,32"/>
+</map>

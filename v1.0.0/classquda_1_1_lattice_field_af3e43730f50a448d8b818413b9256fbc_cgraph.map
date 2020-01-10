@@ -1,0 +1,12 @@
+<map id="quda::LatticeField::freeGhostBuffer" name="quda::LatticeField::freeGhostBuffer">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html#a6914c75efd90a13ecb619356e632e63a" title="quda::LatticeField\l::destroyIPCComms" alt="" coords="176,99,311,141"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="395,31,497,57"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="403,81,489,108"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#aaf356c30715ea44b84953c66f65c1ef9" title="comm_free" alt="" coords="403,132,489,159"/>
+<area shape="rect" id="node11" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="359,183,533,209"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="615,31,706,57"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="788,5,888,32"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="793,56,883,83"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="581,81,740,108"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="615,132,707,159"/>
+</map>

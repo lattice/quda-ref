@@ -1,0 +1,13 @@
+<map id="quda::DslashCoarseLaunch::operator()" name="quda::DslashCoarseLaunch::operator()">
+<area shape="rect" id="node2" href="$classquda_1_1_worker.html#a5353c5d9c0b4df92d6a68b8a45b9003d" title="quda::Worker::apply" alt="" coords="246,5,379,32"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#afb4ddc313bee134aeff9c4dc5e5498ce" title="Enable / disable peer&#45;to&#45;peer communication: used for dslash policies that do not presently support p..." alt="" coords="229,56,396,83"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a8391bdc2ccd1583a204b2e5cf204fff7" title="Loop over comm_dim_partitioned(dim) for all comms dimensions. " alt="" coords="250,107,375,133"/>
+<area shape="rect" id="node9" href="$classquda_1_1_color_spinor_field.html#ac7edc95db8134adcf94fd749d85b9ccd" title="quda::ColorSpinorField\l::exchangeGhost" alt="" coords="237,158,388,199"/>
+<area shape="rect" id="node10" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="251,223,374,265"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="237,289,388,330"/>
+<area shape="rect" id="node12" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="230,355,395,381"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="444,107,597,133"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="645,107,732,133"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="780,81,939,108"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="813,132,905,159"/>
+</map>

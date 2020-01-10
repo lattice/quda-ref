@@ -1,0 +1,7 @@
+<map id="quda::cudaColorSpinorField::sendGhost" name="quda::cudaColorSpinorField::sendGhost">
+<area shape="rect" id="node2" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="439,22,588,48"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a5e4cd07cc6d76cf2e652b36f28d5a455" title="quda::ColorSpinorField\l::Nvec" alt="" coords="236,26,387,68"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab711f0d6779ce4f27095811910ca39ea" title="quda::popKernelPackT" alt="" coords="235,143,387,170"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ab322a3eff5a7800532b2f664b7803d2d" title="quda::pushKernelPackT" alt="" coords="232,92,391,119"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="439,118,587,144"/>
+</map>

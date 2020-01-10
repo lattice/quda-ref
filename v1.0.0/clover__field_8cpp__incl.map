@@ -1,0 +1,20 @@
+<map id="lib/clover_field.cpp" name="lib/clover_field.cpp">
+<area shape="rect" id="node7" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="419,304,529,331"/>
+<area shape="rect" id="node29" href="$clover__field_8h.html" title="clover_field.h" alt="" coords="685,229,781,256"/>
+<area shape="rect" id="node33" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="563,229,660,256"/>
+<area shape="rect" id="node34" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="918,155,1049,181"/>
+<area shape="rect" id="node38" href="$blas__quda_8h.html" title="blas_quda.h" alt="" coords="702,80,793,107"/>
+<area shape="rect" id="node8" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="548,379,667,405"/>
+<area shape="rect" id="node14" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="549,528,647,555"/>
+<area shape="rect" id="node16" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="787,379,847,405"/>
+<area shape="rect" id="node19" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="1000,379,1084,405"/>
+<area shape="rect" id="node24" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="339,453,444,480"/>
+<area shape="rect" id="node26" href="$object_8h.html" title="object.h" alt="" coords="457,379,523,405"/>
+<area shape="rect" id="node27" href="$timer_8h.html" title="timer.h" alt="" coords="14,379,75,405"/>
+<area shape="rect" id="node18" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="738,453,861,480"/>
+<area shape="rect" id="node20" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="1144,453,1247,480"/>
+<area shape="rect" id="node22" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="1271,453,1355,480"/>
+<area shape="rect" id="node30" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="856,304,953,331"/>
+<area shape="rect" id="node35" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="1021,229,1132,256"/>
+<area shape="rect" id="node37" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="855,229,946,256"/>
+</map>

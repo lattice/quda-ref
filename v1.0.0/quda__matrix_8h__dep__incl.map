@@ -1,0 +1,51 @@
+<map id="include/quda_matrix.h" name="include/quda_matrix.h">
+<area shape="rect" id="node2" href="$clover__field__order_8h.html" title="Main header file for host and device accessors to CloverFields. " alt="" coords="859,169,989,211"/>
+<area shape="rect" id="node3" href="$clover__invert_8cuh.html" title="include/kernels/clover\l_invert.cuh" alt="" coords="5,259,152,300"/>
+<area shape="rect" id="node8" href="$clover__quda_8cu.html" title="lib/clover_quda.cu" alt="" coords="1089,266,1215,293"/>
+<area shape="rect" id="node9" href="$clover__trace__quda_8cu.html" title="lib/clover_trace_quda.cu" alt="" coords="1239,266,1401,293"/>
+<area shape="rect" id="node13" href="$color__spinor_8h.html" title="include/color_spinor.h" alt="" coords="1479,87,1625,114"/>
+<area shape="rect" id="node15" href="$clover__sigma__outer__product_8cuh.html" title="include/kernels/clover\l_sigma_outer_product.cuh" alt="" coords="2147,259,2320,300"/>
+<area shape="rect" id="node16" href="$contraction_8cuh.html" title="include/kernels/contraction.cuh" alt="" coords="5719,266,5919,293"/>
+<area shape="rect" id="node20" href="$color__spinor__wuppertal_8cu.html" title="lib/color_spinor_wuppertal.cu" alt="" coords="2344,266,2531,293"/>
+<area shape="rect" id="node21" href="$clover__outer__product_8cu.html" title="lib/clover_outer_product.cu" alt="" coords="1743,177,1919,203"/>
+<area shape="rect" id="node22" href="$gauge__field__order_8h.html" title="Main header file for host and device accessors to GaugeFields. " alt="" coords="3713,80,3845,121"/>
+<area shape="rect" id="node23" href="$clover__deriv_8cuh.html" title="include/kernels/clover\l_deriv.cuh" alt="" coords="2044,169,2191,211"/>
+<area shape="rect" id="node24" href="$copy__gauge_8cuh.html" title="include/kernels/copy\l_gauge.cuh" alt="" coords="2215,169,2353,211"/>
+<area shape="rect" id="node25" href="$field__strength__tensor_8cuh.html" title="include/kernels/field\l_strength_tensor.cuh" alt="" coords="2377,169,2519,211"/>
+<area shape="rect" id="node26" href="$gauge__ape_8cuh.html" title="include/kernels/gauge\l_ape.cuh" alt="" coords="5660,169,5807,211"/>
+<area shape="rect" id="node27" href="$gauge__plaq_8cuh.html" title="include/kernels/gauge\l_plaq.cuh" alt="" coords="2543,169,2689,211"/>
+<area shape="rect" id="node28" href="$gauge__stout_8cuh.html" title="include/kernels/gauge\l_stout.cuh" alt="" coords="5831,169,5977,211"/>
+<area shape="rect" id="node29" href="$copy__gauge__extended_8cu.html" title="lib/copy_gauge_extended.cu" alt="" coords="2713,177,2897,203"/>
+<area shape="rect" id="node30" href="$extract__gauge__ghost__extended_8cu.html" title="lib/extract_gauge_ghost\l_extended.cu" alt="" coords="2922,169,3081,211"/>
+<area shape="rect" id="node31" href="$gauge__fix__fft_8cu.html" title="lib/gauge_fix_fft.cu" alt="" coords="3105,177,3231,203"/>
+<area shape="rect" id="node32" href="$gauge__fix__ovr_8cu.html" title="lib/gauge_fix_ovr.cu" alt="" coords="6247,177,6382,203"/>
+<area shape="rect" id="node33" href="$gauge__force_8cu.html" title="lib/gauge_force.cu" alt="" coords="3255,177,3382,203"/>
+<area shape="rect" id="node34" href="$gauge__random_8cu.html" title="lib/gauge_random.cu" alt="" coords="3761,177,3903,203"/>
+<area shape="rect" id="node35" href="$gauge__update__quda_8cu.html" title="lib/gauge_update_quda.cu" alt="" coords="3927,177,4099,203"/>
+<area shape="rect" id="node36" href="$hisq__paths__force__quda_8cu.html" title="lib/hisq_paths_force\l_quda.cu" alt="" coords="4124,169,4260,211"/>
+<area shape="rect" id="node37" href="$ks__force__quda_8cu.html" title="lib/ks_force_quda.cu" alt="" coords="4285,177,4425,203"/>
+<area shape="rect" id="node38" href="$momentum_8cu.html" title="lib/momentum.cu" alt="" coords="4449,177,4570,203"/>
+<area shape="rect" id="node39" href="$pgauge__det__trace_8cu.html" title="lib/pgauge_det_trace.cu" alt="" coords="4594,177,4753,203"/>
+<area shape="rect" id="node40" href="$pgauge__exchange_8cu.html" title="lib/pgauge_exchange.cu" alt="" coords="4777,177,4937,203"/>
+<area shape="rect" id="node41" href="$pgauge__heatbath_8cu.html" title="lib/pgauge_heatbath.cu" alt="" coords="4961,177,5116,203"/>
+<area shape="rect" id="node42" href="$pgauge__init_8cu.html" title="lib/pgauge_init.cu" alt="" coords="5140,177,5263,203"/>
+<area shape="rect" id="node43" href="$staggered__oprod_8cu.html" title="lib/staggered_oprod.cu" alt="" coords="5287,177,5438,203"/>
+<area shape="rect" id="node44" href="$unitarize__force__quda_8cu.html" title="lib/unitarize_force\l_quda.cu" alt="" coords="5463,169,5585,211"/>
+<area shape="rect" id="node45" href="$unitarize__links__quda_8cu.html" title="lib/unitarize_links\l_quda.cu" alt="" coords="6052,169,6172,211"/>
+<area shape="rect" id="node46" href="$matrix__field_8h.html" title="include/matrix_field.h" alt="" coords="5430,87,5573,114"/>
+<area shape="rect" id="node47" href="$su3__project_8cuh.html" title="include/su3_project.cuh" alt="" coords="5708,87,5865,114"/>
+<area shape="rect" id="node48" href="$_c_u_f_f_t___plans_8h.html" title="lib/CUFFT_Plans.h" alt="" coords="6041,87,6172,114"/>
+<area shape="rect" id="node49" href="$extract__gauge__ghost__helper_8cuh.html" title="lib/extract_gauge_ghost\l_helper.cuh" alt="" coords="6197,80,6355,121"/>
+<area shape="rect" id="node50" href="$gauge__fix__ovr__hit__devf_8cuh.html" title="lib/gauge_fix_ovr_hit\l_devf.cuh" alt="" coords="6380,80,6519,121"/>
+<area shape="rect" id="node4" href="$coarse__op__kernel_8cuh.html" title="include/kernels/coarse\l_op_kernel.cuh" alt="" coords="1597,259,1747,300"/>
+<area shape="rect" id="node5" href="$dslash__twisted__clover__preconditioned_8cuh.html" title="include/kernels/dslash\l_twisted_clover_preconditioned.cuh" alt="" coords="566,348,791,389"/>
+<area shape="rect" id="node6" href="$dslash__wilson__clover_8cuh.html" title="include/kernels/dslash\l_wilson_clover.cuh" alt="" coords="177,259,325,300"/>
+<area shape="rect" id="node7" href="$dslash__wilson__clover__preconditioned_8cuh.html" title="include/kernels/dslash\l_wilson_clover_preconditioned.cuh" alt="" coords="349,259,569,300"/>
+<area shape="rect" id="node10" href="$copy__clover_8cu.html" title="lib/copy_clover.cu" alt="" coords="593,266,717,293"/>
+<area shape="rect" id="node11" href="$dslash__quda_8cu.html" title="lib/dslash_quda.cu" alt="" coords="938,266,1065,293"/>
+<area shape="rect" id="node12" href="$max__clover_8cu.html" title="lib/max_clover.cu" alt="" coords="741,266,862,293"/>
+<area shape="rect" id="node14" href="$color__spinor__field__order_8h.html" title="include/color_spinor\l_field_order.h" alt="" coords="1431,169,1567,211"/>
+<area shape="rect" id="node17" href="$cov_dev_8cuh.html" title="include/kernels/covDev.cuh" alt="" coords="1944,266,2123,293"/>
+<area shape="rect" id="node18" href="$dslash__pack_8cuh.html" title="include/kernels/dslash\l_pack.cuh" alt="" coords="1425,259,1573,300"/>
+<area shape="rect" id="node19" href="$dslash__staggered_8cuh.html" title="include/kernels/dslash\l_staggered.cuh" alt="" coords="1771,259,1919,300"/>
+</map>

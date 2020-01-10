@@ -1,0 +1,13 @@
+<map id="quda::DslashCoarsePolicyTune" name="quda::DslashCoarsePolicyTune">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable.html" title="quda::Tunable" alt="" coords="974,44,1077,71"/>
+<area shape="rect" id="node3" href="$structquda_1_1_dslash_coarse_launch.html" title="quda::DslashCoarseLaunch" alt="" coords="937,200,1113,227"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="623,256,746,283"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="307,235,429,261"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="609,143,760,169"/>
+<area shape="rect" id="node6" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="7,232,102,259"/>
+<area shape="rect" id="node7" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="5,413,104,440"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="629,35,740,61"/>
+<area shape="rect" id="node12" href="$structquda_1_1_composite_color_spinor_field_descriptor.html" title="quda::CompositeColorSpinor\lFieldDescriptor" alt="" coords="276,87,460,129"/>
+<area shape="rect" id="node13" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="295,153,441,180"/>
+<area shape="rect" id="node14" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="15,153,95,180"/>
+</map>

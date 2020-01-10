@@ -1,0 +1,8 @@
+<map id="quda::applyGaugePhase" name="quda::applyGaugePhase">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#aa9c859aa3d4825102b83d0ce736ab9a9" title="quda::GaugeField::applyStaggered\lPhase" alt="" coords="213,5,431,47"/>
+<area shape="rect" id="node5" href="$classquda_1_1cpu_gauge_field.html#a6e91f1204e583f2f20bb295dce52eeb5" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="251,71,393,112"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_field.html#a348b77beb2d1e61bacbd89b41a2c369a" title="quda::GaugeField::remove\lStaggeredPhase" alt="" coords="237,136,407,177"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="490,78,635,105"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#a327cb455334d59db3e501bb52c720fe0" title="Apply the staggered phase factors to the resident gauge field. " alt="" coords="485,5,641,47"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#ac0fd92020c06f4715a4ab16446481024" title="Remove the staggered phase factors to the resident gauge field. " alt="" coords="479,136,647,177"/>
+</map>

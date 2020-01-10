@@ -1,0 +1,51 @@
+<map id="quda::ColorSpinorField::GammaBasis" name="quda::ColorSpinorField::GammaBasis">
+<area shape="rect" id="node2" href="$classquda_1_1_copy_color_spinor_3_014_00_01_arg_01_4.html#ae1e00089e1ce54819b1e849659123827" title="quda::CopyColorSpinor\l\&lt; 4, Arg \&gt;::apply" alt="" coords="230,743,382,784"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="226,808,386,849"/>
+<area shape="rect" id="node35" href="$namespacequda.html#af51386922d0aafee1fbb9c794cd13876" title="quda::contractQuda" alt="" coords="239,1527,373,1554"/>
+<area shape="rect" id="node38" href="$classquda_1_1cuda_color_spinor_field.html#abb0bcabac8d4e5a3775ff6508b558b69" title="quda::cudaColorSpinorField\l::copy" alt="" coords="217,1629,395,1671"/>
+<area shape="rect" id="node39" href="$classquda_1_1cuda_color_spinor_field.html#ac37ac6a9963555b7e4b3f9733c2d7c60" title="quda::cudaColorSpinorField\l::copySpinorField" alt="" coords="461,1629,640,1671"/>
+<area shape="rect" id="node42" href="$classquda_1_1_copy_color_spinor.html#ad79c27451a45e164dfe5130e07410a8b" title="quda::CopyColorSpinor\l::CopyColorSpinor" alt="" coords="230,1695,382,1736"/>
+<area shape="rect" id="node43" href="$classquda_1_1_copy_color_spinor_3_014_00_01_arg_01_4.html#a484343b6dc24abdd7d82193044426615" title="quda::CopyColorSpinor\l\&lt; 4, Arg \&gt;::CopyColorSpinor" alt="" coords="216,1760,396,1801"/>
+<area shape="rect" id="node44" href="$namespacequda.html#a989e4dbeaaa524af2ed3e98021ce05b6" title="quda::extendedCopyColorSpinor" alt="" coords="204,1826,408,1853"/>
+<area shape="rect" id="node45" href="$classquda_1_1_transfer.html#acae8c442c5f6dd3a12530c010d556838" title="quda::Transfer::P" alt="" coords="247,1927,365,1954"/>
+<area shape="rect" id="node50" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="247,1877,365,1903"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_clover.html#a610d1364f732caabe65d4f8cd4ee6deb" title="quda::DiracClover::\lcheckParitySpinor" alt="" coords="487,1461,615,1503"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_domain_wall.html#a18c17cd8c16c534e1e83e244340adb17" title="quda::DiracDomainWall\l::Dslash" alt="" coords="473,625,628,667"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_domain_wall.html#a70e017028b12ac583ab32c5bea213590" title="quda::DiracDomainWall\l::DslashXpay" alt="" coords="473,37,628,79"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_domain_wall4_d.html#ad5be2aa064ad2fc78ed63b83de7d5d99" title="quda::DiracDomainWall4D\l::Dslash4" alt="" coords="465,103,636,144"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_domain_wall4_d.html#acd4b25b21c0de25849d9335fe6af389c" title="quda::DiracDomainWall4D\l::Dslash5" alt="" coords="465,168,636,209"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_domain_wall4_d.html#a7b48a29f41726bea46271e65cd97fd06" title="quda::DiracDomainWall4D\l::Dslash4Xpay" alt="" coords="465,233,636,275"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_domain_wall4_d.html#aff4e042c73ae7e4d536f34baf78b15e0" title="quda::DiracDomainWall4D\l::Dslash5Xpay" alt="" coords="465,299,636,340"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#ae7f3c940e2c58e2da52cdd0dc35b5732" title="quda::DiracDomainWall4DPC\l::Dslash5inv" alt="" coords="456,364,645,405"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a336ae9729a8f72003255bb8e8b52b7f7" title="quda::DiracDomainWall4DPC\l::Dslash5invXpay" alt="" coords="456,429,645,471"/>
+<area shape="rect" id="node21" href="$classquda_1_1_dirac_mobius.html#a21abad5b40b09b47dcbe01821a899d5a" title="quda::DiracMobius::\lDslash4" alt="" coords="484,495,617,536"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dirac_mobius.html#ab10a7f5b4a806d33bd5eb4932e9381fa" title="quda::DiracMobius::\lDslash4pre" alt="" coords="484,560,617,601"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac_mobius.html#a614593dfcba10b6759db8fd2ef9658ea" title="quda::DiracMobius::\lDslash5" alt="" coords="484,1396,617,1437"/>
+<area shape="rect" id="node24" href="$classquda_1_1_dirac_mobius_p_c.html#a272af818e172dcd19ea304eca4970f76" title="quda::DiracMobiusPC\l::Dslash5inv" alt="" coords="716,823,861,864"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac_mobius.html#aa086a0cabba100df75b877353f952645" title="quda::DiracMobius::\lDslash4Xpay" alt="" coords="484,743,617,784"/>
+<area shape="rect" id="node26" href="$classquda_1_1_dirac_mobius.html#abf7864163085e86ea5c09367e1b6fa4a" title="quda::DiracMobius::\lDslash4preXpay" alt="" coords="484,808,617,849"/>
+<area shape="rect" id="node27" href="$classquda_1_1_dirac_mobius.html#a72989227ef42b08123b6826a59031e2a" title="quda::DiracMobius::\lDslash5Xpay" alt="" coords="484,873,617,915"/>
+<area shape="rect" id="node28" href="$classquda_1_1_dirac_mobius_p_c.html#a19089278378dae0ceca932a6d2ffbfa2" title="quda::DiracMobiusPC\l::Dslash5invXpay" alt="" coords="478,939,623,980"/>
+<area shape="rect" id="node29" href="$classquda_1_1_dirac_twisted_clover.html#aab3bf19bda4356b2b14d0c8b84467bf3" title="quda::DiracTwistedClover\l::checkParitySpinor" alt="" coords="467,1004,634,1045"/>
+<area shape="rect" id="node30" href="$classquda_1_1_dirac_twisted_mass.html#a5dd80068e810cb9f6dfa12e6fe6fc3a2" title="quda::DiracTwistedMass\l::twistedApply" alt="" coords="471,1069,631,1111"/>
+<area shape="rect" id="node31" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aebad1f29b65f446d27b2454b45bbec13" title="quda::DiracTwistedMassPC\l::Dslash" alt="" coords="461,1135,640,1176"/>
+<area shape="rect" id="node32" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aefa93709f581a5e61216f7b0a5e60c4b" title="quda::DiracTwistedMassPC\l::DslashXpay" alt="" coords="461,1200,640,1241"/>
+<area shape="rect" id="node33" href="$classquda_1_1_dirac_wilson.html#ac165431269cece6381e2a96e4d26c0af" title="quda::DiracWilson::\lDslash" alt="" coords="485,1265,616,1307"/>
+<area shape="rect" id="node34" href="$classquda_1_1_dirac_wilson.html#aac124c90e310ba9839be06f9c6f372d2" title="quda::DiracWilson::\lDslashXpay" alt="" coords="485,1331,616,1372"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_clover.html#a11ed6ec5d02d88214f9f85f4cd7be795" title="quda::DiracClover::\lDslashXpay" alt="" coords="725,1303,853,1344"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_clover.html#a88d17fecb06a32fdfb538541cb12a153" title="quda::DiracClover::\lClover" alt="" coords="725,1368,853,1409"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_clover_p_c.html#aa2154db33b7a739edaccd4b617224ecb" title="quda::DiracCloverPC\l::CloverInv" alt="" coords="719,1433,859,1475"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_clover_p_c.html#a2b72e321bae3ffd3ccfb146ac7a9bc13" title="quda::DiracCloverPC\l::Dslash" alt="" coords="719,1499,859,1540"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_clover_p_c.html#a2e489273e9382a1ecaae26e150ec5b31" title="quda::DiracCloverPC\l::DslashXpay" alt="" coords="719,1564,859,1605"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_domain_wall_p_c.html#ada117b83ce2a2bcaa4ec3ff8ae94557b" title="quda::DiracDomainWallPC::M" alt="" coords="693,495,884,522"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_domain_wall_p_c.html#a9c65952908127a7d5d4f511f467a5f10" title="quda::DiracDomainWallPC\l::prepare" alt="" coords="702,5,875,47"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_domain_wall_p_c.html#a18b2f618156dcb0ce5839e0eb9cc60d7" title="quda::DiracDomainWallPC\l::reconstruct" alt="" coords="702,71,875,112"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#a5921a7a314a27e9988bf239f44ea85ff" title="contractQuda" alt="" coords="501,1527,601,1554"/>
+<area shape="rect" id="node37" href="$contract__test_8cpp.html#ad96834c8d4c48d5b2eda8fcafe2cfba5" title="test" alt="" coords="529,1578,572,1605"/>
+<area shape="rect" id="node40" href="$classquda_1_1cuda_color_spinor_field.html#a32f2d2fd7ec78094748f94cb07a10f53" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="699,1695,878,1736"/>
+<area shape="rect" id="node41" href="$classquda_1_1cuda_color_spinor_field.html#a7b1c5a7388663a844bff4693a0b30854" title="quda::cudaColorSpinorField\l::operator=" alt="" coords="699,1629,878,1671"/>
+<area shape="rect" id="node46" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="494,1906,607,1933"/>
+<area shape="rect" id="node49" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="481,1957,620,1983"/>
+<area shape="rect" id="node47" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="733,1855,844,1882"/>
+<area shape="rect" id="node48" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="932,1855,1131,1882"/>
+</map>

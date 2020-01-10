@@ -1,0 +1,19 @@
+<map id="quda::qudaStreamWaitEvent" name="quda::qudaStreamWaitEvent">
+<area shape="rect" id="node2" href="$namespacequda_1_1dslash.html#adbfd94820c08f57b05ca9149846f2204" title="Wrapper for querying if communication is finished in the dslash, and if it is take the appropriate ac..." alt="" coords="237,401,432,427"/>
+<area shape="rect" id="node3" href="$structquda_1_1dslash_1_1_dslash_basic.html#ac6a299ccb6cb6c87d77390ecced0b717" title="quda::dslash::DslashBasic\l::operator()" alt="" coords="509,5,677,47"/>
+<area shape="rect" id="node4" href="$structquda_1_1dslash_1_1_dslash_fused_exterior.html#aed1c7ad89c2c0e497aefb6e585c677ab" title="quda::dslash::DslashFused\lExterior::operator()" alt="" coords="507,71,678,112"/>
+<area shape="rect" id="node9" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack.html#a145bf19c8f418bb3a475485bef5fab4e" title="quda::dslash::DslashZero\lCopyPack::operator()" alt="" coords="511,267,674,308"/>
+<area shape="rect" id="node10" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack.html#a4dc97ba48ebb8e95517ec1e670f2eacd" title="quda::dslash::DslashFused\lZeroCopyPack::operator()" alt="" coords="507,463,678,504"/>
+<area shape="rect" id="node11" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack_g_d_r_recv.html#a9d86e2e91a220900c89f2722bf17751e" title="quda::dslash::DslashZero\lCopyPackGDRRecv::operator()" alt="" coords="493,528,692,569"/>
+<area shape="rect" id="node12" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack_g_d_r_recv.html#a111cae0d62f19d1995d40da2e0abb2ab" title="quda::dslash::DslashFused\lZeroCopyPackGDRRecv::operator()" alt="" coords="480,593,705,635"/>
+<area shape="rect" id="node13" href="$structquda_1_1dslash_1_1_dslash_zero_copy.html#ac4607a072c066facf43fdd2173a6a6be" title="quda::dslash::DslashZero\lCopy::operator()" alt="" coords="511,724,674,765"/>
+<area shape="rect" id="node14" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy.html#a6b4dc0531694d3d2886e9427ae4b8487" title="quda::dslash::DslashFused\lZeroCopy::operator()" alt="" coords="507,659,678,700"/>
+<area shape="rect" id="node15" href="$namespacequda_1_1dslash.html#a225d04149cab1370cc4b0812ae6edd59" title="Ensure that the dslash is complete. By construction, the dslash will have completed (or is in flight)..." alt="" coords="240,346,429,373"/>
+<area shape="rect" id="node16" href="$classquda_1_1cuda_color_spinor_field.html#aae55bde1a84a1d166de6a3a7ab30d47a" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="245,655,424,696"/>
+<area shape="rect" id="node17" href="$namespacequda_1_1dslash.html#ac2abdcfcdf91dec98ad122fc021f2102" title="This helper function simply posts the device&#45;host memory copies of all halos in all dimensions and di..." alt="" coords="251,143,418,170"/>
+<area shape="rect" id="node18" href="$namespacequda.html#ad9b26ad8994921de469b8577055403ad" title="quda::shiftColorSpinorField" alt="" coords="247,771,422,798"/>
+<area shape="rect" id="node5" href="$structquda_1_1dslash_1_1_dslash_g_d_r.html#ade8125d09486ff3a23f49bb5833787bd" title="quda::dslash::DslashGDR\l::operator()" alt="" coords="511,397,675,439"/>
+<area shape="rect" id="node6" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r.html#a498fc68026bd1d36fd9c18e2416d2084" title="quda::dslash::DslashFused\lGDR::operator()" alt="" coords="507,332,678,373"/>
+<area shape="rect" id="node7" href="$structquda_1_1dslash_1_1_dslash_g_d_r_recv.html#a654d1bca65e88abd0d162b988838b36a" title="quda::dslash::DslashGDRRecv\l::operator()" alt="" coords="496,136,689,177"/>
+<area shape="rect" id="node8" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r_recv.html#a3fc0abd7a77ae5ef90a310e711f2524f" title="quda::dslash::DslashFused\lGDRRecv::operator()" alt="" coords="507,201,678,243"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="quda::abs" name="quda::abs">
+<area shape="rect" id="node2" href="$namespacequda.html#ab9137714d5730728d68f8e6baccdf7bc" title="Calculate the coarse&#45;link field, including the coarse clover field. " alt="" coords="163,271,281,298"/>
+<area shape="rect" id="node11" href="$comm__mpi_8cpp.html#afc61a0d008f4f806fe5c5ddd378ff18d" title="check_displacement" alt="" coords="152,385,292,411"/>
+<area shape="rect" id="node16" href="$comm__common_8cpp.html#adc5670739f5284d3d5a2f06d2e4e0cfd" title="comm_peer2peer_init" alt="" coords="149,453,295,479"/>
+<area shape="rect" id="node19" href="$namespacequda.html#ac973fcc768c8805999bf969d55d74b6f" title="quda::ComputeHarmonicRitz\l\&lt; libtype::eigen_lib \&gt;" alt="" coords="129,504,315,545"/>
+<area shape="rect" id="node20" href="$namespacequda.html#a70335f89785e7fec8596640185e70900" title="quda::ComputeHarmonicRitz\l\&lt; libtype::magma_lib \&gt;" alt="" coords="129,569,315,611"/>
+<area shape="rect" id="node21" href="$classquda_1_1_eigen_solver.html#a054858df44f196f0844e20ab94544578" title="Computes Left/Right SVD from pre computed Right/Left. " alt="" coords="157,635,287,676"/>
+<area shape="rect" id="node27" href="$contract__reference_8h.html#a873b2982e835f6900be9b7165cc2f7e0" title="contraction_reference" alt="" coords="149,701,295,727"/>
+<area shape="rect" id="node30" href="$classquda_1_1_matrix.html#ab5e176224cd8d07352cde6d219a6f395" title="Compute the matrix L1 norm &#45; this is the maximum of the absolute column sums. " alt="" coords="167,751,277,778"/>
+<area shape="rect" id="node33" href="$classquda_1_1_matrix.html#a0c266f1087ba740f18f472cfb844f87e" title="Compute the matrix Linfinity norm &#45; this is the maximum of the absolute row sums. ..." alt="" coords="163,802,281,829"/>
+<area shape="rect" id="node34" href="$namespacequda.html#a48425cd25adf08e93e618efabc853845" title="quda::log" alt="" coords="185,853,259,879"/>
+<area shape="rect" id="node35" href="$structquda_1_1_h_matrix.html#a313020c06efc785d2bafabe993f54ba4" title="Compute the absolute max element of the Hermitian matrix. " alt="" coords="157,903,287,930"/>
+<area shape="rect" id="node36" href="$structquda_1_1clover_1_1abs__.html#ac04b8e391688c107db67320cf91793df" title="quda::clover::abs_\l::operator()" alt="" coords="161,955,283,996"/>
+<area shape="rect" id="node37" href="$structquda_1_1gauge_1_1abs__.html#a5f21c54d6532202a3cd9695a0b34c7a1" title="quda::gauge::abs_::\loperator()" alt="" coords="157,1020,287,1061"/>
+<area shape="rect" id="node38" href="$structquda_1_1gauge_1_1abs___3_01_float_00_01char_01_4.html#a201f282c74ae6ad173a789928b024c39" title="quda::gauge::abs_\&lt;\l Float, char \&gt;::operator()" alt="" coords="143,1085,301,1127"/>
+<area shape="rect" id="node39" href="$structquda_1_1gauge_1_1abs___3_01_float_00_01short_01_4.html#a8da4900f3a724a29a1af2543d66208d1" title="quda::gauge::abs_\&lt;\l Float, short \&gt;::operator()" alt="" coords="141,1151,303,1192"/>
+<area shape="rect" id="node40" href="$structquda_1_1colorspinor_1_1abs__.html#a1ebd4e697c1d2c6debdfb17096d13666" title="quda::colorspinor::\labs_::operator()" alt="" coords="160,1216,284,1257"/>
+<area shape="rect" id="node41" href="$structquda_1_1gauge_1_1abs___3_01_float_00_01int_01_4.html#a00116b96fe619e00716d1695c6f1a055" title="quda::gauge::abs_\&lt;\l Float, int \&gt;::operator()" alt="" coords="149,1281,295,1323"/>
+<area shape="rect" id="node42" href="$structquda_1_1colorspinor_1_1abs___3_01_float_00_01short_01_4.html#afa6703e7378cc44b67dfee02d6b23682" title="quda::colorspinor::\labs_\&lt; Float, short \&gt;\l::operator()" alt="" coords="155,1347,289,1403"/>
+<area shape="rect" id="node43" href="$structquda_1_1colorspinor_1_1abs___3_01_float_00_01char_01_4.html#ae83f93785da45e8948586ba6a3047e7f" title="quda::colorspinor::\labs_\&lt; Float, char \&gt;\l::operator()" alt="" coords="156,1427,288,1483"/>
+<area shape="rect" id="node44" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="136,1507,308,1534"/>
+<area shape="rect" id="node45" href="$namespacequda.html#a71955a4d17608243e0db0fcdf30e97c5" title="quda::sqrt" alt="" coords="183,1558,261,1585"/>
+<area shape="rect" id="node46" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="201,1609,243,1635"/>
+<area shape="rect" id="node48" href="$classint__fastdiv.html#a457ab8cc216ffe71f3ddcf40796516c2" title="int_fastdiv::update\l_magic_numbers" alt="" coords="159,1660,285,1701"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a54730f68a5a027c068a61f7f078d9ce6" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="407,209,521,235"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_clover.html#a9c69f0fb58c5bd94644f141319473663" title="Create the coarse clover operator. " alt="" coords="639,5,767,47"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_clover_p_c.html#a408ad9ed05b6ab10213f30e83e5fb5e2" title="Create the coarse even&#45;odd preconditioned clover operator. Unlike the Wilson operator, the coarsening of the preconditioned clover operator differs from that of the unpreconditioned clover operator, so we need to specialize it. " alt="" coords="633,71,773,112"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_twisted_clover.html#abd2fd1a9b0e159f1d5afb99dd16ee89d" title="Create the coarse twisted&#45;clover operator. " alt="" coords="619,136,786,177"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a245cabe1d6dfdae79a388cde83b5729b" title="Create the coarse even&#45;odd preconditioned twisted&#45;clover operator. Unlike the Wilson operator..." alt="" coords="619,201,786,243"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_twisted_mass.html#a6e7562d19f5427f7a47f7c852b9c544c" title="Create the coarse twisted&#45;mass operator. " alt="" coords="623,267,783,308"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a485936f051761f68c0862ec486d2050c" title="Create the coarse even&#45;odd preconditioned twisted&#45;mass operator. " alt="" coords="613,332,792,373"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_wilson.html#a4e873522da17bae973718aa7aa942b7e" title="Create the coarse Wilson operator. " alt="" coords="637,397,768,439"/>
+<area shape="rect" id="node12" href="$comm__mpi_8cpp.html#a1b76cb2605ec86e831fbc316528284eb" title="comm_declare_receive\l_displaced" alt="" coords="387,260,541,301"/>
+<area shape="rect" id="node13" href="$comm__mpi_8cpp.html#a4d7233bc6a3a786074eda2e639331066" title="comm_declare_send_displaced" alt="" coords="363,326,565,353"/>
+<area shape="rect" id="node14" href="$comm__mpi_8cpp.html#a5a446f8199e451000296e4910fa61df1" title="comm_declare_strided\l_receive_displaced" alt="" coords="388,377,540,419"/>
+<area shape="rect" id="node15" href="$comm__mpi_8cpp.html#a0b8592a044962c195623852212e6e6ab" title="comm_declare_strided\l_send_displaced" alt="" coords="388,443,540,484"/>
+<area shape="rect" id="node17" href="$comm__common_8cpp.html#a28f2c1670b57527ab3a9ce34f1110caf" title="Initialize the communications common to all communications abstractions. " alt="" coords="395,509,533,535"/>
+<area shape="rect" id="node18" href="$comm__mpi_8cpp.html#add004a3d38b9dc2f15a65bb6e43a2840" title="Initialize the communications, implemented in comm_single.cpp, comm_qmp.cpp, and comm_mpi.cpp. " alt="" coords="661,490,744,517"/>
+<area shape="rect" id="node22" href="$classquda_1_1_solver.html#a71b5c8751745dbe8740df929e5859962" title="Constructs the deflation space. " alt="" coords="363,635,565,676"/>
+<area shape="rect" id="node23" href="$classquda_1_1_c_a_c_g.html#a36adb4a2c0be0e865145e72e6ce55481" title="Initiate the fields needed by the solver. " alt="" coords="635,541,770,567"/>
+<area shape="rect" id="node24" href="$classquda_1_1_c_a_g_c_r.html#a9ad88f1a6ecdd05e9a4c37c63dddf070" title="Initiate the fields needed by the solver. " alt="" coords="631,591,775,618"/>
+<area shape="rect" id="node25" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="635,642,771,669"/>
+<area shape="rect" id="node26" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="630,693,775,719"/>
+<area shape="rect" id="node28" href="$contract__test_8cpp.html#ad96834c8d4c48d5b2eda8fcafe2cfba5" title="test" alt="" coords="443,701,485,727"/>
+<area shape="rect" id="node29" href="$contract__test_8cpp.html#a62f298d8f9af7994f3611f6f9ae8b176" title="TEST_P" alt="" coords="667,743,738,770"/>
+<area shape="rect" id="node31" href="$namespacequda.html#a34dd1c4bb3cbe98eb22f8ff86fa0acf1" title="Compute and return global the momentum action 1/2 mom^2. " alt="" coords="378,773,550,799"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="643,794,762,821"/>
+<area shape="rect" id="node47" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="429,1609,499,1635"/>
+<area shape="rect" id="node49" href="$classint__fastdiv.html#a560528c0f2794f47f2773da83b028044" title="int_fastdiv::int_fastdiv" alt="" coords="392,1663,536,1690"/>
+<area shape="rect" id="node50" href="$classint__fastdiv.html#a71930a947605a846371c6a5916a29e74" title="int_fastdiv::operator=" alt="" coords="393,1714,535,1741"/>
+</map>

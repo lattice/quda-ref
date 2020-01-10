@@ -1,0 +1,51 @@
+<map id="quda::ColorSpinorField::Ndim" name="quda::ColorSpinorField::Ndim">
+<area shape="rect" id="node2" href="$structquda_1_1_block_ortho_arg.html#a873815906580f08f894d43a301e76423" title="quda::BlockOrthoArg\l::BlockOrthoArg" alt="" coords="235,486,376,528"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_domain_wall.html#ae52982a0f0cd8f2c0179414de8545490" title="quda::DiracDomainWall\l::checkDWF" alt="" coords="228,552,383,593"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a67ce9a45dc1ca199482671c9f6b12f64" title="quda::DiracDomainWall4DPC::M" alt="" coords="701,852,908,879"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="225,846,385,888"/>
+<area shape="rect" id="node30" href="$classquda_1_1_dirac_staggered.html#a6f4244d34ba36ebadf6f4ea56b8686d9" title="quda::DiracStaggered\l::checkParitySpinor" alt="" coords="233,1664,378,1705"/>
+<area shape="rect" id="node33" href="$classquda_1_1_dirac_improved_staggered.html#ab6598d5bcd11120b045e01293e6e3ada" title="quda::DiracImprovedStaggered\l::checkParitySpinor" alt="" coords="206,1729,405,1770"/>
+<area shape="rect" id="node36" href="$namespacequda.html#aef3d9d4bc466961551296a7825590aee" title="quda::copyExtendedColorSpinor" alt="" coords="204,1795,407,1822"/>
+<area shape="rect" id="node37" href="$namespacequda.html#ade1c2e8cef0f1d63a2b1fb35a40def2f" title="quda::copyGenericColorSpinor" alt="" coords="208,1846,403,1872"/>
+<area shape="rect" id="node38" href="$classquda_1_1_color_spinor_field.html#ac6823730021c0c56d7733939b1e112d9" title="quda::ColorSpinorField\l::create" alt="" coords="230,1897,381,1938"/>
+<area shape="rect" id="node41" href="$classquda_1_1_transfer.html#a09135ec282aa08b404f28f8f81067c33" title="Creates the map between fine and coarse grids. " alt="" coords="208,1963,403,1990"/>
+<area shape="rect" id="node43" href="$classquda_1_1_dirac_coarse.html#a7c4bcf10b7406f0d9f13962194a7fa48" title="Allocate the Y and X fields. " alt="" coords="239,2014,371,2056"/>
+<area shape="rect" id="node45" href="$classquda_1_1_dirac_coarse.html#a3dec40de37312f60ad0283a4e6f3cf06" title="Allocate the Yhat and Xinv fields. " alt="" coords="239,2080,371,2121"/>
+<area shape="rect" id="node46" href="$structquda_1_1_dslash_arg.html#a7112e11270b4278b6b1427b435f30ab6" title="quda::DslashArg::DslashArg" alt="" coords="216,2146,395,2172"/>
+<area shape="rect" id="node47" href="$structquda_1_1_dslash_coarse_arg.html#addcfe55b9f2f442e061c6cf0b9d9747b" title="quda::DslashCoarseArg\l::DslashCoarseArg" alt="" coords="228,2197,383,2238"/>
+<area shape="rect" id="node48" href="$classquda_1_1_pack.html#a157a77fd6cc178d11afa89814ac069fb" title="gridStep sets the step size when iterating the grid size in advanceGridDim. " alt="" coords="235,2263,375,2290"/>
+<area shape="rect" id="node49" href="$classquda_1_1_pack.html#a262edee8d1c8394d18816521d3ab91ed" title="quda::Pack::maxGridSize" alt="" coords="223,2314,388,2340"/>
+<area shape="rect" id="node50" href="$classquda_1_1_pack.html#ab24b4bf852e96b82fbf589d7f8d6b150" title="quda::Pack::minGridSize" alt="" coords="224,2364,387,2391"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_domain_wall.html#a18c17cd8c16c534e1e83e244340adb17" title="quda::DiracDomainWall\l::Dslash" alt="" coords="477,356,631,397"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_domain_wall_p_c.html#ada117b83ce2a2bcaa4ec3ff8ae94557b" title="quda::DiracDomainWallPC::M" alt="" coords="709,298,900,324"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_domain_wall.html#a70e017028b12ac583ab32c5bea213590" title="quda::DiracDomainWall\l::DslashXpay" alt="" coords="477,290,631,332"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_domain_wall4_d.html#ad5be2aa064ad2fc78ed63b83de7d5d99" title="quda::DiracDomainWall4D\l::Dslash4" alt="" coords="469,748,639,789"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_domain_wall4_d.html#acd4b25b21c0de25849d9335fe6af389c" title="quda::DiracDomainWall4D\l::Dslash5" alt="" coords="469,160,639,201"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_domain_wall4_d.html#a7b48a29f41726bea46271e65cd97fd06" title="quda::DiracDomainWall4D\l::Dslash4Xpay" alt="" coords="469,944,639,985"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_domain_wall4_d.html#aff4e042c73ae7e4d536f34baf78b15e0" title="quda::DiracDomainWall4D\l::Dslash5Xpay" alt="" coords="469,1061,639,1102"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#ae7f3c940e2c58e2da52cdd0dc35b5732" title="quda::DiracDomainWall4DPC\l::Dslash5inv" alt="" coords="459,421,649,462"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a336ae9729a8f72003255bb8e8b52b7f7" title="quda::DiracDomainWall4DPC\l::Dslash5invXpay" alt="" coords="459,682,649,724"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_mobius.html#a21abad5b40b09b47dcbe01821a899d5a" title="quda::DiracMobius::\lDslash4" alt="" coords="487,486,621,528"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_mobius.html#ab10a7f5b4a806d33bd5eb4932e9381fa" title="quda::DiracMobius::\lDslash4pre" alt="" coords="487,878,621,920"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_mobius.html#a614593dfcba10b6759db8fd2ef9658ea" title="quda::DiracMobius::\lDslash5" alt="" coords="487,225,621,266"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_mobius_p_c.html#a272af818e172dcd19ea304eca4970f76" title="quda::DiracMobiusPC\l::Dslash5inv" alt="" coords="732,225,877,266"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_mobius.html#aa086a0cabba100df75b877353f952645" title="quda::DiracMobius::\lDslash4Xpay" alt="" coords="487,552,621,593"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_mobius.html#abf7864163085e86ea5c09367e1b6fa4a" title="quda::DiracMobius::\lDslash4preXpay" alt="" coords="487,617,621,658"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dirac_mobius.html#a72989227ef42b08123b6826a59031e2a" title="quda::DiracMobius::\lDslash5Xpay" alt="" coords="487,813,621,854"/>
+<area shape="rect" id="node21" href="$classquda_1_1_dirac_mobius_p_c.html#a19089278378dae0ceca932a6d2ffbfa2" title="quda::DiracMobiusPC\l::Dslash5invXpay" alt="" coords="481,94,627,136"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac_clover.html#a610d1364f732caabe65d4f8cd4ee6deb" title="quda::DiracClover::\lcheckParitySpinor" alt="" coords="490,1388,618,1429"/>
+<area shape="rect" id="node24" href="$classquda_1_1_dirac_twisted_clover.html#aab3bf19bda4356b2b14d0c8b84467bf3" title="quda::DiracTwistedClover\l::checkParitySpinor" alt="" coords="471,1453,637,1494"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac_twisted_mass.html#a5dd80068e810cb9f6dfa12e6fe6fc3a2" title="quda::DiracTwistedMass\l::twistedApply" alt="" coords="474,1518,634,1560"/>
+<area shape="rect" id="node26" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aebad1f29b65f446d27b2454b45bbec13" title="quda::DiracTwistedMassPC\l::Dslash" alt="" coords="465,1126,643,1168"/>
+<area shape="rect" id="node27" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aefa93709f581a5e61216f7b0a5e60c4b" title="quda::DiracTwistedMassPC\l::DslashXpay" alt="" coords="465,1192,643,1233"/>
+<area shape="rect" id="node28" href="$classquda_1_1_dirac_wilson.html#ac165431269cece6381e2a96e4d26c0af" title="quda::DiracWilson::\lDslash" alt="" coords="489,1257,619,1298"/>
+<area shape="rect" id="node29" href="$classquda_1_1_dirac_wilson.html#aac124c90e310ba9839be06f9c6f372d2" title="quda::DiracWilson::\lDslashXpay" alt="" coords="489,1322,619,1364"/>
+<area shape="rect" id="node31" href="$classquda_1_1_dirac_staggered.html#ad55e559ed3addf5fea97900187ddb573" title="quda::DiracStaggered\l::Dslash" alt="" coords="481,1636,627,1677"/>
+<area shape="rect" id="node32" href="$classquda_1_1_dirac_staggered.html#a09b5947d550740e7a9489b6a3a90ab77" title="quda::DiracStaggered\l::DslashXpay" alt="" coords="481,1701,627,1742"/>
+<area shape="rect" id="node34" href="$classquda_1_1_dirac_improved_staggered.html#ab18bc9951b7b4d388b9cc731331cb541" title="quda::DiracImprovedStaggered\l::Dslash" alt="" coords="455,1766,653,1808"/>
+<area shape="rect" id="node35" href="$classquda_1_1_dirac_improved_staggered.html#ae71e501b73cfdf74ad6ba79ba53ccf2a" title="quda::DiracImprovedStaggered\l::DslashXpay" alt="" coords="455,1832,653,1873"/>
+<area shape="rect" id="node39" href="$classquda_1_1_color_spinor_field.html#a70838ed167603dbb7a0647eb87aace10" title="quda::ColorSpinorField\l::ColorSpinorField" alt="" coords="479,1897,629,1938"/>
+<area shape="rect" id="node40" href="$classquda_1_1_color_spinor_field.html#a1771c7aad26729790245c4d9c72caf34" title="quda::ColorSpinorField\l::operator=" alt="" coords="479,1962,629,2004"/>
+<area shape="rect" id="node42" href="$classquda_1_1_transfer.html#a2573e86d95cc265add15c12b04d00df1" title="quda::Transfer::Transfer" alt="" coords="476,2028,632,2055"/>
+<area shape="rect" id="node44" href="$classquda_1_1_dirac_coarse.html#ad73a48293b9e8280b63443263a4d4aac" title="Initialize the coarse gauge fields. Location is determined by gpu_setup variable. ..." alt="" coords="488,2080,620,2121"/>
+</map>

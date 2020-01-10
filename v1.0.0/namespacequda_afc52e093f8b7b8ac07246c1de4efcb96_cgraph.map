@@ -1,0 +1,10 @@
+<map id="quda::createDirac" name="quda::createDirac">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#ac13ad4c6bdcacd4b53a473176e7ab830" title="quda::Dirac::create" alt="" coords="411,5,539,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="404,56,545,83"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ae2157f2d523f81f8a36cea5e5a8c7ab4" title="quda::setDiracPreParam" alt="" coords="185,157,347,184"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a1b299f259ccbb7dd217d549df23f25bc" title="quda::setDiracRefineParam" alt="" coords="177,107,355,133"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a2dcf8c16152e86f17cc410c9e206070c" title="quda::setDiracSloppyParam" alt="" coords="176,208,356,235"/>
+<area shape="rect" id="node3" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="641,5,733,32"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_field.html#aea09fc8dc9f69a1bfebbbad4717e433a" title="quda::GaugeField::Anisotropy" alt="" coords="593,56,781,83"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="626,129,749,170"/>
+</map>

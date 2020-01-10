@@ -1,0 +1,51 @@
+<map id="mat" name="mat">
+<area shape="rect" id="node2" href="$class_load_store.html#ade2fa2bd0df6ad5e7b9f8333b737fd98" title="LoadStore::addMatrixToField" alt="" coords="108,132,295,159"/>
+<area shape="rect" id="node8" href="$namespacequda.html#af12fa48718d32d8605e7ad9e24f90f50" title="quda::appendMatrixToArray" alt="" coords="112,613,291,640"/>
+<area shape="rect" id="node9" href="$hisq__force__reference2_8cpp.html#ad1593bcb1050aa9bf83bbd2ca53077bc" title="conj" alt="" coords="178,335,225,361"/>
+<area shape="rect" id="node12" href="$svd__quda_8h.html#a9f379a7d68a1ec725f9e496aa753c75b" title="getRealBidiagMatrix" alt="" coords="581,512,718,539"/>
+<area shape="rect" id="node26" href="$covdev__test_8cpp.html#ab75da1a58a5123f2bf58327b7d2e10bb" title="covdevRef" alt="" coords="160,664,243,691"/>
+<area shape="rect" id="node28" href="$classquda_1_1_m_g.html#ad881072a23857253e540cf789cd73594" title="Generate lowest eigenvectors. " alt="" coords="97,715,305,741"/>
+<area shape="rect" id="node34" href="$classquda_1_1_eigen_solver.html#a1368eaa43f6ed45d936fc9a082e2edfe" title="Applies the specified matVec operation: M, Mdag, MMdag, MdagM. " alt="" coords="136,766,267,807"/>
+<area shape="rect" id="node40" href="$classquda_1_1_dirac_dagger.html#acb4f257b3da5ba383f26e6b4bf8f3c75" title="quda::DiracDagger::\loperator()" alt="" coords="135,831,268,873"/>
+<area shape="rect" id="node41" href="$hisq__force__reference2_8cpp.html#ac8c544406899b8da4f9b3f0d70d0541b" title="operator*" alt="" coords="164,897,239,924"/>
+<area shape="rect" id="node42" href="$class_load_store.html#a64cf756f178b5834e25ccc84733e409a" title="LoadStore::storeMatrixTo\lField" alt="" coords="119,226,284,267"/>
+<area shape="rect" id="node43" href="$class_load_store.html#a07e4d44c9ad754e2ddfd51a7c0d6719d" title="LoadStore::storeMatrixTo\lMomentumField" alt="" coords="119,949,284,990"/>
+<area shape="rect" id="node45" href="$hisq__force__reference2_8cpp.html#a8d07f61e1b9f92ab074e91b6b96dbe76" title="transpose" alt="" coords="163,1015,240,1041"/>
+<area shape="rect" id="node46" href="$hisq__force__reference_8cpp.html#a8aadb19d273059c3e49860a8de794612" title="u_shift_mat" alt="" coords="157,1065,246,1092"/>
+<area shape="rect" id="node3" href="$hisq__force__reference2_8cpp.html#afef819a13c40fe4883020dac92c16834" title="computeOneLinkSite" alt="" coords="361,5,503,32"/>
+<area shape="rect" id="node4" href="$hisq__force__reference2_8cpp.html#a93d60ef8b3e291447ea9956f326bebd1" title="computeMiddleLinkSite" alt="" coords="353,208,511,235"/>
+<area shape="rect" id="node5" href="$hisq__force__reference2_8cpp.html#a2f55666eabaaec8f23c65803000dface" title="computeSideLinkSite" alt="" coords="359,107,505,133"/>
+<area shape="rect" id="node6" href="$hisq__force__reference2_8cpp.html#a272015fdf51b78122cb1952a7560e0d8" title="computeAllLinkSite" alt="" coords="365,157,499,184"/>
+<area shape="rect" id="node7" href="$hisq__force__reference2_8cpp.html#a7974f530a9b141cea8e6c7389f4416f5" title="computeLongLinkSite" alt="" coords="359,56,505,83"/>
+<area shape="rect" id="node10" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="361,259,503,285"/>
+<area shape="rect" id="node11" href="$svd__quda_8h.html#ab364ab5ee9f2da1cc48e6576b1f7a37a" title="constructHHMat" alt="" coords="375,461,489,488"/>
+<area shape="rect" id="node13" href="$svd__quda_8h.html#a4a285471d66d6c7ae4a7d6e778ef4f5e" title="computeSVD" alt="" coords="383,411,481,437"/>
+<area shape="rect" id="node14" href="$clover__reference_8cpp.html#a9a128d1203e70a6c48f51597b88b8081" title="Apply the clover matrix field. " alt="" coords="375,309,489,336"/>
+<area shape="rect" id="node20" href="$test__util_8cpp.html#a6ff77ced36e930f1bc260bab5c691bbb" title="orthogonalize" alt="" coords="383,360,481,387"/>
+<area shape="rect" id="node15" href="$wilson__dslash__reference_8h.html#af9cbba0297a2c57aefe515c4fb1a94cf" title="apply_clover" alt="" coords="603,259,696,285"/>
+<area shape="rect" id="node16" href="$wilson__dslash__reference_8h.html#ae07c1a8764ffd56ab4823ffb2d9b275c" title="clover_dslash" alt="" coords="838,259,937,285"/>
+<area shape="rect" id="node17" href="$wilson__dslash__reference_8h.html#aa44d6283bd416112a1b8b041504c413d" title="clover_matpc" alt="" coords="838,309,937,336"/>
+<area shape="rect" id="node18" href="$wilson__dslash__reference_8h.html#a69e3f1607c121be48fc540b0b4fd43a3" title="clover_mat" alt="" coords="845,157,930,184"/>
+<area shape="rect" id="node19" href="$clover__reference_8cpp.html#a465804b738c90b0a41d68fcbe48918b9" title="twistCloverGamma5" alt="" coords="819,208,956,235"/>
+<area shape="rect" id="node21" href="$test__util_8cpp.html#a90501c6aa892140ed3d96016b37cc0c9" title="constructGaugeField" alt="" coords="579,411,720,437"/>
+<area shape="rect" id="node24" href="$test__util_8cpp.html#ad9e6d31f3ed9ea6998c9444fd56789a8" title="constructUnitaryGaugeField" alt="" coords="559,360,740,387"/>
+<area shape="rect" id="node22" href="$test__util_8h.html#a3d8f1952ab00bca45a06a88115580c8f" title="construct_gauge_field" alt="" coords="814,411,961,437"/>
+<area shape="rect" id="node23" href="$test__util_8h.html#af21665b1a5a12dc63fc43891b55497e5" title="construct_fat_long\l_gauge_field" alt="" coords="823,462,951,503"/>
+<area shape="rect" id="node25" href="$test__util_8h.html#a6623ee545f9e26e20e2f9205e31805e6" title="createSiteLinkCPU" alt="" coords="821,360,953,387"/>
+<area shape="rect" id="node27" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="407,613,457,640"/>
+<area shape="rect" id="node29" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="380,739,484,765"/>
+<area shape="rect" id="node33" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="375,688,489,715"/>
+<area shape="rect" id="node30" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="594,688,705,715"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="817,639,958,665"/>
+<area shape="rect" id="node32" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="788,713,987,740"/>
+<area shape="rect" id="node35" href="$classquda_1_1_eigen_solver.html#afade805bcf0304fdd6b8b49982cc172c" title="Promoted the specified matVec operation: M, Mdag, MMdag, MdagM to a Chebyshev polynomial. " alt="" coords="367,873,497,914"/>
+<area shape="rect" id="node38" href="$classquda_1_1_eigen_solver.html#a5626a1181c37a664a70dd79d4a7966a9" title="Compute eigenvalues and their residiua. " alt="" coords="367,790,497,831"/>
+<area shape="rect" id="node36" href="$classquda_1_1_t_r_l_m.html#a754ea84a5fcb1d2c75ca902ed5a957d4" title="Lanczos step: extends the Kylov space. " alt="" coords="566,907,733,933"/>
+<area shape="rect" id="node37" href="$classquda_1_1_t_r_l_m.html#acf892e5bc9c2f3a40df569a25f931f4e" title="Compute eigenpairs. " alt="" coords="811,856,963,883"/>
+<area shape="rect" id="node39" href="$classquda_1_1_eigen_solver.html#ad6ac831163954f8479e2facc9ae0572d" title="Load and check eigenpairs from file. " alt="" coords="584,790,715,831"/>
+<area shape="rect" id="node44" href="$hisq__force__reference2_8cpp.html#a29a22b96228b4166a21eaf0cef64de75" title="completeForceSite" alt="" coords="367,956,497,983"/>
+<area shape="rect" id="node47" href="$hisq__force__reference_8cpp.html#aec39084be01314ca58e050d31c83850a" title="do_color_matrix_hisq\l_force_reference" alt="" coords="361,1033,503,1074"/>
+<area shape="rect" id="node49" href="$hisq__force__reference_8cpp.html#a802fa6cd9b5490464aef0a014fffff2f" title="do_halfwilson_hisq\l_force_reference" alt="" coords="367,1098,497,1139"/>
+<area shape="rect" id="node48" href="$hisq__force__reference_8h.html#a362f32eb1dc1b46a95c4642a2e8a2d44" title="color_matrix_hisq_force\l_reference" alt="" coords="570,1033,729,1074"/>
+<area shape="rect" id="node50" href="$hisq__force__reference_8h.html#ab3519c8c9f6ae59d62bef2f43bdd95ef" title="halfwilson_hisq_force\l_reference" alt="" coords="577,1098,721,1139"/>
+</map>

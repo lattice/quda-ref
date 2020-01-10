@@ -1,0 +1,51 @@
+<map id="quda::WilsonCloverApply::WilsonCloverApply" name="quda::WilsonCloverApply::WilsonCloverApply">
+<area shape="rect" id="node2" href="$classquda_1_1dslash_1_1_dslash_policy_tune.html#a5dd2406cba43df94bf290d4fdb631ad6" title="quda::dslash::DslashPolicy\lTune::apply" alt="" coords="216,1379,387,1421"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="487,1640,561,1667"/>
+<area shape="rect" id="node48" href="$classquda_1_1_color_spinor_field.html#af9a60e528ca6269a2388da68cf3fffd7" title="quda::ColorSpinorField\l::GhostFaceCB" alt="" coords="226,1691,377,1733"/>
+<area shape="rect" id="node49" href="$classquda_1_1_color_spinor_field.html#a54263c7556bad9742b00f2c625bb7331" title="quda::ColorSpinorField\l::VolumeCB" alt="" coords="226,1757,377,1798"/>
+<area shape="rect" id="node50" href="$namespacequda.html#aaacaf50b324f8a38736b1655e3f38da4" title="quda::wilson" alt="" coords="256,1640,347,1667"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="463,721,585,748"/>
+<area shape="rect" id="node31" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="485,1269,563,1296"/>
+<area shape="rect" id="node32" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="947,107,1039,133"/>
+<area shape="rect" id="node33" href="$comm__quda_8h.html#ae79c1a736c53def6d8682ca451ac81ed" title="comm_peer2peer_enabled\l_global" alt="" coords="437,1321,611,1362"/>
+<area shape="rect" id="node37" href="$comm__quda_8h.html#afb4ddc313bee134aeff9c4dc5e5498ce" title="Enable / disable peer&#45;to&#45;peer communication: used for dslash policies that do not presently support p..." alt="" coords="441,1488,607,1515"/>
+<area shape="rect" id="node38" href="$namespacequda.html#ab322a3eff5a7800532b2f664b7803d2d" title="quda::pushKernelPackT" alt="" coords="445,1437,603,1464"/>
+<area shape="rect" id="node39" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="683,1472,832,1499"/>
+<area shape="rect" id="node40" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="683,1539,831,1565"/>
+<area shape="rect" id="node41" href="$structquda_1_1dslash_1_1_dslash_factory.html#a55f144f4072035631fa4b3682c3ba544" title="quda::dslash::DslashFactory\l::create" alt="" coords="435,41,613,82"/>
+<area shape="rect" id="node45" href="$namespacequda.html#ab711f0d6779ce4f27095811910ca39ea" title="quda::popKernelPackT" alt="" coords="448,1539,600,1565"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#a6b682b3aa1e943bbb981c5e0948513d1" title="quda::Tunable::advanceTune\lParam" alt="" coords="665,1001,850,1042"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#a1d6de8001096e7620593315fa6fb51f6" title="quda::Tunable::apply" alt="" coords="688,1067,827,1093"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a215058968f858fd16b5368d56a916790" title="quda::broadcastTuneCache" alt="" coords="668,949,847,976"/>
+<area shape="rect" id="node9" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="947,392,1038,419"/>
+<area shape="rect" id="node12" href="$classquda_1_1_tunable.html#ad192f84c0bfebd5bdb8ada76b333974f" title="quda::Tunable::checkLaunch\lParam" alt="" coords="665,209,850,250"/>
+<area shape="rect" id="node13" href="$comm__quda_8h.html#a7b9e8a5fb7188e57f46e70c3243dfbdd" title="commGlobalReduction" alt="" coords="681,275,834,301"/>
+<area shape="rect" id="node14" href="$classquda_1_1_tunable.html#aded93d27cbfd6568d4f4e44f3e6687ca" title="quda::Tunable::defaultTune\lParam" alt="" coords="669,326,845,367"/>
+<area shape="rect" id="node15" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="704,1117,811,1144"/>
+<area shape="rect" id="node17" href="$classquda_1_1_tunable.html#a7656afbdf0d2f848ea0058110543abf1" title="quda::Tunable::initTuneParam" alt="" coords="661,443,853,469"/>
+<area shape="rect" id="node18" href="$classquda_1_1_tunable.html#a41c2cde2839229d85f72f89959c7c7cb" title="quda::Tunable::jitifyError" alt="" coords="678,493,837,520"/>
+<area shape="rect" id="node19" href="$structquda_1_1_timer.html#a09ec09f5b1844c2ae4178a5e924b2967" title="quda::Timer::Last" alt="" coords="698,544,817,571"/>
+<area shape="rect" id="node20" href="$classquda_1_1_tunable.html#a4149bcac2c1216e6a6f2223fab27b9ad" title="quda::Tunable::paramString" alt="" coords="668,595,847,621"/>
+<area shape="rect" id="node21" href="$classquda_1_1_tunable.html#a1cb0f81faa3e823b77e75c656969d184" title="quda::Tunable::perfString" alt="" coords="675,645,839,672"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a3c503154d742b953547abe4aa49bc130" title="quda::policyTuning" alt="" coords="693,696,821,723"/>
+<area shape="rect" id="node23" href="$classquda_1_1_tunable.html#a813f352da09afa3850a33f960dd8c24e" title="quda::Tunable::postTune" alt="" coords="677,747,838,773"/>
+<area shape="rect" id="node24" href="$classquda_1_1_tunable.html#a84c6bfed530f37c172c1ba576bab9b22" title="quda::Tunable::preTune" alt="" coords="680,797,835,824"/>
+<area shape="rect" id="node25" href="$structquda_1_1_timer.html#abb870b23fd97a72c360bb50895ba2e80" title="quda::Timer::Start" alt="" coords="696,848,819,875"/>
+<area shape="rect" id="node26" href="$structquda_1_1_timer.html#a04bf76b5de522151541e6f85841bdad2" title="quda::Timer::Stop" alt="" coords="696,899,819,925"/>
+<area shape="rect" id="node27" href="$namespacequda.html#acf8d40c61c8d618001b7cadbf8d902d0" title="quda::traceEnabled" alt="" coords="692,1168,823,1195"/>
+<area shape="rect" id="node29" href="$classquda_1_1_tunable.html#aa51219d121871be33e3dba212aa969b0" title="quda::Tunable::tuneKey" alt="" coords="680,1219,835,1245"/>
+<area shape="rect" id="node30" href="$classquda_1_1_tunable.html#aeda35bb2e3deda6f2b9d140d799d29b6" title="quda::Tunable::tuningIter" alt="" coords="676,157,839,184"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a8b877be417d6c8f73bcca8497b730d40" title="comm_broadcast" alt="" coords="932,949,1053,976"/>
+<area shape="rect" id="node10" href="$namespacequda.html#ae7f7d2bed3522d1acce3fe9f433c3495" title="quda::deserializeTuneCache" alt="" coords="901,899,1084,925"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a4cf7120a3f6aa7fa21ebff3870969bb2" title="quda::serializeTuneCache" alt="" coords="909,1000,1077,1027"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a5997e8e9b61e2f97c69d0667992fce1c" title="MPI_Bcast" alt="" coords="1132,949,1219,976"/>
+<area shape="rect" id="node16" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="917,1117,1068,1144"/>
+<area shape="rect" id="node28" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="935,1269,1051,1296"/>
+<area shape="rect" id="node34" href="$comm__quda_8h.html#a6e4eff43929395108b3726d35c2d85a4" title="comm_allreduce_int" alt="" coords="688,1371,827,1397"/>
+<area shape="rect" id="node36" href="$comm__common_8cpp.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="670,1421,845,1448"/>
+<area shape="rect" id="node35" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="939,1371,1046,1397"/>
+<area shape="rect" id="node42" href="$comm__quda_8h.html#a33f999508e8c88555a3ddbc2a0814d85" title="Query if GPU Direct RDMA communication is blacklisted for this GPU. " alt="" coords="689,56,826,83"/>
+<area shape="rect" id="node43" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="942,5,1043,32"/>
+<area shape="rect" id="node44" href="$comm__common_8cpp.html#aed9cf3a332bd56a53d524699b0fd0776" title="comm_gpuid" alt="" coords="945,56,1041,83"/>
+<area shape="rect" id="node47" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="713,1640,801,1667"/>
+</map>

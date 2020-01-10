@@ -1,0 +1,12 @@
+<map id="quda::norm1" name="quda::norm1">
+<area shape="rect" id="node2" href="$namespacequda.html#a026455342b50e0274c0aad8886880e0c" title="quda::colorSpinorParam" alt="" coords="145,195,304,222"/>
+<area shape="rect" id="node10" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="149,247,300,288"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1blas.html#a296124c94737687814f895361fb2345b" title="quda::blas::norm1" alt="" coords="164,313,285,339"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="371,5,494,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#ac7938570cd9e0f6d7ff2328b0df441d7" title="quda::LatticeField\l::Ndim" alt="" coords="371,71,494,112"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a5b12870225e1c7866a23a170d264050c" title="quda::LatticeField::Pad" alt="" coords="357,137,509,163"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="371,188,494,229"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="352,253,513,295"/>
+<area shape="rect" id="node8" href="$classquda_1_1_clover_field.html#a6ee83d32cf08ff66f215da8eaa30f97f" title="quda::CloverField::V" alt="" coords="365,319,500,346"/>
+<area shape="rect" id="node9" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="363,370,502,397"/>
+</map>

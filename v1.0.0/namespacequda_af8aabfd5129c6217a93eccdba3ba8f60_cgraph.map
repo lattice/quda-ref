@@ -1,0 +1,4 @@
+<map id="quda::computeColorContraction" name="quda::computeColorContraction">
+<area shape="rect" id="node2" href="$namespacequda.html#a46211838c9524cfd47aa67e6fa24bdc4" title="Compute the inner product over color and spin dot = ,c conj(a(s,c)) * b(s,c) " alt="" coords="256,5,385,32"/>
+<area shape="rect" id="node3" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="433,5,473,32"/>
+</map>

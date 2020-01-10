@@ -1,0 +1,7 @@
+<map id="quda::DslashCoarsePolicyTune::bytes" name="quda::DslashCoarsePolicyTune::bytes">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#a741d99f6a1d461a0fbbb4775d9a4d4ee" title="quda::GaugeField::Bytes" alt="" coords="223,5,383,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#aa1f01c71a2ee151270ba4cf6fbd769af" title="quda::ColorSpinorField\l::Bytes" alt="" coords="227,57,378,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="227,122,378,163"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#aa6ce8895a80a99d25d2bd45a9be6b903" title="quda::LatticeField\l::Stride" alt="" coords="241,187,364,229"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="241,253,364,294"/>
+</map>

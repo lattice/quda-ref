@@ -1,0 +1,6 @@
+<map id="comm_wait" name="comm_wait">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#a65a90a976c9dc2704d5661ee066ca937" title="MPI_Wait" alt="" coords="141,56,220,83"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#a89a5128619ef11cdf9173a34436ad3d5" title="PMPI_Wait" alt="" coords="278,5,366,32"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#a6da5aebfab9343484ea0cbeb0954e11a" title="PMPI_Waitany" alt="" coords="268,56,376,83"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="296,107,348,133"/>
+</map>

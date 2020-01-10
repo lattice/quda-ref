@@ -1,0 +1,20 @@
+<map id="quda::dslash::commsComplete" name="quda::dslash::commsComplete">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="482,111,657,137"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a40b6a21c4b9703ac9f20dacb155b0453" title="Non&#45;blocking query if the halo communication has completed. " alt="" coords="251,46,429,87"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dslash.html#a75e23f9194be1a55a65fa0feb3d2de5a" title="quda::Dslash::Dagger" alt="" coords="269,229,411,256"/>
+<area shape="rect" id="node15" href="$classquda_1_1_lattice_field.html#ace26decf835f354063de78e124fa8c7a" title="quda::LatticeField\l::getIPCRemoteCopyEvent" alt="" coords="253,281,427,322"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dslash.html#a1a15f80d26eacaa5cf368032b0ca6222" title="quda::Dslash::Nface" alt="" coords="273,347,407,373"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a88fef310d4d59eb0fe80ab65d465183d" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="248,397,432,424"/>
+<area shape="rect" id="node18" href="$classquda_1_1cuda_color_spinor_field.html#a0c84cc5feb2ac1d16555d5cf06f84ac4" title="quda::cudaColorSpinorField\l::scatter" alt="" coords="251,163,429,205"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a6dcfe5c3faff54a12f659933a1f58546" title="Query if GPU Direct RDMA communication is enabled (global setting) " alt="" coords="502,5,637,32"/>
+<area shape="rect" id="node5" href="$comm__quda_8h.html#a7b8b0e9aa8c1cf786399268bde3381ee" title="comm_query" alt="" coords="521,56,617,83"/>
+<area shape="rect" id="node9" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="498,161,641,188"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#afef53c038f98ace3170acd0c74a82f7e" title="MPI_Test" alt="" coords="744,56,823,83"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#ad41dd6cfb107200597ff5bf228a244b2" title="PMPI_Send_init" alt="" coords="908,81,1024,108"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a60fc3eec4e2d6d05a2f3867b94588cd1" title="PMPI_Test" alt="" coords="923,31,1009,57"/>
+<area shape="rect" id="node10" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="707,161,860,188"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="923,161,1009,188"/>
+<area shape="rect" id="node12" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1072,136,1231,163"/>
+<area shape="rect" id="node13" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1105,187,1197,213"/>
+<area shape="rect" id="node19" href="$classquda_1_1cuda_color_spinor_field.html#a7a73b9310750a2a0f308c0e4611eefad" title="quda::cudaColorSpinorField\l::unpackGhost" alt="" coords="480,213,659,254"/>
+</map>

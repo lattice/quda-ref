@@ -1,0 +1,11 @@
+<map id="quda::blas::caxpyz" name="quda::blas::caxpyz">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a72adb7d83f648d533aa162d5d8d71407" title="This is a wrapper for calling the block &quot;caxpyz&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="214,5,338,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#ace51af2e017b9d4292669f1d7e81eb6a" title="Return (a,b) and ||b||^2 &#45; implemented using cDotProductNormA. " alt="" coords="177,56,375,83"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="199,107,353,133"/>
+<area shape="rect" id="node4" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="465,5,552,32"/>
+<area shape="rect" id="node6" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="487,56,530,83"/>
+<area shape="rect" id="node5" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="643,5,713,32"/>
+<area shape="rect" id="node7" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="643,56,713,83"/>
+<area shape="rect" id="node9" href="$classquda_1_1_c_a_c_g_n_e.html#a5d7dae59806e1f16af69cee4707ebfdf" title="quda::CACGNE::operator()" alt="" coords="423,107,594,133"/>
+<area shape="rect" id="node10" href="$classquda_1_1_c_a_c_g_n_r.html#a88172e047b80fe722212635b3e44eeca" title="quda::CACGNR::operator()" alt="" coords="423,157,595,184"/>
+</map>

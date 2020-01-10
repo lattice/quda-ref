@@ -1,0 +1,51 @@
+<map id="momActionQuda" name="momActionQuda">
+<area shape="rect" id="node2" href="$namespacequda.html#a34dd1c4bb3cbe98eb22f8ff86fa0acf1" title="Compute and return global the momentum action 1/2 mom^2. " alt="" coords="172,805,344,831"/>
+<area shape="rect" id="node49" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="183,477,333,519"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="880,199,1003,240"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="637,536,760,577"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="872,313,1011,339"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#a96eccffaa1381a45cd03db7bdc4af2f1" title="quda::LatticeField::R" alt="" coords="403,1109,541,1135"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a3174ee67c7fa7d35dbdf37b13064e8b0" title="quda::norm2" alt="" coords="426,147,518,174"/>
+<area shape="rect" id="node10" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="880,461,1003,503"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a416e52d2ea7f201272f902122f06668d" title="Compute the space&#45;time coordinates we are at. " alt="" coords="415,754,529,781"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="661,805,736,831"/>
+<area shape="rect" id="node17" href="$namespacequda.html#ac39b1ae3f7dc813ed8f258d3cffbd642" title="quda::linkIndex" alt="" coords="419,1159,525,1186"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a99872e086ebc97e7156b645dccd1a7e8" title="quda::makeAntiHerm" alt="" coords="401,1214,543,1241"/>
+<area shape="rect" id="node20" href="$classquda_1_1_matrix.html#ab5e176224cd8d07352cde6d219a6f395" title="Compute the matrix L1 norm &#45; this is the maximum of the absolute column sums. " alt="" coords="417,1273,527,1299"/>
+<area shape="rect" id="node22" href="$classquda_1_1_matrix.html#a103583ed3cfab61f443970ca920b65e2" title="Compute the matrix L2 norm. We actually compute the Frobenius norm which is an upper bound on the L2 ..." alt="" coords="417,1353,527,1379"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="637,957,760,983"/>
+<area shape="rect" id="node41" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="659,1007,738,1034"/>
+<area shape="rect" id="node42" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="653,1058,745,1085"/>
+<area shape="rect" id="node43" href="$classquda_1_1_lattice_field.html#a3e73db8978503626d9fbc60a07702e65" title="quda::LatticeField\l::VolString" alt="" coords="637,1109,760,1151"/>
+<area shape="rect" id="node44" href="$namespacequda.html#ac915554f1abaaccfb9e2e974d855d473" title="quda::updateMomentum" alt="" coords="392,678,552,705"/>
+<area shape="rect" id="node45" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="619,434,779,461"/>
+<area shape="rect" id="node46" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="600,383,797,410"/>
+<area shape="rect" id="node47" href="$namespacequda.html#a42baede862270bd329a75ba1a9b0d73d" title="Whether we are monitoring the force or not. " alt="" coords="408,385,536,411"/>
+<area shape="rect" id="node48" href="$namespacequda.html#a004044d1e9bec75f92aa844863084f95" title="quda::forceRecord" alt="" coords="409,855,535,882"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="623,64,774,105"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a026455342b50e0274c0aad8886880e0c" title="quda::colorSpinorParam" alt="" coords="619,231,778,258"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="638,130,759,157"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a90286e7aed518e4cf52d5ca5a2175073" title="quda::getCoords5CB" alt="" coords="629,703,768,730"/>
+<area shape="rect" id="node14" href="$namespacequda.html#a4534d3429a5a0d143e119a6e3e77f6ab" title="quda::getCoordsCB" alt="" coords="633,754,765,781"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="897,586,985,613"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="659,1226,739,1253"/>
+<area shape="rect" id="node21" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="661,1277,737,1303"/>
+<area shape="rect" id="node23" href="$new__half_8cu.html#acf1ae4e43146adcb5116829cdd261fe0" title="l2" alt="" coords="679,1429,718,1455"/>
+<area shape="rect" id="node24" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="903,1395,980,1422"/>
+<area shape="rect" id="node25" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="656,1327,741,1354"/>
+<area shape="rect" id="node27" href="$classquda_1_1_tunable.html#aa51219d121871be33e3dba212aa969b0" title="quda::Tunable::tuneKey" alt="" coords="864,941,1019,967"/>
+<area shape="rect" id="node28" href="$classquda_1_1_tunable.html#a4149bcac2c1216e6a6f2223fab27b9ad" title="quda::Tunable::paramString" alt="" coords="852,991,1031,1018"/>
+<area shape="rect" id="node29" href="$classquda_1_1_tunable.html#ad192f84c0bfebd5bdb8ada76b333974f" title="quda::Tunable::checkLaunch\lParam" alt="" coords="849,1043,1034,1084"/>
+<area shape="rect" id="node30" href="$namespacequda.html#acf8d40c61c8d618001b7cadbf8d902d0" title="quda::traceEnabled" alt="" coords="876,1109,1007,1135"/>
+<area shape="rect" id="node31" href="$classquda_1_1_tunable.html#aded93d27cbfd6568d4f4e44f3e6687ca" title="quda::Tunable::defaultTune\lParam" alt="" coords="853,1160,1029,1201"/>
+<area shape="rect" id="node32" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="896,1327,987,1354"/>
+<area shape="rect" id="node33" href="$comm__quda_8h.html#a7b9e8a5fb7188e57f46e70c3243dfbdd" title="commGlobalReduction" alt="" coords="865,1226,1018,1253"/>
+<area shape="rect" id="node34" href="$namespacequda.html#a3c503154d742b953547abe4aa49bc130" title="quda::policyTuning" alt="" coords="877,1277,1005,1303"/>
+<area shape="rect" id="node35" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="888,637,995,663"/>
+<area shape="rect" id="node36" href="$classquda_1_1_tunable.html#a84c6bfed530f37c172c1ba576bab9b22" title="quda::Tunable::preTune" alt="" coords="864,687,1019,714"/>
+<area shape="rect" id="node37" href="$structquda_1_1_timer.html#abb870b23fd97a72c360bb50895ba2e80" title="quda::Timer::Start" alt="" coords="880,738,1003,765"/>
+<area shape="rect" id="node38" href="$classquda_1_1_tunable.html#a7656afbdf0d2f848ea0058110543abf1" title="quda::Tunable::initTuneParam" alt="" coords="845,789,1037,815"/>
+<area shape="rect" id="node39" href="$classquda_1_1_tunable.html#a1d6de8001096e7620593315fa6fb51f6" title="quda::Tunable::apply" alt="" coords="872,839,1011,866"/>
+<area shape="rect" id="node40" href="$classquda_1_1_tunable.html#aeda35bb2e3deda6f2b9d140d799d29b6" title="quda::Tunable::tuningIter" alt="" coords="860,890,1023,917"/>
+<area shape="rect" id="node50" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="397,216,547,257"/>
+</map>

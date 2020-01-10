@@ -1,0 +1,22 @@
+<map id="quda::acos" name="quda::acos">
+<area shape="rect" id="node2" href="$namespacequda.html#aeebe4d104bd32a8fc99bcf665489f558" title="quda::asin" alt="" coords="136,53,215,79"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a864a5b4a5068dc9b813e092a228d3134" title="quda::asin" alt="" coords="263,53,341,79"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a269ad642efb6ac31a68ccbf4c80a8900" title="quda::asinh" alt="" coords="389,53,476,79"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a5fcc49d4f09db180d4e92bd10642ea25" title="quda::log" alt="" coords="526,27,599,54"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="524,78,601,105"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a474f0c39c22343df4a6bcf97076fdde1" title="quda::log" alt="" coords="651,27,725,54"/>
+<area shape="rect" id="node7" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="779,78,855,105"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="779,27,854,54"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="913,78,989,105"/>
+<area shape="rect" id="node9" href="$structquda_1_1complex_3_01double_01_4.html#a3da47d570b43abe5d1720537d69c681c" title="quda::complex\&lt; double\l \&gt;::imag" alt="" coords="1043,5,1196,47"/>
+<area shape="rect" id="node10" href="$structquda_1_1complex_3_01double_01_4.html#adc5681045ec6cd66e5ab0c73c8dc4ffd" title="quda::complex\&lt; double\l \&gt;::real" alt="" coords="1043,71,1196,112"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="907,27,995,54"/>
+<area shape="rect" id="node14" href="$namespacequda.html#a7b851d44a9626b208c0ad84cee6eec79" title="quda::sqrt" alt="" coords="649,78,727,105"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="775,137,859,163"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="913,137,989,163"/>
+<area shape="rect" id="node20" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="915,187,987,214"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="1081,137,1157,163"/>
+<area shape="rect" id="node18" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="1244,121,1383,163"/>
+<area shape="rect" id="node19" href="$structquda_1_1complex_3_01float_01_4.html#a692127ea4240002b39f3581648d5bab4" title="quda::complex\&lt; float\l \&gt;::imag" alt="" coords="1244,187,1383,228"/>
+<area shape="rect" id="node21" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="1083,187,1155,214"/>
+</map>

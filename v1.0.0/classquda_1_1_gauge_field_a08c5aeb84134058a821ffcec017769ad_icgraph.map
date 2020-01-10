@@ -1,0 +1,51 @@
+<map id="quda::GaugeField::StaggeredPhase" name="quda::GaugeField::StaggeredPhase">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="1249,13,1444,39"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="848,756,999,797"/>
+<area shape="rect" id="node42" href="$namespacequda.html#a90d7109e1b685917b8ae1a05974f880b" title="quda::copyGauge" alt="" coords="253,719,374,746"/>
+<area shape="rect" id="node43" href="$namespacequda.html#a04def932827868afffccb9716ff55018" title="quda::extractGhost" alt="" coords="249,770,378,797"/>
+<area shape="rect" id="node50" href="$structquda_1_1_staggered_apply.html#a0086bc9830d824738c128f9fb16b4436" title="quda::StaggeredApply\l::StaggeredApply" alt="" coords="240,821,387,863"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="1492,5,1663,47"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="1263,687,1431,714"/>
+<area shape="rect" id="node6" href="$multigrid__benchmark__test_8cu.html#ab74e8c9c0b5eb4f70a8e36e650416d95" title="initFields" alt="" coords="1087,789,1161,815"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_coarse.html#a97b2f6b1749cc80498ea5a6309651832" title="Create the CPU or GPU coarse gauge fields on demand (requires that the fields have been created in th..." alt="" coords="1058,1023,1190,1064"/>
+<area shape="rect" id="node18" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="1049,376,1199,417"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="1067,1493,1181,1519"/>
+<area shape="rect" id="node40" href="$interface__quda_8cpp.html#a933684d9a6f77d2cc0e5e222c4c7292c" title="loadSloppyGaugeQuda" alt="" coords="1047,738,1201,765"/>
+<area shape="rect" id="node7" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1711,881,1761,907"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_coarse.html#a12e57799c86f32aa433f8ca2a0e0b881" title="Apply the coarse clover operator. " alt="" coords="1281,1023,1413,1064"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_coarse.html#aa082a88d338cb65d6f251d1e7b7469f2" title="Apply the inverse coarse clover operator. " alt="" coords="1281,1088,1413,1129"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_coarse.html#ab76cf8673c2904f5a297c68a9d87745a" title="Create the coarse operator from this coarse operator. " alt="" coords="1281,1153,1413,1195"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_coarse_p_c.html#ae2a592a11d6cdbc7c513c1a2f3b972eb" title="Create the coarse even&#45;odd preconditioned coarse operator. Unlike the Wilson operator, the coarsening of the preconditioned coarse operator differs from that of the unpreconditioned coarse operator, so we need to specialize it. " alt="" coords="1275,1219,1419,1260"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_coarse.html#a25227f748c269d75008717b8404bdcc1" title="Apply DslashXpay out = (D * in) " alt="" coords="1281,1284,1413,1325"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_coarse_p_c.html#a8217d0fbec51cb52bd81be7b3fa78a63" title="Apply DslashXpay out = (D * in) " alt="" coords="1275,840,1419,881"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_coarse.html#ad450ec6c42dd0e2a8c9411446306cbb2" title="Apply DslashXpay out = (D * in + A * x) " alt="" coords="1281,905,1413,947"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_coarse.html#a89e6cba5df9f38343a33ebf585256887" title="Apply the full operator. " alt="" coords="1275,971,1418,998"/>
+<area shape="rect" id="node10" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="1534,1001,1621,1027"/>
+<area shape="rect" id="node19" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="1259,485,1434,511"/>
+<area shape="rect" id="node20" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="1274,535,1419,562"/>
+<area shape="rect" id="node21" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="1515,561,1640,587"/>
+<area shape="rect" id="node22" href="$interface__quda_8cpp.html#a1eba8aae7c46eca4d44b31b53d4c6079" title="createGaugeFieldQuda" alt="" coords="1269,637,1424,663"/>
+<area shape="rect" id="node23" href="$hisq__unitarize__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="1294,63,1399,90"/>
+<area shape="rect" id="node24" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="1292,114,1401,141"/>
+<area shape="rect" id="node25" href="$classquda_1_1cuda_gauge_field.html#a0e6dfaa97702635923e0ea2ba4078034" title="Download into this field from a CPU field. Overloaded variant that includes profiling. " alt="" coords="1271,165,1422,207"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="1287,231,1406,258"/>
+<area shape="rect" id="node27" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="1309,282,1384,309"/>
+<area shape="rect" id="node28" href="$interface__quda_8cpp.html#af6e8d08f0e5477d56e09f07c940ebf65" title="projectSU3Quda" alt="" coords="1288,333,1405,359"/>
+<area shape="rect" id="node29" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="1274,383,1419,410"/>
+<area shape="rect" id="node30" href="$interface__quda_8cpp.html#a80c19191f476ca7c464ca450c3ae5c25" title="updateGaugeFieldQuda" alt="" coords="1267,434,1426,461"/>
+<area shape="rect" id="node32" href="$staggered__gauge__utils_8h.html#ae758bc34f333a2e7b43d6a885ce8c3a3" title="computeStaggeredPlaquette\lQDPOrder" alt="" coords="1253,1401,1440,1443"/>
+<area shape="rect" id="node33" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="1522,1561,1633,1587"/>
+<area shape="rect" id="node34" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="1537,1379,1618,1406"/>
+<area shape="rect" id="node35" href="$covdev__test_8cpp.html#aa1cd5eafa5245aa7c3ded9b3b470f0b9" title="init" alt="" coords="1327,1467,1366,1494"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#a3179d142bb1ad0a5bcc476a60e9f0b16" title="load_gauge_quda_" alt="" coords="1281,1518,1412,1545"/>
+<area shape="rect" id="node37" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1321,1569,1372,1595"/>
+<area shape="rect" id="node38" href="$plaq__test_8cpp.html#a039131f3799421d26e6bbc9eee5c68af" title="plaq_test" alt="" coords="1309,1619,1384,1646"/>
+<area shape="rect" id="node39" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="1313,1670,1381,1697"/>
+<area shape="rect" id="node41" href="$interface__quda_8cpp.html#a14655ba9617fddb93f72a17626baa80b" title="checkGauge" alt="" coords="1299,738,1394,765"/>
+<area shape="rect" id="node44" href="$namespacequda.html#a30c73bae2ad5e120dd0c2fea452b7924" title="quda::extractGaugeGhost" alt="" coords="435,825,601,851"/>
+<area shape="rect" id="node45" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="649,851,800,892"/>
+<area shape="rect" id="node46" href="$classquda_1_1cpu_gauge_field.html#abcb214de4fba03d89b8d4a83db847b1d" title="Exchange the ghost and store store in the padded region. " alt="" coords="653,916,796,957"/>
+<area shape="rect" id="node47" href="$classquda_1_1cpu_gauge_field.html#a6e91f1204e583f2f20bb295dce52eeb5" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="653,981,796,1023"/>
+<area shape="rect" id="node48" href="$classquda_1_1cuda_gauge_field.html#a35c80b98e5741d6cedb19c741198d47d" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="649,720,800,761"/>
+<area shape="rect" id="node49" href="$classquda_1_1cpu_gauge_field.html#ab040665b9d326ac8929b77553b6d6f8a" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="653,785,796,827"/>
+</map>

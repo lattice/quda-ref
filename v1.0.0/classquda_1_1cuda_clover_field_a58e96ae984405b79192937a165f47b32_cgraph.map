@@ -1,0 +1,25 @@
+<map id="quda::cudaCloverField::loadCPUField" name="quda::cudaCloverField::loadCPUField">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_clover_field.html#a53d56abd8ffcb9994bf256899f7719c2" title="Copy into this CloverField from the generic CloverField src. " alt="" coords="201,205,349,247"/>
+<area shape="rect" id="node3" href="$classquda_1_1_clover_field.html#ada28d819c5115c004df406956c16d9e6" title="quda::CloverField::\lBytes" alt="" coords="416,5,543,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#aa7454e5d3f27a4c7368be0b70fda40b2" title="quda::LatticeField\l::checkField" alt="" coords="418,71,541,112"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a66381cafed77b92ed2f0278b373d4ec5" title="This generic function is used for copying the clover field where in the input and output can be in an..." alt="" coords="397,187,561,214"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a599ff2d7aba3544b3e0559cd50861906" title="quda::inverse" alt="" coords="625,133,721,159"/>
+<area shape="rect" id="node21" href="$classquda_1_1_clover_field.html#a0af989ede54c81592f9fe839d07f859a" title="quda::CloverField::Norm" alt="" coords="401,238,558,265"/>
+<area shape="rect" id="node22" href="$classquda_1_1_clover_field.html#a52c26e05524858aebb8f76b835a35c4f" title="quda::CloverField::\lNormBytes" alt="" coords="416,289,543,331"/>
+<area shape="rect" id="node23" href="$namespacequda.html#aa25deeec640690f50f16e136639e8450" title="Return whether data is reordered on the CPU or GPU. This can set at QUDA initialization using the env..." alt="" coords="405,355,553,382"/>
+<area shape="rect" id="node24" href="$classquda_1_1_clover_field.html#a6ee83d32cf08ff66f215da8eaa30f97f" title="quda::CloverField::V" alt="" coords="412,406,547,433"/>
+<area shape="rect" id="node19" href="$classquda_1_1_clover_field.html#a366c3d0d2cf199278998e07bcec8698f" title="quda::CloverField::\lOrder" alt="" coords="609,184,736,225"/>
+<area shape="rect" id="node20" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="611,249,734,291"/>
+<area shape="rect" id="node7" href="$namespacequda.html#aa2770ef66427e1e0861d7685d363907a" title="quda::getDeterminant" alt="" coords="784,133,928,159"/>
+<area shape="rect" id="node8" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="976,133,1020,159"/>
+<area shape="rect" id="node9" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="1068,133,1189,159"/>
+<area shape="rect" id="node10" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="1250,31,1331,58"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="1237,82,1344,109"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="1429,133,1491,159"/>
+<area shape="rect" id="node16" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="1255,183,1326,210"/>
+<area shape="rect" id="node18" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="1267,234,1314,261"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="1392,57,1528,83"/>
+<area shape="rect" id="node12" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1576,57,1697,83"/>
+<area shape="rect" id="node15" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1617,133,1657,159"/>
+<area shape="rect" id="node17" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="1409,183,1511,210"/>
+</map>

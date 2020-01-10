@@ -1,0 +1,7 @@
+<map id="genericReduce" name="genericReduce">
+<area shape="rect" id="node2" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="193,5,239,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="161,56,271,83"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="321,31,467,57"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="319,81,469,108"/>
+<area shape="rect" id="node5" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="517,31,585,57"/>
+</map>

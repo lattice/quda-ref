@@ -1,0 +1,8 @@
+<map id="quda::DiracImprovedStaggered::checkParitySpinor" name="quda::DiracImprovedStaggered::checkParitySpinor">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_improved_staggered.html#ab18bc9951b7b4d388b9cc731331cb541" title="quda::DiracImprovedStaggered\l::Dslash" alt="" coords="252,39,451,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_improved_staggered.html#ae71e501b73cfdf74ad6ba79ba53ccf2a" title="quda::DiracImprovedStaggered\l::DslashXpay" alt="" coords="252,104,451,145"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_improved_staggered.html#af8feb7629ee55950a1a8be4acfd6bc90" title="quda::DiracImprovedStaggered\l::MdagM" alt="" coords="499,5,697,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_improved_staggered_p_c.html#a2ccb9c17af44a3dfb84d978db772d6e3" title="quda::DiracImprovedStaggered\lPC::M" alt="" coords="499,71,697,112"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_improved_staggered_p_c.html#a978836276634480a65604ca59fe6d4ce" title="quda::DiracImprovedStaggered\lPC::prepare" alt="" coords="499,136,697,177"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_improved_staggered_p_c.html#a29e0419161b8fd48fd0ca904f684f7e0" title="quda::DiracImprovedStaggered\lPC::reconstruct" alt="" coords="499,201,697,243"/>
+</map>

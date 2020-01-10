@@ -1,0 +1,15 @@
+<map id="quda::DiracTwistedMass::MdagM" name="quda::DiracTwistedMass::MdagM">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="442,13,627,39"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="225,187,379,214"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_twisted_mass.html#ab36fafa9cbf99a747427ea950939144a" title="quda::DiracTwistedMass::M" alt="" coords="213,137,391,163"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="240,238,364,265"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="231,289,373,315"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="686,5,837,47"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a6d0a97b4f3c8dc8326b3dc3650bb9802" title="Driver for applying the non&#45;degenerate twisted&#45;mass stencil. " alt="" coords="439,195,631,222"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a8b4979ae367ca474762b8d8836c380c2" title="Driver for applying the twisted&#45;mass stencil. " alt="" coords="453,246,616,273"/>
+<area shape="rect" id="node10" href="$classquda_1_1_color_spinor_field.html#a5dcdda354375f6ced4deb5048f23292f" title="quda::ColorSpinorField\l::TwistFlavor" alt="" coords="459,64,610,105"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="459,129,610,171"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="686,243,837,284"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="679,191,844,218"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="483,297,586,323"/>
+</map>

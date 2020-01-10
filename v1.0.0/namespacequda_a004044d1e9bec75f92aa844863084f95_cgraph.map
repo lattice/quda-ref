@@ -1,0 +1,51 @@
+<map id="quda::forceRecord" name="quda::forceRecord">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="669,1022,744,1048"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#ad219441b0cdddb8ddf27cf958557713e" title="comm_allreduce" alt="" coords="207,1764,325,1791"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#af8c1d932682e173ee09a8f2f231528a9" title="comm_allreduce_max\l_array" alt="" coords="192,1866,340,1908"/>
+<area shape="rect" id="node11" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="904,91,995,118"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a34dd1c4bb3cbe98eb22f8ff86fa0acf1" title="Compute and return global the momentum action 1/2 mom^2. " alt="" coords="180,895,352,922"/>
+<area shape="rect" id="node16" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="667,840,746,867"/>
+<area shape="rect" id="node17" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="661,287,753,314"/>
+<area shape="rect" id="node21" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="645,457,768,498"/>
+<area shape="rect" id="node24" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="627,566,787,592"/>
+<area shape="rect" id="node27" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="608,1224,805,1251"/>
+<area shape="rect" id="node28" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="645,636,768,663"/>
+<area shape="rect" id="node47" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="645,1369,768,1410"/>
+<area shape="rect" id="node48" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="637,1478,776,1504"/>
+<area shape="rect" id="node49" href="$classquda_1_1_lattice_field.html#a3e73db8978503626d9fbc60a07702e65" title="quda::LatticeField\l::VolString" alt="" coords="645,1572,768,1613"/>
+<area shape="rect" id="node50" href="$namespacequda.html#a7079faa2397250063ca3076015ac7bd3" title="Flush any outstanding force monitoring information. " alt="" coords="401,110,559,136"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="905,1151,993,1178"/>
+<area shape="rect" id="node5" href="$comm__quda_8h.html#a7518e44660d59793c0e6a5c0621b8fc3" title="comm_deterministic\l_reduce" alt="" coords="411,1732,549,1773"/>
+<area shape="rect" id="node6" href="$comm__mpi_8cpp.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="437,1798,523,1824"/>
+<area shape="rect" id="node7" href="$comm__mpi_8cpp.html#a27b2b7d99e593219e858574324a8cfe0" title="deterministic_reduce" alt="" coords="409,1848,551,1875"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a41222d5360f1da1bf44f776c24ddb046" title="MPI_Allgather" alt="" coords="428,1680,532,1707"/>
+<area shape="rect" id="node9" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="427,1899,533,1926"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a42baede862270bd329a75ba1a9b0d73d" title="Whether we are monitoring the force or not. " alt="" coords="643,160,771,187"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a416e52d2ea7f201272f902122f06668d" title="Compute the space&#45;time coordinates we are at. " alt="" coords="423,971,537,998"/>
+<area shape="rect" id="node18" href="$classquda_1_1_matrix.html#ab5e176224cd8d07352cde6d219a6f395" title="Compute the matrix L1 norm &#45; this is the maximum of the absolute column sums. " alt="" coords="425,1072,535,1099"/>
+<area shape="rect" id="node19" href="$classquda_1_1_matrix.html#a103583ed3cfab61f443970ca920b65e2" title="Compute the matrix L2 norm. We actually compute the Frobenius norm which is an upper bound on the L2 ..." alt="" coords="425,1123,535,1150"/>
+<area shape="rect" id="node20" href="$namespacequda.html#ac39b1ae3f7dc813ed8f258d3cffbd642" title="quda::linkIndex" alt="" coords="427,1174,533,1200"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a99872e086ebc97e7156b645dccd1a7e8" title="quda::makeAntiHerm" alt="" coords="409,616,551,643"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a3174ee67c7fa7d35dbdf37b13064e8b0" title="quda::norm2" alt="" coords="434,667,526,694"/>
+<area shape="rect" id="node25" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="645,902,768,944"/>
+<area shape="rect" id="node26" href="$classquda_1_1_lattice_field.html#a96eccffaa1381a45cd03db7bdc4af2f1" title="quda::LatticeField::R" alt="" coords="411,768,549,795"/>
+<area shape="rect" id="node46" href="$namespacequda.html#ac915554f1abaaccfb9e2e974d855d473" title="quda::updateMomentum" alt="" coords="400,920,560,947"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="1093,360,1209,387"/>
+<area shape="rect" id="node29" href="$classquda_1_1_tunable.html#aa51219d121871be33e3dba212aa969b0" title="quda::Tunable::tuneKey" alt="" coords="872,462,1027,488"/>
+<area shape="rect" id="node30" href="$classquda_1_1_tunable.html#a4149bcac2c1216e6a6f2223fab27b9ad" title="quda::Tunable::paramString" alt="" coords="860,512,1039,539"/>
+<area shape="rect" id="node31" href="$classquda_1_1_tunable.html#ad192f84c0bfebd5bdb8ada76b333974f" title="quda::Tunable::checkLaunch\lParam" alt="" coords="857,564,1042,605"/>
+<area shape="rect" id="node32" href="$namespacequda.html#acf8d40c61c8d618001b7cadbf8d902d0" title="quda::traceEnabled" alt="" coords="884,360,1015,387"/>
+<area shape="rect" id="node33" href="$classquda_1_1_tunable.html#aded93d27cbfd6568d4f4e44f3e6687ca" title="quda::Tunable::defaultTune\lParam" alt="" coords="861,629,1037,670"/>
+<area shape="rect" id="node34" href="$comm__quda_8h.html#a7b9e8a5fb7188e57f46e70c3243dfbdd" title="commGlobalReduction" alt="" coords="873,695,1026,722"/>
+<area shape="rect" id="node35" href="$namespacequda.html#a3c503154d742b953547abe4aa49bc130" title="quda::policyTuning" alt="" coords="885,746,1013,772"/>
+<area shape="rect" id="node36" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="896,796,1003,823"/>
+<area shape="rect" id="node37" href="$classquda_1_1_tunable.html#a84c6bfed530f37c172c1ba576bab9b22" title="quda::Tunable::preTune" alt="" coords="872,847,1027,874"/>
+<area shape="rect" id="node38" href="$structquda_1_1_timer.html#abb870b23fd97a72c360bb50895ba2e80" title="quda::Timer::Start" alt="" coords="888,898,1011,924"/>
+<area shape="rect" id="node39" href="$classquda_1_1_tunable.html#a7656afbdf0d2f848ea0058110543abf1" title="quda::Tunable::initTuneParam" alt="" coords="853,948,1045,975"/>
+<area shape="rect" id="node40" href="$classquda_1_1_tunable.html#a1d6de8001096e7620593315fa6fb51f6" title="quda::Tunable::apply" alt="" coords="880,999,1019,1026"/>
+<area shape="rect" id="node41" href="$classquda_1_1_tunable.html#aeda35bb2e3deda6f2b9d140d799d29b6" title="quda::Tunable::tuningIter" alt="" coords="868,1050,1031,1076"/>
+<area shape="rect" id="node42" href="$classquda_1_1_tunable.html#a41c2cde2839229d85f72f89959c7c7cb" title="quda::Tunable::jitifyError" alt="" coords="870,192,1029,219"/>
+<area shape="rect" id="node43" href="$classquda_1_1_tunable.html#a1cb0f81faa3e823b77e75c656969d184" title="quda::Tunable::perfString" alt="" coords="867,243,1031,270"/>
+<area shape="rect" id="node44" href="$classquda_1_1_tunable.html#a6b682b3aa1e943bbb981c5e0948513d1" title="quda::Tunable::advanceTune\lParam" alt="" coords="857,294,1042,336"/>
+<area shape="rect" id="node45" href="$structquda_1_1_timer.html#a04bf76b5de522151541e6f85841bdad2" title="quda::Timer::Stop" alt="" coords="888,411,1011,438"/>
+</map>

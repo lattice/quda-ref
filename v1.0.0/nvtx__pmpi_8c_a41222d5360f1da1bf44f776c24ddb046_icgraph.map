@@ -1,0 +1,6 @@
+<map id="MPI_Allgather" name="MPI_Allgather">
+<area shape="rect" id="node2" href="$comm__mpi_8cpp.html#ad219441b0cdddb8ddf27cf958557713e" title="comm_allreduce" alt="" coords="181,5,298,32"/>
+<area shape="rect" id="node3" href="$comm__mpi_8cpp.html#aee0b1daeb8b9a004d4f24f8fc23b8270" title="comm_allreduce_array" alt="" coords="163,56,315,83"/>
+<area shape="rect" id="node4" href="$comm__mpi_8cpp.html#aa6fca48a2524913fa52f8a1a71cd7cd8" title="Gather all GPU ids. " alt="" coords="170,107,309,133"/>
+<area shape="rect" id="node5" href="$comm__mpi_8cpp.html#a672f517336c21190ab990b5d77bd1657" title="Gather all hostnames. " alt="" coords="157,157,321,184"/>
+</map>

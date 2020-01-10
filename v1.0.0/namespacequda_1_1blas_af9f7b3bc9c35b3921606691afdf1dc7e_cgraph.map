@@ -1,0 +1,17 @@
+<map id="quda::blas::reduceLaunch" name="quda::blas::reduceLaunch">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#af4e9ab9827b557c70c9a03e9fe259387" title="commAsyncReduction" alt="" coords="231,5,381,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#aa226cf19d6bf84aafaaeddfe82fb32e4" title="quda::blas::completeFast\lReduce" alt="" coords="225,57,387,98"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a18140e9ea65a8b716a7edb4bf749b7c8" title="quda::blas::getFastReduce" alt="" coords="220,123,392,149"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#aebcf83ab62ff9a9a25ee47484ec8c5b1" title="quda::blas::initFastReduce" alt="" coords="221,173,391,200"/>
+<area shape="rect" id="node6" href="$classquda_1_1_tunable.html#a41c2cde2839229d85f72f89959c7c7cb" title="quda::Tunable::jitifyError" alt="" coords="227,224,385,251"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a4ba350a11b881d7610ea6e03ced0015e" title="Wrapper around cudaEventQuery or cuEventQuery. " alt="" coords="231,275,381,301"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a3f2b731bceb1847d99e603f56717aa64" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="227,325,385,352"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#af2cff09079282af6e9d307ef2418c6ea" title="quda::blas::reduceKernel" alt="" coords="225,376,387,403"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a984f5f6e3c315ac624e3f3420170b53d" title="quda::sum" alt="" coords="455,427,535,453"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="457,325,532,352"/>
+<area shape="rect" id="node13" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="440,376,549,403"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="629,325,717,352"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="599,376,746,403"/>
+<area shape="rect" id="node16" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="597,427,748,453"/>
+<area shape="rect" id="node15" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="796,376,864,403"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="quda::RestrictArg&lt; Float, vFloat, fineSpin, fineColor, coarseSpin, coarseColor, order &gt;" name="quda::RestrictArg&lt; Float, vFloat, fineSpin, fineColor, coarseSpin, coarseColor, order &gt;">
+<area shape="rect" id="node2" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l fineSpin, fineColor,\l 1, order \&gt;" alt="" coords="1194,407,1338,478"/>
+<area shape="rect" id="node15" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l fineSpin, fineColor,\l coarseColor, order, vFloat \&gt;" alt="" coords="1175,693,1357,763"/>
+<area shape="rect" id="node19" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l coarseSpin, coarseColor,\l 1, order \&gt;" alt="" coords="1182,259,1350,330"/>
+<area shape="rect" id="node4" href="$structquda_1_1norm__type.html" title="quda::norm_type\&lt; T \&gt;" alt="" coords="825,655,972,681"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="47,409,141,436"/>
+<area shape="rect" id="node7" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l nSpin, nColor, nVec,\l order, storeFloat, ghostFloat,\l disable_ghost, block_float,\l use_tex \&gt;" alt="" coords="804,373,993,473"/>
+<area shape="rect" id="node8" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; ghostFloat,\l nSpin, nColor, nVec, order \&gt;" alt="" coords="368,699,571,755"/>
+<area shape="rect" id="node9" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; Float,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="9,741,179,811"/>
+<area shape="rect" id="node17" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; vFloat,\l nSpin, nColor, nVec, order \&gt;" alt="" coords="595,813,780,869"/>
+<area shape="rect" id="node11" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; storeFloat,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="387,541,552,611"/>
+<area shape="rect" id="node12" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; Float, nSpin,\l nColor, nVec, order \&gt;" alt="" coords="5,583,183,639"/>
+<area shape="rect" id="node16" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; vFloat,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="616,622,759,693"/>
+<area shape="rect" id="node14" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="1226,356,1306,383"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="quda::DiracClover::MdagM" name="quda::DiracClover::MdagM">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="181,17,367,43"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="197,75,351,102"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_clover.html#a6078371a4e0f88541f0e3c0b7f02f1a1" title="quda::DiracClover::M" alt="" coords="205,126,343,153"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="212,177,336,203"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="203,227,345,254"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="421,5,571,47"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a88f40b9e643aa8def1052e09e2145309" title="Driver for applying the Wilson&#45;clover stencil. " alt="" coords="415,71,577,98"/>
+<area shape="rect" id="node9" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="421,123,571,164"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="633,35,783,76"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="625,101,791,127"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="445,189,547,215"/>
+</map>

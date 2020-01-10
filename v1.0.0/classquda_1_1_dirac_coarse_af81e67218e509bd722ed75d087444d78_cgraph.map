@@ -1,0 +1,22 @@
+<map id="quda::DiracCoarse::DiracCoarse" name="quda::DiracCoarse::DiracCoarse">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_coarse.html#ad73a48293b9e8280b63443263a4d4aac" title="Initialize the coarse gauge fields. Location is determined by gpu_setup variable. ..." alt="" coords="185,382,317,423"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_coarse.html#a7c4bcf10b7406f0d9f13962194a7fa48" title="Allocate the Y and X fields. " alt="" coords="400,222,532,263"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac.html#ac0510f00412fed2d3079b6beb17fbd68" title="Create the coarse operator (virtual parent) " alt="" coords="373,419,559,445"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_coarse.html#a8551d975d89077d3cd8c647b1440d26d" title="quda::DiracCoarse::Mu" alt="" coords="391,469,541,496"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_coarse.html#a14323a422aa8329c6bab936c8892b729" title="quda::DiracCoarse::\lMuFactor" alt="" coords="400,521,532,562"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_coarse.html#a3dec40de37312f60ad0283a4e6f3cf06" title="Allocate the Yhat and Xinv fields. " alt="" coords="400,287,532,329"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_coarse.html#a34a5be8511ca51c14f5e23f44eaaf160" title="Create the precondtioned coarse operator. " alt="" coords="365,353,567,394"/>
+<area shape="rect" id="node4" href="$classquda_1_1_transfer.html#aff9a183805a9c82a6a859b5df2f44814" title="quda::Transfer::Vectors" alt="" coords="631,173,783,200"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#a0fd1f89de7282388c6edb060396e8b8b" title="quda::ColorSpinorField\l::Ndim" alt="" coords="631,225,782,266"/>
+<area shape="rect" id="node6" href="$classquda_1_1_transfer.html#a4208ea856d2bc1baf9d71b538421a02e" title="quda::Transfer::Geo_bs" alt="" coords="630,291,783,317"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="623,341,790,368"/>
+<area shape="rect" id="node8" href="$classquda_1_1_transfer.html#a080b7fc33d7d4c22c5a43f957be27d58" title="quda::Transfer::nvec" alt="" coords="639,392,775,419"/>
+<area shape="rect" id="node9" href="$classquda_1_1_color_spinor_field.html#a6067aeefbeb02a469fadc6534ce01794" title="quda::ColorSpinorField\l::Nspin" alt="" coords="631,443,782,485"/>
+<area shape="rect" id="node10" href="$classquda_1_1_transfer.html#aaf0d832412995c0ccbbdf86c1d0a34f6" title="quda::Transfer::Spin_bs" alt="" coords="629,5,784,32"/>
+<area shape="rect" id="node11" href="$structquda_1_1_gauge_field_param.html#a3dd48f43933d09bb14ee9d05733dd8c0" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="627,57,787,98"/>
+<area shape="rect" id="node13" href="$classquda_1_1_transfer.html#a9e59b755506f8fcbca8e1da9ad1dcd85" title="The precision of the packed null&#45;space vectors. " alt="" coords="615,123,799,149"/>
+<area shape="rect" id="node12" href="$namespacequda.html#afd4bd2cb9895c735da434b82bb7cd7bb" title="quda::operator\&lt;\&lt;" alt="" coords="849,64,967,91"/>
+<area shape="rect" id="node18" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="847,502,969,543"/>
+<area shape="rect" id="node20" href="$namespacequda.html#a6265afd940e9e5d9521bc9e3423b41cc" title="Calculate preconditioned coarse links and coarse clover inverse field. " alt="" coords="639,560,774,587"/>
+<area shape="rect" id="node21" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="862,568,954,595"/>
+</map>

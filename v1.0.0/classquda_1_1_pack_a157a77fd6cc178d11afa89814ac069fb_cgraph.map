@@ -1,0 +1,4 @@
+<map id="quda::Pack::gridStep" name="quda::Pack::gridStep">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable.html#a168761e5d4be718ba281deab5563043f" title="gridStep sets the step size when iterating the grid size in advanceGridDim. " alt="" coords="193,5,349,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a0fd1f89de7282388c6edb060396e8b8b" title="quda::ColorSpinorField\l::Ndim" alt="" coords="196,57,347,98"/>
+</map>

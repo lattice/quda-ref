@@ -1,0 +1,16 @@
+<map id="quda::ComputeTMAVGPU" name="quda::ComputeTMAVGPU">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="260,5,335,32"/>
+<area shape="rect" id="node4" href="$classquda_1_1linalg_1_1_cholesky.html#a86bfbc20f17c2cc5688274a290d52fd8" title="Compute the inverse of A (the matrix used to construct the Cholesky decomposition). " alt="" coords="225,57,369,98"/>
+<area shape="rect" id="node5" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="275,123,319,149"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="434,5,522,32"/>
+<area shape="rect" id="node6" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="417,123,539,149"/>
+<area shape="rect" id="node7" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="599,21,681,48"/>
+<area shape="rect" id="node10" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="587,72,693,99"/>
+<area shape="rect" id="node11" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="778,123,841,149"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="605,173,675,200"/>
+<area shape="rect" id="node15" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="617,224,663,251"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="741,47,877,73"/>
+<area shape="rect" id="node9" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="925,47,1047,73"/>
+<area shape="rect" id="node12" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="966,123,1006,149"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="759,173,860,200"/>
+</map>

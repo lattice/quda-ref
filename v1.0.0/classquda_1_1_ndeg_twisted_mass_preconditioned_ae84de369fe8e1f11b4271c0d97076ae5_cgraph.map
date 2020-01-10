@@ -1,0 +1,5 @@
+<map id="quda::NdegTwistedMassPreconditioned::initTuneParam" name="quda::NdegTwistedMassPreconditioned::initTuneParam">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable_vector_y_z.html#a2b86f79566595e26d866e5479a1d0981" title="quda::TunableVectorYZ\l::initTuneParam" alt="" coords="300,5,456,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable_vector_y.html#a5f6d480f723653d63e9c7382b5f23df3" title="quda::TunableVectorY\l::initTuneParam" alt="" coords="504,5,652,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#a7656afbdf0d2f848ea0058110543abf1" title="quda::Tunable::initTuneParam" alt="" coords="700,13,892,39"/>
+</map>

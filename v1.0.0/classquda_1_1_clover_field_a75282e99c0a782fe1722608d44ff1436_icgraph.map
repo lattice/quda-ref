@@ -1,0 +1,5 @@
+<map id="quda::CloverField::isNative" name="quda::CloverField::isNative">
+<area shape="rect" id="node2" href="$classquda_1_1_clover_field.html#a97fd05224cbae32d6b1725982b5ca093" title="quda::CloverField::\lCloverField" alt="" coords="191,5,317,47"/>
+<area shape="rect" id="node3" href="$structquda_1_1_clover_invert_arg.html#a389bcb98c7382eae44c6fa03fc386683" title="quda::CloverInvertArg\l::CloverInvertArg" alt="" coords="182,71,326,112"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_clover_field.html#a878ca7f2f9c88bf65880769631687ec5" title="quda::cudaCloverField\l::cudaCloverField" alt="" coords="180,136,328,177"/>
+</map>

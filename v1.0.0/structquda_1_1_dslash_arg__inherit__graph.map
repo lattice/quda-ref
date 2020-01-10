@@ -1,0 +1,12 @@
+<map id="quda::DslashArg&lt; Float &gt;" name="quda::DslashArg&lt; Float &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1_cov_dev_arg.html" title="Parameter structure for driving the covariatnt derivative operator. " alt="" coords="219,41,390,67"/>
+<area shape="rect" id="node3" href="$structquda_1_1_laplace_arg.html" title="Parameter structure for driving the covariatnt derivative operator. " alt="" coords="219,91,391,118"/>
+<area shape="rect" id="node4" href="$structquda_1_1_staggered_arg.html" title="Parameter structure for driving the Staggered Dslash operator. " alt="" coords="237,143,372,184"/>
+<area shape="rect" id="node5" href="$structquda_1_1_wilson_arg.html" title="Parameter structure for driving the Wilson operator. " alt="" coords="222,209,387,235"/>
+<area shape="rect" id="node6" href="$structquda_1_1_domain_wall4_d_arg.html" title="quda::DomainWall4DArg\l\&lt; Float, nColor, reconstruct_ \&gt;" alt="" coords="439,5,633,47"/>
+<area shape="rect" id="node7" href="$structquda_1_1_domain_wall5_d_arg.html" title="quda::DomainWall5DArg\l\&lt; Float, nColor, reconstruct_ \&gt;" alt="" coords="439,71,633,112"/>
+<area shape="rect" id="node8" href="$structquda_1_1_ndeg_twisted_mass_arg.html" title="quda::NdegTwistedMassArg\l\&lt; Float, nColor, reconstruct_ \&gt;" alt="" coords="439,136,633,177"/>
+<area shape="rect" id="node9" href="$structquda_1_1_twisted_clover_arg.html" title="quda::TwistedCloverArg\l\&lt; Float, nColor, reconstruct_ \&gt;" alt="" coords="439,201,633,243"/>
+<area shape="rect" id="node10" href="$structquda_1_1_twisted_mass_arg.html" title="quda::TwistedMassArg\l\&lt; Float, nColor, reconstruct_ \&gt;" alt="" coords="439,267,633,308"/>
+<area shape="rect" id="node11" href="$structquda_1_1_wilson_clover_arg.html" title="quda::WilsonCloverArg\l\&lt; Float, nColor, reconstruct_ \&gt;" alt="" coords="439,332,633,373"/>
+</map>

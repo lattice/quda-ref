@@ -1,0 +1,11 @@
+<map id="quda::copyArrayToLink" name="quda::copyArrayToLink">
+<area shape="rect" id="node2" href="$namespacequda.html#ab6f828717264388e85aa2107fce4cee1" title="quda::isUnitary" alt="" coords="233,13,339,39"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a93fdb6f480d15d253df323b397e49978" title="quda::unitarizeLinksCPU" alt="" coords="205,63,367,90"/>
+<area shape="rect" id="node4" href="$llfat__reference_8h.html#a80444b8d9b6fba55e969c8afa100c26a" title="computeHISQLinksCPU" alt="" coords="415,38,576,65"/>
+<area shape="rect" id="node10" href="$unitarize__link__test_8cpp.html#a529cfbd2a1809bcaf7b4b76a7fb35e5b" title="TEST" alt="" coords="468,89,523,115"/>
+<area shape="rect" id="node5" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="624,13,819,39"/>
+<area shape="rect" id="node8" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="685,63,758,90"/>
+<area shape="rect" id="node6" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="873,13,911,39"/>
+<area shape="rect" id="node7" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="965,5,1109,47"/>
+<area shape="rect" id="node9" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="867,63,917,90"/>
+</map>

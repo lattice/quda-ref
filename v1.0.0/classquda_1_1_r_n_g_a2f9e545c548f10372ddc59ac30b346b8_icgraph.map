@@ -1,0 +1,6 @@
+<map id="quda::RNG::backup" name="quda::RNG::backup">
+<area shape="rect" id="node2" href="$classquda_1_1_spinor_noise.html#a8ad20a0b1fbb6f508356dc5f01bfc4d7" title="quda::SpinorNoise::\lpreTune" alt="" coords="185,5,316,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_r_n_g.html#ab0a4184fc66bec20b1afe9e109d4f459" title="quda::RNG::State" alt="" coords="190,71,311,98"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a1dd7377a23d81715963d9b205bbf915e" title="quda::SpinorNoiseCPU" alt="" coords="365,46,517,73"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a9d7e8307cdd960106bc5fb02c23e16d9" title="quda::SpinorNoiseGPU" alt="" coords="364,97,517,123"/>
+</map>

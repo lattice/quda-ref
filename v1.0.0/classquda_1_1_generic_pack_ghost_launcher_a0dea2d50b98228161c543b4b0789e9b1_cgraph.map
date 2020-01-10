@@ -1,0 +1,9 @@
+<map id="quda::GenericPackGhostLauncher::bytes" name="quda::GenericPackGhostLauncher::bytes">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="272,31,425,57"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#a54e53d67d05647f283c581626d2b2e1f" title="quda::LatticeField\l::GhostPrecision" alt="" coords="287,82,410,123"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="287,147,410,189"/>
+<area shape="rect" id="node8" href="$classquda_1_1_lattice_field.html#a64969b1180e27da1fdbc1959f1cf644c" title="quda::LatticeField\l::SurfaceCB" alt="" coords="287,213,410,254"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="473,31,560,57"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="608,5,767,32"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="641,56,733,83"/>
+</map>

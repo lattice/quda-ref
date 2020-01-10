@@ -1,0 +1,22 @@
+<map id="quda::GaugeCovDev::MdagMCD" name="quda::GaugeCovDev::MdagMCD">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="419,53,604,79"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="207,154,361,181"/>
+<area shape="rect" id="node5" href="$classquda_1_1_gauge_cov_dev.html#a03515abb5f8cd7f7ef65269adb8ef5ce" title="quda::GaugeCovDev::MCD" alt="" coords="197,103,371,130"/>
+<area shape="rect" id="node21" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="213,205,355,231"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="659,5,809,47"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_cov_dev.html#add1772de63a1b81e957fc63bd06b4897" title="quda::GaugeCovDev::\lDslashCD" alt="" coords="439,144,583,185"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a654d44d7961d8a259d1adb294329f4aa" title="Driver for applying the covariant derivative. " alt="" coords="668,239,800,266"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="652,312,816,353"/>
+<area shape="rect" id="node15" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="903,71,990,98"/>
+<area shape="rect" id="node18" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="657,122,811,149"/>
+<area shape="rect" id="node20" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="659,173,809,215"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="871,173,1022,215"/>
+<area shape="rect" id="node9" href="$namespacequda.html#ab711f0d6779ce4f27095811910ca39ea" title="quda::popKernelPackT" alt="" coords="871,239,1023,266"/>
+<area shape="rect" id="node11" href="$namespacequda.html#ab322a3eff5a7800532b2f664b7803d2d" title="quda::pushKernelPackT" alt="" coords="867,290,1026,317"/>
+<area shape="rect" id="node13" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="864,341,1029,367"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="1083,239,1231,266"/>
+<area shape="rect" id="node12" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="1082,290,1231,317"/>
+<area shape="rect" id="node16" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1077,122,1236,149"/>
+<area shape="rect" id="node17" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1111,71,1203,98"/>
+<area shape="rect" id="node19" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="903,122,990,149"/>
+</map>

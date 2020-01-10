@@ -1,0 +1,51 @@
+<map id="quda::blas::xpay" name="quda::blas::xpay">
+<area shape="rect" id="node2" href="$namespacequda.html#aea599aeddc6f7b741886bdebbd8027c4" title="Driver for applying the preconditioned non&#45;degenerate twisted&#45;mass stencil. " alt="" coords="192,71,384,112"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a3e70d37e4619233aed64b333bc293253" title="Driver for applying the preconditioned twisted&#45;clover stencil. " alt="" coords="204,136,372,177"/>
+<area shape="rect" id="node8" href="$namespacequda.html#aa10722a05d416d0c36753694573e0dba" title="Driver for applying the preconditioned twisted&#45;mass stencil. " alt="" coords="164,19,412,46"/>
+<area shape="rect" id="node9" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="245,202,331,229"/>
+<area shape="rect" id="node10" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="217,253,359,279"/>
+<area shape="rect" id="node11" href="$wilson__dslash__reference_8h.html#a69e3f1607c121be48fc540b0b4fd43a3" title="clover_mat" alt="" coords="245,303,331,330"/>
+<area shape="rect" id="node12" href="$wilson__dslash__reference_8h.html#aa44d6283bd416112a1b8b041504c413d" title="clover_matpc" alt="" coords="239,354,337,381"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a3d6118dd05ff19613170152017ca9e20" title="Apply the D5 operator at given site. " alt="" coords="239,405,337,431"/>
+<area shape="rect" id="node14" href="$namespacequda.html#af777e107cf1788892e869cf8978b5b4e" title="Apply the M5 inverse operator at a given site on the lattice. " alt="" coords="231,455,345,482"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_coarse_p_c.html#a3e88577a44e6b7d883da615181e34190" title="Apply DslashXpay out = (D * in + A * x) " alt="" coords="216,507,360,548"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_coarse_p_c.html#a02e5998a7272e651f34c5e9dc5e921d8" title="Apply the full operator. " alt="" coords="491,543,652,570"/>
+<area shape="rect" id="node17" href="$domain__wall__dslash__reference_8h.html#a36332181b764487e69cc5e526af76d48" title="dw_4d_mat" alt="" coords="244,623,332,650"/>
+<area shape="rect" id="node18" href="$domain__wall__dslash__reference_8h.html#a274def2472b331172739ecbe8f743f50" title="dw_4d_matpc" alt="" coords="237,674,339,701"/>
+<area shape="rect" id="node19" href="$domain__wall__dslash__reference_8h.html#aea3817818da552a3fad7191728c89a22" title="dw_mat" alt="" coords="255,725,321,751"/>
+<area shape="rect" id="node20" href="$domain__wall__dslash__reference_8h.html#a8b8c40cb4ff1f79e9be51f3427217250" title="dw_matpc" alt="" coords="247,775,329,802"/>
+<area shape="rect" id="node21" href="$classquda_1_1_inc_eig_c_g.html#a8ad27c286ef2376a42173024366ddf25" title="quda::IncEigCG::initCGsolve" alt="" coords="197,826,379,853"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dslash.html#a840347b8d284210b343406a084f3738e" title="This instantiate function is used to instantiate the the KernelType template required for the multi&#45;G..." alt="" coords="209,877,367,903"/>
+<area shape="rect" id="node23" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="247,927,329,954"/>
+<area shape="rect" id="node24" href="$structquda_1_1_twisted_mass_launch.html#a7cf87a3b3da326e3fac954610e32094a" title="quda::TwistedMassLaunch\l::launch" alt="" coords="485,960,657,1001"/>
+<area shape="rect" id="node25" href="$structquda_1_1_wilson_clover_preconditioned_launch.html#aa3a5c55fb70eff7d24de87be90243a36" title="quda::WilsonCloverPreconditioned\lLaunch::launch" alt="" coords="463,1025,679,1067"/>
+<area shape="rect" id="node26" href="$structquda_1_1_wilson_clover_launch.html#a6743d8110c0d7295fc378ab48eed570a" title="quda::WilsonCloverLaunch\l::launch" alt="" coords="485,1091,657,1132"/>
+<area shape="rect" id="node27" href="$structquda_1_1_ndeg_twisted_mass_launch.html#a532f6d891b3c4aa4ffb4622fe04209b8" title="quda::NdegTwistedMassLaunch\l::launch" alt="" coords="470,1156,673,1197"/>
+<area shape="rect" id="node28" href="$structquda_1_1_twisted_clover_launch.html#ac2f71fd232343bfb912825db6663bade" title="quda::TwistedCloverLaunch\l::launch" alt="" coords="482,1221,661,1263"/>
+<area shape="rect" id="node29" href="$structquda_1_1_twisted_clover_preconditioned_launch.html#a65d7815340bae5daea2fe02246ee615a" title="quda::TwistedCloverPreconditioned\lLaunch::launch" alt="" coords="460,1287,683,1328"/>
+<area shape="rect" id="node30" href="$classquda_1_1_dslash.html#affb99ada2d860dc0b581b04413f3be65" title="quda::Dslash::launch" alt="" coords="219,1130,357,1157"/>
+<area shape="rect" id="node31" href="$classquda_1_1_dirac_domain_wall4_d.html#a044ffd3892667cbd119833791bc23143" title="quda::DiracDomainWall4D::M" alt="" coords="194,1333,382,1359"/>
+<area shape="rect" id="node32" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="199,1383,377,1410"/>
+<area shape="rect" id="node33" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="211,1434,365,1461"/>
+<area shape="rect" id="node34" href="$classquda_1_1_c_a_g_c_r.html#a53e792abb6297c7cc6b5fddee7fdda3d" title="quda::CAGCR::operator()" alt="" coords="207,1485,369,1511"/>
+<area shape="rect" id="node35" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="223,1536,353,1577"/>
+<area shape="rect" id="node36" href="$classquda_1_1_dirac_coarse_p_c.html#a774dc231c855d3dcf0f904914317251f" title="quda::DiracCoarsePC\l::prepare" alt="" coords="216,1601,360,1643"/>
+<area shape="rect" id="node37" href="$classquda_1_1_dirac_coarse_p_c.html#a99702def183155f5a992f0113ea31e81" title="quda::DiracCoarsePC\l::reconstruct" alt="" coords="216,1667,360,1708"/>
+<area shape="rect" id="node38" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="213,1733,363,1759"/>
+<area shape="rect" id="node39" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="201,1783,375,1810"/>
+<area shape="rect" id="node40" href="$staggered__dslash__ctest_8cpp.html#a395582865fa2cf85dfdc964a961ac000" title="staggeredDslashRef" alt="" coords="220,1834,356,1861"/>
+<area shape="rect" id="node41" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="267,1885,309,1911"/>
+<area shape="rect" id="node42" href="$wilson__dslash__reference_8h.html#a24a1dd19145f9b9f787285a06ecf3710" title="tm_mat" alt="" coords="255,1935,321,1962"/>
+<area shape="rect" id="node43" href="$wilson__dslash__reference_8h.html#a4e871b0ffa516458fc080ff3188a5a96" title="tm_matpc" alt="" coords="248,1986,328,2013"/>
+<area shape="rect" id="node44" href="$wilson__dslash__reference_8h.html#ab3abff9d87e1bdf25aa494a2582827df" title="tm_ndeg_mat" alt="" coords="237,2037,339,2063"/>
+<area shape="rect" id="node45" href="$wilson__dslash__reference_8h.html#ace75b4c5ca7e210ca873e627a272a82b" title="tm_ndeg_matpc" alt="" coords="231,2087,345,2114"/>
+<area shape="rect" id="node46" href="$wilson__dslash__reference_8h.html#a9ec587006fc538ff89d33e0d9ea6c5fd" title="tmc_mat" alt="" coords="251,2138,325,2165"/>
+<area shape="rect" id="node47" href="$wilson__dslash__reference_8h.html#af47d4a96b1e9667333ae7973e3c8cc0f" title="tmc_matpc" alt="" coords="245,2189,331,2215"/>
+<area shape="rect" id="node48" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="217,2239,359,2266"/>
+<area shape="rect" id="node49" href="$wilson__dslash__reference_8h.html#a6a98beaba10187acbfb57a9062307421" title="wil_mat" alt="" coords="255,2290,321,2317"/>
+<area shape="rect" id="node50" href="$wilson__dslash__reference_8h.html#a005841d28a38973b18c6e00549719a0d" title="wil_matpc" alt="" coords="248,2341,328,2367"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aebad1f29b65f446d27b2454b45bbec13" title="quda::DiracTwistedMassPC\l::Dslash" alt="" coords="482,71,661,112"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aefa93709f581a5e61216f7b0a5e60c4b" title="quda::DiracTwistedMassPC\l::DslashXpay" alt="" coords="482,5,661,47"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a503bc0265a583054448836dd4e7e8335" title="quda::DiracTwistedClover\lPC::Dslash" alt="" coords="488,201,655,243"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_twisted_clover_p_c.html#af123fa46e3c363daa4f1748f5f33e242" title="quda::DiracTwistedClover\lPC::DslashXpay" alt="" coords="488,136,655,177"/>
+</map>

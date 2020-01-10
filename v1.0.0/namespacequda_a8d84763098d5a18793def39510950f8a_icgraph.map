@@ -1,0 +1,19 @@
+<map id="quda::extractGhostEx" name="quda::extractGhostEx">
+<area shape="rect" id="node2" href="$namespacequda.html#a623d46037fdf4933f8d68b2fa35dc1b8" title="quda::extractExtendedGauge\lGhost" alt="" coords="196,317,383,359"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_gauge_field.html#afd84ce53bf3df8c690e6b2ada0c2f02f" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="431,191,601,232"/>
+<area shape="rect" id="node16" href="$classquda_1_1cpu_gauge_field.html#ab0cc045fdabb6d5bb80af251426da60f" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="431,317,601,359"/>
+<area shape="rect" id="node18" href="$classquda_1_1cpu_gauge_field.html#a6e91f1204e583f2f20bb295dce52eeb5" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="445,383,587,424"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_gauge_field.html#a94fa5f8d036e51ce8e7a8b1f3a8d8645" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="657,5,828,47"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="659,71,827,98"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#a0ade1446720f13dc6cc1a688a1153023" title="Generate Gaussian distributed fields and store in the resident gauge field. We create a Gaussian&#45;dist..." alt="" coords="681,122,805,149"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a51da31992209b588cc71641963307d56" title="performAPEnStep" alt="" coords="679,173,806,199"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#ad9b78b143153725974886c392285b906" title="performSTOUTnStep" alt="" coords="671,223,815,250"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#a0ee20ea90421939924df9903acb6b4d8" title="performOvrImpSTOUTnStep" alt="" coords="649,274,836,301"/>
+<area shape="rect" id="node14" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="688,325,797,351"/>
+<area shape="rect" id="node7" href="$plaq__test_8cpp.html#a039131f3799421d26e6bbc9eee5c68af" title="plaq_test" alt="" coords="884,122,959,149"/>
+<area shape="rect" id="node8" href="$plaq__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1007,122,1057,149"/>
+<area shape="rect" id="node10" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="887,223,955,250"/>
+<area shape="rect" id="node11" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1007,223,1057,250"/>
+<area shape="rect" id="node15" href="$hisq__paths__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="896,325,947,351"/>
+<area shape="rect" id="node17" href="$classquda_1_1cpu_gauge_field.html#a04ad35fc407cc1ed6bcb464dbbad45ba" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="657,376,828,417"/>
+</map>

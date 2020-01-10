@@ -1,0 +1,51 @@
+<map id="tm_ndeg_matpc" name="tm_ndeg_matpc">
+<area shape="rect" id="node2" href="$wilson__dslash__reference_8cpp.html#a255b0709a326b49fc8daab8ee9aa7516" title="ndeg_twist_gamma5" alt="" coords="168,53,308,80"/>
+<area shape="rect" id="node4" href="$wilson__dslash__reference_8cpp.html#ab62eaad6ac44a13ca6a5bfed3baa7b48" title="wil_dslash" alt="" coords="198,163,278,189"/>
+<area shape="rect" id="node48" href="$namespacequda_1_1blas.html#a8f3009e9e4a4bfe40b4d3f20d03c2f45" title="quda::blas::xpay" alt="" coords="183,272,293,299"/>
+<area shape="rect" id="node3" href="$wilson__dslash__reference_8cpp.html#a558a244a5d34da44bca726759825a81e" title="ndegTwistGamma5" alt="" coords="375,24,509,51"/>
+<area shape="rect" id="node5" href="$wilson__dslash__reference_8cpp.html#a254701a68d337537a66c9cf0c8f67f24" title="dslashReference" alt="" coords="383,192,501,219"/>
+<area shape="rect" id="node16" href="$classquda_1_1cpu_color_spinor_field.html#a69850014a1e80a2d6ddaece3932ad860" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="356,351,528,393"/>
+<area shape="rect" id="node46" href="$classquda_1_1_gauge_field.html#aedfa91e714c61b8e11caec9d2703dcfa" title="quda::GaugeField::Ghost" alt="" coords="361,75,523,101"/>
+<area shape="rect" id="node47" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="361,126,523,167"/>
+<area shape="rect" id="node6" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="635,217,717,244"/>
+<area shape="rect" id="node9" href="$wilson__dslash__reference_8cpp.html#a205e892ac4d3339d78a9d251f3f4ffda" title="multiplySpinorByDiracProjector" alt="" coords="576,268,776,295"/>
+<area shape="rect" id="node10" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="623,116,729,143"/>
+<area shape="rect" id="node11" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="879,15,941,41"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="641,65,711,92"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a984f5f6e3c315ac624e3f3420170b53d" title="quda::sum" alt="" coords="636,167,716,193"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="842,116,978,143"/>
+<area shape="rect" id="node8" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1093,105,1214,132"/>
+<area shape="rect" id="node12" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1133,15,1173,41"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="859,65,961,92"/>
+<area shape="rect" id="node17" href="$classquda_1_1cpu_color_spinor_field.html#af375a9f256d62db1749bcafffa1ed5b2" title="Allocate the ghost buffers. " alt="" coords="590,385,762,426"/>
+<area shape="rect" id="node19" href="$classquda_1_1cpu_color_spinor_field.html#a8386225c8fc1020670e5a0b9f4995473" title="quda::cpuColorSpinorField\l::packGhost" alt="" coords="590,450,762,491"/>
+<area shape="rect" id="node31" href="$classquda_1_1_color_spinor_field.html#a03366c6ecf5bdea2e1988dd8d9e4d114" title="quda::ColorSpinorField\l::exchange" alt="" coords="601,319,751,361"/>
+<area shape="rect" id="node18" href="$classquda_1_1cpu_color_spinor_field.html#a51d79fe9a54a572b777123a2cd133752" title="quda::cpuColorSpinorField\l::freeGhostBuffer" alt="" coords="824,439,996,481"/>
+<area shape="rect" id="node20" href="$namespacequda.html#a014ceadabae12572d2dcd8215e8f5f77" title="Generic ghost packing routine. " alt="" coords="829,505,991,532"/>
+<area shape="rect" id="node21" href="$classquda_1_1_generic_pack_ghost_launcher.html#a7d92338a4bc5f7ffce7830f27f64d13d" title="quda::GenericPackGhostLauncher\l::apply" alt="" coords="1044,498,1263,539"/>
+<area shape="rect" id="node22" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="1329,439,1451,481"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="1329,556,1451,583"/>
+<area shape="rect" id="node29" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="1351,607,1429,633"/>
+<area shape="rect" id="node30" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="1344,505,1436,532"/>
+<area shape="rect" id="node24" href="$classquda_1_1_tunable.html#aa51219d121871be33e3dba212aa969b0" title="quda::Tunable::tuneKey" alt="" coords="1533,447,1687,473"/>
+<area shape="rect" id="node25" href="$classquda_1_1_tunable.html#a4149bcac2c1216e6a6f2223fab27b9ad" title="quda::Tunable::paramString" alt="" coords="1521,497,1699,524"/>
+<area shape="rect" id="node26" href="$classquda_1_1_tunable.html#ad192f84c0bfebd5bdb8ada76b333974f" title="quda::Tunable::checkLaunch\lParam" alt="" coords="1517,549,1703,590"/>
+<area shape="rect" id="node27" href="$namespacequda.html#acf8d40c61c8d618001b7cadbf8d902d0" title="quda::traceEnabled" alt="" coords="1545,615,1675,641"/>
+<area shape="rect" id="node28" href="$classquda_1_1_tunable.html#aded93d27cbfd6568d4f4e44f3e6687ca" title="quda::Tunable::defaultTune\lParam" alt="" coords="1522,666,1698,707"/>
+<area shape="rect" id="node32" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="833,181,987,208"/>
+<area shape="rect" id="node36" href="$comm__quda_8h.html#a0498a56438662fb30281fb92b5bc40b4" title="comm_start" alt="" coords="865,236,955,263"/>
+<area shape="rect" id="node40" href="$comm__quda_8h.html#aa949084ae3512a75d7218748b38f7015" title="comm_wait" alt="" coords="866,287,954,313"/>
+<area shape="rect" id="node45" href="$comm__quda_8h.html#aaf356c30715ea44b84953c66f65c1ef9" title="comm_free" alt="" coords="867,388,953,415"/>
+<area shape="rect" id="node33" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1110,156,1197,183"/>
+<area shape="rect" id="node34" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1311,135,1469,161"/>
+<area shape="rect" id="node35" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1344,84,1436,111"/>
+<area shape="rect" id="node37" href="$nvtx__pmpi_8c.html#a0ff352a818935c896c684af705d041e9" title="MPI_Start" alt="" coords="1113,236,1194,263"/>
+<area shape="rect" id="node38" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="1345,185,1435,212"/>
+<area shape="rect" id="node39" href="$nvtx__pmpi_8c.html#a60fc3eec4e2d6d05a2f3867b94588cd1" title="PMPI_Test" alt="" coords="1347,236,1433,263"/>
+<area shape="rect" id="node41" href="$nvtx__pmpi_8c.html#a65a90a976c9dc2704d5661ee066ca937" title="MPI_Wait" alt="" coords="1114,287,1193,313"/>
+<area shape="rect" id="node42" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="1364,388,1416,415"/>
+<area shape="rect" id="node43" href="$nvtx__pmpi_8c.html#a89a5128619ef11cdf9173a34436ad3d5" title="PMPI_Wait" alt="" coords="1346,287,1434,313"/>
+<area shape="rect" id="node44" href="$nvtx__pmpi_8c.html#a6da5aebfab9343484ea0cbeb0954e11a" title="PMPI_Waitany" alt="" coords="1336,337,1444,364"/>
+<area shape="rect" id="node49" href="$namespacequda_1_1blas.html#a7a989a4b5814fab3ae2ad74d76bbc874" title="quda::blas::axpbyz" alt="" coords="380,485,504,512"/>
+<area shape="rect" id="node50" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="615,515,737,557"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="updateMultigridQuda" name="updateMultigridQuda">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a14655ba9617fddb93f72a17626baa80b" title="checkGauge" alt="" coords="211,403,306,429"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac.html#ac13ad4c6bdcacd4b53a473176e7ab830" title="quda::Dirac::create" alt="" coords="195,1141,323,1168"/>
+<area shape="rect" id="node14" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="1154,1439,1246,1465"/>
+<area shape="rect" id="node15" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="Pop the verbosity restoring the prior one on the stack. " alt="" coords="1549,1489,1643,1516"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#a9dcf7dd332d24d19ef18624abfe5915d" title="profilerStart" alt="" coords="215,2417,303,2444"/>
+<area shape="rect" id="node19" href="$interface__quda_8cpp.html#a4ad1fa4005bd6d1fe5e7cda1a7d292f6" title="profilerStop" alt="" coords="215,2468,302,2495"/>
+<area shape="rect" id="node22" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="Push a new verbosity onto the stack. " alt="" coords="1545,1768,1647,1795"/>
+<area shape="rect" id="node24" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="203,1457,314,1484"/>
+<area shape="rect" id="node42" href="$util__quda_8h.html#af0b637354d88c2cf044d20a3f472dcd9" title="setOutputPrefix" alt="" coords="652,2012,763,2039"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a1c01992fa9197e82c2463a91820a1d87" title="quda::saveTuneCache" alt="" coords="391,2139,539,2165"/>
+<area shape="rect" id="node48" href="$namespacequda.html#ae2157f2d523f81f8a36cea5e5a8c7ab4" title="quda::setDiracPreParam" alt="" coords="385,697,546,724"/>
+<area shape="rect" id="node50" href="$namespacequda.html#a2dcf8c16152e86f17cc410c9e206070c" title="quda::setDiracSloppyParam" alt="" coords="375,647,555,673"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="892,682,1015,723"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="855,93,1052,120"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a668994b5c83eeffb4a0535878ecc23cd" title="freeSloppyGaugeQuda" alt="" coords="389,428,541,455"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#a933684d9a6f77d2cc0e5e222c4c7292c" title="loadSloppyGaugeQuda" alt="" coords="388,247,543,273"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#a33dcbcebeee53146df0bfae4e47b06b9" title="checkClover" alt="" coords="419,377,512,404"/>
+<area shape="rect" id="node7" href="$structquda_1_1_gauge_field_param.html#a3dd48f43933d09bb14ee9d05733dd8c0" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="627,210,787,251"/>
+<area shape="rect" id="node8" href="$structquda_1_1_lattice_field_param.html#afcae9aaaf7cf0fdedd44b9d11f216c30" title="quda::LatticeFieldParam\l::Precision" alt="" coords="627,530,788,571"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="632,145,783,186"/>
+<area shape="rect" id="node11" href="$interface__quda_8cpp.html#a5851bc3e0c05e88bb7c3c11ec82034eb" title="freeSloppyCloverQuda" alt="" coords="632,327,783,353"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#a5ff865c49b52caacdd5838126e1e5f6e" title="loadSloppyCloverQuda" alt="" coords="631,377,783,404"/>
+<area shape="rect" id="node16" href="$util__quda_8cpp.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="1705,1616,1795,1643"/>
+<area shape="rect" id="node18" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="407,2417,523,2444"/>
+<area shape="rect" id="node20" href="$namespacequda.html#ab980a6a7a4544d736fb7ede6931f4a18" title="quda::printLaunchTimer" alt="" coords="387,2468,543,2495"/>
+<area shape="rect" id="node21" href="$classquda_1_1_time_profile.html#a352ad271eb6f06f75cf3c3c0a28e8023" title="quda::TimeProfile::\lPrint" alt="" coords="644,2461,771,2502"/>
+<area shape="rect" id="node23" href="$util__quda_8cpp.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="1704,1768,1796,1795"/>
+<area shape="rect" id="node25" href="$classquda_1_1_m_g.html#a87cc0a6121cb6ed45d9b12280c75ef82" title="Helper function called on entry to each MG function. " alt="" coords="1348,1743,1488,1769"/>
+<area shape="rect" id="node27" href="$classquda_1_1_m_g.html#a336aa127724707cfaab984d485d49d39" title="Destroy the smoothers. " alt="" coords="1110,1844,1290,1871"/>
+<area shape="rect" id="node28" href="$classquda_1_1_m_g.html#a01a0bba925966fecde19aaaae2dff33d" title="Helper function called on exit to each MG member function. " alt="" coords="1351,1489,1485,1516"/>
+<area shape="rect" id="node29" href="$classquda_1_1_m_g.html#ae80b4a7dbbc41dae814f26a5e6ea2d8c" title="Destroy the solver wrapper. " alt="" coords="1100,1641,1300,1668"/>
+<area shape="rect" id="node30" href="$classquda_1_1_dirac_matrix.html#a123030484afb5d8a15a1df5fcb08e3ca" title="quda::DiracMatrix::\lExpose" alt="" coords="890,1322,1017,1363"/>
+<area shape="rect" id="node31" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="608,1556,807,1583"/>
+<area shape="rect" id="node33" href="$classquda_1_1_m_g.html#a81c27dc5f468e10f91d9cf0742866ad0" title="Create the smoothers. " alt="" coords="866,1793,1041,1820"/>
+<area shape="rect" id="node34" href="$namespacequda.html#afdd60a37d49f6d12f8472e2a910e80c6" title="quda::zero" alt="" coords="913,1895,993,1921"/>
+<area shape="rect" id="node35" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="894,1945,1013,1972"/>
+<area shape="rect" id="node36" href="$classquda_1_1_transfer.html#a4e342b78b6d5ffe90317e86d54743187" title="Sets whether the transfer operator is to act on full fields or single parity fields, and if single&#45;parity which parity. " alt="" coords="371,1457,560,1484"/>
+<area shape="rect" id="node37" href="$classquda_1_1_transfer.html#a08ea45190015b4e46b4bf6559d075cc9" title="for resetting the Transfer when the null vectors have changed " alt="" coords="885,1489,1022,1516"/>
+<area shape="rect" id="node38" href="$classquda_1_1_m_g.html#a6ced52a315ef7762ff818a29fd5b389d" title="Create the coarse dirac operator. " alt="" coords="613,1356,802,1383"/>
+<area shape="rect" id="node39" href="$structquda_1_1_solver_param.html#af7c2f92ed96605f733df04c73312bd4e" title="quda::SolverParam::\lupdateInvertParam" alt="" coords="397,1509,533,1550"/>
+<area shape="rect" id="node40" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="413,1103,517,1129"/>
+<area shape="rect" id="node41" href="$namespacequda.html#af5dfe5132103d5e6adc57775ad51100e" title="Generate a random noise spinor. This variant allows the user to manage the RNG state. " alt="" coords="646,1001,769,1028"/>
+<area shape="rect" id="node43" href="$classquda_1_1_m_g.html#a92ac0c19ef16629220b24ec4be52140b" title="Create the solver wrapper. " alt="" coords="610,1255,805,1281"/>
+<area shape="rect" id="node44" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="409,1724,522,1751"/>
+<area shape="rect" id="node26" href="$util__quda_8h.html#abc25dbf265ff0ac6b168061d62387a82" title="Push a new output prefix onto the stack. " alt="" coords="1536,1717,1656,1744"/>
+<area shape="rect" id="node32" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="873,951,1034,993"/>
+<area shape="rect" id="node45" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="662,2113,753,2140"/>
+<area shape="rect" id="node47" href="$namespacequda.html#a4cf7120a3f6aa7fa21ebff3870969bb2" title="quda::serializeTuneCache" alt="" coords="623,2215,791,2241"/>
+<area shape="rect" id="node49" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="637,647,778,673"/>
+</map>

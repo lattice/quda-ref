@@ -1,0 +1,51 @@
+<map id="quda::getCoords" name="quda::getCoords">
+<area shape="rect" id="node2" href="$namespacequda.html#a4cd412a4d0c7adecc200ef03c5b07fa5" title="quda::completeKSForceCore" alt="" coords="184,5,371,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a394985ba1067a539551f0eef739f8036" title="quda::computeAPEStep" alt="" coords="198,56,357,83"/>
+<area shape="rect" id="node4" href="$namespacequda.html#abe0ccbd96c2bad27e3b8f6a097d8c6cb" title="quda::computeCoarseClover" alt="" coords="186,107,369,133"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a74355dc5ee5b5d78310ad5ec11096eed" title="quda::computeFmunuCore" alt="" coords="191,157,364,184"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ad5d9b851e0a336ed8d7815f3e4957f93" title="quda::computeGenGauss" alt="" coords="194,208,361,235"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a34dd1c4bb3cbe98eb22f8ff86fa0acf1" title="Compute and return global the momentum action 1/2 mom^2. " alt="" coords="191,259,363,285"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a7de044440049234d497fc6d2902b1f50" title="quda::computeNeighborSum" alt="" coords="185,309,369,336"/>
+<area shape="rect" id="node12" href="$namespacequda.html#abb828db4d01a4a845f7448943e02d120" title="quda::computeOvrImpSTOUTStep" alt="" coords="168,360,387,387"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a02b71be6abbc70f918a4897fceed6abe" title="quda::computePlaq" alt="" coords="211,411,343,437"/>
+<area shape="rect" id="node16" href="$namespacequda.html#acbe4de8ae91a76e1219d7fb3ea3f785e" title="quda::computeStaple" alt="" coords="206,461,349,488"/>
+<area shape="rect" id="node34" href="$structquda_1_1_gauge_s_t_o_u_t_arg.html#a9ca3fc241040537a159d41ef584b0dfd" title="quda::GaugeSTOUTArg\l::GaugeSTOUTArg" alt="" coords="435,509,593,550"/>
+<area shape="rect" id="node35" href="$namespacequda.html#a7b4e58186ae01abd5bfe3364cb7498d8" title="quda::computeStapleRectangle" alt="" coords="177,563,378,589"/>
+<area shape="rect" id="node36" href="$namespacequda.html#a4c6454379fb7e715088552d1f2340f9c" title="quda::computeSTOUTStep" alt="" coords="189,613,366,640"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a419d82c480429a246cd7aa1890972afe" title="quda::computeUV" alt="" coords="216,664,339,691"/>
+<area shape="rect" id="node38" href="$namespacequda.html#aa47667eabb4b3c7a1470a14fbed3793a" title="quda::computeVUV" alt="" coords="212,715,343,741"/>
+<area shape="rect" id="node39" href="$namespacequda.html#a7df5435818e4e46b8241213664bbd9b1" title="quda::computeYhat" alt="" coords="211,765,344,792"/>
+<area shape="rect" id="node40" href="$namespacequda.html#a36eb631863ad2a00894bd9996ae51f2a" title="quda::corner" alt="" coords="231,816,323,843"/>
+<area shape="rect" id="node46" href="$structquda_1_1colorspinor_1_1_padded_space_spinor_color_order.html#a1882ce6193c10c087a30568690bf934c" title="Compute the index into the padded field. Assumes that parity doesn&#39;t change from unpadded to padded..." alt="" coords="176,867,379,923"/>
+<area shape="rect" id="node47" href="$structquda_1_1gauge_1_1_t_i_f_r_padded_order.html#a762d40435c317bb75b5e4074bfdb5de3" title="Compute the index into the padded field. Assumes that parity doesn&#39;t change from unpadded to padded..." alt="" coords="176,947,379,989"/>
+<area shape="rect" id="node48" href="$namespacequda.html#af8a3c781ee63451f18800ef92dc39a21" title="CUDA kernel to initialize CURAND RNG states. " alt="" coords="207,1013,348,1040"/>
+<area shape="rect" id="node49" href="$namespacequda.html#affada8a026e7b57a86b9cb85e2a8114e" title="quda::packGhost" alt="" coords="218,1064,337,1091"/>
+<area shape="rect" id="node50" href="$namespacequda.html#a3ac3eebde7729022fba1357b907bafd4" title="quda::sin" alt="" coords="241,1115,313,1141"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a004044d1e9bec75f92aa844863084f95" title="quda::forceRecord" alt="" coords="451,259,577,285"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="455,309,573,336"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#a9942ec2c95b902f2a2c1bcf715ef4f0d" title="Evaluate the kinetic (momentum) contribution to classical Hamiltonian for Hybrid Monte Carlo..." alt="" coords="676,309,779,336"/>
+<area shape="rect" id="node14" href="$classquda_1_1_gauge_plaq.html#a40686c88d0f9069fbf9dffa04005cddd" title="quda::GaugePlaq::apply" alt="" coords="436,407,592,433"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a2a65984896dc13def20db6ba3fdd30bd" title="quda::plaquette" alt="" coords="673,407,782,433"/>
+<area shape="rect" id="node17" href="$namespacequda.html#abdcc468dc619c7c3a6267a927cd0b417" title="Compute the fat and long links for an improved staggered (Kogut&#45;Susskind) fermions. " alt="" coords="443,457,585,484"/>
+<area shape="rect" id="node18" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="655,457,800,484"/>
+<area shape="rect" id="node19" href="$staggered__gauge__utils_8h.html#a80b581c4061de4f160efca53727a8ced" title="computeHISQLinksGPU" alt="" coords="869,381,1032,408"/>
+<area shape="rect" id="node28" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="914,432,987,459"/>
+<area shape="rect" id="node30" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="915,483,986,509"/>
+<area shape="rect" id="node32" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="888,533,1013,560"/>
+<area shape="rect" id="node20" href="$staggered__gauge__utils_8h.html#af0aca89a3894a49dac7950c095b36bf4" title="computeFatLongGPU" alt="" coords="1112,327,1259,353"/>
+<area shape="rect" id="node25" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="1088,381,1283,408"/>
+<area shape="rect" id="node21" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="1331,276,1441,303"/>
+<area shape="rect" id="node23" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="1345,327,1427,353"/>
+<area shape="rect" id="node22" href="$staggered__eigensolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1536,276,1587,303"/>
+<area shape="rect" id="node24" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1536,327,1587,353"/>
+<area shape="rect" id="node26" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="1367,383,1405,409"/>
+<area shape="rect" id="node27" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="1489,378,1633,419"/>
+<area shape="rect" id="node29" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1160,432,1211,459"/>
+<area shape="rect" id="node31" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1160,483,1211,509"/>
+<area shape="rect" id="node33" href="$unitarize__link__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1160,533,1211,560"/>
+<area shape="rect" id="node41" href="$namespacequda.html#ad9be7a3b87a6bc4b699e3587032b2fda" title="quda::genericSource" alt="" coords="445,816,583,843"/>
+<area shape="rect" id="node42" href="$classquda_1_1cpu_color_spinor_field.html#ac15d8b2aaff27079ef5c801e0bba4330" title="quda::cpuColorSpinorField\l::Source" alt="" coords="641,809,813,850"/>
+<area shape="rect" id="node43" href="$classquda_1_1cuda_color_spinor_field.html#aac64c07b746c93df650da7d64e5c215b" title="quda::cudaColorSpinorField\l::Source" alt="" coords="861,779,1040,821"/>
+<area shape="rect" id="node44" href="$covdev__test_8cpp.html#aa1cd5eafa5245aa7c3ded9b3b470f0b9" title="init" alt="" coords="931,845,970,872"/>
+<area shape="rect" id="node45" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1160,845,1211,872"/>
+</map>

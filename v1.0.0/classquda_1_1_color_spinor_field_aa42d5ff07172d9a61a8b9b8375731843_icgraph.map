@@ -1,0 +1,4 @@
+<map id="quda::ColorSpinorField::reset" name="quda::ColorSpinorField::reset">
+<area shape="rect" id="node2" href="$classquda_1_1cpu_color_spinor_field.html#a0513b4ff30e2490730a79821e176ec91" title="quda::cpuColorSpinorField\l::cpuColorSpinorField" alt="" coords="207,5,379,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a9ee48a7d12288038fd11211b34b7152f" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="204,71,383,112"/>
+</map>

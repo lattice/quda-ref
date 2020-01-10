@@ -1,0 +1,9 @@
+<map id="quda::cudaCloverField::copy" name="quda::cudaCloverField::copy">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a8df9daaddff2c4eaf29a0f7878dfe852" title="loadCloverQuda" alt="" coords="221,56,334,83"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_clover_field.html#a58e96ae984405b79192937a165f47b32" title="quda::cudaCloverField\l::loadCPUField" alt="" coords="203,107,351,149"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#addf969ced5e38a4a3a0335433ada0984" title="loadSloppyCloverQuda" alt="" coords="201,173,353,200"/>
+<area shape="rect" id="node3" href="$dslash__ctest_8cpp.html#a64129cf6a57ea1eaec3d8beb72214bd7" title="init" alt="" coords="447,5,485,32"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#ac82c02b41cda6766ed0fded459a5896d" title="load_clover_quda_" alt="" coords="401,56,531,83"/>
+<area shape="rect" id="node6" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="441,107,491,133"/>
+<area shape="rect" id="node4" href="$class_dslash_test.html#afb0a7879cf403f62842a6a187b18c2dc" title="DslashTest::SetUp" alt="" coords="579,5,705,32"/>
+</map>

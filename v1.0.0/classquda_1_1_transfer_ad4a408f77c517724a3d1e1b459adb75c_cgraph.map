@@ -1,0 +1,8 @@
+<map id="quda::Transfer::createTmp" name="quda::Transfer::createTmp">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="229,9,380,51"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ab35ecfee5829a97f0cf7a7cdddadfce8" title="Create a coarse color&#45;spinor field, using this field to set the meta data. " alt="" coords="229,75,380,116"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="433,136,595,177"/>
+<area shape="rect" id="node7" href="$structquda_1_1_lattice_field_param.html#afcae9aaaf7cf0fdedd44b9d11f216c30" title="quda::LatticeFieldParam\l::Precision" alt="" coords="224,192,385,233"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="453,5,575,47"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="453,71,575,112"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="comm_peer2peer_present" name="comm_peer2peer_present">
+<area shape="rect" id="node2" href="$namespacequda.html#a7f0c27a7c48f3352db18e9885044228b" title="quda::device_pinned\l_free_" alt="" coords="224,5,363,47"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a0d0232b7370a03b1a5091d0aafa46578" title="quda::device_pinned\l_malloc_" alt="" coords="224,71,363,112"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a053acd264e8d8a0b693874ad39407d0b" title="quda::device_free_" alt="" coords="419,13,548,39"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1pool.html#adf69f608446c13713a37dadebafd64f2" title="Allocate device&#45;memory. If free pre&#45;existing allocation exists reuse this. " alt="" coords="604,71,727,112"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1pool.html#ac5fd9c5bb2b77dcc4c65f54c7acacc56" title="Virtual free of pinned&#45;memory allocation. " alt="" coords="604,5,727,47"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ac95492d4517e1e02b0a778bb1ae23925" title="quda::device_malloc_" alt="" coords="411,78,556,105"/>
+</map>

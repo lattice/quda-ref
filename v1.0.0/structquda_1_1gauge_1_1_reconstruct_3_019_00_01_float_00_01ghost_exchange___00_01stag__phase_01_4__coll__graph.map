@@ -1,0 +1,4 @@
+<map id="quda::gauge::Reconstruct&lt; 9, Float, ghostExchange_, stag_phase &gt;" name="quda::gauge::Reconstruct&lt; 9, Float, ghostExchange_, stag_phase &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1gauge_1_1_reconstruct_3_018_00_01_float_00_01ghost_exchange___01_4.html" title="Gauge reconstruct 8 helper where we reconstruct the gauge matrix from 8 packed elements (maximal comp..." alt="" coords="5,199,193,240"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="53,5,146,32"/>
+</map>

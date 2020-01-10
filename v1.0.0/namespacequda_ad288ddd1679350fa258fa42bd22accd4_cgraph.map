@@ -1,0 +1,8 @@
+<map id="quda::copyExtendedGauge" name="quda::copyExtendedGauge">
+<area shape="rect" id="node2" href="$namespacequda.html#a9854f36dd6a6d0f458a975923366adf6" title="quda::copyGaugeEx" alt="" coords="230,5,365,32"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#ac7938570cd9e0f6d7ff2328b0df441d7" title="quda::LatticeField\l::Ndim" alt="" coords="236,57,359,98"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="236,122,359,163"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="228,188,367,215"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1gauge.html#a6cd40608aabdb9080a2df09bb7c10203" title="Return the number of colors of the accessor based on the length of the field. " alt="" coords="415,5,549,32"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1gauge.html#a038c45259e95c5426f880805d15b8a4e" title="quda::gauge::ct_sqrt" alt="" coords="597,5,733,32"/>
+</map>

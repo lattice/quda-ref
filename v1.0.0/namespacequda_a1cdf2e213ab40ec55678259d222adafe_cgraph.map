@@ -1,0 +1,5 @@
+<map id="quda::genericCudaPrintVector" name="quda::genericCudaPrintVector">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#a37215d878b1f82b333e03b070f0ea47c" title="quda::ColorSpinorField\l::Norm" alt="" coords="253,5,403,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="245,71,411,98"/>
+<area shape="rect" id="node3" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="459,13,544,39"/>
+</map>

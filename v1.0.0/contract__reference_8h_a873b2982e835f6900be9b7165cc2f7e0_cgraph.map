@@ -1,0 +1,8 @@
+<map id="contraction_reference" name="contraction_reference">
+<area shape="rect" id="node2" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="236,46,312,73"/>
+<area shape="rect" id="node6" href="$contract__reference_8h.html#a1cdf5ddaf942783ce06ba286027db696" title="contractColor" alt="" coords="225,97,323,123"/>
+<area shape="rect" id="node7" href="$contract__reference_8h.html#a6061ba32734823cb641c6726242915b6" title="contractDegrandRossi" alt="" coords="200,147,348,174"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="396,46,472,73"/>
+<area shape="rect" id="node4" href="$structquda_1_1complex_3_01double_01_4.html#adc5681045ec6cd66e5ab0c73c8dc4ffd" title="quda::complex\&lt; double\l \&gt;::real" alt="" coords="520,5,673,47"/>
+<area shape="rect" id="node5" href="$structquda_1_1complex_3_01double_01_4.html#a3da47d570b43abe5d1720537d69c681c" title="quda::complex\&lt; double\l \&gt;::imag" alt="" coords="520,71,673,112"/>
+</map>

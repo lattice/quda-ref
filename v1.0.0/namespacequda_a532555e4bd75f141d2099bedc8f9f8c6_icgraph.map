@@ -1,0 +1,8 @@
+<map id="quda::track_free" name="quda::track_free">
+<area shape="rect" id="node2" href="$namespacequda.html#a053acd264e8d8a0b693874ad39407d0b" title="quda::device_free_" alt="" coords="168,97,297,123"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a7f0c27a7c48f3352db18e9885044228b" title="quda::device_pinned\l_free_" alt="" coords="345,136,484,177"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a0b35b9e33f05483b7562dcfd4a8534a2" title="quda::host_free_" alt="" coords="175,202,291,229"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1pool.html#ac5fd9c5bb2b77dcc4c65f54c7acacc56" title="Virtual free of pinned&#45;memory allocation. " alt="" coords="353,5,476,47"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1pool.html#adf69f608446c13713a37dadebafd64f2" title="Allocate device&#45;memory. If free pre&#45;existing allocation exists reuse this. " alt="" coords="353,71,476,112"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1pool.html#ab289c755eeb8549ade90892ff4c6036c" title="Virtual free of pinned&#45;memory allocation. " alt="" coords="353,201,477,243"/>
+</map>

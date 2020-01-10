@@ -1,0 +1,14 @@
+<map id="updateR" name="updateR">
+<area shape="rect" id="node2" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="142,5,283,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="145,56,281,83"/>
+<area shape="rect" id="node4" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="124,107,301,133"/>
+<area shape="rect" id="node5" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="349,167,521,193"/>
+<area shape="rect" id="node6" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="370,226,501,267"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a063fc5d1433f39e519de6683ac7e4505" title="quda::reliable" alt="" coords="164,208,261,235"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_a_c_g.html#a336aee84127492dbfb4575f37df1c232" title="quda::CACG::reliable" alt="" coords="143,309,283,336"/>
+<area shape="rect" id="node12" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="141,361,285,402"/>
+<area shape="rect" id="node13" href="$class_dslash_test.html#afb0a7879cf403f62842a6a187b18c2dc" title="DslashTest::SetUp" alt="" coords="149,427,276,453"/>
+<area shape="rect" id="node9" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="358,309,513,336"/>
+<area shape="rect" id="node10" href="$classquda_1_1_c_a_c_g_n_e.html#a5d7dae59806e1f16af69cee4707ebfdf" title="quda::CACGNE::operator()" alt="" coords="570,284,741,311"/>
+<area shape="rect" id="node11" href="$classquda_1_1_c_a_c_g_n_r.html#a88172e047b80fe722212635b3e44eeca" title="quda::CACGNR::operator()" alt="" coords="569,335,741,361"/>
+</map>

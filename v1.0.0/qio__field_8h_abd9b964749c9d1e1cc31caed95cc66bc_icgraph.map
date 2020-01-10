@@ -1,0 +1,15 @@
+<map id="write_spinor_field" name="write_spinor_field">
+<area shape="rect" id="node2" href="$classquda_1_1_deflation.html#a7e395f7e68cb32b49018246523a8a99e" title="Save the eigen space vectors in file. " alt="" coords="173,20,355,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_eigen_solver.html#a03dea475571b655f2aa97d9bb56174ec" title="Save vectors to file. " alt="" coords="199,71,329,113"/>
+<area shape="rect" id="node4" href="$classquda_1_1_t_r_l_m.html#acf892e5bc9c2f3a40df569a25f931f4e" title="Compute eigenpairs. " alt="" coords="403,53,555,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1_m_g.html#a9e7ef9b757d20ed30ba34afd5b3e8616" title="Save the null space vectors in from file. " alt="" coords="403,104,555,131"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#aabb6069988c329c11b38dfab5868df76" title="Dump the null&#45;space vectors to disk. Will recurse dumping all levels. " alt="" coords="617,29,797,56"/>
+<area shape="rect" id="node9" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="607,104,806,131"/>
+<area shape="rect" id="node13" href="$classquda_1_1_m_g.html#ad881072a23857253e540cf789cd73594" title="Generate lowest eigenvectors. " alt="" coords="603,155,811,181"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#ace9db785556886cd4655bba8685e83d5" title="Dump the null&#45;space vectors to disk. " alt="" coords="1020,43,1155,69"/>
+<area shape="rect" id="node8" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1392,92,1443,119"/>
+<area shape="rect" id="node10" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="863,155,967,181"/>
+<area shape="rect" id="node11" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="1032,129,1143,156"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="1203,117,1344,144"/>
+<area shape="rect" id="node14" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="859,229,972,256"/>
+</map>

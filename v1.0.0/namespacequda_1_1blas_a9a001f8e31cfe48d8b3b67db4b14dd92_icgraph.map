@@ -1,0 +1,51 @@
+<map id="quda::blas::ax" name="quda::blas::ax">
+<area shape="rect" id="node2" href="$namespacequda.html#a4e5e8ddc62dac184981ffe1ed46f4c54" title="Scale the gauge field by the scalar a. " alt="" coords="217,202,286,229"/>
+<area shape="rect" id="node11" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="208,749,295,775"/>
+<area shape="rect" id="node13" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="181,799,322,826"/>
+<area shape="rect" id="node14" href="$interface__quda_8cpp.html#acb76b2ef5b4507f26c1970c95bad1a72" title="cloverQuda" alt="" coords="208,850,295,877"/>
+<area shape="rect" id="node16" href="$classquda_1_1_t_r_l_m.html#acef5b1b6859baf1eb77983028bd6f4bb" title="Get the eigen&#45;decomposition from the arrow matrix. " alt="" coords="153,951,349,978"/>
+<area shape="rect" id="node17" href="$classquda_1_1_t_r_l_m.html#acf892e5bc9c2f3a40df569a25f931f4e" title="Compute eigenpairs. " alt="" coords="423,926,575,953"/>
+<area shape="rect" id="node18" href="$classquda_1_1_eigen_solver.html#a054858df44f196f0844e20ab94544578" title="Computes Left/Right SVD from pre computed Right/Left. " alt="" coords="186,1003,317,1044"/>
+<area shape="rect" id="node20" href="$interface__quda_8cpp.html#a6826eb81d4a6da7a9107670ff0bbcc77" title="dslashQuda" alt="" coords="207,1069,296,1095"/>
+<area shape="rect" id="node23" href="$interface__quda_8cpp.html#a2d8a2a7758507a87ae669d556e409e68" title="dslashQuda_4dpc" alt="" coords="189,1119,313,1146"/>
+<area shape="rect" id="node24" href="$interface__quda_8cpp.html#a7ea97611c29b71b948ea41f974cf777f" title="dslashQuda_mdwf" alt="" coords="188,1170,315,1197"/>
+<area shape="rect" id="node25" href="$classquda_1_1_g_m_res_d_r.html#aa869a115446b88110dcbf22c55e8d9b7" title="quda::GMResDR::FlexArnoldi\lProcedure" alt="" coords="158,1323,345,1364"/>
+<area shape="rect" id="node27" href="$namespacequda.html#afdecfba62668387d6195eea004bf363e" title="quda::genericCompare" alt="" coords="176,1439,327,1466"/>
+<area shape="rect" id="node29" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="167,1490,336,1517"/>
+<area shape="rect" id="node31" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="648,495,729,522"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#a50832a69c2d3aef393f6daf85d3b0fe8" title="invertMultiShiftQuda" alt="" coords="430,558,569,585"/>
+<area shape="rect" id="node34" href="$invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="663,627,714,654"/>
+<area shape="rect" id="node35" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="433,634,565,661"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="457,445,541,471"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a6703d1b9c5fef56a16d44495871bde4f" title="quda::massRescale" alt="" coords="185,546,317,573"/>
+<area shape="rect" id="node38" href="$interface__quda_8cpp.html#a752f99361f4f44f0d9662841736d9041" title="MatDagMatQuda" alt="" coords="191,1221,311,1247"/>
+<area shape="rect" id="node39" href="$interface__quda_8cpp.html#afe79acaec8e033157d9214b5ad97ae66" title="MatQuda" alt="" coords="214,1271,289,1298"/>
+<area shape="rect" id="node40" href="$classquda_1_1_m_p_c_g.html#a22dc04a12559494a1202da230c31a66a" title="quda::MPCG::operator()" alt="" coords="173,1541,329,1567"/>
+<area shape="rect" id="node41" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="183,1591,320,1618"/>
+<area shape="rect" id="node42" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="174,1642,329,1669"/>
+<area shape="rect" id="node43" href="$classquda_1_1_min_res_ext.html#ab4acc2e02a9f112b964b88e099f32b86" title="quda::MinResExt::operator()" alt="" coords="162,1693,341,1719"/>
+<area shape="rect" id="node44" href="$classquda_1_1_dirac_staggered_p_c.html#af8b20041fb422469b2918bdfc892655e" title="quda::DiracStaggeredPC\l::prepare" alt="" coords="170,1744,333,1785"/>
+<area shape="rect" id="node45" href="$classquda_1_1_dirac_improved_staggered_p_c.html#a978836276634480a65604ca59fe6d4ce" title="quda::DiracImprovedStaggered\lPC::prepare" alt="" coords="152,1809,351,1851"/>
+<area shape="rect" id="node46" href="$classquda_1_1_dirac_staggered_p_c.html#a158baf3353d710f2a17c4456224235ce" title="quda::DiracStaggeredPC\l::reconstruct" alt="" coords="170,1875,333,1916"/>
+<area shape="rect" id="node47" href="$classquda_1_1_dirac_improved_staggered_p_c.html#a29e0419161b8fd48fd0ca904f684f7e0" title="quda::DiracImprovedStaggered\lPC::reconstruct" alt="" coords="152,1940,351,1981"/>
+<area shape="rect" id="node48" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="157,1389,346,1415"/>
+<area shape="rect" id="node49" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="230,2006,273,2033"/>
+<area shape="rect" id="node50" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="163,2057,340,2083"/>
+<area shape="rect" id="node3" href="$classquda_1_1_m_g.html#a7a502ef502f5a5c21b73d23e3f67a1c9" title="Build free&#45;field null&#45;space vectors. " alt="" coords="410,101,589,127"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="415,151,583,178"/>
+<area shape="rect" id="node5" href="$domain__wall__dslash__reference_8cpp.html#a1b1389c2d182a680ed5f1eeda763a5af" title="dslashReference_5th" alt="" coords="428,202,571,229"/>
+<area shape="rect" id="node6" href="$domain__wall__dslash__reference_8cpp.html#ab31e412602c643d1f1558de859c3bd53" title="dslashReference_5th_inv" alt="" coords="417,253,582,279"/>
+<area shape="rect" id="node7" href="$classquda_1_1cpu_gauge_field.html#a6e91f1204e583f2f20bb295dce52eeb5" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="428,304,571,345"/>
+<area shape="rect" id="node8" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="400,394,599,421"/>
+<area shape="rect" id="node9" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="663,222,714,249"/>
+<area shape="rect" id="node10" href="$domain__wall__dslash__reference_8cpp.html#a616ff41cd6ad307c021615e5b739d7f4" title="mdslashReference_5th_inv" alt="" coords="411,50,587,77"/>
+<area shape="rect" id="node12" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="464,749,535,775"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#af2cd15b3a18d5966b95446fabba3c57b" title="clover_quda_" alt="" coords="450,850,549,877"/>
+<area shape="rect" id="node19" href="$classquda_1_1_solver.html#a71b5c8751745dbe8740df929e5859962" title="Constructs the deflation space. " alt="" coords="399,1003,600,1044"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#aa42de7cce1a9f65009aff63d57d14281" title="dslash_quda_" alt="" coords="449,1069,549,1095"/>
+<area shape="rect" id="node22" href="$dslash__ctest_8cpp.html#aae87026c545cd7c541478d495efebc47" title="dslashCUDA" alt="" coords="452,1170,547,1197"/>
+<area shape="rect" id="node26" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="410,1353,589,1379"/>
+<area shape="rect" id="node28" href="$classquda_1_1cpu_color_spinor_field.html#ac9c5a3bf3e02799436aa004211ea4508" title="Perform a component by component comparison of two color&#45;spinor fields. In doing we normalize with re..." alt="" coords="413,1428,585,1469"/>
+<area shape="rect" id="node30" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="413,1494,585,1521"/>
+<area shape="rect" id="node32" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="777,495,828,522"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="quda::sin" name="quda::sin">
+<area shape="rect" id="node2" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="129,5,205,32"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ac854a3d35ea6b893a9e5983fb10749a3" title="quda::cosh" alt="" coords="125,56,208,83"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="131,107,203,133"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a8a4582c9f5dfe30610ba406814cf8e4b" title="quda::sinh" alt="" coords="127,157,206,184"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="259,5,335,32"/>
+<area shape="rect" id="node4" href="$structquda_1_1complex_3_01float_01_4.html#a692127ea4240002b39f3581648d5bab4" title="quda::complex\&lt; float\l \&gt;::imag" alt="" coords="387,42,525,83"/>
+<area shape="rect" id="node5" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="387,107,525,149"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a97b37cad1aaf65e25e2f6b4bc80b71c3" title="quda::cosh" alt="" coords="256,56,339,83"/>
+<area shape="rect" id="node9" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="261,107,333,133"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a8d5d7121dbc89e14a76651637adb3a7e" title="quda::sinh" alt="" coords="258,157,337,184"/>
+</map>

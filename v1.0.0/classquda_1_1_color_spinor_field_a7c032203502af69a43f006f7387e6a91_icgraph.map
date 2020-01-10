@@ -1,0 +1,4 @@
+<map id="quda::ColorSpinorField::SiteOrder" name="quda::ColorSpinorField::SiteOrder">
+<area shape="rect" id="node2" href="$namespacequda.html#aef3d9d4bc466961551296a7825590aee" title="quda::copyExtendedColorSpinor" alt="" coords="204,5,407,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ade1c2e8cef0f1d63a2b1fb35a40def2f" title="quda::copyGenericColorSpinor" alt="" coords="208,56,403,83"/>
+</map>

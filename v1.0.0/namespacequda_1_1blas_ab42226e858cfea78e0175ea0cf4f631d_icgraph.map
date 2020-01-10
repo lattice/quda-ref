@@ -1,0 +1,9 @@
+<map id="quda::blas::caxpyNorm" name="quda::blas::caxpyNorm">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="448,8,535,34"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ace51af2e017b9d4292669f1d7e81eb6a" title="Return (a,b) and ||b||^2 &#45; implemented using cDotProductNormA. " alt="" coords="203,33,400,60"/>
+<area shape="rect" id="node5" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="470,58,513,85"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_g3.html#affe2eda59aece923ef89de0a0d57f0b2" title="quda::CG3::operator()" alt="" coords="230,134,373,161"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="221,185,381,212"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="583,8,653,34"/>
+<area shape="rect" id="node6" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="583,58,653,85"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="PMPI_Recv_init" name="PMPI_Recv_init">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#a1f53ade4e6efa440518786ad8c2bc2aa" title="MPI_Recv_init" alt="" coords="168,78,275,105"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a388b78b19fe97a29da78ed6012d1d50c" title="MPI_Send_init" alt="" coords="168,137,275,163"/>
+<area shape="rect" id="node3" href="$comm__mpi_8cpp.html#a1b76cb2605ec86e831fbc316528284eb" title="comm_declare_receive\l_displaced" alt="" coords="347,5,501,47"/>
+<area shape="rect" id="node4" href="$comm__mpi_8cpp.html#a5a446f8199e451000296e4910fa61df1" title="comm_declare_strided\l_receive_displaced" alt="" coords="348,71,500,112"/>
+<area shape="rect" id="node6" href="$comm__mpi_8cpp.html#a4d7233bc6a3a786074eda2e639331066" title="comm_declare_send_displaced" alt="" coords="323,137,525,163"/>
+<area shape="rect" id="node7" href="$comm__mpi_8cpp.html#a0b8592a044962c195623852212e6e6ab" title="comm_declare_strided\l_send_displaced" alt="" coords="348,188,500,229"/>
+</map>

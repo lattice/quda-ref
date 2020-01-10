@@ -1,0 +1,4 @@
+<map id="deterministic_reduce" name="deterministic_reduce">
+<area shape="rect" id="node2" href="$comm__qmp_8cpp.html#ad219441b0cdddb8ddf27cf958557713e" title="comm_allreduce" alt="" coords="212,5,329,32"/>
+<area shape="rect" id="node3" href="$comm__qmp_8cpp.html#aee0b1daeb8b9a004d4f24f8fc23b8270" title="comm_allreduce_array" alt="" coords="195,56,347,83"/>
+</map>

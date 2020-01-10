@@ -1,0 +1,18 @@
+<map id="quda::Dirac::reconstruct" name="quda::Dirac::reconstruct">
+<area shape="rect" id="node2" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="209,68,408,95"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="243,181,375,208"/>
+<area shape="rect" id="node11" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="267,232,351,259"/>
+<area shape="rect" id="node16" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="239,283,378,309"/>
+<area shape="rect" id="node17" href="$classquda_1_1_preconditioned_solver.html#aff352dcaa422e3522aff99b5742d14c6" title="quda::PreconditionedSolver\l::operator()" alt="" coords="219,334,398,375"/>
+<area shape="rect" id="node3" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="456,5,560,32"/>
+<area shape="rect" id="node4" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="608,37,719,64"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="767,37,908,64"/>
+<area shape="rect" id="node6" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="956,37,1007,64"/>
+<area shape="rect" id="node8" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="467,131,549,157"/>
+<area shape="rect" id="node10" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="483,181,533,208"/>
+<area shape="rect" id="node9" href="$staggered__invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="638,131,689,157"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="461,232,555,259"/>
+<area shape="rect" id="node13" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="467,283,549,309"/>
+<area shape="rect" id="node15" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="483,333,533,360"/>
+<area shape="rect" id="node14" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="638,283,689,309"/>
+</map>

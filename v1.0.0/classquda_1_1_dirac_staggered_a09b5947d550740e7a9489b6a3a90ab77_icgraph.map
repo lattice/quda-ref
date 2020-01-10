@@ -1,0 +1,6 @@
+<map id="quda::DiracStaggered::DslashXpay" name="quda::DiracStaggered::DslashXpay">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_staggered_p_c.html#ac66c3de313dad720c11c22b1486b963a" title="quda::DiracStaggeredPC::M" alt="" coords="199,5,379,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_staggered.html#a66d8aa60a34b8940172315d6f404b2ad" title="quda::DiracStaggered\l::MdagM" alt="" coords="216,57,361,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_staggered_p_c.html#af8b20041fb422469b2918bdfc892655e" title="quda::DiracStaggeredPC\l::prepare" alt="" coords="207,122,370,163"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_staggered_p_c.html#a158baf3353d710f2a17c4456224235ce" title="quda::DiracStaggeredPC\l::reconstruct" alt="" coords="207,187,370,229"/>
+</map>

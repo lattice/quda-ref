@@ -1,0 +1,13 @@
+<map id="quda::SolverParam::updateInvertParam" name="quda::SolverParam::updateInvertParam">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a71bf8d05f88a9fb9bb34eca2697151ee" title="reduceDouble" alt="" coords="189,122,291,149"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#ad219441b0cdddb8ddf27cf958557713e" title="comm_allreduce" alt="" coords="339,122,456,149"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a7518e44660d59793c0e6a5c0621b8fc3" title="comm_deterministic\l_reduce" alt="" coords="505,5,644,47"/>
+<area shape="rect" id="node5" href="$comm__mpi_8cpp.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="531,71,618,98"/>
+<area shape="rect" id="node6" href="$comm__mpi_8cpp.html#a27b2b7d99e593219e858574324a8cfe0" title="deterministic_reduce" alt="" coords="504,122,645,149"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#a41222d5360f1da1bf44f776c24ddb046" title="MPI_Allgather" alt="" coords="523,173,627,199"/>
+<area shape="rect" id="node10" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="521,223,628,250"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a3281b70c6bb31afc9d093e5eb01ce823" title="PMPI_Allgather" alt="" coords="696,122,809,149"/>
+<area shape="rect" id="node9" href="$nvtx__pmpi_8c.html#a28ca8e45f5b1eb17533778f96ec09e13" title="PMPI_Allgatherv" alt="" coords="693,173,812,199"/>
+<area shape="rect" id="node11" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="695,223,811,250"/>
+<area shape="rect" id="node12" href="$nvtx__pmpi_8c.html#aa494422fc1d868c35ecbfa909bf9d468" title="PMPI_Reduce" alt="" coords="699,274,806,301"/>
+</map>

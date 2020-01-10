@@ -1,0 +1,10 @@
+<map id="quda::EigenSolver::deflateSVD" name="quda::EigenSolver::deflateSVD">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ae3e5e69d87a6db7678c8fb7dc14daca7" title="quda::blas::caxpy" alt="" coords="203,13,322,39"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="184,63,341,90"/>
+<area shape="rect" id="node5" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="217,114,309,141"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="208,165,317,191"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="403,5,526,47"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="391,139,538,166"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="389,190,540,217"/>
+<area shape="rect" id="node8" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="588,139,656,166"/>
+</map>

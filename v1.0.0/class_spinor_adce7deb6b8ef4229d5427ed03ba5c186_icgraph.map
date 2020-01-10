@@ -1,0 +1,7 @@
+<map id="Spinor::set" name="Spinor::set">
+<area shape="rect" id="node2" href="$namespacequda.html#a88f9b8f3add45d5e4b156480335c4a70" title="Compute the outer product from the solver solution fields arising from the diagonal term of the fermi..." alt="" coords="136,23,315,65"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a420583900b48ceda0f421e33b22d30c4" title="quda::blas::multiBlas" alt="" coords="156,89,295,116"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a4fcb532f71498dda4a14e1689921b537" title="quda::blas::multiReduce" alt="" coords="147,140,304,167"/>
+<area shape="rect" id="node3" href="$structquda_1_1_full_clover.html#ae938f6d152dff7d3bde7c508740418dc" title="quda::FullClover::FullClover" alt="" coords="363,5,539,32"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="365,56,537,83"/>
+</map>

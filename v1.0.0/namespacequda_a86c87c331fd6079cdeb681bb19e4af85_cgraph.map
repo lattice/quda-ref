@@ -1,0 +1,9 @@
+<map id="quda::computeKSLongLinkForce" name="quda::computeKSLongLinkForce">
+<area shape="rect" id="node2" href="$namespacequda.html#a2176cddf64e34c1e70669eb48029b6a5" title="quda::computeKSLongLinkForce" alt="" coords="263,42,472,69"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="306,93,429,135"/>
+<area shape="rect" id="node7" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="269,159,466,186"/>
+<area shape="rect" id="node8" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="298,210,437,237"/>
+<area shape="rect" id="node3" href="$classquda_1_1_k_s_long_link_force.html#a74db90f6354411420ecea9d2bc9e3538" title="quda::KSLongLinkForce\l::apply" alt="" coords="520,5,679,47"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="727,42,801,69"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="849,42,937,69"/>
+</map>

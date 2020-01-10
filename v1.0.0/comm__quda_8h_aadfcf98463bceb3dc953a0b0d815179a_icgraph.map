@@ -1,0 +1,5 @@
+<map id="comm_allreduce_min" name="comm_allreduce_min">
+<area shape="rect" id="node2" href="$structquda_1_1clover_1_1_field_order.html#aac48e9ca0e7b74e518966486cb941f2b" title="Returns the minimum absolute value of the field. " alt="" coords="199,5,355,47"/>
+<area shape="rect" id="node4" href="$structquda_1_1gauge_1_1_field_order.html#a342cfe197aee7d43e06d82700e7a101f" title="Returns the minimum absolute value of the field. " alt="" coords="199,71,356,112"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a50d3cfe4817fa34d1fac8539b3a0a574" title="quda::norm" alt="" coords="404,13,489,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="quda::computeCloverSigmaOprod" name="quda::computeCloverSigmaOprod">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="232,5,392,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="251,57,373,98"/>
+<area shape="rect" id="node4" href="$class_spinor.html#adce7deb6b8ef4229d5427ed03ba5c186" title="Spinor::set" alt="" coords="271,123,353,149"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a2616920c61840f86a7d0fe07bcb60eef" title="quda::set" alt="" coords="440,123,513,149"/>
+</map>

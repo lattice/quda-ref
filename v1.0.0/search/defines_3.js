@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['cadd',['CADD',['../gauge__force__reference_8cpp.html#a0858bf02aec40de2ab2ef405825cb41c',1,'CADD():&#160;gauge_force_reference.cpp'],['../hisq__force__reference_8cpp.html#a0858bf02aec40de2ab2ef405825cb41c',1,'CADD():&#160;hisq_force_reference.cpp']]],
+  ['check_5fparam',['CHECK_PARAM',['../interface__quda_8cpp.html#ac91e44e3652a623561637981a465ab5e',1,'interface_quda.cpp']]],
+  ['checkcudaerror',['checkCudaError',['../util__quda_8h.html#a7668e6580e0f57b0db3112fae4959e34',1,'util_quda.h']]],
+  ['checkcudaerrornosync',['checkCudaErrorNoSync',['../util__quda_8h.html#a422355f444151d191e65f7d790061840',1,'util_quda.h']]],
+  ['checklocation',['checkLocation',['../lattice__field_8h.html#adba9d5e43b3d21557bec844a614524d9',1,'lattice_field.h']]],
+  ['checkpctype',['checkPCType',['../color__spinor__field_8h.html#adbe9d2d521a0bc4008e102001f95c76a',1,'color_spinor_field.h']]],
+  ['checkprecision',['checkPrecision',['../lattice__field_8h.html#a9576e6a7432e01c37cda4378a6ccd03b',1,'lattice_field.h']]],
+  ['checkspinorlength',['checkSpinorLength',['../copy__quda_8cu.html#a0cda1598e8589e2d66cf24e566e74fa8',1,'copy_quda.cu']]],
+  ['cloversitesize',['cloverSiteSize',['../test__util_8h.html#a5f783e589c88e3d27c8604b9f5b466c6',1,'test_util.h']]],
+  ['cmul',['CMUL',['../gauge__force__reference_8cpp.html#a5598934f493d0471d376803d494a41b9',1,'CMUL():&#160;gauge_force_reference.cpp'],['../hisq__force__reference_8cpp.html#a5598934f493d0471d376803d494a41b9',1,'CMUL():&#160;hisq_force_reference.cpp']]],
+  ['cmul_5fj',['CMUL_J',['../gauge__force__reference_8cpp.html#ab8e2ce23fcfd11187b9ff0fc568613f1',1,'CMUL_J():&#160;gauge_force_reference.cpp'],['../hisq__force__reference_8cpp.html#ab8e2ce23fcfd11187b9ff0fc568613f1',1,'CMUL_J():&#160;hisq_force_reference.cpp']]],
+  ['cmulj_5f',['CMULJ_',['../gauge__force__reference_8cpp.html#ab3b3c3c9af92da88a1107782c5979219',1,'CMULJ_():&#160;gauge_force_reference.cpp'],['../hisq__force__reference_8cpp.html#ab3b3c3c9af92da88a1107782c5979219',1,'CMULJ_():&#160;hisq_force_reference.cpp']]],
+  ['coarsecoarse',['COARSECOARSE',['../coarsecoarse__op_8cu.html#a0d25d268d6d3d96dff10bbfc2a9052c1',1,'coarsecoarse_op.cu']]],
+  ['comm_5fdeclare_5freceive_5frelative',['comm_declare_receive_relative',['../comm__quda_8h.html#aa8fffe807eed8eed45776c04cf0994e4',1,'comm_quda.h']]],
+  ['comm_5fdeclare_5fsend_5frelative',['comm_declare_send_relative',['../comm__quda_8h.html#ae2ff2e1e8bf092e23d79c86377144066',1,'comm_quda.h']]],
+  ['comm_5fdeclare_5fstrided_5freceive_5frelative',['comm_declare_strided_receive_relative',['../comm__quda_8h.html#aab6c7eb91e75b449ea7ec02f85fb2217',1,'comm_quda.h']]],
+  ['comm_5fdeclare_5fstrided_5fsend_5frelative',['comm_declare_strided_send_relative',['../comm__quda_8h.html#aca4b2cc9dd9d45c2822d9a43f0212e8d',1,'comm_quda.h']]],
+  ['conjg',['CONJG',['../gauge__force__reference_8cpp.html#a937326c1296be0879a658624e04333ef',1,'CONJG():&#160;gauge_force_reference.cpp'],['../hisq__force__reference_8cpp.html#a937326c1296be0879a658624e04333ef',1,'CONJG():&#160;hisq_force_reference.cpp']]],
+  ['csum',['CSUM',['../gauge__force__reference_8cpp.html#a288935418cf8b882b97c930db2d613ed',1,'CSUM():&#160;gauge_force_reference.cpp'],['../hisq__force__reference_8cpp.html#a288935418cf8b882b97c930db2d613ed',1,'CSUM():&#160;hisq_force_reference.cpp']]],
+  ['cuda_5fcall',['CUDA_CALL',['../dslash__policy_8cuh.html#a4058d29c3c1ce7a81cf7efeffbf35e97',1,'dslash_policy.cuh']]],
+  ['cuda_5fsafe_5fcall',['CUDA_SAFE_CALL',['../random_8cu.html#a0bc2332eff86e645eae632d071929dc5',1,'random.cu']]],
+  ['cuda_5fsafe_5fcall_5fno_5fsync',['CUDA_SAFE_CALL_NO_SYNC',['../random_8cu.html#a024604466a0ecc1c84ca93c25332b3c2',1,'random.cu']]],
+  ['cufft_5fsafe_5fcall',['CUFFT_SAFE_CALL',['../_c_u_f_f_t___plans_8h.html#a90f4f2f56d0e4350a7f98c1bfd9f2367',1,'CUFFT_Plans.h']]]
+];

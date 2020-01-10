@@ -1,0 +1,3 @@
+<map id="include/kernels/clover_deriv.cuh" name="include/kernels/clover_deriv.cuh">
+<area shape="rect" id="node2" href="$clover__deriv__quda_8cu.html" title="This kernel has been a bit of a pain to optimize since it is excessively register bound..." alt="" coords="5,95,164,121"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$multigrid__evolve__test_8cpp.html#a10bf7bfec5ead4cc474c1867b96f362c" title="CallUnitarizeLinks" alt="" coords="135,5,259,32"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="120,56,273,83"/>
+<area shape="rect" id="node6" href="$test__util_8cpp.html#a016a05c092fcba38fdca37e4d90efbcd" title="construct_clover_field" alt="" coords="123,107,270,133"/>
+<area shape="rect" id="node8" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="587,132,673,159"/>
+<area shape="rect" id="node9" href="$test__util_8cpp.html#a3d8f1952ab00bca45a06a88115580c8f" title="construct_gauge_field" alt="" coords="123,208,270,235"/>
+<area shape="rect" id="node13" href="$namespacequda.html#ad288ddd1679350fa258fa42bd22accd4" title="quda::copyExtendedGauge" alt="" coords="109,832,284,859"/>
+<area shape="rect" id="node16" href="$quda_8h.html#ad2af5b3c68e269006c19df43f7f1673a" title="Free resources allocated by the multigrid solver. " alt="" coords="125,309,268,336"/>
+<area shape="rect" id="node17" href="$multigrid__evolve__test_8cpp.html#ae063707e89350232265068d2f3955950" title="display_test_info" alt="" coords="138,360,255,387"/>
+<area shape="rect" id="node18" href="$quda_8h.html#a113dcacf6480eb6639e50b351774e6de" title="Dump the null&#45;space vectors to disk. " alt="" coords="129,411,264,437"/>
+<area shape="rect" id="node19" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="159,461,234,488"/>
+<area shape="rect" id="node20" href="$test__util_8cpp.html#a41580396542087e712ad716d410052b4" title="finalizeComms" alt="" coords="144,512,249,539"/>
+<area shape="rect" id="node21" href="$quda_8h.html#a9221f8639873c0844f04bc64d5e31ccd" title="freeCloverQuda" alt="" coords="141,563,252,589"/>
+<area shape="rect" id="node22" href="$quda_8h.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="140,613,253,640"/>
+<area shape="rect" id="node23" href="$classquda_1_1cuda_gauge_field.html#a76b9c13f37ccea3e0e80eb7c7a826c76" title="quda::cudaGaugeField\l::Gauge_p" alt="" coords="121,665,272,706"/>
+<area shape="rect" id="node24" href="$classquda_1_1_r_n_g.html#a8870863b35c992bae85971bfbd61efd9" title="Initialize CURAND RNG states. " alt="" coords="143,731,251,757"/>
+<area shape="rect" id="node25" href="$test__util_8cpp.html#ad38053da3d147f8f635495faa57b7108" title="initComms" alt="" coords="155,259,238,285"/>
+<area shape="rect" id="node26" href="$test__util_8cpp.html#affc667f54d3aad05a212a708a1967851" title="initRand" alt="" coords="385,567,454,593"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a8348b4fd71d837f4d95164b5867d23cf" title="Perform a cold start to the gauge field, identity SU(3) matrix, also fills the ghost links in multi&#45;G..." alt="" coords="127,883,267,909"/>
+<area shape="rect" id="node28" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="161,933,232,960"/>
+<area shape="rect" id="node29" href="$quda_8h.html#ad634424a6de6d5516225070ba53768d1" title="invertQuda" alt="" coords="155,1557,239,1584"/>
+<area shape="rect" id="node30" href="$quda_8h.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="139,1035,254,1061"/>
+<area shape="rect" id="node31" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="163,1085,231,1112"/>
+<area shape="rect" id="node32" href="$namespacequda.html#a9d749a0ed84e4a1cb19d14c00faef1c8" title="Perform heatbath and overrelaxation. Performs nhb heatbath steps followed by nover overrelaxation ste..." alt="" coords="151,1136,243,1163"/>
+<area shape="rect" id="node33" href="$quda_8h.html#a4b57a4d1f4f510f96012abaa174070d6" title="newMultigridQuda" alt="" coords="134,1187,259,1213"/>
+<area shape="rect" id="node34" href="$quda_8h.html#a4d9475cdfdd2d15b5d94e8588f835645" title="newQudaGaugeParam" alt="" coords="121,1237,273,1264"/>
+<area shape="rect" id="node35" href="$quda_8h.html#a9c476795e5632077ae86f2022369f6a4" title="newQudaInvertParam" alt="" coords="123,1288,270,1315"/>
+<area shape="rect" id="node36" href="$quda_8h.html#a781f3c5590375d63bb6d1cd2b6aec58c" title="newQudaMultigridParam" alt="" coords="115,1339,278,1365"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a78a2eeb23bb36ab3ffd06b496d6a9180" title="Release all allocated memory used to exchange data between nodes. " alt="" coords="104,1389,289,1416"/>
+<area shape="rect" id="node38" href="$namespacequda.html#a3e2c87fa81202d08ce4082c386bd7740" title="Compute the plaquette of the gauge field. " alt="" coords="142,1440,251,1467"/>
+<area shape="rect" id="node39" href="$test__util_8cpp.html#a4e297cefdba144e8efe42dca5514f572" title="process_command_line\l_option" alt="" coords="118,1491,275,1533"/>
+<area shape="rect" id="node40" href="$quda_8h.html#ae96c2351487ffad0c7fccf146acea047" title="qChargeQuda" alt="" coords="146,984,247,1011"/>
+<area shape="rect" id="node41" href="$qio__field_8h.html#ac852356af7fb74a7696987292f101bce" title="read_gauge_field" alt="" coords="137,1608,256,1635"/>
+<area shape="rect" id="node42" href="$classquda_1_1_r_n_g.html#a53a7fd25b2b8ae4b5d02e9334444ec87" title="Release Device memory for CURAND RNG states. " alt="" coords="129,1659,265,1685"/>
+<area shape="rect" id="node43" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="163,1709,231,1736"/>
+<area shape="rect" id="node44" href="$multigrid__evolve__test_8cpp.html#aef93f536d7e512775b2a564b3f8ac3fa" title="setGaugeParam" alt="" coords="139,1760,254,1787"/>
+<area shape="rect" id="node45" href="$multigrid__evolve__test_8cpp.html#a6764243a6dd4a6ebb99801861b898e02" title="setInvertParam" alt="" coords="142,1811,251,1837"/>
+<area shape="rect" id="node46" href="$multigrid__evolve__test_8cpp.html#ac3bd45d5375e0b33c110bcc0a8af74d9" title="setMultigridParam" alt="" coords="133,1861,260,1888"/>
+<area shape="rect" id="node47" href="$multigrid__evolve__test_8cpp.html#a438ddc479b7279720e562041921f78c5" title="setReunitarizationConsts" alt="" coords="115,1912,278,1939"/>
+<area shape="rect" id="node48" href="$test__util_8cpp.html#a86a5f0d3f4210c9f339154a1b47c5dff" title="setSpinorSiteSize" alt="" coords="135,1963,259,1989"/>
+<area shape="rect" id="node49" href="$quda_8h.html#ac874d24fa8c729e6249b8641d64a9816" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="126,2013,267,2040"/>
+<area shape="rect" id="node50" href="$multigrid__evolve__test_8cpp.html#acbd2db65dfdaa2559f23006893e692c8" title="usage" alt="" coords="169,2064,225,2091"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a6a7482fee61fb7805862e6b22ab9d28a" title="quda::unitarizeLinks" alt="" coords="352,5,487,32"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="376,56,463,83"/>
+<area shape="rect" id="node7" href="$test__util_8cpp.html#aaed7fdb762ab994dbcdbc4f92eb6eac2" title="constructCloverField" alt="" coords="350,107,489,133"/>
+<area shape="rect" id="node10" href="$test__util_8cpp.html#a9c01d12d72f64c84cd87e4aba721cc06" title="constructUnitGaugeField" alt="" coords="337,309,501,336"/>
+<area shape="rect" id="node11" href="$test__util_8cpp.html#a3a53ed4a3eefe16c496a3e2d4c1a0f29" title="applyGaugeFieldScaling" alt="" coords="549,259,711,285"/>
+<area shape="rect" id="node12" href="$test__util_8cpp.html#a90501c6aa892140ed3d96016b37cc0c9" title="constructGaugeField" alt="" coords="349,259,490,285"/>
+<area shape="rect" id="node14" href="$classquda_1_1_lattice_field.html#ac7938570cd9e0f6d7ff2328b0df441d7" title="quda::LatticeField\l::Ndim" alt="" coords="358,825,481,866"/>
+<area shape="rect" id="node15" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="350,984,489,1011"/>
+</map>

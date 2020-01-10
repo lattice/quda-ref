@@ -1,0 +1,5 @@
+<map id="quda::blas::ReduceCuda::ReduceCuda" name="quda::blas::ReduceCuda::ReduceCuda">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html#a2ce96ea030274060070a20cb75c3e6d1" title="quda::LatticeField\l::AuxString" alt="" coords="237,5,359,47"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a18140e9ea65a8b716a7edb4bf749b7c8" title="quda::blas::getFastReduce" alt="" coords="212,71,384,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="237,123,359,164"/>
+</map>

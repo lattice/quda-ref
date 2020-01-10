@@ -1,0 +1,7 @@
+<map id="magma_Xheev" name="magma_Xheev">
+<area shape="rect" id="node2" href="$namespacequda.html#a58f1c005a18684056d8a5995af8121a2" title="quda::ComputeRitz\&lt;\l libtype::magma_lib \&gt;" alt="" coords="165,5,308,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="161,71,312,98"/>
+<area shape="rect" id="node5" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="165,122,308,149"/>
+<area shape="rect" id="node4" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="360,71,532,98"/>
+<area shape="rect" id="node6" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="365,122,527,149"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="quda::DslashCoarseArg&lt; Float, yFloat, ghostFloat, coarseSpin, coarseColor, csOrder, gOrder &gt;" name="quda::DslashCoarseArg&lt; Float, yFloat, ghostFloat, coarseSpin, coarseColor, csOrder, gOrder &gt;">
+<area shape="rect" id="node2" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="804,20,884,47"/>
+<area shape="rect" id="node15" href="$structquda_1_1gauge_1_1_field_order.html" title="quda::gauge::FieldOrder\l\&lt; Float, nColor, nSpinCoarse,\l order, native_ghost, storeFloat,\l use_tex \&gt;" alt="" coords="1128,69,1329,139"/>
+<area shape="rect" id="node3" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l coarseSpin, coarseColor,\l 1, csOrder, Float, ghostFloat \&gt;" alt="" coords="1129,231,1328,302"/>
+<area shape="rect" id="node4" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; ghostFloat,\l nSpin, nColor, nVec, order \&gt;" alt="" coords="355,333,557,389"/>
+<area shape="rect" id="node11" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l nSpin, nColor, nVec,\l order, storeFloat, ghostFloat,\l disable_ghost, block_float,\l use_tex \&gt;" alt="" coords="749,217,939,317"/>
+<area shape="rect" id="node5" href="$structquda_1_1colorspinor_1_1_ghost_accessor_c_b.html" title="quda::colorspinor::\lGhostAccessorCB\&lt; Float,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="9,326,179,397"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="47,136,141,163"/>
+<area shape="rect" id="node9" href="$structquda_1_1norm__type.html" title="quda::norm_type\&lt; T \&gt;" alt="" coords="771,481,917,508"/>
+<area shape="rect" id="node12" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; storeFloat,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="373,238,539,309"/>
+<area shape="rect" id="node13" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; Float, nSpin,\l nColor, nVec, order \&gt;" alt="" coords="5,245,183,301"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="checkClover" name="checkClover">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a14655ba9617fddb93f72a17626baa80b" title="checkGauge" alt="" coords="147,203,241,229"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a012ffe14f6791a1b0838a2627a36e99d" title="eigensolveQuda" alt="" coords="305,5,419,32"/>
+<area shape="rect" id="node4" href="$structquda_1_1multigrid__solver.html#a90dca24011ab28a4f496484dbf79c27b" title="quda::multigrid_solver\l::multigrid_solver" alt="" coords="289,57,435,98"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="291,123,433,149"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#ace9db785556886cd4655bba8685e83d5" title="Dump the null&#45;space vectors to disk. " alt="" coords="295,173,429,200"/>
+<area shape="rect" id="node9" href="$structquda_1_1deflated__solver.html#aae585f4b6048e8195084a888877ff46e" title="quda::deflated_solver\l::deflated_solver" alt="" coords="291,225,433,266"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="320,304,404,331"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="296,520,428,547"/>
+<area shape="rect" id="node20" href="$interface__quda_8cpp.html#a50832a69c2d3aef393f6daf85d3b0fe8" title="invertMultiShiftQuda" alt="" coords="293,393,431,420"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a6a28289975c3807a01815e6484f78b01" title="newMultigridQuda" alt="" coords="497,64,623,91"/>
+<area shape="rect" id="node6" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="685,115,736,141"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#a319ec053206850089d03bce6d276cc2d" title="newDeflationQuda" alt="" coords="497,216,623,243"/>
+<area shape="rect" id="node11" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="685,241,736,268"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="513,317,607,344"/>
+<area shape="rect" id="node14" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="519,368,601,395"/>
+<area shape="rect" id="node15" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="685,368,736,395"/>
+<area shape="rect" id="node17" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="535,520,585,547"/>
+<area shape="rect" id="node18" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="519,571,601,597"/>
+<area shape="rect" id="node19" href="$staggered__invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="685,571,736,597"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#a5472502b8ffcfb415a7189b23ca61474" title="invert_multishift_quda_" alt="" coords="483,419,637,445"/>
+<area shape="rect" id="node22" href="$invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="535,469,585,496"/>
+</map>

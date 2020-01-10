@@ -1,0 +1,26 @@
+<map id="quda::copy" name="quda::copy">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="147,5,319,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ac323f3a5a3665f54d224c1427d1085e7" title="Specialized variants of the copy function that include an additional scale factor. Note the scale factor is ignored unless the input type (b) is either a short or char vector. " alt="" coords="159,56,307,83"/>
+<area shape="rect" id="node4" href="$structquda_1_1clover_1_1_float_n_order.html#a008bead55dc528e9b61d9c31d0bbe973" title="Load accessor for a single chiral block. " alt="" coords="379,74,545,115"/>
+<area shape="rect" id="node5" href="$namespacequda.html#aeff3c94d6b3dec8ac5088f02fe548c87" title="quda::copy_scaled" alt="" coords="170,157,297,184"/>
+<area shape="rect" id="node6" href="$namespacequda.html#affc80086d1923d08c0c42ceefd4692fe" title="quda::genericCopyColorSpinor" alt="" coords="136,208,331,235"/>
+<area shape="rect" id="node7" href="$structquda_1_1gauge_1_1_float_n_order.html#a461472a1690f2a8e2cb2ab78d03b2693" title="quda::gauge::FloatNOrder\l::load" alt="" coords="150,259,317,301"/>
+<area shape="rect" id="node8" href="$structquda_1_1gauge_1_1_float_n_order.html#a0bf0b4220ecf3916c186f61539fffffa" title="quda::gauge::FloatNOrder\l::loadGhost" alt="" coords="150,325,317,366"/>
+<area shape="rect" id="node9" href="$structquda_1_1gauge_1_1_float_n_order.html#a8c273a958c0835a1935920c93089afa6" title="quda::gauge::FloatNOrder\l::loadGhostEx" alt="" coords="150,390,317,431"/>
+<area shape="rect" id="node10" href="$new__half_8cu.html#a0248436541adbc9ac7a8ea32c10c511c" title="new_load_half" alt="" coords="181,456,285,483"/>
+<area shape="rect" id="node13" href="$new__half_8cu.html#a3db948144de704023f51ce922af97296" title="new_save_half" alt="" coords="180,507,287,533"/>
+<area shape="rect" id="node15" href="$new__half_8cu.html#aec8101382356c86a3718b0401f162a69" title="old_load_half" alt="" coords="184,557,283,584"/>
+<area shape="rect" id="node17" href="$new__half_8cu.html#aa2e587aa8eae6c584657ab396dbe38e7" title="old_save_half" alt="" coords="183,608,283,635"/>
+<area shape="rect" id="node19" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="145,659,322,685"/>
+<area shape="rect" id="node20" href="$namespacequda.html#ae0be7dcd9b50dd9a8636581df0da97de" title="Wrapper around cudaMemcpy used for auto&#45;profiling. Do not call directly, rather call macro below whic..." alt="" coords="163,709,303,736"/>
+<area shape="rect" id="node21" href="$namespacequda.html#a05251819ea665971595c304d0c10a613" title="Wrapper around cudaMemcpyAsync or driver API equivalent Potentially add auto&#45;profiling support..." alt="" coords="146,760,321,787"/>
+<area shape="rect" id="node22" href="$structquda_1_1gauge_1_1_float_n_order.html#a231bc6fbb3842003f423778ed750386a" title="quda::gauge::FloatNOrder\l::save" alt="" coords="150,811,317,853"/>
+<area shape="rect" id="node23" href="$structquda_1_1gauge_1_1_float_n_order.html#a126e265e8de53c8164f399d9d5df2832" title="quda::gauge::FloatNOrder\l::saveGhost" alt="" coords="150,877,317,918"/>
+<area shape="rect" id="node24" href="$structquda_1_1gauge_1_1_float_n_order.html#aa4b32734977faad44c29b86f7367eec5" title="quda::gauge::FloatNOrder\l::saveGhostEx" alt="" coords="150,942,317,983"/>
+<area shape="rect" id="node25" href="$classquda_1_1_gauge_field.html#abb291ab5484923d4066ad1944aac9960" title="quda::GaugeField::SiteSize" alt="" coords="145,1008,321,1035"/>
+<area shape="rect" id="node11" href="$new__half_8cu.html#af02a63247f342b07b40e1e04e0945a87" title="newCopyToFloat" alt="" coords="403,456,521,483"/>
+<area shape="rect" id="node12" href="$new__half_8cu.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="593,532,644,559"/>
+<area shape="rect" id="node14" href="$new__half_8cu.html#ae8332a1f08f18aca09b54478f5c2dd80" title="newCopyToHalf" alt="" coords="406,507,518,533"/>
+<area shape="rect" id="node16" href="$new__half_8cu.html#adc791cc3e971050cd58024e812c9381e" title="oldCopyToFloat" alt="" coords="406,557,518,584"/>
+<area shape="rect" id="node18" href="$new__half_8cu.html#a19cbfd479d6066b4588bfef583f4eb14" title="oldCopyToHalf" alt="" coords="409,608,515,635"/>
+</map>

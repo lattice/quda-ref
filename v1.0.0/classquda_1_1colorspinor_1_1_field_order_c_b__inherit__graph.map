@@ -1,0 +1,7 @@
+<map id="quda::colorspinor::FieldOrderCB&lt; Float, nSpin, nColor, nVec, order, storeFloat, ghostFloat, disable_ghost, block_float, use_tex &gt;" name="quda::colorspinor::FieldOrderCB&lt; Float, nSpin, nColor, nVec, order, storeFloat, ghostFloat, disable_ghost, block_float, use_tex &gt;">
+<area shape="rect" id="node2" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l fineSpin, fineColor,\l coarseColor, order, vFloat \&gt;" alt="" coords="392,5,575,76"/>
+<area shape="rect" id="node3" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l fineSpin, fineColor,\l 1, order \&gt;" alt="" coords="411,100,555,171"/>
+<area shape="rect" id="node4" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l coarseSpin, coarseColor,\l 1, order \&gt;" alt="" coords="399,195,567,265"/>
+<area shape="rect" id="node5" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; real,\l Ns, Nc, 1, order \&gt;" alt="" coords="415,290,551,346"/>
+<area shape="rect" id="node6" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l coarseSpin, coarseColor,\l 1, csOrder, Float, ghostFloat \&gt;" alt="" coords="384,371,583,441"/>
+</map>

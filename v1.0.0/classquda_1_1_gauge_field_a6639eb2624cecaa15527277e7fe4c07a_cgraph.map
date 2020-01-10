@@ -1,0 +1,5 @@
+<map id="quda::GaugeField::GaugeField" name="quda::GaugeField::GaugeField">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="253,5,427,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_field.html#a3c4f2fb833979604e5f300fbc57b6326" title="Set the vol_string and aux_string for use in tuning. " alt="" coords="248,57,432,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a95f845c6413f8e0cbcdfde96b17badc7" title="quda::LatticeField\l::setTuningString" alt="" coords="480,57,603,98"/>
+</map>

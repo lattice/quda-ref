@@ -1,0 +1,4 @@
+<map id="MPI_Reduce" name="MPI_Reduce">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#aa494422fc1d868c35ecbfa909bf9d468" title="PMPI_Reduce" alt="" coords="151,5,257,32"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#a89a5128619ef11cdf9173a34436ad3d5" title="PMPI_Wait" alt="" coords="160,56,248,83"/>
+</map>

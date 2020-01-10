@@ -1,0 +1,12 @@
+<map id="quda::blas::caxpy_recurse" name="quda::blas::caxpy_recurse">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a3d57d223254e004ef968e2af27780774" title="Compute the block &quot;caxpy&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="228,5,347,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a7e8d737b545e1b4f3bcc9283ab360138" title="Compute the block &quot;caxpy_L&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="221,56,353,83"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#abd5c82dcc90a9903d04e90992ad5d192" title="Compute the block &quot;caxpy_U&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="220,107,355,133"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ac5b01c5b684e6dc1f40e70146c703c47" title="This is a wrapper for calling the block &quot;caxpy_U&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="435,31,567,57"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#ace51af2e017b9d4292669f1d7e81eb6a" title="Return (a,b) and ||b||^2 &#45; implemented using cDotProductNormA. " alt="" coords="403,81,600,108"/>
+<area shape="rect" id="node6" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="648,56,735,83"/>
+<area shape="rect" id="node8" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="670,107,713,133"/>
+<area shape="rect" id="node7" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="783,56,853,83"/>
+<area shape="rect" id="node9" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="783,107,853,133"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1blas.html#a4f78e9359a0b78f019fb7d50469d3034" title="This is a wrapper for calling the block &quot;caxpy_U&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="434,132,569,159"/>
+</map>

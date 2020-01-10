@@ -1,0 +1,8 @@
+<map id="quda::ndegTwistedMass" name="quda::ndegTwistedMass">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="256,5,331,32"/>
+<area shape="rect" id="node4" href="$classquda_1_1_vector_cache.html#a2c043a581f028fd1f527d262c8954da7" title="Load a vector from the shared memory cache. " alt="" coords="213,56,373,83"/>
+<area shape="rect" id="node6" href="$classquda_1_1_vector_cache.html#ab6140bbfafb29f3028d0c00f52bbb7e0" title="Save the vector into the 3&#45;d shared memory cache. Implicitly store the vector at coordinates given by..." alt="" coords="212,107,375,133"/>
+<area shape="rect" id="node7" href="$classquda_1_1_vector_cache.html#aa3c30257feb1dee24fa797c70826d6af" title="Synchronize the cache. " alt="" coords="212,157,375,184"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="447,5,535,32"/>
+<area shape="rect" id="node5" href="$classquda_1_1_vector_cache.html#a0c6877e122ff801db65a815a35d3fb77" title="This is the handle to the shared memory. " alt="" coords="423,78,559,119"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="quda::DiracTwistedMass::DslashXpay" name="quda::DiracTwistedMass::DslashXpay">
+<area shape="rect" id="node2" href="$namespacequda.html#a6d0a97b4f3c8dc8326b3dc3650bb9802" title="Driver for applying the non&#45;degenerate twisted&#45;mass stencil. " alt="" coords="213,17,405,43"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a8b4979ae367ca474762b8d8836c380c2" title="Driver for applying the twisted&#45;mass stencil. " alt="" coords="228,67,391,94"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#a5dcdda354375f6ced4deb5048f23292f" title="quda::ColorSpinorField\l::TwistFlavor" alt="" coords="234,119,385,160"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="234,184,385,225"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="461,5,611,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="453,71,619,98"/>
+</map>

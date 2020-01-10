@@ -1,0 +1,11 @@
+<map id="quda::EigenSolver::computeSVD" name="quda::EigenSolver::computeSVD">
+<area shape="rect" id="node2" href="$classquda_1_1_solver.html#a71b5c8751745dbe8740df929e5859962" title="Constructs the deflation space. " alt="" coords="184,99,385,141"/>
+<area shape="rect" id="node3" href="$classquda_1_1_c_a_c_g.html#a36adb4a2c0be0e865145e72e6ce55481" title="Initiate the fields needed by the solver. " alt="" coords="439,31,573,57"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_a_g_c_r.html#a9ad88f1a6ecdd05e9a4c37c63dddf070" title="Initiate the fields needed by the solver. " alt="" coords="434,81,578,108"/>
+<area shape="rect" id="node9" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="438,132,574,159"/>
+<area shape="rect" id="node10" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="433,183,579,209"/>
+<area shape="rect" id="node4" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="631,31,785,57"/>
+<area shape="rect" id="node5" href="$classquda_1_1_c_a_c_g_n_e.html#a5d7dae59806e1f16af69cee4707ebfdf" title="quda::CACGNE::operator()" alt="" coords="838,5,1009,32"/>
+<area shape="rect" id="node6" href="$classquda_1_1_c_a_c_g_n_r.html#a88172e047b80fe722212635b3e44eeca" title="quda::CACGNR::operator()" alt="" coords="837,56,1009,83"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_a_g_c_r.html#a53e792abb6297c7cc6b5fddee7fdda3d" title="quda::CAGCR::operator()" alt="" coords="627,81,789,108"/>
+</map>

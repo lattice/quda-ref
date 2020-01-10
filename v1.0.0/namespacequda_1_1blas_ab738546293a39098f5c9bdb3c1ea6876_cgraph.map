@@ -1,0 +1,5 @@
+<map id="quda::blas::zero" name="quda::blas::zero">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="163,5,313,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="165,56,311,83"/>
+<area shape="rect" id="node4" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="361,56,429,83"/>
+</map>

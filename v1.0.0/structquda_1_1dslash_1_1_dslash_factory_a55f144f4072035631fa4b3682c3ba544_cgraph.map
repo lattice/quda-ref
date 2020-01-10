@@ -1,0 +1,10 @@
+<map id="quda::dslash::DslashFactory::create" name="quda::dslash::DslashFactory::create">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a33f999508e8c88555a3ddbc2a0814d85" title="Query if GPU Direct RDMA communication is blacklisted for this GPU. " alt="" coords="232,107,369,133"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="417,31,519,57"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#aed9cf3a332bd56a53d524699b0fd0776" title="comm_gpuid" alt="" coords="420,81,516,108"/>
+<area shape="rect" id="node8" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="423,132,513,159"/>
+<area shape="rect" id="node9" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="422,183,514,209"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="567,31,657,57"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="705,5,805,32"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="710,56,801,83"/>
+</map>

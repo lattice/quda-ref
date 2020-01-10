@@ -1,0 +1,4 @@
+<map id="comm_create_topology" name="comm_create_topology">
+<area shape="rect" id="node2" href="$comm__common_8cpp.html#a28f2c1670b57527ab3a9ce34f1110caf" title="Initialize the communications common to all communications abstractions. " alt="" coords="209,5,348,32"/>
+<area shape="rect" id="node3" href="$comm__mpi_8cpp.html#add004a3d38b9dc2f15a65bb6e43a2840" title="Initialize the communications, implemented in comm_single.cpp, comm_qmp.cpp, and comm_mpi.cpp. " alt="" coords="396,5,479,32"/>
+</map>

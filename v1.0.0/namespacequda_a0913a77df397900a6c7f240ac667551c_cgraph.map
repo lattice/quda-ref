@@ -1,0 +1,8 @@
+<map id="quda::orthoDir" name="quda::orthoDir">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ae3e5e69d87a6db7678c8fb7dc14daca7" title="quda::blas::caxpy" alt="" coords="373,70,491,97"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a0fe90ca484a30b523a867a192948f683" title="quda::blas::caxpyDotzy" alt="" coords="155,32,305,58"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="353,146,511,173"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a4e3992691e3d0b1c8d3d8c2e24185564" title="quda::computeBeta" alt="" coords="163,184,297,210"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ab858981048834c3d13f2dc0e5dea2378" title="quda::updateAp" alt="" coords="175,82,285,109"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="559,63,681,104"/>
+</map>

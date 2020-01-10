@@ -1,0 +1,51 @@
+<map id="quda::GCR::operator()" name="quda::GCR::operator()">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#aca6d0abadc46cf0048397a98c7e64316" title="quda::blas::axpy" alt="" coords="261,304,371,330"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="946,183,1069,224"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a913f824b00346df74b7cd68ce2f47b4a" title="quda::blas::cabxpyzAxNorm" alt="" coords="227,1414,405,1441"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#acb454ec63e420889abf77968b103ad3c" title="quda::blas::cDotProductNormA" alt="" coords="481,1217,679,1244"/>
+<area shape="rect" id="node7" href="$classquda_1_1_solver.html#a71b5c8751745dbe8740df929e5859962" title="Constructs the deflation space. " alt="" coords="215,882,417,923"/>
+<area shape="rect" id="node9" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="759,944,851,970"/>
+<area shape="rect" id="node10" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="499,751,661,792"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="505,816,655,858"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_matrix.html#a123030484afb5d8a15a1df5fcb08e3ca" title="quda::DiracMatrix::\lExpose" alt="" coords="742,1130,869,1171"/>
+<area shape="rect" id="node15" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="745,1297,866,1324"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="767,1078,844,1105"/>
+<area shape="rect" id="node18" href="$classquda_1_1_solver.html#a6567b6addff40d5212f1a1bfd878cd29" title="quda::Solver::convergence" alt="" coords="231,1465,401,1492"/>
+<area shape="rect" id="node19" href="$namespacequda_1_1blas.html#aee938c63ad4eaa9d0ccc7d50013a5618" title="quda::blas::copy" alt="" coords="260,126,372,153"/>
+<area shape="rect" id="node22" href="$classquda_1_1_eigen_solver.html#a4474619dea6e4148413a033ec78dbbab" title="Deflate vector with both left and Right singular vectors. " alt="" coords="515,583,645,624"/>
+<area shape="rect" id="node24" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="751,645,860,672"/>
+<area shape="rect" id="node27" href="$classquda_1_1_solver.html#a80883722143be7d39665bce57679451c" title="quda::Solver::flops" alt="" coords="254,1516,378,1542"/>
+<area shape="rect" id="node28" href="$classquda_1_1_dirac_matrix.html#a70fd2aa9efa763e92789b478badb02b0" title="quda::DiracMatrix::\lflops" alt="" coords="253,1567,379,1608"/>
+<area shape="rect" id="node30" href="$namespacequda_1_1blas.html#a46268afb6cc8f820c3b37ff6607e6954" title="quda::blas::HeavyQuarkResidualNorm" alt="" coords="199,1633,433,1660"/>
+<area shape="rect" id="node33" href="$classquda_1_1_time_profile.html#a6b6019dff862e546af7693a702ff69d0" title="quda::TimeProfile::Last" alt="" coords="241,1684,391,1710"/>
+<area shape="rect" id="node35" href="$namespacequda.html#a0913a77df397900a6c7f240ac667551c" title="quda::orthoDir" alt="" coords="265,469,367,496"/>
+<area shape="rect" id="node39" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="Pop the verbosity restoring the prior one on the stack. " alt="" coords="269,1734,363,1761"/>
+<area shape="rect" id="node41" href="$classquda_1_1_solver.html#acdece7f94464de0325bcbd97104dca4a" title="Prints out the running statistics of the solver (requires a verbosity of QUDA_VERBOSE) ..." alt="" coords="503,998,657,1025"/>
+<area shape="rect" id="node42" href="$classquda_1_1_solver.html#a8db54e989f46e8edf99a9a344f22f77d" title="Prints out the summary of the solver convergence (requires a verbosity of QUDA_SUMMARIZE). Assumes SolverParam.true_res and SolverParam.true_res_hq has been set. " alt="" coords="490,1049,670,1076"/>
+<area shape="rect" id="node43" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="Push a new verbosity onto the stack. " alt="" coords="265,1785,367,1812"/>
+<area shape="rect" id="node45" href="$classquda_1_1_solver.html#a9f6fb837af6f05e1c1986440dcd89095" title="Set the solver L2 stopping condition. " alt="" coords="243,1836,389,1862"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a14e36bd3b8e5cb88165149461cdc7386" title="quda::updateSolution" alt="" coords="245,228,387,254"/>
+<area shape="rect" id="node48" href="$namespacequda_1_1blas.html#a53d7fb8e21b813343450b14c6ba7e631" title="quda::blas::xmyNorm" alt="" coords="247,1112,385,1138"/>
+<area shape="rect" id="node50" href="$namespacequda_1_1blas.html#ae823e2784a147b1ef92f13b2a6f6941c" title="quda::blas::xpy" alt="" coords="264,405,368,432"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a7a989a4b5814fab3ae2ad74d76bbc874" title="quda::blas::axpbyz" alt="" coords="518,278,642,305"/>
+<area shape="rect" id="node8" href="$classquda_1_1_eigen_solver.html#ac83c4ad7a583dd1de40dfdbd115fe931" title="Creates the eigensolver using the parameters given and the matrix. " alt="" coords="515,882,645,923"/>
+<area shape="rect" id="node12" href="$classquda_1_1_eigen_solver.html#a054858df44f196f0844e20ab94544578" title="Computes Left/Right SVD from pre computed Right/Left. " alt="" coords="515,1100,645,1142"/>
+<area shape="rect" id="node13" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="727,590,884,617"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a7b851d44a9626b208c0ad84cee6eec79" title="quda::sqrt" alt="" coords="969,1078,1046,1105"/>
+<area shape="rect" id="node20" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="519,60,641,102"/>
+<area shape="rect" id="node21" href="$namespacequda_1_1blas_1_1copy__ns.html#ad7353084a830c81feb7c3f4aa2f14f7f" title="quda::blas::copy_ns\l::copy" alt="" coords="739,142,871,183"/>
+<area shape="rect" id="node23" href="$namespacequda_1_1blas.html#ae3e5e69d87a6db7678c8fb7dc14daca7" title="quda::blas::caxpy" alt="" coords="746,329,865,356"/>
+<area shape="rect" id="node25" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="934,620,1081,646"/>
+<area shape="rect" id="node26" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="932,670,1083,697"/>
+<area shape="rect" id="node29" href="$classquda_1_1_dirac.html#a2c29da01d1a8aa6de6bba0f3218d3b0c" title="quda::Dirac::Flops" alt="" coords="519,1516,641,1542"/>
+<area shape="rect" id="node31" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="505,1567,655,1608"/>
+<area shape="rect" id="node32" href="$comm__quda_8h.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="537,1633,623,1660"/>
+<area shape="rect" id="node34" href="$classquda_1_1_time_profile.html#a5ef400ee2d1499bd42a68a73eaf2ef7f" title="quda::TimeProfile::\lPrintGlobal" alt="" coords="517,1684,643,1726"/>
+<area shape="rect" id="node36" href="$namespacequda_1_1blas.html#a0fe90ca484a30b523a867a192948f683" title="quda::blas::caxpyDotzy" alt="" coords="505,481,655,508"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a4e3992691e3d0b1c8d3d8c2e24185564" title="quda::computeBeta" alt="" coords="513,532,647,558"/>
+<area shape="rect" id="node38" href="$namespacequda.html#ab858981048834c3d13f2dc0e5dea2378" title="quda::updateAp" alt="" coords="525,380,635,406"/>
+<area shape="rect" id="node40" href="$util__quda_8cpp.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="535,1750,625,1777"/>
+<area shape="rect" id="node44" href="$util__quda_8cpp.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="534,1801,626,1828"/>
+<area shape="rect" id="node47" href="$namespacequda.html#ab2f4051db5c282704a10d3d202c78856" title="quda::backSubs" alt="" coords="523,228,637,254"/>
+<area shape="rect" id="node49" href="$namespacequda_1_1blas.html#a0263f204e2cf9f44d7c45c98a8712bd1" title="quda::blas::axpbyzNorm" alt="" coords="503,1166,657,1193"/>
+</map>

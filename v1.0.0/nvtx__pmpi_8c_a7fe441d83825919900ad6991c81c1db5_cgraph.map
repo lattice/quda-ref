@@ -1,0 +1,4 @@
+<map id="MPI_Recv" name="MPI_Recv">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="136,5,252,32"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#a8068248cba3b1785c486e99463b1531e" title="PMPI_Recv" alt="" coords="149,56,239,83"/>
+</map>

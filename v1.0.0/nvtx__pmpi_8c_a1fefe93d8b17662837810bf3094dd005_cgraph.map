@@ -1,0 +1,4 @@
+<map id="MPI_Scatter" name="MPI_Scatter">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#a782d261b917087f4d154b36775b20fd9" title="PMPI_Scatter" alt="" coords="151,5,255,32"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#af5a7a51097d3394b3e8533b70586b0bd" title="PMPI_Scatterv" alt="" coords="148,56,259,83"/>
+</map>

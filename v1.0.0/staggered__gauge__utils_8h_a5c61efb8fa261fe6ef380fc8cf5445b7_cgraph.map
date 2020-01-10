@@ -1,0 +1,51 @@
+<map id="computeFatLongGPUandCPU" name="computeFatLongGPUandCPU">
+<area shape="rect" id="node2" href="$llfat__reference_8cpp.html#a80444b8d9b6fba55e969c8afa100c26a" title="computeHISQLinksCPU" alt="" coords="249,812,410,839"/>
+<area shape="rect" id="node15" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="730,883,798,909"/>
+<area shape="rect" id="node36" href="$staggered__gauge__utils_8cpp.html#a1d84cce3c6f97da874656c537a7fcd70" title="computeHISQLinksGPU" alt="" coords="248,1065,411,1092"/>
+<area shape="rect" id="node50" href="$staggered__gauge__utils_8cpp.html#a7bfa90250f756f10c19920c01d8058fd" title="setActionPaths" alt="" coords="275,1243,384,1269"/>
+<area shape="rect" id="node3" href="$llfat__reference_8cpp.html#a46a4c77a812394de82360606bef3072b" title="computeLongLinkCPU" alt="" coords="459,284,610,311"/>
+<area shape="rect" id="node7" href="$llfat__reference_8cpp.html#a8ea8636b1ea1af739e0afaebf90f9e60" title="cpu_axy" alt="" coords="500,964,569,991"/>
+<area shape="rect" id="node8" href="$llfat__reference_8cpp.html#aae9d174a45d834444a4dc544066dbd34" title="cpu_xpy" alt="" coords="500,1015,569,1041"/>
+<area shape="rect" id="node9" href="$face__gauge_8cpp.html#ae101a4d75bc466870b0a6d21c5e12641" title="exchange_cpu_sitelink" alt="" coords="459,183,611,209"/>
+<area shape="rect" id="node17" href="$face__gauge_8cpp.html#a70a086cc63080fb6b9e0434abb2b0b6e" title="exchange_cpu_sitelink_ex" alt="" coords="678,56,850,83"/>
+<area shape="rect" id="node18" href="$classquda_1_1cpu_gauge_field.html#a31d35c35d809f3907d76408bcd10ca86" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="926,942,1069,983"/>
+<area shape="rect" id="node19" href="$llfat__reference_8cpp.html#acd5781bd4bc58c138d6853b33c60a525" title="llfat_reference" alt="" coords="483,604,587,631"/>
+<area shape="rect" id="node26" href="$llfat__reference_8h.html#acd15e4ac9b0c3f86e5782926da1d4c9c" title="llfat_reference_mg" alt="" coords="699,781,829,808"/>
+<area shape="rect" id="node29" href="$llfat__reference_8cpp.html#afd35edbb4be2ddfb0342a9c26b20befd" title="reorderMILCtoQDP" alt="" coords="469,1065,601,1092"/>
+<area shape="rect" id="node30" href="$llfat__reference_8cpp.html#a79493e1e2648eb7414d4bb558689951d" title="reorderQDPtoMILC" alt="" coords="469,913,601,940"/>
+<area shape="rect" id="node31" href="$namespacequda.html#a93fdb6f480d15d253df323b397e49978" title="quda::unitarizeLinksCPU" alt="" coords="683,832,845,859"/>
+<area shape="rect" id="node4" href="$llfat__reference_8cpp.html#a2da40097bcf93bb08b9efb3d86cc55e0" title="llfat_mult_su3_nn" alt="" coords="703,309,825,336"/>
+<area shape="rect" id="node5" href="$llfat__reference_8cpp.html#a5d59d11c27aa03533ef2f473967e285b" title="llfat_scalar_mult_su3\l_matrix" alt="" coords="926,521,1069,562"/>
+<area shape="rect" id="node6" href="$gauge__force__reference_8cpp.html#a3e96b500dae48e2ee7f67df9bca3cbe5" title="neighborIndexFullLattice" alt="" coords="683,208,845,235"/>
+<area shape="rect" id="node10" href="$face__gauge_8cpp.html#a7304d214a52451c757d1fcb67b1427af" title="exchange_sitelink" alt="" coords="702,107,826,133"/>
+<area shape="rect" id="node16" href="$face__gauge_8cpp.html#a9988321ff558a556b26b5d39e207d9ad" title="setup_dims" alt="" coords="954,284,1041,311"/>
+<area shape="rect" id="node11" href="$comm__quda_8h.html#aaf356c30715ea44b84953c66f65c1ef9" title="comm_free" alt="" coords="954,107,1041,133"/>
+<area shape="rect" id="node12" href="$comm__quda_8h.html#a0498a56438662fb30281fb92b5bc40b4" title="comm_start" alt="" coords="952,157,1043,184"/>
+<area shape="rect" id="node13" href="$comm__quda_8h.html#aa949084ae3512a75d7218748b38f7015" title="comm_wait" alt="" coords="953,5,1041,32"/>
+<area shape="rect" id="node14" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="926,56,1069,83"/>
+<area shape="rect" id="node20" href="$face__gauge_8cpp.html#ae8f61490333f3712993fe2725d6b2091" title="exchange_cpu_staple" alt="" coords="691,360,837,387"/>
+<area shape="rect" id="node21" href="$llfat__reference_8cpp.html#accb4a1bd614f28ee0afb350020950f87" title="llfat_add_su3_matrix" alt="" coords="694,629,834,656"/>
+<area shape="rect" id="node22" href="$llfat__reference_8cpp.html#ae3fea7e39543c6920a6ca463031b78cc" title="llfat_cpu" alt="" coords="729,528,799,555"/>
+<area shape="rect" id="node23" href="$llfat__reference_8cpp.html#a74b4ca297418bca947864e451c73eea8" title="llfat_mult_su3_an" alt="" coords="703,680,825,707"/>
+<area shape="rect" id="node25" href="$llfat__reference_8cpp.html#ad4ddbac758dba18c825b7a0af3ce9954" title="llfat_mult_su3_na" alt="" coords="703,731,825,757"/>
+<area shape="rect" id="node27" href="$llfat__reference_8cpp.html#ab7cc530c86584b430f7c2b5bd9bbbc16" title="llfat_scalar_mult_add\l_su3_matrix" alt="" coords="692,411,836,453"/>
+<area shape="rect" id="node28" href="$test__util_8cpp.html#a60671cdc409c8235ea03e9d14868205c" title="neighborIndexFullLattice_mg" alt="" coords="671,477,857,504"/>
+<area shape="rect" id="node24" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="957,723,1037,749"/>
+<area shape="rect" id="node32" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="936,1079,1059,1121"/>
+<area shape="rect" id="node33" href="$classquda_1_1_lattice_field.html#af9998e84298ef9e2e82a579db9bed0db" title="quda::LatticeField\l::Volume" alt="" coords="936,825,1059,866"/>
+<area shape="rect" id="node34" href="$namespacequda.html#a679c40d4c100ae2e59fd12d956758cc8" title="quda::copyArrayToLink" alt="" coords="921,891,1073,917"/>
+<area shape="rect" id="node35" href="$namespacequda.html#a11fc2ee9e6aef8cddbceaef2ec1ff16f" title="quda::copyLinkToArray" alt="" coords="921,773,1073,800"/>
+<area shape="rect" id="node37" href="$quda_8h.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="462,1217,607,1244"/>
+<area shape="rect" id="node38" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="689,1167,839,1193"/>
+<area shape="rect" id="node39" href="$namespacequda.html#abdcc468dc619c7c3a6267a927cd0b417" title="Compute the fat and long links for an improved staggered (Kogut&#45;Susskind) fermions. " alt="" coords="693,1268,835,1295"/>
+<area shape="rect" id="node40" href="$structquda_1_1_gauge_field_param.html#a3dd48f43933d09bb14ee9d05733dd8c0" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="917,1202,1077,1243"/>
+<area shape="rect" id="node41" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="689,985,839,1026"/>
+<area shape="rect" id="node42" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="689,1050,839,1091"/>
+<area shape="rect" id="node43" href="$namespacequda.html#a3c09d0ff142aeda455e7fa29a0ef81f8" title="quda::setUnitarizeLinksConstants" alt="" coords="659,1319,869,1345"/>
+<area shape="rect" id="node49" href="$namespacequda.html#a6a7482fee61fb7805862e6b22ab9d28a" title="quda::unitarizeLinks" alt="" coords="697,1116,831,1143"/>
+<area shape="rect" id="node44" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="960,1471,1035,1497"/>
+<area shape="rect" id="node45" href="$namespacequda.html#a6dee5a13d3c20e5499dc454b004c20d1" title="quda::getTrace" alt="" coords="944,1268,1051,1295"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a361a56f9cf11aa6823f868fa26447b84" title="quda::acos" alt="" coords="956,1319,1039,1345"/>
+<area shape="rect" id="node47" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="959,1369,1035,1396"/>
+<area shape="rect" id="node48" href="$namespacequda.html#aa2770ef66427e1e0861d7685d363907a" title="quda::getDeterminant" alt="" coords="925,1420,1069,1447"/>
+</map>

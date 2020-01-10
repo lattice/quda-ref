@@ -1,0 +1,34 @@
+<map id="quda::blas::uni_reduce" name="quda::blas::uni_reduce">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="207,5,358,47"/>
+<area shape="rect" id="node3" href="$generic__reduce_8cuh.html#a6d8a299d0b75db5c0739d4fc62140278" title="genericReduce" alt="" coords="229,71,337,98"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="433,122,543,149"/>
+<area shape="rect" id="node9" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="207,173,358,215"/>
+<area shape="rect" id="node10" href="$classquda_1_1_color_spinor_field.html#a002d065313f670d2960dd8b7f5ea87dd" title="quda::ColorSpinorField\l::Length" alt="" coords="612,232,763,273"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1blas.html#afb6245b9ad7150764d12bf226f5cfba0" title="quda::blas::nativeReduce" alt="" coords="201,290,364,317"/>
+<area shape="rect" id="node18" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="207,341,358,383"/>
+<area shape="rect" id="node19" href="$classquda_1_1_color_spinor_field.html#a6067aeefbeb02a469fadc6534ce01794" title="quda::ColorSpinorField\l::Nspin" alt="" coords="207,407,358,448"/>
+<area shape="rect" id="node20" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="221,472,344,513"/>
+<area shape="rect" id="node21" href="$classquda_1_1_color_spinor_field.html#a9c02bd779398b109556eb0415f457e99" title="quda::ColorSpinorField\l::RealLength" alt="" coords="207,537,358,579"/>
+<area shape="rect" id="node22" href="$comm__quda_8h.html#ab0e0c436ffe5a991562449d9255e0163" title="reduceDoubleArray" alt="" coords="217,603,348,630"/>
+<area shape="rect" id="node33" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="207,655,358,696"/>
+<area shape="rect" id="node4" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="465,71,511,98"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="614,97,761,123"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="612,147,763,174"/>
+<area shape="rect" id="node7" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="836,97,904,123"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a1c95f5f34704e891522307b3e12c78ad" title="quda::checkLength" alt="" coords="423,290,553,317"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1blas.html#a8579e2a0158ce1bbb34979b7c7b34d87" title="quda::blas::getStream" alt="" coords="415,341,561,367"/>
+<area shape="rect" id="node15" href="$namespacequda.html#af44bc363b2fdab4b390c29417724c316" title="quda::reduce" alt="" coords="441,391,535,418"/>
+<area shape="rect" id="node13" href="$classquda_1_1_color_spinor_field.html#a0cafcb630c9233708e17ceab841c922d" title="quda::ColorSpinorField\l::Stride" alt="" coords="612,297,763,339"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="650,391,725,418"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="826,391,914,418"/>
+<area shape="rect" id="node23" href="$comm__quda_8h.html#aee0b1daeb8b9a004d4f24f8fc23b8270" title="comm_allreduce_array" alt="" coords="412,603,564,630"/>
+<area shape="rect" id="node24" href="$comm__quda_8h.html#a7518e44660d59793c0e6a5c0621b8fc3" title="comm_deterministic\l_reduce" alt="" coords="618,487,757,528"/>
+<area shape="rect" id="node25" href="$comm__mpi_8cpp.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="644,553,731,579"/>
+<area shape="rect" id="node26" href="$comm__mpi_8cpp.html#a27b2b7d99e593219e858574324a8cfe0" title="deterministic_reduce" alt="" coords="617,603,758,630"/>
+<area shape="rect" id="node27" href="$nvtx__pmpi_8c.html#a41222d5360f1da1bf44f776c24ddb046" title="MPI_Allgather" alt="" coords="635,654,739,681"/>
+<area shape="rect" id="node30" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="634,705,741,731"/>
+<area shape="rect" id="node28" href="$nvtx__pmpi_8c.html#a3281b70c6bb31afc9d093e5eb01ce823" title="PMPI_Allgather" alt="" coords="813,603,927,630"/>
+<area shape="rect" id="node29" href="$nvtx__pmpi_8c.html#a28ca8e45f5b1eb17533778f96ec09e13" title="PMPI_Allgatherv" alt="" coords="811,654,929,681"/>
+<area shape="rect" id="node31" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="812,705,928,731"/>
+<area shape="rect" id="node32" href="$nvtx__pmpi_8c.html#aa494422fc1d868c35ecbfa909bf9d468" title="PMPI_Reduce" alt="" coords="817,755,923,782"/>
+</map>

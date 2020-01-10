@@ -1,0 +1,35 @@
+<map id="tests/misc.h" name="tests/misc.h">
+<area shape="rect" id="node2" href="$contract__test_8cpp.html" title="tests/contract_test.cpp" alt="" coords="5,87,157,114"/>
+<area shape="rect" id="node3" href="$covdev__reference_8cpp.html" title="tests/covdev_reference.cpp" alt="" coords="181,87,360,114"/>
+<area shape="rect" id="node4" href="$covdev__test_8cpp.html" title="tests/covdev_test.cpp" alt="" coords="385,87,530,114"/>
+<area shape="rect" id="node5" href="$deflated__invert__test_8cpp.html" title="tests/deflated_invert\l_test.cpp" alt="" coords="555,80,691,121"/>
+<area shape="rect" id="node6" href="$dslash__ctest_8cpp.html" title="tests/dslash_ctest.cpp" alt="" coords="715,87,863,114"/>
+<area shape="rect" id="node7" href="$dslash__test_8cpp.html" title="tests/dslash_test.cpp" alt="" coords="888,87,1029,114"/>
+<area shape="rect" id="node8" href="$eigensolve__test_8cpp.html" title="tests/eigensolve_test.cpp" alt="" coords="1053,87,1219,114"/>
+<area shape="rect" id="node9" href="$gauge__force__reference_8cpp.html" title="tests/gauge_force_reference.cpp" alt="" coords="1243,87,1453,114"/>
+<area shape="rect" id="node10" href="$gauge__force__test_8cpp.html" title="tests/gauge_force_test.cpp" alt="" coords="1477,87,1653,114"/>
+<area shape="rect" id="node11" href="$heatbath__test_8cpp.html" title="tests/heatbath_test.cpp" alt="" coords="1677,87,1832,114"/>
+<area shape="rect" id="node12" href="$hisq__force__reference_8cpp.html" title="tests/hisq_force_reference.cpp" alt="" coords="1856,87,2053,114"/>
+<area shape="rect" id="node13" href="$hisq__paths__force__test_8cpp.html" title="tests/hisq_paths_force\l_test.cpp" alt="" coords="2078,80,2229,121"/>
+<area shape="rect" id="node14" href="$hisq__stencil__test_8cpp.html" title="tests/hisq_stencil\l_test.cpp" alt="" coords="2253,80,2373,121"/>
+<area shape="rect" id="node15" href="$hisq__unitarize__force__test_8cpp.html" title="tests/hisq_unitarize\l_force_test.cpp" alt="" coords="2397,80,2528,121"/>
+<area shape="rect" id="node16" href="$invert__test_8cpp.html" title="tests/invert_test.cpp" alt="" coords="2552,87,2688,114"/>
+<area shape="rect" id="node17" href="$invertmsrc__test_8cpp.html" title="tests/invertmsrc_test.cpp" alt="" coords="2713,87,2877,114"/>
+<area shape="rect" id="node18" href="$llfat__reference_8cpp.html" title="tests/llfat_reference.cpp" alt="" coords="2901,87,3059,114"/>
+<area shape="rect" id="node19" href="$llfat__test_8cpp.html" title="tests/llfat_test.cpp" alt="" coords="3083,87,3210,114"/>
+<area shape="rect" id="node20" href="$misc_8cpp.html" title="tests/misc.cpp" alt="" coords="3235,87,3339,114"/>
+<area shape="rect" id="node21" href="$multigrid__benchmark__test_8cu.html" title="tests/multigrid_benchmark\l_test.cu" alt="" coords="3363,80,3536,121"/>
+<area shape="rect" id="node22" href="$multigrid__evolve__test_8cpp.html" title="tests/multigrid_evolve\l_test.cpp" alt="" coords="3561,80,3706,121"/>
+<area shape="rect" id="node23" href="$multigrid__invert__test_8cpp.html" title="tests/multigrid_invert\l_test.cpp" alt="" coords="3730,80,3870,121"/>
+<area shape="rect" id="node24" href="$plaq__test_8cpp.html" title="tests/plaq_test.cpp" alt="" coords="3894,87,4023,114"/>
+<area shape="rect" id="node25" href="$staggered__dslash__ctest_8cpp.html" title="tests/staggered_dslash\l_ctest.cpp" alt="" coords="4048,80,4200,121"/>
+<area shape="rect" id="node26" href="$staggered__dslash__reference_8cpp.html" title="tests/staggered_dslash\l_reference.cpp" alt="" coords="4224,80,4376,121"/>
+<area shape="rect" id="node27" href="$staggered__dslash__test_8cpp.html" title="tests/staggered_dslash\l_test.cpp" alt="" coords="4400,80,4552,121"/>
+<area shape="rect" id="node28" href="$staggered__eigensolve__test_8cpp.html" title="tests/staggered_eigensolve\l_test.cpp" alt="" coords="4576,80,4752,121"/>
+<area shape="rect" id="node29" href="$staggered__gauge__utils_8cpp.html" title="tests/staggered_gauge\l_utils.cpp" alt="" coords="4777,80,4927,121"/>
+<area shape="rect" id="node30" href="$staggered__invert__test_8cpp.html" title="tests/staggered_invert\l_test.cpp" alt="" coords="4952,80,5099,121"/>
+<area shape="rect" id="node31" href="$staggered__invertmsrc__test_8cpp.html" title="tests/staggered_invertmsrc\l_test.cpp" alt="" coords="5123,80,5298,121"/>
+<area shape="rect" id="node32" href="$su3__test_8cpp.html" title="tests/su3_test.cpp" alt="" coords="5323,87,5448,114"/>
+<area shape="rect" id="node33" href="$test__util_8cpp.html" title="tests/test_util.cpp" alt="" coords="5472,87,5595,114"/>
+<area shape="rect" id="node34" href="$unitarize__link__test_8cpp.html" title="tests/unitarize_link\l_test.cpp" alt="" coords="5619,80,5747,121"/>
+</map>

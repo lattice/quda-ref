@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structquda_1_1blas_1_1_multi_blas_functor.html" title="quda::blas::MultiBlasFunctor\l\&lt; NXZ, Float2, FloatN \&gt;" alt="" coords="5,104,188,145"/>
+<area shape="rect" id="node2" href="$structquda_1_1blas_1_1multi__axpy_bzpcx__.html" title="quda::blas::multi_axpyBzpcx\l_\&lt; NXZ, Float2, FloatN \&gt;" alt="" coords="236,5,417,47"/>
+<area shape="rect" id="node3" href="$structquda_1_1blas_1_1multi__caxpy_bxpz__.html" title="quda::blas::multi_caxpyBxpz\l_\&lt; NXZ, Float2, FloatN \&gt;" alt="" coords="236,71,417,112"/>
+<area shape="rect" id="node4" href="$structquda_1_1blas_1_1multicaxpy__.html" title="quda::blas::multicaxpy\l_\&lt; NXZ, Float2, FloatN \&gt;" alt="" coords="244,136,409,177"/>
+<area shape="rect" id="node5" href="$structquda_1_1blas_1_1multicaxpyz__.html" title="quda::blas::multicaxpyz\l_\&lt; NXZ, Float2, FloatN \&gt;" alt="" coords="244,201,409,243"/>
+</map>

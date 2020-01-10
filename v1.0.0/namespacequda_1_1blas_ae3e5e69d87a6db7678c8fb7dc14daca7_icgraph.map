@@ -1,0 +1,51 @@
+<map id="quda::blas::caxpy" name="quda::blas::caxpy">
+<area shape="rect" id="node2" href="$classquda_1_1_bi_c_gstab_l_update.html#ad05feaf49d3e9001014cb981cb497b40" title="quda::BiCGstabLUpdate\l::apply" alt="" coords="198,5,357,47"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="963,154,1049,181"/>
+<area shape="rect" id="node5" href="$classquda_1_1_eigen_solver.html#a890144d5f751036ad61a1f3c2b066d86" title="Orthogonalise input vector r against vector space v using block&#45;BLAS. " alt="" coords="211,645,343,687"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="207,711,348,738"/>
+<area shape="rect" id="node9" href="$namespacequda_1_1blas.html#a2080bdd1befff2145b76a7817faf08fa" title="This is a wrapper for calling the block &quot;caxpy&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="218,762,337,789"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#afa8102bb5bcb1303248b37f151b46ff2" title="quda::blas::caxpyz\l_recurse" alt="" coords="215,157,339,199"/>
+<area shape="rect" id="node12" href="$namespacequda_1_1blas.html#ace51af2e017b9d4292669f1d7e81eb6a" title="Return (a,b) and ||b||^2 &#45; implemented using cDotProductNormA. " alt="" coords="675,198,872,225"/>
+<area shape="rect" id="node13" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="985,242,1027,269"/>
+<area shape="rect" id="node15" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="696,375,851,402"/>
+<area shape="rect" id="node21" href="$classquda_1_1_t_r_l_m.html#acef5b1b6859baf1eb77983028bd6f4bb" title="Get the eigen&#45;decomposition from the arrow matrix. " alt="" coords="431,598,627,625"/>
+<area shape="rect" id="node22" href="$classquda_1_1_eigen_solver.html#a9007310c3893f51e6ce4b53248c95437" title="Deflate vector with Eigenvectors. " alt="" coords="212,427,343,468"/>
+<area shape="rect" id="node23" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="461,493,597,519"/>
+<area shape="rect" id="node24" href="$classquda_1_1_eigen_solver.html#a4474619dea6e4148413a033ec78dbbab" title="Deflate vector with both left and Right singular vectors. " alt="" coords="212,915,343,956"/>
+<area shape="rect" id="node26" href="$classquda_1_1_c_a_g_c_r.html#a53e792abb6297c7cc6b5fddee7fdda3d" title="quda::CAGCR::operator()" alt="" coords="447,975,610,1002"/>
+<area shape="rect" id="node27" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="193,1133,362,1159"/>
+<area shape="rect" id="node29" href="$classquda_1_1_deflation.html#a34216916176aa5676b2b4af567808b45" title="quda::Deflation::operator()" alt="" coords="194,1234,361,1261"/>
+<area shape="rect" id="node30" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="191,1285,363,1311"/>
+<area shape="rect" id="node31" href="$classquda_1_1_m_p_bi_c_gstab.html#aeaaa27e4d7c28168d04893447dab68b3" title="quda::MPBiCGstab::operator()" alt="" coords="181,1335,373,1362"/>
+<area shape="rect" id="node32" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="684,1462,863,1489"/>
+<area shape="rect" id="node33" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="212,1589,343,1631"/>
+<area shape="rect" id="node34" href="$classquda_1_1_min_res_ext.html#ab4acc2e02a9f112b964b88e099f32b86" title="quda::MinResExt::operator()" alt="" coords="188,1655,367,1682"/>
+<area shape="rect" id="node35" href="$namespacequda.html#a0913a77df397900a6c7f240ac667551c" title="quda::orthoDir" alt="" coords="478,863,579,890"/>
+<area shape="rect" id="node36" href="$classquda_1_1_bi_c_gstab_l.html#aebba87e0a1cabd2c4f6c4e15d1518ecc" title="quda::BiCGstabL::orthoDir" alt="" coords="444,1487,613,1514"/>
+<area shape="rect" id="node37" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="202,1082,353,1109"/>
+<area shape="rect" id="node38" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="190,1706,365,1733"/>
+<area shape="rect" id="node40" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="183,1807,372,1834"/>
+<area shape="rect" id="node42" href="$namespacequda.html#ab858981048834c3d13f2dc0e5dea2378" title="quda::updateAp" alt="" coords="222,813,333,839"/>
+<area shape="rect" id="node43" href="$classquda_1_1_bi_c_gstab_l.html#ae1e4ae3aced80f9d502e27e516e1c733" title="quda::BiCGstabL::updateR" alt="" coords="191,1437,363,1463"/>
+<area shape="rect" id="node45" href="$namespacequda.html#a14e36bd3b8e5cb88165149461cdc7386" title="quda::updateSolution" alt="" coords="457,1030,600,1057"/>
+<area shape="rect" id="node46" href="$classquda_1_1_g_m_res_d_r.html#a80f9173c2c04c21db51934fa85521e4e" title="quda::GMResDR::UpdateSolution" alt="" coords="172,1757,383,1783"/>
+<area shape="rect" id="node47" href="$classquda_1_1_bi_c_gstab_l.html#a2e7ecc8ff87d2344229a96ac2ffebac0" title="quda::BiCGstabL::updateUend" alt="" coords="432,1538,625,1565"/>
+<area shape="rect" id="node48" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="206,1183,349,1210"/>
+<area shape="rect" id="node50" href="$namespacequda_1_1blas.html#a2b7fb83a851af1be1a205ed4f6830983" title="quda::blas::xpayz" alt="" coords="219,493,336,519"/>
+<area shape="rect" id="node4" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="1140,154,1211,181"/>
+<area shape="rect" id="node6" href="$classquda_1_1_t_r_l_m.html#a754ea84a5fcb1d2c75ca902ed5a957d4" title="Lanczos step: extends the Kylov space. " alt="" coords="445,651,612,678"/>
+<area shape="rect" id="node7" href="$classquda_1_1_t_r_l_m.html#acf892e5bc9c2f3a40df569a25f931f4e" title="Compute eigenpairs. " alt="" coords="697,625,849,651"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1blas.html#a4135e6659ebacd621d14a756c884f37a" title="Compute the block &quot;caxpyz&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="467,274,591,301"/>
+<area shape="rect" id="node19" href="$namespacequda_1_1blas.html#a73c69b85de2dca55e1a0d118847cb0b2" title="Compute the block &quot;caxpyz&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="459,173,599,199"/>
+<area shape="rect" id="node20" href="$namespacequda_1_1blas.html#a96d3de46e24724468cd7660fca869f76" title="Compute the block &quot;caxpyz&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="459,122,598,149"/>
+<area shape="rect" id="node18" href="$namespacequda_1_1blas.html#a72adb7d83f648d533aa162d5d8d71407" title="This is a wrapper for calling the block &quot;caxpyz&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="711,274,835,301"/>
+<area shape="rect" id="node14" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="1140,242,1211,269"/>
+<area shape="rect" id="node16" href="$classquda_1_1_c_a_c_g_n_e.html#a5d7dae59806e1f16af69cee4707ebfdf" title="quda::CACGNE::operator()" alt="" coords="921,350,1091,377"/>
+<area shape="rect" id="node17" href="$classquda_1_1_c_a_c_g_n_r.html#a88172e047b80fe722212635b3e44eeca" title="quda::CACGNR::operator()" alt="" coords="920,401,1092,427"/>
+<area shape="rect" id="node25" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="701,922,846,949"/>
+<area shape="rect" id="node28" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="443,1133,615,1159"/>
+<area shape="rect" id="node39" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="440,1706,617,1733"/>
+<area shape="rect" id="node41" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="439,1782,618,1809"/>
+<area shape="rect" id="node44" href="$classquda_1_1_bi_c_gstab_l.html#a002a896b9641ddb0a653ee262873620c" title="Current residual, in BiCG language. " alt="" coords="446,1437,611,1463"/>
+<area shape="rect" id="node49" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="447,1183,610,1210"/>
+</map>

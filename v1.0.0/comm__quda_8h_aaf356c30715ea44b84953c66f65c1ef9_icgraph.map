@@ -1,0 +1,51 @@
+<map id="comm_free" name="comm_free">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html#a0888a2cb649719504a1611733e4208aa" title="quda::LatticeField\l::createIPCComms" alt="" coords="383,37,513,79"/>
+<area shape="rect" id="node14" href="$classquda_1_1_lattice_field.html#a98a49db4ac99218a7a004d6e369e1e16" title="quda::LatticeField\l::destroyComms" alt="" coords="164,453,287,495"/>
+<area shape="rect" id="node19" href="$classquda_1_1_lattice_field.html#a6914c75efd90a13ecb619356e632e63a" title="quda::LatticeField\l::destroyIPCComms" alt="" coords="158,209,293,251"/>
+<area shape="rect" id="node27" href="$face__gauge_8cpp.html#ae3cf19131ee08a04097e4a0cbc92a957" title="do_exchange_cpu_staple" alt="" coords="142,821,309,847"/>
+<area shape="rect" id="node32" href="$classquda_1_1_gauge_field.html#a93b1219a2b9d0a7540162587f756a913" title="Exchange the buffers across all dimensions in a given direction. " alt="" coords="585,339,768,366"/>
+<area shape="rect" id="node37" href="$classquda_1_1_color_spinor_field.html#a03366c6ecf5bdea2e1988dd8d9e4d114" title="quda::ColorSpinorField\l::exchange" alt="" coords="150,877,301,919"/>
+<area shape="rect" id="node45" href="$test__util_8h.html#a70a086cc63080fb6b9e0434abb2b0b6e" title="exchange_cpu_sitelink_ex" alt="" coords="591,702,763,729"/>
+<area shape="rect" id="node46" href="$face__gauge_8cpp.html#a7304d214a52451c757d1fcb67b1427af" title="exchange_sitelink" alt="" coords="386,753,510,779"/>
+<area shape="rect" id="node48" href="$face__gauge_8cpp.html#a55fa9380ad14b50989b169b8ad26adee" title="exchange_sitelink_diag" alt="" coords="148,719,303,746"/>
+<area shape="rect" id="node49" href="$classquda_1_1cpu_gauge_field.html#ab0cc045fdabb6d5bb80af251426da60f" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="140,603,311,644"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a1a36967996f6c7c4297da38fbedf3a6b" title="Create the communication handlers and buffers. " alt="" coords="587,84,766,125"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_gauge_field.html#a294b5722e5ddd8d532a6bd4a76f7c075" title="Create the communication handlers and buffers. " alt="" coords="601,204,752,245"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_color_spinor_field.html#a881783c582b313cdd14540829ad764bd" title="quda::cudaColorSpinorField\l::pack" alt="" coords="816,71,995,112"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_color_spinor_field.html#aa9b3e1130d53dedce7d15801604d2f9f" title="quda::cudaColorSpinorField\l::packExtended" alt="" coords="816,136,995,177"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_color_spinor_field.html#aae55bde1a84a1d166de6a3a7ab30d47a" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="816,5,995,47"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="830,201,981,243"/>
+<area shape="rect" id="node11" href="$classquda_1_1cuda_gauge_field.html#a35c80b98e5741d6cedb19c741198d47d" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="830,267,981,308"/>
+<area shape="rect" id="node12" href="$classquda_1_1cuda_gauge_field.html#afd84ce53bf3df8c690e6b2ada0c2f02f" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="820,397,991,439"/>
+<area shape="rect" id="node9" href="$classquda_1_1_gauge_field.html#aa9c859aa3d4825102b83d0ce736ab9a9" title="quda::GaugeField::applyStaggered\lPhase" alt="" coords="1043,201,1260,243"/>
+<area shape="rect" id="node10" href="$classquda_1_1_gauge_field.html#a348b77beb2d1e61bacbd89b41a2c369a" title="quda::GaugeField::remove\lStaggeredPhase" alt="" coords="1066,267,1237,308"/>
+<area shape="rect" id="node13" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="1097,522,1206,549"/>
+<area shape="rect" id="node15" href="$classquda_1_1cuda_color_spinor_field.html#a7b1c5a7388663a844bff4693a0b30854" title="quda::cudaColorSpinorField\l::operator=" alt="" coords="359,453,537,495"/>
+<area shape="rect" id="node16" href="$classquda_1_1cuda_color_spinor_field.html#a44b16d4ee14ca09eca87cf971419d643" title="quda::cudaColorSpinorField\l::~cudaColorSpinorField" alt="" coords="359,519,537,560"/>
+<area shape="rect" id="node17" href="$classquda_1_1cuda_gauge_field.html#a8c8195f3e12a513c613a58f4a7e99ea3" title="quda::cudaGaugeField\l::~cudaGaugeField" alt="" coords="373,388,523,429"/>
+<area shape="rect" id="node18" href="$classquda_1_1_lattice_field.html#aec6375f2e46d9ad87a71ce212e437e18" title="quda::LatticeField\l::createComms" alt="" coords="387,205,509,247"/>
+<area shape="rect" id="node20" href="$classquda_1_1_lattice_field.html#af3e43730f50a448d8b818413b9256fbc" title="Free statically allocated ghost buffers. " alt="" coords="387,271,509,312"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="639,643,714,670"/>
+<area shape="rect" id="node22" href="$gauge__force__test_8cpp.html#a7ca518d5f65b192c3be1c0afc9157c04" title="gauge_force_test" alt="" coords="845,694,966,721"/>
+<area shape="rect" id="node24" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="1115,795,1188,822"/>
+<area shape="rect" id="node25" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="870,745,941,771"/>
+<area shape="rect" id="node23" href="$gauge__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1126,694,1177,721"/>
+<area shape="rect" id="node26" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1126,745,1177,771"/>
+<area shape="rect" id="node28" href="$test__util_8h.html#ae8f61490333f3712993fe2725d6b2091" title="exchange_cpu_staple" alt="" coords="375,811,521,838"/>
+<area shape="rect" id="node29" href="$llfat__reference_8h.html#acd5781bd4bc58c138d6853b33c60a525" title="llfat_reference" alt="" coords="625,803,729,830"/>
+<area shape="rect" id="node30" href="$llfat__reference_8h.html#a80444b8d9b6fba55e969c8afa100c26a" title="computeHISQLinksCPU" alt="" coords="825,795,986,822"/>
+<area shape="rect" id="node31" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="1054,846,1249,873"/>
+<area shape="rect" id="node33" href="$classquda_1_1cpu_gauge_field.html#abcb214de4fba03d89b8d4a83db847b1d" title="Exchange the ghost and store store in the padded region. " alt="" coords="834,332,977,373"/>
+<area shape="rect" id="node36" href="$classquda_1_1cpu_gauge_field.html#ab040665b9d326ac8929b77553b6d6f8a" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="834,463,977,504"/>
+<area shape="rect" id="node34" href="$classquda_1_1cpu_gauge_field.html#aed4d23cd5eac14f6e2661f09a345254e" title="Constructor for cpuGaugeField from a GaugeFieldParam. " alt="" coords="1080,332,1223,373"/>
+<area shape="rect" id="node35" href="$classquda_1_1cpu_gauge_field.html#a6f4ec9b03d920ef9ad7ece9adbc10968" title="quda::cpuGaugeField\l::copy" alt="" coords="1080,397,1223,439"/>
+<area shape="rect" id="node38" href="$namespacequda.html#adf289508b1ae22ddf0e73a0f851232f1" title="quda::reduceRow" alt="" coords="388,885,508,911"/>
+<area shape="rect" id="node39" href="$classquda_1_1cpu_color_spinor_field.html#a69850014a1e80a2d6ddaece3932ad860" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="362,940,534,981"/>
+<area shape="rect" id="node40" href="$covdev__reference_8h.html#a889c78c66d143bdfb3ade7271407a422" title="matdagmat" alt="" coords="633,1057,720,1083"/>
+<area shape="rect" id="node41" href="$domain__wall__dslash__reference_8h.html#abcc83ec1305a46a488f870b81fe42e71" title="dw_dslash" alt="" coords="636,854,717,881"/>
+<area shape="rect" id="node42" href="$domain__wall__dslash__reference_8h.html#acc3c3dfb8fc640ff871168e4c65bd210" title="dslash_4_4d" alt="" coords="630,905,723,931"/>
+<area shape="rect" id="node43" href="$staggered__dslash__reference_8h.html#a644fdeeba8af318dc56a43af6791d46f" title="staggered_dslash" alt="" coords="616,955,737,982"/>
+<area shape="rect" id="node44" href="$wilson__dslash__reference_8h.html#a4baf1106373856ef3ddf22ded94da45a" title="wil_dslash" alt="" coords="637,1006,717,1033"/>
+<area shape="rect" id="node47" href="$test__util_8h.html#ae101a4d75bc466870b0a6d21c5e12641" title="exchange_cpu_sitelink" alt="" coords="601,753,753,779"/>
+<area shape="rect" id="node50" href="$classquda_1_1cpu_gauge_field.html#a04ad35fc407cc1ed6bcb464dbbad45ba" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="363,636,533,677"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="include/ks_improved_force.h" name="include/ks_improved_force.h">
+<area shape="rect" id="node2" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="976,169,1085,196"/>
+<area shape="rect" id="node11" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="331,244,391,271"/>
+<area shape="rect" id="node26" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="527,95,625,121"/>
+<area shape="rect" id="node3" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="795,244,914,271"/>
+<area shape="rect" id="node9" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="800,393,899,420"/>
+<area shape="rect" id="node15" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="635,244,719,271"/>
+<area shape="rect" id="node21" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="1003,319,1109,345"/>
+<area shape="rect" id="node23" href="$object_8h.html" title="object.h" alt="" coords="963,244,1029,271"/>
+<area shape="rect" id="node24" href="$timer_8h.html" title="timer.h" alt="" coords="1409,244,1471,271"/>
+<area shape="rect" id="node14" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="131,319,253,345"/>
+<area shape="rect" id="node17" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="519,319,622,345"/>
+<area shape="rect" id="node19" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="411,319,495,345"/>
+<area shape="rect" id="node27" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="527,169,625,196"/>
+</map>

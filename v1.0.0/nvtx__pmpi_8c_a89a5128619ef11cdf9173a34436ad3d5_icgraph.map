@@ -1,0 +1,5 @@
+<map id="PMPI_Wait" name="PMPI_Wait">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#a7b4b37f463d52adcdc21408692a059d4" title="MPI_Reduce" alt="" coords="141,5,239,32"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#a65a90a976c9dc2704d5661ee066ca937" title="MPI_Wait" alt="" coords="151,56,229,83"/>
+<area shape="rect" id="node4" href="$comm__mpi_8cpp.html#aa949084ae3512a75d7218748b38f7015" title="comm_wait" alt="" coords="287,56,375,83"/>
+</map>

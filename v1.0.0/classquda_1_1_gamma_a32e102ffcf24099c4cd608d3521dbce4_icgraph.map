@@ -1,0 +1,5 @@
+<map id="quda::Gamma::getcol" name="quda::Gamma::getcol">
+<area shape="rect" id="node2" href="$classquda_1_1_gamma.html#a5c3452ebf5723d3bc3fe93cda67b04b9" title="quda::Gamma::getelem" alt="" coords="206,5,361,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gamma.html#a69aef9a626f48463bed979b3216ec74f" title="quda::Gamma::getrowelem" alt="" coords="196,56,371,83"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a8d3d68016de7540f102ed8e5af6f2616" title="Do a single (AV)^ * UV product, where for preconditioned clover, AV correspond to the clover inverse ..." alt="" coords="221,107,346,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="quda::blas::MultiReduceArg&lt; NXZ, ReduceType, SpinorX, SpinorY, SpinorZ, SpinorW, Reducer &gt;" name="quda::blas::MultiReduceArg&lt; NXZ, ReduceType, SpinorX, SpinorY, SpinorZ, SpinorW, Reducer &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1_reduce_arg.html" title="quda::ReduceArg\&lt; vector\l_type\&lt; ReduceType, NXZ \&gt; \&gt;" alt="" coords="79,361,270,403"/>
+<area shape="rect" id="node3" href="$structquda_1_1vector__type.html" title="quda::vector_type\&lt;\l ReduceType, NXZ \&gt;" alt="" coords="19,228,160,269"/>
+<area shape="rect" id="node4" href="$structquda_1_1vector__type.html" title="quda::vector_type\&lt;\l scalar, n \&gt;" alt="" coords="24,95,155,136"/>
+<area shape="rect" id="node5" href="$structquda_1_1scalar.html" title="quda::scalar\&lt; typename \&gt;" alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node6" href="$structquda_1_1_reduce_arg.html" title="quda::ReduceArg\&lt; T \&gt;" alt="" coords="185,235,335,262"/>
+</map>

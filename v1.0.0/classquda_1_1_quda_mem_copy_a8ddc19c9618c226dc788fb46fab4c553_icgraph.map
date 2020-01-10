@@ -1,0 +1,4 @@
+<map id="quda::QudaMemCopy::apply" name="quda::QudaMemCopy::apply">
+<area shape="rect" id="node2" href="$namespacequda.html#ae0be7dcd9b50dd9a8636581df0da97de" title="Wrapper around cudaMemcpy used for auto&#45;profiling. Do not call directly, rather call macro below whic..." alt="" coords="221,5,361,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a05251819ea665971595c304d0c10a613" title="Wrapper around cudaMemcpyAsync or driver API equivalent Potentially add auto&#45;profiling support..." alt="" coords="204,56,379,83"/>
+</map>

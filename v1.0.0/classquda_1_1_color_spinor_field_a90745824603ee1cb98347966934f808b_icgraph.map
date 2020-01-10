@@ -1,0 +1,51 @@
+<map id="quda::ColorSpinorField::SiteSubset" name="quda::ColorSpinorField::SiteSubset">
+<area shape="rect" id="node2" href="$classquda_1_1_dslash_coarse_policy_tune.html#a5f9a2586684252b866eb4732533f5c2a" title="quda::DslashCoarsePolicy\lTune::bytes" alt="" coords="232,11,401,53"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="224,333,409,360"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_mobius.html#a3ddfab36f7b5596531abec291c057fc9" title="quda::DiracMobius::M" alt="" coords="513,757,657,784"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="237,435,397,477"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_staggered.html#a6f4244d34ba36ebadf6f4ea56b8686d9" title="quda::DiracStaggered\l::checkParitySpinor" alt="" coords="244,501,389,542"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_improved_staggered.html#ab6598d5bcd11120b045e01293e6e3ada" title="quda::DiracImprovedStaggered\l::checkParitySpinor" alt="" coords="217,566,416,607"/>
+<area shape="rect" id="node20" href="$namespacequda_1_1blas_1_1copy__ns.html#ad7353084a830c81feb7c3f4aa2f14f7f" title="quda::blas::copy_ns\l::copy" alt="" coords="251,631,383,673"/>
+<area shape="rect" id="node21" href="$namespacequda.html#aef3d9d4bc466961551296a7825590aee" title="quda::copyExtendedColorSpinor" alt="" coords="215,697,418,724"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a56030a5d7b4c3ea09d49ba9f45a50ba2" title="quda::copyGenericColorSpinor" alt="" coords="219,748,414,775"/>
+<area shape="rect" id="node23" href="$classquda_1_1cpu_color_spinor_field.html#a0513b4ff30e2490730a79821e176ec91" title="quda::cpuColorSpinorField\l::cpuColorSpinorField" alt="" coords="231,799,403,841"/>
+<area shape="rect" id="node24" href="$classquda_1_1cuda_color_spinor_field.html#a9ee48a7d12288038fd11211b34b7152f" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="227,865,406,906"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac_coarse.html#a25227f748c269d75008717b8404bdcc1" title="Apply DslashXpay out = (D * in) " alt="" coords="251,194,383,235"/>
+<area shape="rect" id="node26" href="$classquda_1_1_dirac_coarse_p_c.html#a02e5998a7272e651f34c5e9dc5e921d8" title="Apply the full operator. " alt="" coords="504,5,665,32"/>
+<area shape="rect" id="node27" href="$classquda_1_1_dirac_coarse_p_c.html#a8217d0fbec51cb52bd81be7b3fa78a63" title="Apply DslashXpay out = (D * in) " alt="" coords="245,129,389,170"/>
+<area shape="rect" id="node28" href="$classquda_1_1_dirac_coarse.html#ad450ec6c42dd0e2a8c9411446306cbb2" title="Apply DslashXpay out = (D * in + A * x) " alt="" coords="251,930,383,971"/>
+<area shape="rect" id="node29" href="$classquda_1_1_dslash_coarse_policy_tune.html#ab2ceb5fe9b12b5732e09f146d3324936" title="quda::DslashCoarsePolicy\lTune::flops" alt="" coords="232,995,401,1037"/>
+<area shape="rect" id="node30" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="275,1061,359,1088"/>
+<area shape="rect" id="node31" href="$classquda_1_1_dirac_coarse.html#a89e6cba5df9f38343a33ebf585256887" title="Apply the full operator. " alt="" coords="245,1163,388,1189"/>
+<area shape="rect" id="node32" href="$classquda_1_1_dirac_coarse.html#ab220d4707bf9bf7e83a76b249acf3835" title="quda::DiracCoarse::\lMdagM" alt="" coords="519,1130,651,1171"/>
+<area shape="rect" id="node33" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="515,1264,654,1291"/>
+<area shape="rect" id="node34" href="$structquda_1_1dslash_1_1_dslash_basic.html#ac6a299ccb6cb6c87d77390ecced0b717" title="quda::dslash::DslashBasic\l::operator()" alt="" coords="233,1366,401,1407"/>
+<area shape="rect" id="node35" href="$structquda_1_1dslash_1_1_dslash_fused_exterior.html#aed1c7ad89c2c0e497aefb6e585c677ab" title="quda::dslash::DslashFused\lExterior::operator()" alt="" coords="231,1431,402,1473"/>
+<area shape="rect" id="node36" href="$structquda_1_1_dslash_coarse_launch.html#a1e863906442ac686de28943f041177ac" title="Execute the coarse dslash using the given policy. " alt="" coords="229,1497,405,1538"/>
+<area shape="rect" id="node37" href="$structquda_1_1dslash_1_1_dslash_g_d_r.html#ade8125d09486ff3a23f49bb5833787bd" title="quda::dslash::DslashGDR\l::operator()" alt="" coords="235,1562,399,1603"/>
+<area shape="rect" id="node38" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r.html#a498fc68026bd1d36fd9c18e2416d2084" title="quda::dslash::DslashFused\lGDR::operator()" alt="" coords="231,1627,402,1669"/>
+<area shape="rect" id="node39" href="$structquda_1_1dslash_1_1_dslash_g_d_r_recv.html#a654d1bca65e88abd0d162b988838b36a" title="quda::dslash::DslashGDRRecv\l::operator()" alt="" coords="220,1693,413,1734"/>
+<area shape="rect" id="node40" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r_recv.html#a3fc0abd7a77ae5ef90a310e711f2524f" title="quda::dslash::DslashFused\lGDRRecv::operator()" alt="" coords="231,1758,402,1799"/>
+<area shape="rect" id="node41" href="$classquda_1_1_preconditioned_solver.html#aff352dcaa422e3522aff99b5742d14c6" title="quda::PreconditionedSolver\l::operator()" alt="" coords="227,1823,406,1865"/>
+<area shape="rect" id="node42" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack.html#a145bf19c8f418bb3a475485bef5fab4e" title="quda::dslash::DslashZero\lCopyPack::operator()" alt="" coords="235,1889,398,1930"/>
+<area shape="rect" id="node43" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack.html#a4dc97ba48ebb8e95517ec1e670f2eacd" title="quda::dslash::DslashFused\lZeroCopyPack::operator()" alt="" coords="231,1954,402,1995"/>
+<area shape="rect" id="node44" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack_g_d_r_recv.html#a9d86e2e91a220900c89f2722bf17751e" title="quda::dslash::DslashZero\lCopyPackGDRRecv::operator()" alt="" coords="217,2019,416,2061"/>
+<area shape="rect" id="node45" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack_g_d_r_recv.html#a111cae0d62f19d1995d40da2e0abb2ab" title="quda::dslash::DslashFused\lZeroCopyPackGDRRecv::operator()" alt="" coords="204,2085,429,2126"/>
+<area shape="rect" id="node46" href="$structquda_1_1dslash_1_1_dslash_zero_copy.html#ac4607a072c066facf43fdd2173a6a6be" title="quda::dslash::DslashZero\lCopy::operator()" alt="" coords="235,2150,398,2191"/>
+<area shape="rect" id="node47" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy.html#a6b4dc0531694d3d2886e9427ae4b8487" title="quda::dslash::DslashFused\lZeroCopy::operator()" alt="" coords="231,2215,402,2257"/>
+<area shape="rect" id="node48" href="$classquda_1_1_transfer.html#acae8c442c5f6dd3a12530c010d556838" title="quda::Transfer::P" alt="" coords="257,1264,376,1291"/>
+<area shape="rect" id="node49" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="257,1315,376,1341"/>
+<area shape="rect" id="node50" href="$namespacequda.html#ad9b26ad8994921de469b8577055403ad" title="quda::shiftColorSpinorField" alt="" coords="229,2281,404,2308"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_clover.html#a0abbc817d55acf4b5be97bec7399a634" title="quda::DiracClover::\lMdagM" alt="" coords="521,122,649,163"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_clover_p_c.html#aafe72319c000f86b469b523a261dbde4" title="quda::DiracCloverPC\l::reconstruct" alt="" coords="515,187,655,229"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_coarse_p_c.html#a99702def183155f5a992f0113ea31e81" title="quda::DiracCoarsePC\l::reconstruct" alt="" coords="513,57,657,98"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_domain_wall.html#ac3d9f67e73f829888dd875735cab894d" title="quda::DiracDomainWall::M" alt="" coords="499,304,671,331"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_domain_wall.html#a5a403877a51fd7334e73342e2874b908" title="quda::DiracDomainWall\l::MdagM" alt="" coords="748,271,903,313"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_domain_wall_p_c.html#a18b2f618156dcb0ce5839e0eb9cc60d7" title="quda::DiracDomainWallPC\l::reconstruct" alt="" coords="498,355,671,397"/>
+<area shape="rect" id="node10" href="$classquda_1_1_dirac_domain_wall4_d.html#a044ffd3892667cbd119833791bc23143" title="quda::DiracDomainWall4D::M" alt="" coords="491,472,679,499"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_domain_wall4_d.html#a03fa2cae3fa6859e3716baaee24424a6" title="quda::DiracDomainWall4D\l::MdagM" alt="" coords="740,439,911,481"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a8b1750de1cd898a71f251b3eb0ce342d" title="quda::DiracDomainWall4DPC\l::reconstruct" alt="" coords="490,523,679,565"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_improved_staggered.html#a7a0ea0216300b359bf556f79019e3649" title="quda::DiracImprovedStaggered::M" alt="" coords="477,589,692,616"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_improved_staggered_p_c.html#a29e0419161b8fd48fd0ca904f684f7e0" title="quda::DiracImprovedStaggered\lPC::reconstruct" alt="" coords="485,641,684,682"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_mobius.html#ad250f4e35dcb9afd0198a01691d06217" title="quda::DiracMobius::\lMdagM" alt="" coords="759,725,892,766"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="quda::wilson" name="quda::wilson">
+<area shape="rect" id="node2" href="$structquda_1_1_wilson_apply.html#a91403cbbd4b66542e81dc7c04f56de4e" title="quda::WilsonApply::\lWilsonApply" alt="" coords="204,5,336,47"/>
+<area shape="rect" id="node3" href="$structquda_1_1_wilson_clover_apply.html#aed93ec67f19a9f22c3260dcafe224c1b" title="quda::WilsonCloverApply\l::WilsonCloverApply" alt="" coords="189,71,351,112"/>
+<area shape="rect" id="node4" href="$structquda_1_1_wilson_clover_preconditioned_apply.html#aeefed6f371ce3cad659683b3a2d95c11" title="quda::WilsonCloverPreconditioned\lApply::WilsonCloverPreconditionedApply" alt="" coords="144,136,396,177"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="quda::ApplyTwistClover" name="quda::ApplyTwistClover">
+<area shape="rect" id="node2" href="$classquda_1_1_twist_clover.html#a9b5995aa40d2b04fa601c65bb5812c13" title="quda::TwistClover::\lapply" alt="" coords="219,598,347,639"/>
+<area shape="rect" id="node36" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="431,696,505,722"/>
+<area shape="rect" id="node38" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="208,736,359,778"/>
+<area shape="rect" id="node39" href="$classquda_1_1_color_spinor_field.html#a6067aeefbeb02a469fadc6534ce01794" title="quda::ColorSpinorField\l::Nspin" alt="" coords="208,802,359,843"/>
+<area shape="rect" id="node40" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="222,867,345,908"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="407,594,529,621"/>
+<area shape="rect" id="node33" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="429,544,507,570"/>
+<area shape="rect" id="node34" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="422,645,514,672"/>
+<area shape="rect" id="node35" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="407,478,529,519"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#aa51219d121871be33e3dba212aa969b0" title="quda::Tunable::tuneKey" alt="" coords="596,157,751,184"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#a4149bcac2c1216e6a6f2223fab27b9ad" title="quda::Tunable::paramString" alt="" coords="584,208,763,234"/>
+<area shape="rect" id="node6" href="$classquda_1_1_tunable.html#ad192f84c0bfebd5bdb8ada76b333974f" title="quda::Tunable::checkLaunch\lParam" alt="" coords="581,259,766,300"/>
+<area shape="rect" id="node7" href="$namespacequda.html#acf8d40c61c8d618001b7cadbf8d902d0" title="quda::traceEnabled" alt="" coords="608,106,739,133"/>
+<area shape="rect" id="node9" href="$classquda_1_1_tunable.html#aded93d27cbfd6568d4f4e44f3e6687ca" title="quda::Tunable::defaultTune\lParam" alt="" coords="585,376,761,418"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="863,434,954,461"/>
+<area shape="rect" id="node11" href="$comm__quda_8h.html#a7b9e8a5fb7188e57f46e70c3243dfbdd" title="commGlobalReduction" alt="" coords="597,493,750,520"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a3c503154d742b953547abe4aa49bc130" title="quda::policyTuning" alt="" coords="609,544,737,570"/>
+<area shape="rect" id="node13" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="620,1117,727,1144"/>
+<area shape="rect" id="node15" href="$classquda_1_1_tunable.html#a84c6bfed530f37c172c1ba576bab9b22" title="quda::Tunable::preTune" alt="" coords="596,594,751,621"/>
+<area shape="rect" id="node16" href="$structquda_1_1_timer.html#abb870b23fd97a72c360bb50895ba2e80" title="quda::Timer::Start" alt="" coords="612,645,735,672"/>
+<area shape="rect" id="node17" href="$classquda_1_1_tunable.html#a7656afbdf0d2f848ea0058110543abf1" title="quda::Tunable::initTuneParam" alt="" coords="577,696,769,722"/>
+<area shape="rect" id="node18" href="$classquda_1_1_tunable.html#a1d6de8001096e7620593315fa6fb51f6" title="quda::Tunable::apply" alt="" coords="604,746,743,773"/>
+<area shape="rect" id="node19" href="$classquda_1_1_tunable.html#aeda35bb2e3deda6f2b9d140d799d29b6" title="quda::Tunable::tuningIter" alt="" coords="592,797,755,824"/>
+<area shape="rect" id="node20" href="$classquda_1_1_tunable.html#a41c2cde2839229d85f72f89959c7c7cb" title="quda::Tunable::jitifyError" alt="" coords="594,848,753,874"/>
+<area shape="rect" id="node21" href="$classquda_1_1_tunable.html#a1cb0f81faa3e823b77e75c656969d184" title="quda::Tunable::perfString" alt="" coords="591,898,755,925"/>
+<area shape="rect" id="node22" href="$classquda_1_1_tunable.html#a6b682b3aa1e943bbb981c5e0948513d1" title="quda::Tunable::advanceTune\lParam" alt="" coords="581,950,766,991"/>
+<area shape="rect" id="node23" href="$structquda_1_1_timer.html#a04bf76b5de522151541e6f85841bdad2" title="quda::Timer::Stop" alt="" coords="612,1016,735,1042"/>
+<area shape="rect" id="node24" href="$structquda_1_1_timer.html#a09ec09f5b1844c2ae4178a5e924b2967" title="quda::Timer::Last" alt="" coords="614,1066,733,1093"/>
+<area shape="rect" id="node25" href="$classquda_1_1_tunable.html#a813f352da09afa3850a33f960dd8c24e" title="quda::Tunable::postTune" alt="" coords="593,56,754,82"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a215058968f858fd16b5368d56a916790" title="quda::broadcastTuneCache" alt="" coords="584,325,763,352"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="851,56,967,82"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="833,1117,984,1144"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a4cf7120a3f6aa7fa21ebff3870969bb2" title="quda::serializeTuneCache" alt="" coords="825,274,993,301"/>
+<area shape="rect" id="node28" href="$comm__quda_8h.html#a8b877be417d6c8f73bcca8497b730d40" title="comm_broadcast" alt="" coords="848,325,969,352"/>
+<area shape="rect" id="node32" href="$namespacequda.html#ae7f7d2bed3522d1acce3fe9f433c3495" title="quda::deserializeTuneCache" alt="" coords="817,376,1000,402"/>
+<area shape="rect" id="node29" href="$nvtx__pmpi_8c.html#a5997e8e9b61e2f97c69d0667992fce1c" title="MPI_Bcast" alt="" coords="1048,325,1135,352"/>
+<area shape="rect" id="node30" href="$nvtx__pmpi_8c.html#a1926ff3a4b86dde1210dd5e734b07256" title="PMPI_Bcast" alt="" coords="1193,300,1288,326"/>
+<area shape="rect" id="node31" href="$nvtx__pmpi_8c.html#a10403186cb83e8e124eb3791a12cb622" title="PMPI_Sendrecv" alt="" coords="1183,350,1299,377"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="629,1168,717,1194"/>
+</map>

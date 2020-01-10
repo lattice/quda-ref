@@ -1,0 +1,7 @@
+<map id="quda::Dslash::setParam" name="quda::Dslash::setParam">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="208,5,383,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="221,56,370,83"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#a10a304fbc36a76c07218571452dcb5f4" title="quda::ColorSpinorField\l::Ghost2" alt="" coords="220,107,371,149"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#add5b48c1aa0eea27d10193cd6d523bfc" title="quda::ColorSpinorField\l::GhostOffset" alt="" coords="220,173,371,214"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#a54e53d67d05647f283c581626d2b2e1f" title="quda::LatticeField\l::GhostPrecision" alt="" coords="234,238,357,279"/>
+</map>

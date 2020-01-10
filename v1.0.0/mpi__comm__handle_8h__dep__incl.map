@@ -1,0 +1,7 @@
+<map id="include/mpi_comm_handle.h" name="include/mpi_comm_handle.h">
+<area shape="rect" id="node2" href="$comm__mpi_8cpp.html" title="lib/comm_mpi.cpp" alt="" coords="5,80,132,107"/>
+<area shape="rect" id="node3" href="$comm__qmp_8cpp.html" title="lib/comm_qmp.cpp" alt="" coords="157,80,287,107"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html" title="lib/interface_quda.cpp" alt="" coords="312,80,460,107"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html" title="lib/nvtx_pmpi.c" alt="" coords="485,80,591,107"/>
+<area shape="rect" id="node6" href="$test__util_8cpp.html" title="tests/test_util.cpp" alt="" coords="615,80,738,107"/>
+</map>

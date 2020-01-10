@@ -1,0 +1,42 @@
+<map id="comm_allreduce_int" name="comm_allreduce_int">
+<area shape="rect" id="node2" href="$comm__common_8cpp.html#ae79c1a736c53def6d8682ca451ac81ed" title="comm_peer2peer_enabled\l_global" alt="" coords="192,246,367,287"/>
+<area shape="rect" id="node31" href="$namespacequda.html#ad691428cc76e8eef9ef9e44b92ac1b96" title="quda::compareSpinor" alt="" coords="208,1060,351,1087"/>
+<area shape="rect" id="node38" href="$hisq__unitarize__force__test_8cpp.html#acbcbd7509ba920cdb4ae408a2e12a03c" title="hisq_force_test" alt="" coords="225,1111,334,1137"/>
+<area shape="rect" id="node40" href="$unitarize__link__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="254,1161,305,1188"/>
+<area shape="rect" id="node41" href="$unitarize__link__test_8cpp.html#a529cfbd2a1809bcaf7b4b76a7fb35e5b" title="TEST" alt="" coords="252,1212,307,1239"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#adc5670739f5284d3d5a2f06d2e4e0cfd" title="comm_peer2peer_init" alt="" coords="439,24,585,51"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a375fcb5e573eec485d467c7ba823760b" title="Return a string that defines the P2P/GDR environment variable configuration (for use as a tuneKey to ..." alt="" coords="443,111,581,137"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_color_spinor_field.html#aae55bde1a84a1d166de6a3a7ab30d47a" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="423,162,601,203"/>
+<area shape="rect" id="node10" href="$classquda_1_1_pack.html#a80c4bb68798a8f65b86810b618d838dc" title="quda::Pack::fillAux" alt="" coords="449,228,575,255"/>
+<area shape="rect" id="node12" href="$namespacequda_1_1dslash.html#acfd9bea728672d7dacbffac1360e4147" title="Set the ghosts to the mapped CPU ghost buffer, or unsets if already set. Note this must not be called..." alt="" coords="415,279,609,305"/>
+<area shape="rect" id="node15" href="$classquda_1_1dslash_1_1_dslash_policy_tune.html#a9ce6f4942a6182e91f85bdad4ddd0fa0" title="quda::dslash::DslashPolicy\lTune::DslashPolicyTune" alt="" coords="427,330,597,371"/>
+<area shape="rect" id="node16" href="$classquda_1_1dslash_1_1_dslash_policy_tune.html#a5dd2406cba43df94bf290d4fdb631ad6" title="quda::dslash::DslashPolicy\lTune::apply" alt="" coords="427,762,597,803"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a28f2c1670b57527ab3a9ce34f1110caf" title="Initialize the communications common to all communications abstractions. " alt="" coords="729,5,868,32"/>
+<area shape="rect" id="node5" href="$comm__mpi_8cpp.html#add004a3d38b9dc2f15a65bb6e43a2840" title="Initialize the communications, implemented in comm_single.cpp, comm_qmp.cpp, and comm_mpi.cpp. " alt="" coords="988,5,1071,32"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dslash_coarse_policy_tune.html#a999e08702fb5769550ea1737534451b0" title="quda::DslashCoarsePolicy\lTune::DslashCoarsePolicyTune" alt="" coords="699,57,898,98"/>
+<area shape="rect" id="node8" href="$classquda_1_1dslash_1_1_dslash_policy_tune.html#a460bc9df8e608d952d0f098d1daee908" title="quda::dslash::DslashPolicy\lTune::tuneKey" alt="" coords="713,122,884,163"/>
+<area shape="rect" id="node11" href="$classquda_1_1_pack.html#a8446af896d399f4dea8b330dde4b4e41" title="quda::Pack::Pack" alt="" coords="737,188,860,215"/>
+<area shape="rect" id="node13" href="$structquda_1_1dslash_1_1_dslash_zero_copy.html#ac4607a072c066facf43fdd2173a6a6be" title="quda::dslash::DslashZero\lCopy::operator()" alt="" coords="717,239,880,281"/>
+<area shape="rect" id="node14" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy.html#a6b4dc0531694d3d2886e9427ae4b8487" title="quda::dslash::DslashFused\lZeroCopy::operator()" alt="" coords="713,305,884,346"/>
+<area shape="rect" id="node17" href="$structquda_1_1_domain_wall4_d_apply.html#aa7317c2f0784b3c802cfb291b4fdef9d" title="quda::DomainWall4DApply\l::DomainWall4DApply" alt="" coords="712,370,885,411"/>
+<area shape="rect" id="node18" href="$structquda_1_1_domain_wall5_d_apply.html#aeaaec3866cf8e3e0a306ec05fc794c02" title="quda::DomainWall5DApply\l::DomainWall5DApply" alt="" coords="712,435,885,477"/>
+<area shape="rect" id="node19" href="$structquda_1_1_improved_staggered_apply.html#a8a5b1df64f7b19b77eba04ba1eef52f6" title="quda::ImprovedStaggeredApply\l::ImprovedStaggeredApply" alt="" coords="699,501,899,542"/>
+<area shape="rect" id="node20" href="$structquda_1_1_ndeg_twisted_mass_apply.html#aae5c15bb8abb90e68eeff367c7066d8c" title="quda::NdegTwistedMassApply\l::NdegTwistedMassApply" alt="" coords="703,566,895,607"/>
+<area shape="rect" id="node21" href="$structquda_1_1_ndeg_twisted_mass_preconditioned_apply.html#af956fb5c76531f5e037e1222f580a2da" title="quda::NdegTwistedMassPreconditioned\lApply::NdegTwistedMassPreconditionedApply" alt="" coords="657,631,940,673"/>
+<area shape="rect" id="node22" href="$structquda_1_1_staggered_apply.html#a0086bc9830d824738c128f9fb16b4436" title="quda::StaggeredApply\l::StaggeredApply" alt="" coords="725,697,872,738"/>
+<area shape="rect" id="node23" href="$structquda_1_1_twisted_clover_apply.html#a12d62a66acb6abc421f97d79d4c1ce8a" title="quda::TwistedCloverApply\l::TwistedCloverApply" alt="" coords="715,762,883,803"/>
+<area shape="rect" id="node24" href="$structquda_1_1_twisted_clover_preconditioned_apply.html#a8ec2dd11e0c92421ff0f9b6af7d77a1a" title="quda::TwistedCloverPreconditioned\lApply::TwistedCloverPreconditionedApply" alt="" coords="669,827,928,869"/>
+<area shape="rect" id="node25" href="$structquda_1_1_twisted_mass_apply.html#a0dcef2d3afafbf58496fd65a1451d06e" title="quda::TwistedMassApply\l::TwistedMassApply" alt="" coords="717,893,880,934"/>
+<area shape="rect" id="node26" href="$structquda_1_1_twisted_mass_preconditioned_apply.html#a59f00b1911ca0528c59a15cab020b630" title="quda::TwistedMassPreconditioned\lApply::TwistedMassPreconditionedApply" alt="" coords="673,958,925,999"/>
+<area shape="rect" id="node27" href="$structquda_1_1_wilson_apply.html#a91403cbbd4b66542e81dc7c04f56de4e" title="quda::WilsonApply::\lWilsonApply" alt="" coords="733,1023,865,1065"/>
+<area shape="rect" id="node28" href="$structquda_1_1_wilson_clover_apply.html#aed93ec67f19a9f22c3260dcafe224c1b" title="quda::WilsonCloverApply\l::WilsonCloverApply" alt="" coords="717,1089,880,1130"/>
+<area shape="rect" id="node29" href="$structquda_1_1_wilson_clover_preconditioned_apply.html#aeefed6f371ce3cad659683b3a2d95c11" title="quda::WilsonCloverPreconditioned\lApply::WilsonCloverPreconditionedApply" alt="" coords="673,1154,925,1195"/>
+<area shape="rect" id="node30" href="$structquda_1_1_laplace_apply.html#a61f684ba2fd915b161200a0f605600d5" title="quda::LaplaceApply\l::LaplaceApply" alt="" coords="732,1219,865,1261"/>
+<area shape="rect" id="node32" href="$namespacequda.html#afdecfba62668387d6195eea004bf363e" title="quda::genericCompare" alt="" coords="437,1060,587,1087"/>
+<area shape="rect" id="node33" href="$classquda_1_1cpu_color_spinor_field.html#ac9c5a3bf3e02799436aa004211ea4508" title="Perform a component by component comparison of two color&#45;spinor fields. In doing we normalize with re..." alt="" coords="713,1285,885,1326"/>
+<area shape="rect" id="node34" href="$covdev__test_8cpp.html#a86d4ae88ee59392b8c1f4bc81aa7e280" title="TEST" alt="" coords="1002,1241,1057,1268"/>
+<area shape="rect" id="node35" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="994,1292,1065,1319"/>
+<area shape="rect" id="node36" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="992,1343,1067,1369"/>
+<area shape="rect" id="node37" href="$pack__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1119,1343,1169,1369"/>
+<area shape="rect" id="node39" href="$hisq__unitarize__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="487,1111,537,1137"/>
+</map>

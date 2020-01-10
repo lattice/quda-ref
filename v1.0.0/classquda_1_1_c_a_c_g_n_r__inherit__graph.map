@@ -1,0 +1,4 @@
+<map id="quda::CACGNR" name="quda::CACGNR">
+<area shape="rect" id="node2" href="$classquda_1_1_c_a_c_g.html" title="Communication&#45;avoiding CG solver. This solver does un&#45;preconditioned CG, running in steps of nKrylov..." alt="" coords="14,80,107,107"/>
+<area shape="rect" id="node3" href="$classquda_1_1_solver.html" title="quda::Solver" alt="" coords="15,5,107,32"/>
+</map>

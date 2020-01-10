@@ -1,0 +1,10 @@
+<map id="quda::ColorSpinorField::createGhostZone" name="quda::ColorSpinorField::createGhostZone">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="211,31,364,57"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="212,82,363,123"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#add5b48c1aa0eea27d10193cd6d523bfc" title="quda::ColorSpinorField\l::GhostOffset" alt="" coords="212,147,363,189"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="212,213,363,254"/>
+<area shape="rect" id="node9" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="204,279,371,305"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="419,31,505,57"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="553,5,712,32"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="587,56,679,83"/>
+</map>

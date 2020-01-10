@@ -1,0 +1,13 @@
+<map id="checkGauge" name="checkGauge">
+<area shape="rect" id="node2" href="$namespacequda.html#aaa35e68beb10c3fdbf3ba1d4915fa752" title="quda::pow" alt="" coords="148,49,227,76"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a8f1b0024386437f7839c283a815e3542" title="quda::pow" alt="" coords="275,49,353,76"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab9b7c656cfd4121b9d553997230d76e2" title="quda::exp" alt="" coords="401,49,477,76"/>
+<area shape="rect" id="node5" href="$namespacequda.html#afbd4cbea98feea6d4c555e1df3714f27" title="quda::exp" alt="" coords="525,49,601,76"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="649,49,733,76"/>
+<area shape="rect" id="node9" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="1029,10,1168,51"/>
+<area shape="rect" id="node10" href="$structquda_1_1complex_3_01float_01_4.html#a692127ea4240002b39f3581648d5bab4" title="quda::complex\&lt; float\l \&gt;::imag" alt="" coords="1029,75,1168,117"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="781,24,857,51"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="783,75,855,101"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="905,24,981,51"/>
+<area shape="rect" id="node12" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="907,75,979,101"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="quda::ColorSpinorField::NormBytes" name="quda::ColorSpinorField::NormBytes">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas_1_1copy__ns.html#ad7353084a830c81feb7c3f4aa2f14f7f" title="quda::blas::copy_ns\l::copy" alt="" coords="239,913,371,954"/>
+<area shape="rect" id="node41" href="$namespacequda.html#aef3d9d4bc466961551296a7825590aee" title="quda::copyExtendedColorSpinor" alt="" coords="204,1252,407,1279"/>
+<area shape="rect" id="node42" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html#a24658700e219d7ff28dda07217ba601f" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l coarseSpin, coarseColor,\l 1, csOrder, Float, ghostFloat\l \&gt;::FieldOrderCB" alt="" coords="212,1303,399,1388"/>
+<area shape="rect" id="node43" href="$classquda_1_1cuda_color_spinor_field.html#a843a105822fda21e1ad2f06bb03452a0" title="quda::cudaColorSpinorField\l::loadSpinorField" alt="" coords="216,1186,395,1227"/>
+<area shape="rect" id="node45" href="$classquda_1_1blas_1_1_blas_cuda.html#aad1f7185dbc1abb8f589ecbbc69ecdfd" title="quda::blas::BlasCuda\l::postTune" alt="" coords="235,1413,375,1454"/>
+<area shape="rect" id="node46" href="$classquda_1_1blas_1_1_reduce_cuda.html#a64493a180e2b0e0d604f4c68adffe614" title="quda::blas::ReduceCuda\l::postTune" alt="" coords="226,1478,385,1519"/>
+<area shape="rect" id="node47" href="$classquda_1_1blas_1_1_blas_cuda.html#ac3ed7b1f7c0580c49c0bba26f4350e4d" title="quda::blas::BlasCuda\l::preTune" alt="" coords="235,1543,375,1585"/>
+<area shape="rect" id="node48" href="$classquda_1_1blas_1_1_reduce_cuda.html#a85131744ddc1a6eb72c5c57a3a23d9bb" title="quda::blas::ReduceCuda\l::preTune" alt="" coords="226,1609,385,1650"/>
+<area shape="rect" id="node49" href="$classquda_1_1cuda_color_spinor_field.html#aefb99b153a3c0290ea9c192afff38cac" title="quda::cudaColorSpinorField\l::saveSpinorField" alt="" coords="216,1674,395,1715"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#aee938c63ad4eaa9d0ccc7d50013a5618" title="quda::blas::copy" alt="" coords="488,737,600,764"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#ae431c1663f0dd56ed0b614dbf962bb90" title="comm_declare_send_relative_" alt="" coords="681,56,877,83"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#aeb9a185db7c2974f78056482fee0d9c7" title="comm_declare_strided\l_send_relative_" alt="" coords="703,107,855,149"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_color_spinor_field.html#abb0bcabac8d4e5a3775ff6508b558b69" title="quda::cudaColorSpinorField\l::copy" alt="" coords="690,646,869,687"/>
+<area shape="rect" id="node10" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="1159,173,1328,200"/>
+<area shape="rect" id="node12" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="1168,224,1319,251"/>
+<area shape="rect" id="node13" href="$classquda_1_1_eigen_solver.html#afade805bcf0304fdd6b8b49982cc172c" title="Promoted the specified matVec operation: M, Mdag, MMdag, MdagM to a Chebyshev polynomial. " alt="" coords="714,427,845,469"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="737,493,821,520"/>
+<area shape="rect" id="node19" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="713,595,845,621"/>
+<area shape="rect" id="node22" href="$interface__quda_8cpp.html#a50832a69c2d3aef393f6daf85d3b0fe8" title="invertMultiShiftQuda" alt="" coords="710,544,849,571"/>
+<area shape="rect" id="node23" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="693,712,865,739"/>
+<area shape="rect" id="node24" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="690,763,869,789"/>
+<area shape="rect" id="node25" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="702,813,857,840"/>
+<area shape="rect" id="node26" href="$classquda_1_1_c_a_g_c_r.html#a53e792abb6297c7cc6b5fddee7fdda3d" title="quda::CAGCR::operator()" alt="" coords="698,864,861,891"/>
+<area shape="rect" id="node27" href="$classquda_1_1_c_g3.html#affe2eda59aece923ef89de0a0d57f0b2" title="quda::CG3::operator()" alt="" coords="708,915,851,941"/>
+<area shape="rect" id="node28" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="699,965,859,992"/>
+<area shape="rect" id="node29" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="711,1016,847,1043"/>
+<area shape="rect" id="node30" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="709,1067,850,1093"/>
+<area shape="rect" id="node31" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="692,376,867,403"/>
+<area shape="rect" id="node32" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="926,325,1103,352"/>
+<area shape="rect" id="node33" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="1152,275,1335,301"/>
+<area shape="rect" id="node34" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="707,1117,852,1144"/>
+<area shape="rect" id="node35" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="685,1168,874,1195"/>
+<area shape="rect" id="node36" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="711,1219,848,1245"/>
+<area shape="rect" id="node37" href="$classquda_1_1_min_res_ext.html#ab4acc2e02a9f112b964b88e099f32b86" title="quda::MinResExt::operator()" alt="" coords="690,1269,869,1296"/>
+<area shape="rect" id="node38" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="714,1321,845,1362"/>
+<area shape="rect" id="node39" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="736,1387,823,1413"/>
+<area shape="rect" id="node40" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="758,5,801,32"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_color_spinor_field.html#ac37ac6a9963555b7e4b3f9733c2d7c60" title="quda::cudaColorSpinorField\l::copySpinorField" alt="" coords="925,1063,1104,1105"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_color_spinor_field.html#a32f2d2fd7ec78094748f94cb07a10f53" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="1154,1030,1333,1071"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_color_spinor_field.html#a7b1c5a7388663a844bff4693a0b30854" title="quda::cudaColorSpinorField\l::operator=" alt="" coords="1154,1095,1333,1137"/>
+<area shape="rect" id="node11" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="1383,224,1555,251"/>
+<area shape="rect" id="node14" href="$classquda_1_1_t_r_l_m.html#a754ea84a5fcb1d2c75ca902ed5a957d4" title="Lanczos step: extends the Kylov space. " alt="" coords="931,392,1098,419"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="967,493,1062,520"/>
+<area shape="rect" id="node17" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="974,544,1055,571"/>
+<area shape="rect" id="node18" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="989,443,1040,469"/>
+<area shape="rect" id="node20" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="974,645,1055,672"/>
+<area shape="rect" id="node21" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="989,595,1040,621"/>
+<area shape="rect" id="node44" href="$classquda_1_1cuda_color_spinor_field.html#aa8c3441001edb8738c946784c455dbec" title="quda::cudaColorSpinorField\l::operator=" alt="" coords="455,1186,633,1227"/>
+<area shape="rect" id="node50" href="$classquda_1_1cpu_color_spinor_field.html#ab39b05f0a7f7b16567cc30ea49be7a18" title="quda::cpuColorSpinorField\l::operator=" alt="" coords="458,1674,630,1715"/>
+</map>

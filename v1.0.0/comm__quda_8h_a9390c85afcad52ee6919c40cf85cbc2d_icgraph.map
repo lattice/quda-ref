@@ -1,0 +1,51 @@
+<map id="comm_dim_partitioned" name="comm_dim_partitioned">
+<area shape="rect" id="node2" href="$namespacequda.html#ad989249b72d50fc8f7a8f4bfbaa067fd" title="Apply the improved staggered dslash operator to a color&#45;spinor field. " alt="" coords="225,78,425,105"/>
+<area shape="rect" id="node6" href="$classquda_1_1_generic_pack_ghost_launcher.html#a0dea2d50b98228161c543b4b0789e9b1" title="quda::GenericPackGhostLauncher\l::bytes" alt="" coords="215,129,434,171"/>
+<area shape="rect" id="node7" href="$structquda_1_1_calculate_y_arg.html#a066f7c0ccc1f59723d6eec87abe4e8de" title="quda::CalculateYArg\l::CalculateYArg" alt="" coords="255,195,394,236"/>
+<area shape="rect" id="node8" href="$class_gauge_alg_test.html#a4bffaa745ed6c1aba0bed9e69fc114bb" title="GaugeAlgTest::checkDimsPartitioned" alt="" coords="207,261,443,287"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#a4d9b659714b667da8423d595f8a7abe3" title="comm_dim_partitioned\l_reset" alt="" coords="248,312,401,353"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#aca05a5e60e1864b54bd3aa2d19b0ef0f" title="comm_dim_partitioned_set" alt="" coords="236,378,413,405"/>
+<area shape="rect" id="node13" href="$comm__common_8cpp.html#a0d123bd3380809d03cd0123dc71f5c6b" title="Return a string that defines the comm partitioning (used as a tuneKey) " alt="" coords="248,480,401,521"/>
+<area shape="rect" id="node14" href="$classquda_1_1_generic_pack_ghost_launcher.html#afb3c4eb145beca84774f3bb7f97e105f" title="quda::GenericPackGhostLauncher\l::GenericPackGhostLauncher" alt="" coords="491,455,709,496"/>
+<area shape="rect" id="node15" href="$comm__common_8cpp.html#a28f2c1670b57527ab3a9ce34f1110caf" title="Initialize the communications common to all communications abstractions. " alt="" coords="255,546,394,573"/>
+<area shape="rect" id="node16" href="$comm__common_8cpp.html#a8391bdc2ccd1583a204b2e5cf204fff7" title="Loop over comm_dim_partitioned(dim) for all comms dimensions. " alt="" coords="262,597,387,623"/>
+<area shape="rect" id="node17" href="$comm__common_8cpp.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="253,647,396,674"/>
+<area shape="rect" id="node18" href="$classquda_1_1cuda_gauge_field.html#afb0cd33fc1d3f2441c530a0b750eef1b" title="Wait for communication to complete. " alt="" coords="249,916,400,957"/>
+<area shape="rect" id="node19" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="525,851,675,892"/>
+<area shape="rect" id="node20" href="$classquda_1_1cuda_gauge_field.html#a35c80b98e5741d6cedb19c741198d47d" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="525,916,675,957"/>
+<area shape="rect" id="node21" href="$classquda_1_1cuda_gauge_field.html#afd84ce53bf3df8c690e6b2ada0c2f02f" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="515,981,685,1023"/>
+<area shape="rect" id="node22" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="757,843,925,870"/>
+<area shape="rect" id="node23" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="787,1127,896,1154"/>
+<area shape="rect" id="node24" href="$classquda_1_1_gauge_field.html#afd46c10aebc0f0dd2708e8e2e5d50ea9" title="quda::GaugeField::create\lGhostZone" alt="" coords="243,1251,407,1292"/>
+<area shape="rect" id="node25" href="$classquda_1_1_color_spinor_field.html#aaa41e877573c40c38c7542eda455145c" title="quda::ColorSpinorField\l::createGhostZone" alt="" coords="249,1316,400,1357"/>
+<area shape="rect" id="node26" href="$classquda_1_1_gauge_laplace.html#a9a4c195b71b16112e0c1e386ec3bc725" title="quda::GaugeLaplace\l::Dslash" alt="" coords="255,1381,394,1423"/>
+<area shape="rect" id="node27" href="$structquda_1_1_dslash_arg.html#a7112e11270b4278b6b1427b435f30ab6" title="quda::DslashArg::DslashArg" alt="" coords="235,1447,414,1474"/>
+<area shape="rect" id="node28" href="$classquda_1_1_gauge_cov_dev.html#add1772de63a1b81e957fc63bd06b4897" title="quda::GaugeCovDev::\lDslashCD" alt="" coords="253,1499,397,1540"/>
+<area shape="rect" id="node29" href="$structquda_1_1_dslash_coarse_arg.html#addcfe55b9f2f442e061c6cf0b9d9747b" title="quda::DslashCoarseArg\l::DslashCoarseArg" alt="" coords="247,1564,402,1605"/>
+<area shape="rect" id="node30" href="$class_dslash_cuda.html#a7ef77d90a53488c12222c7b28e2c8673" title="DslashCuda::DslashCuda" alt="" coords="243,1630,407,1657"/>
+<area shape="rect" id="node31" href="$classquda_1_1_gauge_laplace.html#aae8b140931e499d45b2a2b18db7eb8e7" title="quda::GaugeLaplace\l::DslashXpay" alt="" coords="255,1681,394,1723"/>
+<area shape="rect" id="node32" href="$classquda_1_1_gauge_field.html#a93b1219a2b9d0a7540162587f756a913" title="Exchange the buffers across all dimensions in a given direction. " alt="" coords="233,1747,416,1774"/>
+<area shape="rect" id="node33" href="$classquda_1_1_color_spinor_field.html#a03366c6ecf5bdea2e1988dd8d9e4d114" title="quda::ColorSpinorField\l::exchange" alt="" coords="249,1799,400,1840"/>
+<area shape="rect" id="node34" href="$classquda_1_1cpu_gauge_field.html#ab0cc045fdabb6d5bb80af251426da60f" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="515,1149,685,1191"/>
+<area shape="rect" id="node35" href="$classquda_1_1cuda_color_spinor_field.html#aae55bde1a84a1d166de6a3a7ab30d47a" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="235,1864,414,1905"/>
+<area shape="rect" id="node36" href="$structquda_1_1_extract_ghost_arg.html#ab93243849daaeebf7b94dadb884c800c" title="quda::ExtractGhostArg\l::ExtractGhostArg" alt="" coords="249,1929,400,1971"/>
+<area shape="rect" id="node37" href="$namespacequda.html#adfd5d6cd8de75affa1189018bb954c03" title="Gauge fixing with Steepest descent method with FFTs with support for single GPU only. " alt="" coords="253,1995,397,2022"/>
+<area shape="rect" id="node38" href="$domain__wall__dslash__reference_8cpp.html#a3bd2fbf35f639ccd6271c003ef8fe720" title="gaugeLink_mgpu" alt="" coords="265,2046,385,2073"/>
+<area shape="rect" id="node39" href="$hisq__paths__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="547,1215,653,1242"/>
+<area shape="rect" id="node40" href="$heatbath__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="299,2097,350,2123"/>
+<area shape="rect" id="node41" href="$test__util_8h.html#adf8e30fb773a0fe03664c8de4aca4382" title="neighborIndex_mg" alt="" coords="261,2198,388,2225"/>
+<area shape="rect" id="node42" href="$dslash__util_8h.html#af01acf903d8ba78eeece5ed277c97d8e" title="spinorNeighbor_5d" alt="" coords="536,2173,664,2199"/>
+<area shape="rect" id="node43" href="$structquda_1_1_pack_ghost_arg.html#ae2e1cc601b3dad1d955e35fab7f4aad8" title="quda::PackGhostArg\l::PackGhostArg" alt="" coords="255,2249,395,2291"/>
+<area shape="rect" id="node44" href="$namespacequda.html#af3c47a96a72e3a2ecbd0c0e1c898deab" title="Perform heatbath and overrelaxation. Performs nhb heatbath steps followed by nover overrelaxation ste..." alt="" coords="245,2315,404,2342"/>
+<area shape="rect" id="node45" href="$classquda_1_1cuda_gauge_field.html#a39ea1d8407ea192a18c920114e41b50b" title="Start the receive communicators. " alt="" coords="249,981,400,1023"/>
+<area shape="rect" id="node46" href="$structquda_1_1colorspinor_1_1_float_n_order.html#a5fc720595660ea6f916d332793bc652a" title="quda::colorspinor::\lFloatNOrder::resetGhost" alt="" coords="245,2367,405,2408"/>
+<area shape="rect" id="node47" href="$classquda_1_1cuda_gauge_field.html#aef802319d1de1743c220eb5e0199cc12" title="Start the sending communicators. " alt="" coords="249,851,400,892"/>
+<area shape="rect" id="node48" href="$class_gauge_alg_test.html#ad9c59364fa8f8765e0e170fee1682f0d" title="GaugeAlgTest::SetUp" alt="" coords="251,2433,398,2459"/>
+<area shape="rect" id="node49" href="$structquda_1_1_wuppertal_smearing_arg.html#ad250263358f457b879b45db6dbec3b90" title="quda::WuppertalSmearingArg\l::WuppertalSmearingArg" alt="" coords="230,2484,419,2525"/>
+<area shape="rect" id="node50" href="$classquda_1_1_x_s_d.html#a16d7e32e566aefad0601f6dbe49c4207" title="quda::XSD::XSD" alt="" coords="267,2550,383,2577"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_improved_staggered.html#ab18bc9951b7b4d388b9cc731331cb541" title="quda::DiracImprovedStaggered\l::Dslash" alt="" coords="501,5,699,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_improved_staggered.html#ae71e501b73cfdf74ad6ba79ba53ccf2a" title="quda::DiracImprovedStaggered\l::DslashXpay" alt="" coords="501,71,699,112"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_improved_staggered.html#a7a0ea0216300b359bf556f79019e3649" title="quda::DiracImprovedStaggered::M" alt="" coords="493,137,707,163"/>
+<area shape="rect" id="node10" href="$comm__common_8cpp.html#ab213b188bc96e090912616eb9d7672a3" title="Reset the comm dim partioned array to zero,. " alt="" coords="512,319,688,346"/>
+<area shape="rect" id="node12" href="$comm__common_8cpp.html#af4ec6ef88884d17d9f1c2ced82828eaa" title="commDimPartitionedSet" alt="" coords="519,378,681,405"/>
+</map>

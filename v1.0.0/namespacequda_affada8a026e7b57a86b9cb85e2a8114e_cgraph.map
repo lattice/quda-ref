@@ -1,0 +1,8 @@
+<map id="quda::packGhost" name="quda::packGhost">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="373,5,448,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a416e52d2ea7f201272f902122f06668d" title="Compute the space&#45;time coordinates we are at. " alt="" coords="175,56,290,83"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a20ff3994ea3483206628655de7a3f701" title="quda::getCoords5" alt="" coords="172,107,293,133"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="528,5,616,32"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a90286e7aed518e4cf52d5ca5a2175073" title="quda::getCoords5CB" alt="" coords="341,107,480,133"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a4534d3429a5a0d143e119a6e3e77f6ab" title="quda::getCoordsCB" alt="" coords="345,56,477,83"/>
+</map>

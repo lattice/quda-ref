@@ -1,0 +1,6 @@
+<map id="quda::StaggeredArg::StaggeredArg" name="quda::StaggeredArg::StaggeredArg">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#a757a7c90d4e94d4c44073c9904a1cb5f" title="quda::GaugeField::FieldOrder" alt="" coords="188,5,376,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="207,57,357,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="195,123,369,149"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="207,174,357,215"/>
+</map>

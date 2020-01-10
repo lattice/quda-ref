@@ -1,0 +1,4 @@
+<map id="MPI_Recv_init" name="MPI_Recv_init">
+<area shape="rect" id="node2" href="$comm__mpi_8cpp.html#a1b76cb2605ec86e831fbc316528284eb" title="comm_declare_receive\l_displaced" alt="" coords="160,5,315,47"/>
+<area shape="rect" id="node3" href="$comm__mpi_8cpp.html#a5a446f8199e451000296e4910fa61df1" title="comm_declare_strided\l_receive_displaced" alt="" coords="161,71,313,112"/>
+</map>

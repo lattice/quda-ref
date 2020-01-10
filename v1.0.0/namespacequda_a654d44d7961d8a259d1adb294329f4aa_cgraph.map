@@ -1,0 +1,8 @@
+<map id="quda::ApplyCovDev" name="quda::ApplyCovDev">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="193,5,343,47"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ab711f0d6779ce4f27095811910ca39ea" title="quda::popKernelPackT" alt="" coords="192,71,344,98"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ab322a3eff5a7800532b2f664b7803d2d" title="quda::pushKernelPackT" alt="" coords="189,122,347,149"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="185,173,351,199"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="399,71,547,98"/>
+<area shape="rect" id="node6" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="399,122,548,149"/>
+</map>

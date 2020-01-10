@@ -1,0 +1,5 @@
+<map id="quda::colorspinor::AccessorCB&lt; Float, nSpin, nColor, nVec, order &gt;" name="quda::colorspinor::AccessorCB&lt; Float, nSpin, nColor, nVec, order &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; real, nSpin,\l nColor, nVec, order \&gt;" alt="" coords="368,5,537,61"/>
+<area shape="rect" id="node3" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; storeFloat,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="370,86,535,157"/>
+<area shape="rect" id="node4" href="$structquda_1_1colorspinor_1_1_accessor_c_b.html" title="quda::colorspinor::\lAccessorCB\&lt; vFloat,\l nSpin, nColor, nVec,\l order \&gt;" alt="" coords="381,181,524,251"/>
+</map>

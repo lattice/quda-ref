@@ -1,0 +1,51 @@
+<map id="quda::operator&lt;&lt;" name="quda::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$structquda_1_1_clover_field_param.html#a2bd8913726ab5182bf5f1c01762eb9e6" title="quda::CloverFieldParam\l::CloverFieldParam" alt="" coords="182,471,341,513"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a59441fb61d11540d7d02de34e9ce4c6b" title="quda::ColorSpinorField\l::Components" alt="" coords="186,537,337,578"/>
+<area shape="rect" id="node29" href="$classquda_1_1cuda_color_spinor_field.html#a55998896c3891a6657faecd36e92292e" title="quda::cudaColorSpinorField\l::Ghost2" alt="" coords="172,602,351,643"/>
+<area shape="rect" id="node30" href="$structquda_1_1_lattice_field_param.html#a9c804625bff6f488162fb2e2cb6c5693" title="Constructor for creating a LatticeFieldParam from a QudaGaugeParam. Used for wrapping around a CPU re..." alt="" coords="181,667,342,709"/>
+<area shape="rect" id="node31" href="$structquda_1_1_gauge_field_param.html#a3dd48f43933d09bb14ee9d05733dd8c0" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="181,1377,341,1418"/>
+<area shape="rect" id="node4" href="$classquda_1_1_deflation.html#a2c1cbe54fc54ce506c47f87348b02cbf" title="quda::Deflation::verify" alt="" coords="433,899,575,925"/>
+<area shape="rect" id="node7" href="$classquda_1_1_deflation.html#a34216916176aa5676b2b4af567808b45" title="quda::Deflation::operator()" alt="" coords="421,848,587,875"/>
+<area shape="rect" id="node8" href="$classquda_1_1_deflation.html#ad961776b9c1b0d557fd6ab8d2a791734" title="quda::Deflation::increment" alt="" coords="419,1000,589,1027"/>
+<area shape="rect" id="node9" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="429,949,579,976"/>
+<area shape="rect" id="node10" href="$classquda_1_1_deflation.html#a98318860027f484d1988bf45fa63ca5d" title="Load the eigen space vectors from file. " alt="" coords="415,797,593,824"/>
+<area shape="rect" id="node11" href="$classquda_1_1_deflation.html#a7e395f7e68cb32b49018246523a8a99e" title="Save the eigen space vectors in file. " alt="" coords="413,5,595,32"/>
+<area shape="rect" id="node12" href="$classquda_1_1_eig_c_g_args.html#a3e4601246aa5caa953b91b9ca0af1d3d" title="quda::EigCGArgs::Restart\lLanczos" alt="" coords="421,107,587,149"/>
+<area shape="rect" id="node13" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="659,85,834,112"/>
+<area shape="rect" id="node15" href="$classquda_1_1_g_m_res_d_r.html#a80f9173c2c04c21db51934fa85521e4e" title="quda::GMResDR::UpdateSolution" alt="" coords="399,341,609,368"/>
+<area shape="rect" id="node16" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="657,253,836,280"/>
+<area shape="rect" id="node17" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="409,224,599,251"/>
+<area shape="rect" id="node18" href="$classquda_1_1_g_m_res_d_r.html#aa869a115446b88110dcbf22c55e8d9b7" title="quda::GMResDR::FlexArnoldi\lProcedure" alt="" coords="411,275,597,317"/>
+<area shape="rect" id="node19" href="$namespacequda_1_1blas.html#a2080bdd1befff2145b76a7817faf08fa" title="This is a wrapper for calling the block &quot;caxpy&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="445,392,563,419"/>
+<area shape="rect" id="node20" href="$namespacequda_1_1blas.html#a4f78e9359a0b78f019fb7d50469d3034" title="This is a wrapper for calling the block &quot;caxpy_U&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="437,443,571,469"/>
+<area shape="rect" id="node21" href="$namespacequda_1_1blas.html#ac5b01c5b684e6dc1f40e70146c703c47" title="This is a wrapper for calling the block &quot;caxpy_U&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="438,493,570,520"/>
+<area shape="rect" id="node22" href="$namespacequda_1_1blas.html#a72adb7d83f648d533aa162d5d8d71407" title="This is a wrapper for calling the block &quot;caxpyz&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="442,544,566,571"/>
+<area shape="rect" id="node23" href="$namespacequda_1_1blas.html#a277e8a1bfa74da009498449d831c0294" title="This is a wrapper for calling the block &quot;caxpyz&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="434,595,574,621"/>
+<area shape="rect" id="node24" href="$namespacequda_1_1blas.html#aee26a6a7f526e140cbefd89da30f36d0" title="This is a wrapper for calling the block &quot;caxpyz&quot; with a composite ColorSpinorField. E.g., it computes. " alt="" coords="435,645,573,672"/>
+<area shape="rect" id="node25" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="461,696,547,723"/>
+<area shape="rect" id="node27" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="483,747,525,773"/>
+<area shape="rect" id="node5" href="$classquda_1_1_deflation.html#a36bfb8f36124344146e07fc8f40b601c" title="quda::Deflation::Deflation" alt="" coords="665,848,828,875"/>
+<area shape="rect" id="node6" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="661,949,833,976"/>
+<area shape="rect" id="node14" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="884,85,1061,112"/>
+<area shape="rect" id="node26" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="711,696,782,723"/>
+<area shape="rect" id="node28" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="711,747,782,773"/>
+<area shape="rect" id="node32" href="$namespacequda.html#a54730f68a5a027c068a61f7f078d9ce6" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="447,1101,561,1128"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a1374f11a54940a73095ddceb7339e8d1" title="Coarse operator construction from an intermediate&#45;grid operator (Coarse) " alt="" coords="427,1355,581,1381"/>
+<area shape="rect" id="node38" href="$classquda_1_1_dirac_coarse.html#a7c4bcf10b7406f0d9f13962194a7fa48" title="Allocate the Y and X fields. " alt="" coords="438,1406,570,1447"/>
+<area shape="rect" id="node39" href="$classquda_1_1_dirac_coarse.html#a3dec40de37312f60ad0283a4e6f3cf06" title="Allocate the Yhat and Xinv fields. " alt="" coords="438,1471,570,1513"/>
+<area shape="rect" id="node40" href="$interface__quda_8cpp.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="447,1537,561,1564"/>
+<area shape="rect" id="node41" href="$interface__quda_8cpp.html#a9697844b4e6ef5debe0b7d8c05a96b76" title="saveGaugeQuda" alt="" coords="445,1588,563,1615"/>
+<area shape="rect" id="node42" href="$interface__quda_8cpp.html#a933684d9a6f77d2cc0e5e222c4c7292c" title="loadSloppyGaugeQuda" alt="" coords="427,1639,581,1665"/>
+<area shape="rect" id="node43" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="674,1689,819,1716"/>
+<area shape="rect" id="node44" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="910,1715,1035,1741"/>
+<area shape="rect" id="node45" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="417,1791,591,1817"/>
+<area shape="rect" id="node46" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="420,1051,588,1077"/>
+<area shape="rect" id="node47" href="$namespacequda.html#abdcc468dc619c7c3a6267a927cd0b417" title="Compute the fat and long links for an improved staggered (Kogut&#45;Susskind) fermions. " alt="" coords="433,1304,575,1331"/>
+<area shape="rect" id="node48" href="$hisq__paths__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="451,1152,557,1179"/>
+<area shape="rect" id="node49" href="$multigrid__benchmark__test_8cu.html#ab74e8c9c0b5eb4f70a8e36e650416d95" title="initFields" alt="" coords="467,1203,541,1229"/>
+<area shape="rect" id="node50" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="467,1253,541,1280"/>
+<area shape="rect" id="node33" href="$classquda_1_1_dirac_wilson.html#a4e873522da17bae973718aa7aa942b7e" title="Create the coarse Wilson operator. " alt="" coords="681,1015,812,1057"/>
+<area shape="rect" id="node34" href="$classquda_1_1_dirac_clover.html#a9c69f0fb58c5bd94644f141319473663" title="Create the coarse clover operator. " alt="" coords="683,1081,811,1122"/>
+<area shape="rect" id="node35" href="$classquda_1_1_dirac_clover_p_c.html#a408ad9ed05b6ab10213f30e83e5fb5e2" title="Create the coarse even&#45;odd preconditioned clover operator. Unlike the Wilson operator, the coarsening of the preconditioned clover operator differs from that of the unpreconditioned clover operator, so we need to specialize it. " alt="" coords="677,1146,817,1187"/>
+<area shape="rect" id="node36" href="$classquda_1_1_dirac_twisted_mass.html#a6e7562d19f5427f7a47f7c852b9c544c" title="Create the coarse twisted&#45;mass operator. " alt="" coords="667,1211,827,1253"/>
+</map>

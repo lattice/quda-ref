@@ -1,0 +1,9 @@
+<map id="quda::Dirac::Kappa" name="quda::Dirac::Kappa">
+<area shape="rect" id="node2" href="$classquda_1_1_m_g.html#a6ced52a315ef7762ff818a29fd5b389d" title="Create the coarse dirac operator. " alt="" coords="183,31,372,57"/>
+<area shape="rect" id="node8" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="221,105,334,132"/>
+<area shape="rect" id="node3" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="420,68,531,95"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="607,5,749,32"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="825,68,929,95"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="579,155,777,181"/>
+<area shape="rect" id="node5" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="852,5,903,32"/>
+</map>

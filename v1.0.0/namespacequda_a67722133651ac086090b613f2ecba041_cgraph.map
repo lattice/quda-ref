@@ -1,0 +1,14 @@
+<map id="quda::Checksum" name="quda::Checksum">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="216,5,291,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ac27cd63412752afa99588d031642aa20" title="quda::ChecksumCPU" alt="" coords="181,56,325,83"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a5cc158687c5852d11f9cce80486c59fa" title="comm_allreduce_xor" alt="" coords="183,107,324,133"/>
+<area shape="rect" id="node11" href="$classquda_1_1_gauge_field.html#ab655802370bde3461711f30a2da68bb7" title="quda::GaugeField::Ncolor" alt="" coords="171,157,336,184"/>
+<area shape="rect" id="node12" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="173,208,333,235"/>
+<area shape="rect" id="node13" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="192,259,315,301"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="409,5,497,32"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ac461d0bc832fef8c1995e5949302f33f" title="quda::siteChecksum" alt="" coords="384,56,521,83"/>
+<area shape="rect" id="node6" href="$classquda_1_1_matrix.html#aabc16b650f30b8e2764c318ea2de2b30" title="quda::Matrix::checksum" alt="" coords="569,56,725,83"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="399,107,506,133"/>
+<area shape="rect" id="node9" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="589,107,705,133"/>
+<area shape="rect" id="node10" href="$nvtx__pmpi_8c.html#aa494422fc1d868c35ecbfa909bf9d468" title="PMPI_Reduce" alt="" coords="594,157,701,184"/>
+</map>

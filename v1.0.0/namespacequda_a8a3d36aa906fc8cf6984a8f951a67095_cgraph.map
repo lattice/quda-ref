@@ -1,0 +1,23 @@
+<map id="quda::cloverInvertCompute" name="quda::cloverInvertCompute">
+<area shape="rect" id="node2" href="$classquda_1_1linalg_1_1_cholesky.html#a7de4f0e7a1330bf12954e57ef619ea70" title="Return the diagonal element of the Cholesky decomposition L(i,i) " alt="" coords="228,5,387,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1linalg_1_1_cholesky.html#a86bfbc20f17c2cc5688274a290d52fd8" title="Compute the inverse of A (the matrix used to construct the Cholesky decomposition). " alt="" coords="235,57,379,98"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a5fcc49d4f09db180d4e92bd10642ea25" title="quda::log" alt="" coords="271,123,344,149"/>
+<area shape="rect" id="node12" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="285,185,329,212"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a474f0c39c22343df4a6bcf97076fdde1" title="quda::log" alt="" coords="459,84,532,111"/>
+<area shape="rect" id="node6" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="619,33,695,60"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="620,84,695,111"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="789,33,865,60"/>
+<area shape="rect" id="node8" href="$structquda_1_1complex_3_01double_01_4.html#a3da47d570b43abe5d1720537d69c681c" title="quda::complex\&lt; double\l \&gt;::imag" alt="" coords="943,9,1096,50"/>
+<area shape="rect" id="node9" href="$structquda_1_1complex_3_01double_01_4.html#adc5681045ec6cd66e5ab0c73c8dc4ffd" title="quda::complex\&lt; double\l \&gt;::real" alt="" coords="943,74,1096,115"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="783,84,871,111"/>
+<area shape="rect" id="node13" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="435,211,556,237"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="617,135,698,161"/>
+<area shape="rect" id="node17" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="604,185,711,212"/>
+<area shape="rect" id="node18" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="795,236,858,263"/>
+<area shape="rect" id="node20" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="622,287,693,313"/>
+<area shape="rect" id="node22" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="634,337,681,364"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="759,153,895,180"/>
+<area shape="rect" id="node16" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="959,153,1080,180"/>
+<area shape="rect" id="node19" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="999,236,1039,263"/>
+<area shape="rect" id="node21" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="776,287,877,313"/>
+</map>

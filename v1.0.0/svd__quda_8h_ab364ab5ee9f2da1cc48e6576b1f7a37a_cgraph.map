@@ -1,0 +1,18 @@
+<map id="constructHHMat" name="constructHHMat">
+<area shape="rect" id="node2" href="$hisq__force__reference2_8cpp.html#ad1593bcb1050aa9bf83bbd2ca53077bc" title="conj" alt="" coords="202,107,249,133"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a5ea178efd5629d379960027b281fd8d0" title="quda::outerProd" alt="" coords="169,157,281,184"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a9ec9350075113257bc217895241b0241" title="quda::setIdentity" alt="" coords="168,208,283,235"/>
+<area shape="rect" id="node3" href="$covdev__reference_8cpp.html#ab0f599f28b95625a5325f690bfba3341" title="mat" alt="" coords="349,107,393,133"/>
+<area shape="rect" id="node4" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="459,107,503,133"/>
+<area shape="rect" id="node5" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="551,107,672,133"/>
+<area shape="rect" id="node6" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="733,5,814,32"/>
+<area shape="rect" id="node9" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="720,56,827,83"/>
+<area shape="rect" id="node10" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="738,107,809,133"/>
+<area shape="rect" id="node12" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="911,157,974,184"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="750,208,797,235"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="875,31,1011,57"/>
+<area shape="rect" id="node8" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1059,31,1180,57"/>
+<area shape="rect" id="node11" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="892,107,993,133"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1099,157,1139,184"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="331,157,411,184"/>
+</map>

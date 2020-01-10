@@ -1,0 +1,12 @@
+<map id="quda::cudaGaugeField::recvStart" name="quda::cudaGaugeField::recvStart">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="215,31,368,57"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#a6dcfe5c3faff54a12f659933a1f58546" title="Query if GPU Direct RDMA communication is enabled (global setting) " alt="" coords="224,81,359,108"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="204,132,379,159"/>
+<area shape="rect" id="node8" href="$comm__quda_8h.html#a0498a56438662fb30281fb92b5bc40b4" title="comm_start" alt="" coords="246,183,337,209"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="427,31,513,57"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="561,5,720,32"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="595,56,687,83"/>
+<area shape="rect" id="node9" href="$nvtx__pmpi_8c.html#a0ff352a818935c896c684af705d041e9" title="MPI_Start" alt="" coords="429,183,511,209"/>
+<area shape="rect" id="node10" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="595,132,686,159"/>
+<area shape="rect" id="node11" href="$nvtx__pmpi_8c.html#a60fc3eec4e2d6d05a2f3867b94588cd1" title="PMPI_Test" alt="" coords="597,183,684,209"/>
+</map>

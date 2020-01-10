@@ -1,0 +1,51 @@
+<map id="quda::GaugeField::Order" name="quda::GaugeField::Order">
+<area shape="rect" id="node2" href="$namespacequda.html#a10eaa726091d09d9f6d4e428bd0e1e17" title="Apply APE smearing to the gauge field. " alt="" coords="259,231,368,257"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a02c79c4835f68af5a6a9cbb615e28e88" title="quda::applyU" alt="" coords="266,368,361,395"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ac915554f1abaaccfb9e2e974d855d473" title="quda::updateMomentum" alt="" coords="492,368,652,395"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a34dd1c4bb3cbe98eb22f8ff86fa0acf1" title="Compute and return global the momentum action 1/2 mom^2. " alt="" coords="742,1043,914,1069"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a004044d1e9bec75f92aa844863084f95" title="quda::forceRecord" alt="" coords="973,1043,1100,1069"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a9200b5b7b0bedfefee31634ea39a0f0a" title="quda::checkMomOrder" alt="" coords="237,1479,389,1505"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a67722133651ac086090b613f2ecba041" title="quda::Checksum" alt="" coords="255,1007,372,1033"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="771,1095,885,1121"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a4b255172e59a1940f5b0477ebcd78695" title="Compute the force contribution from the solver solution fields. " alt="" coords="226,44,401,71"/>
+<area shape="rect" id="node21" href="$namespacequda.html#a88f9b8f3add45d5e4b156480335c4a70" title="Compute the outer product from the solver solution fields arising from the diagonal term of the fermi..." alt="" coords="224,95,403,137"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a3a7cf1c0baa8a0025f952c699c38cff1" title="Compute the topological charge. " alt="" coords="235,723,392,749"/>
+<area shape="rect" id="node24" href="$namespacequda.html#a75d8cdc4f4c2ac59f6060bcdad489308" title="Compute the topological charge density per lattice site. " alt="" coords="214,773,413,800"/>
+<area shape="rect" id="node26" href="$namespacequda.html#aa2f1d07ea9e5ce73869cd526ebdb4c92" title="quda::computeStaggeredOprod" alt="" coords="213,1529,413,1556"/>
+<area shape="rect" id="node27" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="238,1151,389,1193"/>
+<area shape="rect" id="node33" href="$namespacequda.html#a90d7109e1b685917b8ae1a05974f880b" title="quda::copyGauge" alt="" coords="253,1580,374,1607"/>
+<area shape="rect" id="node34" href="$namespacequda.html#aedd1f5951335b8a80ca88b9fa48cb6a5" title="quda::copyGaugeEx" alt="" coords="246,1631,381,1657"/>
+<area shape="rect" id="node35" href="$namespacequda.html#ac8cf72dec05d3c21792309bd09bd418e" title="quda::copyGaugeMG" alt="" coords="242,1681,385,1708"/>
+<area shape="rect" id="node37" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="239,596,388,623"/>
+<area shape="rect" id="node42" href="$namespacequda.html#a04def932827868afffccb9716ff55018" title="quda::extractGhost" alt="" coords="249,1732,378,1759"/>
+<area shape="rect" id="node43" href="$namespacequda.html#a001e6ca1ec0b9379d1982b6dc1b27d6b" title="quda::extractGhostEx" alt="" coords="242,1783,385,1809"/>
+<area shape="rect" id="node44" href="$namespacequda.html#a7e2c22a17b3ff299b7a1a6d220a6d343" title="quda::extractGhostMG" alt="" coords="238,1833,389,1860"/>
+<area shape="rect" id="node45" href="$namespacequda.html#a934c1cc3fbfc0a989e5b4eff1fdf923e" title="Generate Gaussian distributed su(N) or SU(N) fields. If U is a momentum field, then we generate rando..." alt="" coords="250,1884,377,1911"/>
+<area shape="rect" id="node46" href="$namespacequda.html#ab6f828717264388e85aa2107fce4cee1" title="quda::isUnitary" alt="" coords="261,1935,366,1961"/>
+<area shape="rect" id="node47" href="$classquda_1_1_lattice_field.html#a6ac04d638e49aa1ed1d6b66ec1dbca39" title="quda::LatticeField\l::Nvec" alt="" coords="252,1986,375,2027"/>
+<area shape="rect" id="node48" href="$namespacequda.html#af2f629a449d73ec8d456907d3b06ec5d" title="Apply Over Improved STOUT smearing to the gauge field. " alt="" coords="229,889,398,916"/>
+<area shape="rect" id="node49" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="497,302,647,343"/>
+<area shape="rect" id="node50" href="$namespacequda.html#a54e29617e44052b49c93962e01df2c39" title="Apply STOUT smearing to the gauge field. " alt="" coords="250,2052,377,2079"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a51da31992209b588cc71641963307d56" title="performAPEnStep" alt="" coords="509,200,635,227"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="731,339,925,365"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="742,251,914,277"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="741,429,915,456"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="744,923,912,949"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="977,988,1096,1015"/>
+<area shape="rect" id="node14" href="$namespacequda.html#ad11d3b5ee1eaec87f427719d8081a189" title="quda::copyGauge" alt="" coords="511,1479,633,1505"/>
+<area shape="rect" id="node16" href="$classquda_1_1_gauge_field.html#ab983f2bef311d704250673b9bc289afe" title="quda::GaugeField::checksum" alt="" coords="479,1007,665,1033"/>
+<area shape="rect" id="node18" href="$classquda_1_1cpu_gauge_field.html#a6e91f1204e583f2f20bb295dce52eeb5" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="501,875,643,917"/>
+<area shape="rect" id="node20" href="$structquda_1_1_full_clover.html#ae938f6d152dff7d3bde7c508740418dc" title="quda::FullClover::FullClover" alt="" coords="484,48,660,75"/>
+<area shape="rect" id="node23" href="$interface__quda_8cpp.html#ae96c2351487ffad0c7fccf146acea047" title="qChargeQuda" alt="" coords="521,723,623,749"/>
+<area shape="rect" id="node25" href="$interface__quda_8cpp.html#ad06b8f39d97cabec9ba78084ff0cee18" title="Calculates the topological charge from gaugeSmeared, if it exist, or from gaugePrecise if no smeared ..." alt="" coords="501,773,643,800"/>
+<area shape="rect" id="node28" href="$multigrid__benchmark__test_8cu.html#ab74e8c9c0b5eb4f70a8e36e650416d95" title="initFields" alt="" coords="535,1209,609,1236"/>
+<area shape="rect" id="node29" href="$classquda_1_1_dirac_coarse.html#a97b2f6b1749cc80498ea5a6309651832" title="Create the CPU or GPU coarse gauge fields on demand (requires that the fields have been created in th..." alt="" coords="506,1261,638,1302"/>
+<area shape="rect" id="node30" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="497,941,647,982"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#a933684d9a6f77d2cc0e5e222c4c7292c" title="loadSloppyGaugeQuda" alt="" coords="495,1159,649,1185"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="755,571,901,597"/>
+<area shape="rect" id="node36" href="$namespacequda.html#af671d7743a65468f3228f3148de9983d" title="quda::copyGenericGaugeMG" alt="" coords="479,1681,665,1708"/>
+<area shape="rect" id="node38" href="$interface__quda_8cpp.html#a8b0af6b94d7d5041eddf9e4a0a929c0c" title="Gauge fixing with overrelaxation with support for single and multi GPU. " alt="" coords="471,419,673,445"/>
+<area shape="rect" id="node39" href="$interface__quda_8cpp.html#abb36177a48730b739464b49c044e609e" title="copyExtendedResidentGaugeQuda" alt="" coords="461,520,683,547"/>
+<area shape="rect" id="node40" href="$interface__quda_8cpp.html#ae25ca55804c0192e0d941c2b276d7d6d" title="createCloverQuda" alt="" coords="509,621,635,648"/>
+<area shape="rect" id="node41" href="$interface__quda_8cpp.html#a0ee20ea90421939924df9903acb6b4d8" title="performOvrImpSTOUTnStep" alt="" coords="479,824,665,851"/>
+</map>

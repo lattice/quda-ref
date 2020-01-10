@@ -1,0 +1,8 @@
+<map id="quda::colorspinor::FieldOrderCB::abs_max" name="quda::colorspinor::FieldOrderCB::abs_max">
+<area shape="rect" id="node2" href="$namespacequda.html#afdecfba62668387d6195eea004bf363e" title="quda::genericCompare" alt="" coords="211,56,361,83"/>
+<area shape="rect" id="node3" href="$classquda_1_1cpu_color_spinor_field.html#ac9c5a3bf3e02799436aa004211ea4508" title="Perform a component by component comparison of two color&#45;spinor fields. In doing we normalize with re..." alt="" coords="409,49,581,90"/>
+<area shape="rect" id="node4" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="629,5,704,32"/>
+<area shape="rect" id="node6" href="$covdev__test_8cpp.html#a86d4ae88ee59392b8c1f4bc81aa7e280" title="TEST" alt="" coords="639,56,694,83"/>
+<area shape="rect" id="node7" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="631,107,702,133"/>
+<area shape="rect" id="node5" href="$pack__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="752,5,803,32"/>
+</map>

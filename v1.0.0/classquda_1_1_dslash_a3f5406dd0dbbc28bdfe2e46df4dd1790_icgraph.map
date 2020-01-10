@@ -1,0 +1,5 @@
+<map id="quda::Dslash::getAux" name="quda::Dslash::getAux">
+<area shape="rect" id="node2" href="$namespacequda_1_1dslash.html#acfd9bea728672d7dacbffac1360e4147" title="Set the ghosts to the mapped CPU ghost buffer, or unsets if already set. Note this must not be called..." alt="" coords="193,46,388,73"/>
+<area shape="rect" id="node3" href="$structquda_1_1dslash_1_1_dslash_zero_copy.html#ac4607a072c066facf43fdd2173a6a6be" title="quda::dslash::DslashZero\lCopy::operator()" alt="" coords="440,5,603,47"/>
+<area shape="rect" id="node4" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy.html#a6b4dc0531694d3d2886e9427ae4b8487" title="quda::dslash::DslashFused\lZeroCopy::operator()" alt="" coords="436,71,607,112"/>
+</map>

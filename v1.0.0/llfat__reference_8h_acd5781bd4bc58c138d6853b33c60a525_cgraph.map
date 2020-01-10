@@ -1,0 +1,34 @@
+<map id="llfat_reference" name="llfat_reference">
+<area shape="rect" id="node2" href="$face__gauge_8cpp.html#ae8f61490333f3712993fe2725d6b2091" title="exchange_cpu_staple" alt="" coords="177,232,324,259"/>
+<area shape="rect" id="node20" href="$llfat__reference_8cpp.html#accb4a1bd614f28ee0afb350020950f87" title="llfat_add_su3_matrix" alt="" coords="631,284,771,311"/>
+<area shape="rect" id="node21" href="$llfat__reference_8cpp.html#ae3fea7e39543c6920a6ca463031b78cc" title="llfat_cpu" alt="" coords="215,497,286,524"/>
+<area shape="rect" id="node23" href="$llfat__reference_8cpp.html#a74b4ca297418bca947864e451c73eea8" title="llfat_mult_su3_an" alt="" coords="639,336,762,363"/>
+<area shape="rect" id="node25" href="$llfat__reference_8cpp.html#ad4ddbac758dba18c825b7a0af3ce9954" title="llfat_mult_su3_na" alt="" coords="639,387,762,413"/>
+<area shape="rect" id="node26" href="$llfat__reference_8cpp.html#a2da40097bcf93bb08b9efb3d86cc55e0" title="llfat_mult_su3_nn" alt="" coords="639,439,762,465"/>
+<area shape="rect" id="node27" href="$llfat__reference_8cpp.html#ab7cc530c86584b430f7c2b5bd9bbbc16" title="llfat_scalar_mult_add\l_su3_matrix" alt="" coords="629,559,773,601"/>
+<area shape="rect" id="node28" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="667,653,735,680"/>
+<area shape="rect" id="node30" href="$llfat__reference_8cpp.html#a5d59d11c27aa03533ef2f473967e285b" title="llfat_scalar_mult_su3\l_matrix" alt="" coords="405,551,548,593"/>
+<area shape="rect" id="node31" href="$llfat__reference_8h.html#acd15e4ac9b0c3f86e5782926da1d4c9c" title="llfat_reference_mg" alt="" coords="186,719,315,745"/>
+<area shape="rect" id="node32" href="$test__util_8cpp.html#a60671cdc409c8235ea03e9d14868205c" title="neighborIndexFullLattice_mg" alt="" coords="157,769,344,796"/>
+<area shape="rect" id="node3" href="$face__gauge_8cpp.html#ae3cf19131ee08a04097e4a0cbc92a957" title="do_exchange_cpu_staple" alt="" coords="393,181,560,208"/>
+<area shape="rect" id="node19" href="$face__gauge_8cpp.html#a9988321ff558a556b26b5d39e207d9ad" title="setup_dims" alt="" coords="433,232,520,259"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#aaf356c30715ea44b84953c66f65c1ef9" title="comm_free" alt="" coords="657,183,744,209"/>
+<area shape="rect" id="node5" href="$comm__quda_8h.html#a0498a56438662fb30281fb92b5bc40b4" title="comm_start" alt="" coords="655,233,746,260"/>
+<area shape="rect" id="node9" href="$comm__quda_8h.html#aa949084ae3512a75d7218748b38f7015" title="comm_wait" alt="" coords="657,132,745,159"/>
+<area shape="rect" id="node14" href="$face__gauge_8cpp.html#aaa32dc7b7b5372f5ccc24a7ed35900d1" title="pack_ghost_all_staples_cpu" alt="" coords="609,81,792,108"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#a0ff352a818935c896c684af705d041e9" title="MPI_Start" alt="" coords="871,233,952,260"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="1039,233,1130,260"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a60fc3eec4e2d6d05a2f3867b94588cd1" title="PMPI_Test" alt="" coords="1041,284,1128,311"/>
+<area shape="rect" id="node10" href="$nvtx__pmpi_8c.html#a65a90a976c9dc2704d5661ee066ca937" title="MPI_Wait" alt="" coords="872,132,951,159"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="1059,81,1111,108"/>
+<area shape="rect" id="node12" href="$nvtx__pmpi_8c.html#a89a5128619ef11cdf9173a34436ad3d5" title="PMPI_Wait" alt="" coords="1041,132,1129,159"/>
+<area shape="rect" id="node13" href="$nvtx__pmpi_8c.html#a6da5aebfab9343484ea0cbeb0954e11a" title="PMPI_Waitany" alt="" coords="1031,183,1139,209"/>
+<area shape="rect" id="node15" href="$face__gauge_8cpp.html#a5cad58d21adb23fb7df6ceaabaf08d05" title="packGhostAllStaples" alt="" coords="840,81,983,108"/>
+<area shape="rect" id="node16" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1041,31,1128,57"/>
+<area shape="rect" id="node17" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1187,5,1345,32"/>
+<area shape="rect" id="node18" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1220,56,1312,83"/>
+<area shape="rect" id="node22" href="$llfat__reference_8cpp.html#a181732fa2cea832452350183932b5e84" title="llfat_compute_gen_staple\l_field" alt="" coords="392,486,561,527"/>
+<area shape="rect" id="node29" href="$gauge__force__reference_8cpp.html#a3e96b500dae48e2ee7f67df9bca3cbe5" title="neighborIndexFullLattice" alt="" coords="619,493,782,520"/>
+<area shape="rect" id="node24" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="871,361,951,388"/>
+<area shape="rect" id="node33" href="$test__util_8cpp.html#abd8308e0d3bb82711cf9d214112d9cbc" title="fullLatticeIndex" alt="" coords="422,769,531,796"/>
+</map>

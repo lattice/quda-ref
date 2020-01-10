@@ -1,0 +1,28 @@
+<map id="quda::MG" name="quda::MG">
+<area shape="rect" id="node25" href="$structquda_1_1_m_g_param.html" title="quda::MGParam" alt="" coords="2131,779,2245,805"/>
+<area shape="rect" id="node2" href="$classquda_1_1_solver.html" title="quda::Solver" alt="" coords="1561,525,1653,552"/>
+<area shape="rect" id="node14" href="$classquda_1_1_eigen_solver.html" title="quda::EigenSolver" alt="" coords="1263,525,1387,552"/>
+<area shape="rect" id="node22" href="$structquda_1_1_solver_param.html" title="quda::SolverParam" alt="" coords="1259,789,1390,816"/>
+<area shape="rect" id="node31" href="$classquda_1_1_transfer.html" title="quda::Transfer" alt="" coords="1273,289,1376,316"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="609,371,760,397"/>
+<area shape="rect" id="node28" href="$classquda_1_1_dirac.html" title="quda::Dirac" alt="" coords="1281,113,1368,140"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="307,157,429,184"/>
+<area shape="rect" id="node30" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="623,93,746,120"/>
+<area shape="rect" id="node6" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="7,9,102,36"/>
+<area shape="rect" id="node7" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="5,207,104,233"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="629,619,740,645"/>
+<area shape="rect" id="node11" href="$structquda_1_1_composite_color_spinor_field_descriptor.html" title="quda::CompositeColorSpinor\lFieldDescriptor" alt="" coords="276,353,460,394"/>
+<area shape="rect" id="node12" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="295,419,441,445"/>
+<area shape="rect" id="node13" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="15,419,95,445"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="638,741,731,768"/>
+<area shape="rect" id="node16" href="$struct_quda_eig_param__s.html" title="QudaEigParam_s" alt="" coords="986,868,1109,895"/>
+<area shape="rect" id="node26" href="$struct_quda_multigrid_param__s.html" title="QudaMultigridParam_s" alt="" coords="1248,963,1401,989"/>
+<area shape="rect" id="node17" href="$struct_quda_invert_param__s.html" title="QudaInvertParam_s" alt="" coords="617,955,753,981"/>
+<area shape="rect" id="node18" href="$classquda_1_1_time_profile.html" title="quda::TimeProfile" alt="" coords="987,96,1108,123"/>
+<area shape="rect" id="node19" href="$structquda_1_1_timer.html" title="quda::Timer" alt="" coords="640,144,729,171"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="647,43,723,69"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="307,43,429,85"/>
+<area shape="rect" id="node24" href="$classquda_1_1_r_n_g.html" title="Class declaration to initialize and hold CURAND RNG states. " alt="" coords="1565,576,1649,603"/>
+<area shape="rect" id="node27" href="$classquda_1_1_dirac_matrix.html" title="quda::DiracMatrix" alt="" coords="1547,165,1668,192"/>
+<area shape="rect" id="node29" href="$classquda_1_1cuda_gauge_field.html" title="quda::cudaGaugeField" alt="" coords="972,45,1123,72"/>
+</map>

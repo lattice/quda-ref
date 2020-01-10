@@ -1,0 +1,51 @@
+<map id="dslashRef" name="dslashRef">
+<area shape="rect" id="node2" href="$clover__reference_8cpp.html#a9546fbabb2088fcc814f073720529328" title="clover_dslash" alt="" coords="165,307,264,334"/>
+<area shape="rect" id="node5" href="$wilson__dslash__reference_8cpp.html#ab62eaad6ac44a13ca6a5bfed3baa7b48" title="wil_dslash" alt="" coords="375,383,455,410"/>
+<area shape="rect" id="node13" href="$clover__reference_8cpp.html#a69e3f1607c121be48fc540b0b4fd43a3" title="clover_mat" alt="" coords="172,29,257,55"/>
+<area shape="rect" id="node16" href="$clover__reference_8cpp.html#aa44d6283bd416112a1b8b041504c413d" title="clover_matpc" alt="" coords="165,105,264,131"/>
+<area shape="rect" id="node17" href="$domain__wall__dslash__reference_8cpp.html#a2ab0fdb6956f86e6d2b28b950784cfc7" title="dslash_4_4d" alt="" coords="369,1219,462,1246"/>
+<area shape="rect" id="node18" href="$domain__wall__dslash__reference_8cpp.html#a67f7d52bbbd7bc19312e3e40cb7451fc" title="dslash_5_inv" alt="" coords="368,1169,463,1195"/>
+<area shape="rect" id="node20" href="$domain__wall__dslash__reference_8cpp.html#a24640c2cc485eefb297bc165f4d44bcb" title="dw_4d_mat" alt="" coords="171,915,259,942"/>
+<area shape="rect" id="node21" href="$domain__wall__dslash__reference_8cpp.html#a41897e20820957adea4719f6b4e4ff4d" title="dw_dslash_5_4d" alt="" coords="357,966,473,993"/>
+<area shape="rect" id="node22" href="$domain__wall__dslash__reference_8cpp.html#a155c5b029b825831dc6a0896582e6c4c" title="dw_4d_matpc" alt="" coords="163,1067,266,1094"/>
+<area shape="rect" id="node23" href="$domain__wall__dslash__reference_8cpp.html#a379e726ca20b6ca8f7514ad9299ede4a" title="dw_dslash" alt="" coords="581,1017,662,1043"/>
+<area shape="rect" id="node24" href="$domain__wall__dslash__reference_8cpp.html#a102e9755280fbfd360dd0105df5a9ee5" title="dw_mat" alt="" coords="382,865,449,891"/>
+<area shape="rect" id="node25" href="$domain__wall__dslash__reference_8cpp.html#a554baec7844c0a77fc36c4510c400301" title="dw_matdagmat" alt="" coords="159,814,270,841"/>
+<area shape="rect" id="node26" href="$domain__wall__dslash__reference_8cpp.html#aa801991250ed54f99cf7e150485dad98" title="dw_matpc" alt="" coords="375,1017,456,1043"/>
+<area shape="rect" id="node27" href="$domain__wall__dslash__reference_8cpp.html#a34813fdcf840603d7d47cea7e29b9342" title="mdw_dslash_4_pre" alt="" coords="350,1270,481,1297"/>
+<area shape="rect" id="node29" href="$domain__wall__dslash__reference_8cpp.html#ac0c28eaba1c9ede6993266fb8a41a86e" title="mdw_dslash_5" alt="" coords="362,1371,469,1398"/>
+<area shape="rect" id="node31" href="$domain__wall__dslash__reference_8cpp.html#a55119189db0c7bd3122c787d41d4e246" title="mdw_dslash_5_inv" alt="" coords="351,1473,480,1499"/>
+<area shape="rect" id="node33" href="$domain__wall__dslash__reference_8cpp.html#a30386cd20c5235e592a9d12142a14b63" title="mdw_mat" alt="" coords="175,1321,254,1347"/>
+<area shape="rect" id="node34" href="$domain__wall__dslash__reference_8cpp.html#a1a80c440d9dedfcb8438ed1b561eb590" title="mdw_matpc" alt="" coords="169,1422,261,1449"/>
+<area shape="rect" id="node35" href="$wilson__dslash__reference_8cpp.html#a56238beed05ed9d7bb716ce15772dbc2" title="tm_dslash" alt="" coords="175,459,255,486"/>
+<area shape="rect" id="node37" href="$wilson__dslash__reference_8cpp.html#a574b6467cf1e1a4e613cd462aec4f28b" title="tm_mat" alt="" coords="181,561,248,587"/>
+<area shape="rect" id="node38" href="$wilson__dslash__reference_8cpp.html#ae98d7c6ef6be2871d2a360674522f62e" title="tm_matpc" alt="" coords="175,510,255,537"/>
+<area shape="rect" id="node39" href="$wilson__dslash__reference_8cpp.html#af25742b54571c8446235b32895872b7a" title="tm_ndeg_dslash" alt="" coords="157,662,272,689"/>
+<area shape="rect" id="node41" href="$wilson__dslash__reference_8cpp.html#a7e5dd9055676da0d98601d65339ad224" title="tm_ndeg_mat" alt="" coords="164,611,265,638"/>
+<area shape="rect" id="node42" href="$wilson__dslash__reference_8cpp.html#ace3a83f92f18d14318cadae0b97dea83" title="tm_ndeg_matpc" alt="" coords="157,713,272,739"/>
+<area shape="rect" id="node43" href="$clover__reference_8cpp.html#aaa136e91c8c344b57b64f23778231c96" title="tmc_dslash" alt="" coords="171,257,258,283"/>
+<area shape="rect" id="node45" href="$clover__reference_8cpp.html#a9ec587006fc538ff89d33e0d9ea6c5fd" title="tmc_mat" alt="" coords="178,155,251,182"/>
+<area shape="rect" id="node46" href="$clover__reference_8cpp.html#af47d4a96b1e9667333ae7973e3c8cc0f" title="tmc_matpc" alt="" coords="171,206,258,233"/>
+<area shape="rect" id="node47" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="132,1523,297,1550"/>
+<area shape="rect" id="node48" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="139,1575,290,1616"/>
+<area shape="rect" id="node49" href="$wilson__dslash__reference_8cpp.html#a4a3540f8ddb276998234921f3241e22e" title="wil_mat" alt="" coords="181,763,248,790"/>
+<area shape="rect" id="node50" href="$wilson__dslash__reference_8cpp.html#ab14504a5d4602633b4988c93859d4601" title="wil_matpc" alt="" coords="175,409,255,435"/>
+<area shape="rect" id="node3" href="$clover__reference_8cpp.html#af9cbba0297a2c57aefe515c4fb1a94cf" title="apply_clover" alt="" coords="575,155,668,182"/>
+<area shape="rect" id="node4" href="$clover__reference_8cpp.html#a9a128d1203e70a6c48f51597b88b8081" title="Apply the clover matrix field. " alt="" coords="786,155,901,182"/>
+<area shape="rect" id="node6" href="$wilson__dslash__reference_8cpp.html#a254701a68d337537a66c9cf0c8f67f24" title="dslashReference" alt="" coords="563,485,680,511"/>
+<area shape="rect" id="node7" href="$classquda_1_1_gauge_field.html#aedfa91e714c61b8e11caec9d2703dcfa" title="quda::GaugeField::Ghost" alt="" coords="762,1017,925,1043"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="763,951,924,992"/>
+<area shape="rect" id="node9" href="$classquda_1_1cpu_color_spinor_field.html#a69850014a1e80a2d6ddaece3932ad860" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="757,1068,929,1109"/>
+<area shape="rect" id="node10" href="$classquda_1_1cpu_color_spinor_field.html#af375a9f256d62db1749bcafffa1ed5b2" title="Allocate the ghost buffers. " alt="" coords="977,1003,1149,1044"/>
+<area shape="rect" id="node11" href="$classquda_1_1cpu_color_spinor_field.html#a8386225c8fc1020670e5a0b9f4995473" title="quda::cpuColorSpinorField\l::packGhost" alt="" coords="977,1068,1149,1109"/>
+<area shape="rect" id="node12" href="$classquda_1_1_color_spinor_field.html#a03366c6ecf5bdea2e1988dd8d9e4d114" title="quda::ColorSpinorField\l::exchange" alt="" coords="988,1133,1139,1175"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1blas.html#a8f3009e9e4a4bfe40b4d3f20d03c2f45" title="quda::blas::xpay" alt="" coords="566,625,677,651"/>
+<area shape="rect" id="node15" href="$namespacequda_1_1blas.html#a7a989a4b5814fab3ae2ad74d76bbc874" title="quda::blas::axpbyz" alt="" coords="781,625,905,651"/>
+<area shape="rect" id="node19" href="$domain__wall__dslash__reference_8cpp.html#ab31e412602c643d1f1558de859c3bd53" title="dslashReference_5th_inv" alt="" coords="539,1067,704,1094"/>
+<area shape="rect" id="node28" href="$dslash__util_8h.html#ab3b65f3e997d5d3cf902c8f4c0f9e78e" title="axpby" alt="" coords="594,1270,649,1297"/>
+<area shape="rect" id="node30" href="$blas__reference_8cpp.html#acddf461e029966746331722003f7ff93" title="cxpay" alt="" coords="594,1371,649,1398"/>
+<area shape="rect" id="node32" href="$domain__wall__dslash__reference_8cpp.html#a616ff41cd6ad307c021615e5b739d7f4" title="mdslashReference_5th_inv" alt="" coords="533,1473,709,1499"/>
+<area shape="rect" id="node36" href="$wilson__dslash__reference_8cpp.html#adfd689a4cdfabaa26db7443b4bf04b5e" title="twist_gamma5" alt="" coords="363,535,468,562"/>
+<area shape="rect" id="node40" href="$wilson__dslash__reference_8cpp.html#a255b0709a326b49fc8daab8ee9aa7516" title="ndeg_twist_gamma5" alt="" coords="345,687,485,714"/>
+<area shape="rect" id="node44" href="$clover__reference_8cpp.html#a465804b738c90b0a41d68fcbe48918b9" title="twistCloverGamma5" alt="" coords="347,231,484,258"/>
+</map>

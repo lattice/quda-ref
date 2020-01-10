@@ -1,0 +1,5 @@
+<map id="PMPI_Sendrecv" name="PMPI_Sendrecv">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#a5997e8e9b61e2f97c69d0667992fce1c" title="MPI_Bcast" alt="" coords="179,5,266,32"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#a7da740686e0c293a9dc96322ec19f654" title="MPI_Sendrecv" alt="" coords="169,56,276,83"/>
+<area shape="rect" id="node3" href="$comm__mpi_8cpp.html#a8b877be417d6c8f73bcca8497b730d40" title="comm_broadcast" alt="" coords="324,5,445,32"/>
+</map>

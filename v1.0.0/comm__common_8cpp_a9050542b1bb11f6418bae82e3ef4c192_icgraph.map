@@ -1,0 +1,51 @@
+<map id="index" name="index">
+<area shape="rect" id="node2" href="$test__util_8cpp.html#a89b20526a3b057ed51149add7befd83c" title="applyGaugeFieldScaling_long" alt="" coords="135,173,327,199"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a1d5cd14f75a7aef8b496edcdba0831d4" title="quda::cloverDerivativeKernel" alt="" coords="139,395,322,422"/>
+<area shape="rect" id="node13" href="$comm__common_8cpp.html#a03fa1c0e94c2722e5f85d050bde726b5" title="comm_create_topology" alt="" coords="153,446,309,473"/>
+<area shape="rect" id="node15" href="$comm__common_8cpp.html#a2bcd0470c413dfeb8dd686ddcb7866cb" title="comm_rank_from_coords" alt="" coords="147,497,315,523"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#afef0846a6a3aacaf6a64743a6cfae648" title="createGaugeForcePaths" alt="" coords="149,547,312,574"/>
+<area shape="rect" id="node19" href="$layout__hyper_8c.html#a74966f2e3fff08da47ef1e891396f08e" title="get_coords" alt="" coords="188,598,273,625"/>
+<area shape="rect" id="node21" href="$namespacequda_1_1dslash.html#ab787c4c3d21ad54430c07b7a7770ab45" title="Returns a stream index for posting the pack/scatters to. We desire a stream index that is not being u..." alt="" coords="136,649,325,675"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a7b51d2d633e0eec8c96da65d32704a8e" title="quda::ghostFaceIndex" alt="" coords="157,699,304,726"/>
+<area shape="rect" id="node30" href="$namespacequda.html#ad50617c61b7081c1ee04f84b1dd55a4f" title="quda::ghostFaceIndexStaggered" alt="" coords="127,750,334,777"/>
+<area shape="rect" id="node31" href="$namespacequda.html#aee6d458679204724218c14fa1243901e" title="quda::IndexBlock" alt="" coords="171,801,291,827"/>
+<area shape="rect" id="node32" href="$namespacequda_1_1gauge.html#ac38d7c2bb9ea52de39575dcaf73a3d0f" title="quda::gauge::indexFloatN" alt="" coords="148,851,313,878"/>
+<area shape="rect" id="node33" href="$misc_8cpp.html#aeff1fc59c02e5e965dc5dbb73385194c" title="link_sanity_check_internal_12" alt="" coords="133,902,328,929"/>
+<area shape="rect" id="node35" href="$misc_8cpp.html#aa3f6554cacd466fd93b109246051fdb3" title="link_sanity_check_internal_8" alt="" coords="137,953,324,979"/>
+<area shape="rect" id="node36" href="$nvtx__pmpi_8c.html#a65a90a976c9dc2704d5661ee066ca937" title="MPI_Wait" alt="" coords="191,1003,270,1030"/>
+<area shape="rect" id="node38" href="$test__util_8cpp.html#a6088932eda3e92d8e6d8df1dfa60b83e" title="neighborIndexFullLattice" alt="" coords="149,1054,312,1081"/>
+<area shape="rect" id="node39" href="$classquda_1_1_matrix.html#acc0fb5467c2be80ab5572ea01e9e4afb" title="quda::Matrix::operator()" alt="" coords="155,1105,307,1131"/>
+<area shape="rect" id="node40" href="$structquda_1_1_h_matrix.html#af3b8c22158bbed57145725b3a42109d5" title="quda::HMatrix::operator()" alt="" coords="150,1155,311,1182"/>
+<area shape="rect" id="node41" href="$structquda_1_1gauge_1_1_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___f_l_o_a_t2___g_a_u_g_e_0851bfc944ce664513b027bdb1e7938b.html#a755409bb96206d814e9b2025961a9cfc" title="quda::gauge::Accessor\l\&lt; Float, nColor, QUDA\l_FLOAT2_GAUGE_ORDER, storeFloat,\l use_tex \&gt;::operator()" alt="" coords="105,1207,356,1277"/>
+<area shape="rect" id="node42" href="$face__gauge_8cpp.html#a7ab50de52bbd533b70a05927c381f333" title="packGhostAllLinks" alt="" coords="166,1302,295,1329"/>
+<area shape="rect" id="node44" href="$face__gauge_8cpp.html#a5cad58d21adb23fb7df6ceaabaf08d05" title="packGhostAllStaples" alt="" coords="159,1353,302,1379"/>
+<area shape="rect" id="node46" href="$misc_8cpp.html#a4a665a5c8ab5f7213071be2a12069e7a" title="site_link_sanity_check\l_internal_12" alt="" coords="155,1404,306,1445"/>
+<area shape="rect" id="node48" href="$qio__util_8cpp.html#ab9e19290d87ce9152b7aa8a8aef55ce2" title="vget_M" alt="" coords="199,1470,263,1497"/>
+<area shape="rect" id="node49" href="$qio__util_8cpp.html#a4e60728dc75df644c1bc9de2fc11267c" title="vput_M" alt="" coords="199,1521,263,1547"/>
+<area shape="rect" id="node50" href="$qio__util_8cpp.html#a2db8cd854b702a38497f7f7618e46e8d" title="vset_M" alt="" coords="199,1571,262,1598"/>
+<area shape="rect" id="node3" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="497,17,536,43"/>
+<area shape="rect" id="node5" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="461,71,572,98"/>
+<area shape="rect" id="node7" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="476,122,557,149"/>
+<area shape="rect" id="node9" href="$test__util_8h.html#ac2dce3761ae49e5fe8bfcd1a57aff961" title="applyGaugeFieldScaling_long" alt="" coords="421,173,613,199"/>
+<area shape="rect" id="node10" href="$test__util_8cpp.html#a90501c6aa892140ed3d96016b37cc0c9" title="constructGaugeField" alt="" coords="446,223,587,250"/>
+<area shape="rect" id="node11" href="$test__util_8cpp.html#a31022e3fdbba2e0f9b7bb6c58467366b" title="applyStaggeredScaling" alt="" coords="439,274,594,301"/>
+<area shape="rect" id="node4" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="677,5,821,47"/>
+<area shape="rect" id="node6" href="$staggered__eigensolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="724,71,775,98"/>
+<area shape="rect" id="node8" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="724,122,775,149"/>
+<area shape="rect" id="node14" href="$comm__common_8cpp.html#a28f2c1670b57527ab3a9ce34f1110caf" title="Initialize the communications common to all communications abstractions. " alt="" coords="447,325,586,351"/>
+<area shape="rect" id="node16" href="$comm__common_8cpp.html#a0f31fd7abcfc2ed609e5f9c47940af71" title="comm_rank_displaced" alt="" coords="441,375,592,402"/>
+<area shape="rect" id="node18" href="$interface__quda_8cpp.html#a049fa0d60d43475bd7bb67f6c78750d4" title="Compute the gauge force and update the mometum field. " alt="" coords="441,427,592,468"/>
+<area shape="rect" id="node20" href="$qio__field_8cpp.html#ab1500ef7f975e98f8c50b01db933f98b" title="set_layout" alt="" coords="477,493,557,519"/>
+<area shape="rect" id="node22" href="$structquda_1_1dslash_1_1_dslash_fused_exterior.html#aed1c7ad89c2c0e497aefb6e585c677ab" title="quda::dslash::DslashFused\lExterior::operator()" alt="" coords="431,544,602,585"/>
+<area shape="rect" id="node23" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack.html#a145bf19c8f418bb3a475485bef5fab4e" title="quda::dslash::DslashZero\lCopyPack::operator()" alt="" coords="435,609,598,651"/>
+<area shape="rect" id="node24" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack.html#a4dc97ba48ebb8e95517ec1e670f2eacd" title="quda::dslash::DslashFused\lZeroCopyPack::operator()" alt="" coords="431,675,602,716"/>
+<area shape="rect" id="node25" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack_g_d_r_recv.html#a9d86e2e91a220900c89f2722bf17751e" title="quda::dslash::DslashZero\lCopyPackGDRRecv::operator()" alt="" coords="417,740,616,781"/>
+<area shape="rect" id="node26" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack_g_d_r_recv.html#a111cae0d62f19d1995d40da2e0abb2ab" title="quda::dslash::DslashFused\lZeroCopyPackGDRRecv::operator()" alt="" coords="404,805,629,847"/>
+<area shape="rect" id="node27" href="$structquda_1_1dslash_1_1_dslash_zero_copy.html#ac4607a072c066facf43fdd2173a6a6be" title="quda::dslash::DslashZero\lCopy::operator()" alt="" coords="435,871,598,912"/>
+<area shape="rect" id="node28" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy.html#a6b4dc0531694d3d2886e9427ae4b8487" title="quda::dslash::DslashFused\lZeroCopy::operator()" alt="" coords="431,936,602,977"/>
+<area shape="rect" id="node34" href="$misc_8h.html#a734b0db1a4279fe0ece6b253274c62af" title="link_sanity_check" alt="" coords="455,1002,579,1029"/>
+<area shape="rect" id="node37" href="$comm__mpi_8cpp.html#aa949084ae3512a75d7218748b38f7015" title="comm_wait" alt="" coords="473,1053,561,1079"/>
+<area shape="rect" id="node43" href="$face__gauge_8cpp.html#aa29f92c4f8e6986f39499d38a7b3bff8" title="pack_ghost_all_links" alt="" coords="446,1302,587,1329"/>
+<area shape="rect" id="node45" href="$face__gauge_8cpp.html#aaa32dc7b7b5372f5ccc24a7ed35900d1" title="pack_ghost_all_staples_cpu" alt="" coords="425,1353,608,1379"/>
+<area shape="rect" id="node47" href="$misc_8h.html#a0f48d3fa4a8be250a6568fd8385253b4" title="site_link_sanity_check" alt="" coords="441,1411,592,1438"/>
+</map>

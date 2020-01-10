@@ -1,0 +1,51 @@
+<map id="quda::ColorSpinorParam::setPrecision" name="quda::ColorSpinorParam::setPrecision">
+<area shape="rect" id="node2" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="245,5,386,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a026455342b50e0274c0aad8886880e0c" title="quda::colorSpinorParam" alt="" coords="236,317,395,344"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="715,185,883,212"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="699,355,898,381"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="951,233,1055,260"/>
+<area shape="rect" id="node10" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="710,275,887,301"/>
+<area shape="rect" id="node11" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="713,747,885,773"/>
+<area shape="rect" id="node12" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="709,467,888,493"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="229,477,401,504"/>
+<area shape="rect" id="node14" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="218,427,413,453"/>
+<area shape="rect" id="node16" href="$test__util_8h.html#a88ab21203c6c7e1f46ebc383ef3d8367" title="construct_spinor_source" alt="" coords="475,1605,636,1632"/>
+<area shape="rect" id="node17" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="758,1656,839,1683"/>
+<area shape="rect" id="node18" href="$classquda_1_1_solver.html#a71b5c8751745dbe8740df929e5859962" title="Constructs the deflation space. " alt="" coords="215,731,416,773"/>
+<area shape="rect" id="node19" href="$classquda_1_1_c_a_c_g.html#a36adb4a2c0be0e865145e72e6ce55481" title="Initiate the fields needed by the solver. " alt="" coords="488,652,623,679"/>
+<area shape="rect" id="node20" href="$classquda_1_1_c_a_g_c_r.html#a9ad88f1a6ecdd05e9a4c37c63dddf070" title="Initiate the fields needed by the solver. " alt="" coords="483,732,627,759"/>
+<area shape="rect" id="node21" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="487,784,623,811"/>
+<area shape="rect" id="node22" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="483,839,628,865"/>
+<area shape="rect" id="node23" href="$interface__quda_8cpp.html#a5921a7a314a27e9988bf239f44ea85ff" title="contractQuda" alt="" coords="265,949,365,976"/>
+<area shape="rect" id="node24" href="$classquda_1_1_color_spinor_field.html#ab35ecfee5829a97f0cf7a7cdddadfce8" title="Create a coarse color&#45;spinor field, using this field to set the meta data. " alt="" coords="240,1001,391,1042"/>
+<area shape="rect" id="node25" href="$classquda_1_1_transfer.html#ad4a408f77c517724a3d1e1b459adb75c" title="Allocate temporaries used when applying transfer operators. " alt="" coords="470,1037,641,1064"/>
+<area shape="rect" id="node26" href="$classquda_1_1_color_spinor_field.html#a6b637b6d85add5ba71ae879616fb6f2a" title="Create a fine color&#45;spinor field, using this field to set the meta data. " alt="" coords="240,1118,391,1159"/>
+<area shape="rect" id="node27" href="$classquda_1_1_transfer.html#aad3bb7d4f76ecc134e7cea8ed67ab274" title="Allocate V field. " alt="" coords="239,1184,392,1211"/>
+<area shape="rect" id="node28" href="$domain__wall__dslash__reference_8h.html#acc3c3dfb8fc640ff871168e4c65bd210" title="dslash_4_4d" alt="" coords="269,1235,362,1261"/>
+<area shape="rect" id="node29" href="$domain__wall__dslash__reference_8h.html#abcc83ec1305a46a488f870b81fe42e71" title="dw_dslash" alt="" coords="275,1285,356,1312"/>
+<area shape="rect" id="node30" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="464,593,647,620"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#a012ffe14f6791a1b0838a2627a36e99d" title="eigensolveQuda" alt="" coords="259,1387,372,1413"/>
+<area shape="rect" id="node32" href="$classquda_1_1_color_spinor_field.html#a04bec375d7075f4802836e3d488d951e" title="quda::ColorSpinorField\l::fill" alt="" coords="240,1438,391,1479"/>
+<area shape="rect" id="node33" href="$classquda_1_1_m_g.html#ad881072a23857253e540cf789cd73594" title="Generate lowest eigenvectors. " alt="" coords="695,116,903,143"/>
+<area shape="rect" id="node34" href="$covdev__test_8cpp.html#aa1cd5eafa5245aa7c3ded9b3b470f0b9" title="init" alt="" coords="296,1555,335,1581"/>
+<area shape="rect" id="node35" href="$classquda_1_1_inc_eig_c_g.html#a8ad27c286ef2376a42173024366ddf25" title="quda::IncEigCG::initCGsolve" alt="" coords="464,1187,647,1213"/>
+<area shape="rect" id="node36" href="$blas__test_8cu.html#a41091909138c2cc9f7a7873ce3164206" title="initFields" alt="" coords="519,2333,592,2360"/>
+<area shape="rect" id="node37" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="513,1656,597,1683"/>
+<area shape="rect" id="node38" href="$classquda_1_1_eigen_solver.html#af06bf902ebadc0eca6fbfd9ac8f35906" title="Load vectors from file. " alt="" coords="250,1758,381,1799"/>
+<area shape="rect" id="node39" href="$structquda_1_1multigrid__solver.html#a90dca24011ab28a4f496484dbf79c27b" title="quda::multigrid_solver\l::multigrid_solver" alt="" coords="243,1823,388,1865"/>
+<area shape="rect" id="node40" href="$classquda_1_1_c_g3.html#affe2eda59aece923ef89de0a0d57f0b2" title="quda::CG3::operator()" alt="" coords="244,1889,387,1916"/>
+<area shape="rect" id="node41" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="235,1940,395,1967"/>
+<area shape="rect" id="node42" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="229,1991,401,2017"/>
+<area shape="rect" id="node43" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="226,2041,405,2068"/>
+<area shape="rect" id="node44" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="247,2092,384,2119"/>
+<area shape="rect" id="node45" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="250,2143,381,2185"/>
+<area shape="rect" id="node46" href="$classquda_1_1_eigen_solver.html#a03dea475571b655f2aa97d9bb56174ec" title="Save vectors to file. " alt="" coords="250,2209,381,2250"/>
+<area shape="rect" id="node47" href="$blas__test_8cu.html#a3216bd0e6b9d91ca1363a355a710b1e1" title="setPrec" alt="" coords="282,2392,349,2419"/>
+<area shape="rect" id="node48" href="$classquda_1_1cuda_color_spinor_field.html#aac64c07b746c93df650da7d64e5c215b" title="quda::cudaColorSpinorField\l::Source" alt="" coords="226,2326,405,2367"/>
+<area shape="rect" id="node49" href="$namespacequda.html#af5dfe5132103d5e6adc57775ad51100e" title="Generate a random noise spinor. This variant allows the user to manage the RNG state. " alt="" coords="254,1504,377,1531"/>
+<area shape="rect" id="node50" href="$wilson__dslash__reference_8h.html#a4baf1106373856ef3ddf22ded94da45a" title="wil_dslash" alt="" coords="275,2443,355,2469"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a4e5e8ddc62dac184981ffe1ed46f4c54" title="Scale the gauge field by the scalar a. " alt="" coords="521,309,590,336"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a8cf44a943240ae861170a70f8f416b2b" title="quda::norm1" alt="" coords="509,259,601,285"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a3174ee67c7fa7d35dbdf37b13064e8b0" title="quda::norm2" alt="" coords="509,360,601,387"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="470,462,641,503"/>
+</map>

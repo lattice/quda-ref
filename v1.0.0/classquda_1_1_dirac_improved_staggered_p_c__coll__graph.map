@@ -1,0 +1,18 @@
+<map id="quda::DiracImprovedStaggeredPC" name="quda::DiracImprovedStaggeredPC">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_improved_staggered.html" title="quda::DiracImprovedStaggered" alt="" coords="1319,128,1517,155"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac.html" title="quda::Dirac" alt="" coords="1183,159,1269,185"/>
+<area shape="rect" id="node4" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="7,9,102,36"/>
+<area shape="rect" id="node7" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="307,143,429,169"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_gauge_field.html" title="quda::cudaGaugeField" alt="" coords="941,107,1092,133"/>
+<area shape="rect" id="node6" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="623,107,746,133"/>
+<area shape="rect" id="node13" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="609,211,760,237"/>
+<area shape="rect" id="node8" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="5,207,104,233"/>
+<area shape="rect" id="node9" href="$classquda_1_1_time_profile.html" title="quda::TimeProfile" alt="" coords="956,361,1077,388"/>
+<area shape="rect" id="node10" href="$structquda_1_1_timer.html" title="quda::Timer" alt="" coords="640,361,729,388"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="647,421,723,448"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="307,414,429,455"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="629,305,740,332"/>
+<area shape="rect" id="node17" href="$structquda_1_1_composite_color_spinor_field_descriptor.html" title="quda::CompositeColorSpinor\lFieldDescriptor" alt="" coords="276,254,460,295"/>
+<area shape="rect" id="node18" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="295,203,441,229"/>
+<area shape="rect" id="node19" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="15,399,95,425"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="commAsyncReduction" name="commAsyncReduction">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ae462068e0f6e4e517c84156dceea06b2" title="quda::blas::caxpyXmazMR" alt="" coords="218,31,389,57"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#ad1c808c1ffe67d6977642a97e47529f0" title="quda::blas::multiReduceLaunch" alt="" coords="204,81,403,108"/>
+<area shape="rect" id="node7" href="$structquda_1_1_reduce_arg.html#a6c8083f17378952464f8842f33368bc9" title="quda::ReduceArg\&lt; vector\l_type\&lt; ReduceType, NXZ\l \&gt; \&gt;::ReduceArg" alt="" coords="219,132,388,188"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#af9f7b3bc9c35b3921606691afdf1dc7e" title="quda::blas::reduceLaunch" alt="" coords="220,212,387,239"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a2b7fb83a851af1be1a205ed4f6830983" title="quda::blas::xpayz" alt="" coords="461,5,578,32"/>
+<area shape="rect" id="node5" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="451,56,588,83"/>
+<area shape="rect" id="node4" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="636,5,772,32"/>
+</map>

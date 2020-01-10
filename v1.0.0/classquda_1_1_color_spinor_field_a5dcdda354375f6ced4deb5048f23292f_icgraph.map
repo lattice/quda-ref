@@ -1,0 +1,51 @@
+<map id="quda::ColorSpinorField::TwistFlavor" name="quda::ColorSpinorField::TwistFlavor">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#aaab752af85bc88bcf1338e6b8f236735" title="quda::ColorSpinorField\l::checkField" alt="" coords="226,187,377,228"/>
+<area shape="rect" id="node17" href="$structquda_1_1_clover_arg.html#a78eae8222d3de90f4ffce1ca405790c5" title="quda::CloverArg::CloverArg" alt="" coords="214,253,389,279"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_wilson.html#a4e873522da17bae973718aa7aa942b7e" title="Create the coarse Wilson operator. " alt="" coords="236,304,367,345"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_clover.html#a9c69f0fb58c5bd94644f141319473663" title="Create the coarse clover operator. " alt="" coords="237,369,365,411"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dirac_clover_p_c.html#a408ad9ed05b6ab10213f30e83e5fb5e2" title="Create the coarse even&#45;odd preconditioned clover operator. Unlike the Wilson operator, the coarsening of the preconditioned clover operator differs from that of the unpreconditioned clover operator, so we need to specialize it. " alt="" coords="231,435,371,476"/>
+<area shape="rect" id="node21" href="$classquda_1_1_dirac_twisted_clover.html#abd2fd1a9b0e159f1d5afb99dd16ee89d" title="Create the coarse twisted&#45;clover operator. " alt="" coords="218,500,385,541"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a245cabe1d6dfdae79a388cde83b5729b" title="Create the coarse even&#45;odd preconditioned twisted&#45;clover operator. Unlike the Wilson operator..." alt="" coords="218,565,385,607"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac_coarse.html#ab76cf8673c2904f5a297c68a9d87745a" title="Create the coarse operator from this coarse operator. " alt="" coords="235,631,367,672"/>
+<area shape="rect" id="node24" href="$classquda_1_1_dirac_coarse_p_c.html#ae2a592a11d6cdbc7c513c1a2f3b972eb" title="Create the coarse even&#45;odd preconditioned coarse operator. Unlike the Wilson operator, the coarsening of the preconditioned coarse operator differs from that of the unpreconditioned coarse operator, so we need to specialize it. " alt="" coords="229,696,373,737"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac_twisted_mass.html#adb99f78729fb1f7655bafae2e0555745" title="quda::DiracTwistedMass\l::Dslash" alt="" coords="221,761,381,803"/>
+<area shape="rect" id="node26" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aebad1f29b65f446d27b2454b45bbec13" title="quda::DiracTwistedMassPC\l::Dslash" alt="" coords="212,892,391,933"/>
+<area shape="rect" id="node29" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a503bc0265a583054448836dd4e7e8335" title="quda::DiracTwistedClover\lPC::Dslash" alt="" coords="218,1127,385,1168"/>
+<area shape="rect" id="node30" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a359ba6db818f191e4eb0f51badf3f91b" title="quda::DiracTwistedClover\lPC::M" alt="" coords="461,1224,627,1265"/>
+<area shape="rect" id="node32" href="$classquda_1_1_dirac_twisted_mass.html#a27da6864d95f2d29a4da59478ad77e0a" title="quda::DiracTwistedMass\l::DslashXpay" alt="" coords="221,827,381,868"/>
+<area shape="rect" id="node33" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aefa93709f581a5e61216f7b0a5e60c4b" title="quda::DiracTwistedMassPC\l::DslashXpay" alt="" coords="212,1009,391,1051"/>
+<area shape="rect" id="node34" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a6be83a5144164ad7acf1151cb36cd2d2" title="quda::DiracTwistedMassPC\l::prepare" alt="" coords="455,976,633,1017"/>
+<area shape="rect" id="node35" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a410ab24479e1571524de12f5faddbbef" title="quda::DiracTwistedMassPC\l::reconstruct" alt="" coords="455,1055,633,1096"/>
+<area shape="rect" id="node36" href="$classquda_1_1_dirac_twisted_clover.html#a33c37ccaedb7c08912a94689928e7651" title="quda::DiracTwistedClover\l::DslashXpay" alt="" coords="218,1192,385,1233"/>
+<area shape="rect" id="node37" href="$classquda_1_1_dirac_twisted_clover_p_c.html#af123fa46e3c363daa4f1748f5f33e242" title="quda::DiracTwistedClover\lPC::DslashXpay" alt="" coords="218,1257,385,1299"/>
+<area shape="rect" id="node38" href="$structquda_1_1_gamma_arg.html#aa7befa94b27f55ba47e33ccdd017d378" title="quda::GammaArg::GammaArg" alt="" coords="204,1374,399,1401"/>
+<area shape="rect" id="node39" href="$classquda_1_1_dirac_twisted_mass.html#ab36fafa9cbf99a747427ea950939144a" title="quda::DiracTwistedMass::M" alt="" coords="213,1425,390,1451"/>
+<area shape="rect" id="node41" href="$classquda_1_1_dirac_twisted_clover.html#af3398643205897ed03bfab03f755b111" title="quda::DiracTwistedClover::M" alt="" coords="210,1475,393,1502"/>
+<area shape="rect" id="node43" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a575011bb2425b78658f06c3d93eafc24" title="quda::DiracTwistedClover\lPC::prepare" alt="" coords="218,1527,385,1568"/>
+<area shape="rect" id="node44" href="$classquda_1_1_dirac_twisted_clover_p_c.html#acc55a7986745e4ad5a5291a394a502ac" title="quda::DiracTwistedClover\lPC::reconstruct" alt="" coords="218,1592,385,1633"/>
+<area shape="rect" id="node45" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="245,1682,358,1709"/>
+<area shape="rect" id="node3" href="$classquda_1_1cpu_color_spinor_field.html#ac9c5a3bf3e02799436aa004211ea4508" title="Perform a component by component comparison of two color&#45;spinor fields. In doing we normalize with re..." alt="" coords="458,136,630,177"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_color_spinor_field.html#abb0bcabac8d4e5a3775ff6508b558b69" title="quda::cudaColorSpinorField\l::copy" alt="" coords="455,277,633,319"/>
+<area shape="rect" id="node14" href="$classquda_1_1cuda_color_spinor_field.html#a498729d409b0a7962b81b1f06c6f1400" title="quda::cudaColorSpinorField\l::CopySubset" alt="" coords="1163,215,1341,256"/>
+<area shape="rect" id="node15" href="$classquda_1_1cpu_color_spinor_field.html#aaaea8e395144bc424fec1640376c15ce" title="quda::cpuColorSpinorField\l::copy" alt="" coords="458,37,630,79"/>
+<area shape="rect" id="node4" href="$covdev__test_8cpp.html#a86d4ae88ee59392b8c1f4bc81aa7e280" title="TEST" alt="" coords="761,71,816,98"/>
+<area shape="rect" id="node5" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="753,122,824,149"/>
+<area shape="rect" id="node6" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="751,173,826,199"/>
+<area shape="rect" id="node7" href="$pack__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1000,173,1051,199"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_color_spinor_field.html#ac37ac6a9963555b7e4b3f9733c2d7c60" title="quda::cudaColorSpinorField\l::copySpinorField" alt="" coords="699,279,878,320"/>
+<area shape="rect" id="node10" href="$classquda_1_1cuda_color_spinor_field.html#a32f2d2fd7ec78094748f94cb07a10f53" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="936,279,1115,320"/>
+<area shape="rect" id="node13" href="$classquda_1_1cuda_color_spinor_field.html#a7b1c5a7388663a844bff4693a0b30854" title="quda::cudaColorSpinorField\l::operator=" alt="" coords="1389,339,1568,380"/>
+<area shape="rect" id="node11" href="$classquda_1_1cuda_color_spinor_field.html#afa525193d3a381a3e856ee3bd46d17a1" title="quda::cudaColorSpinorField\l::create" alt="" coords="1163,280,1341,321"/>
+<area shape="rect" id="node12" href="$classquda_1_1cuda_color_spinor_field.html#a11545dd312911f12bdc39c5897cd3849" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="1389,273,1568,315"/>
+<area shape="rect" id="node16" href="$classquda_1_1cpu_color_spinor_field.html#a38014a8fd2e08568c3b582cf2f1744e9" title="quda::cpuColorSpinorField\l::operator=" alt="" coords="703,5,875,47"/>
+<area shape="rect" id="node27" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a51aab3a1d37104ab7202b55eda1a9c81" title="quda::DiracTwistedMassPC::M" alt="" coords="447,899,641,926"/>
+<area shape="rect" id="node28" href="$classquda_1_1_dirac_twisted_mass_p_c.html#aaf975b69ccbb23454b2f42fd69e3bed2" title="quda::DiracTwistedMassPC\l::MdagM" alt="" coords="699,892,878,933"/>
+<area shape="rect" id="node31" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a29f45c7b93a76bdc5e1aea387d7c974a" title="quda::DiracTwistedClover\lPC::MdagM" alt="" coords="705,1224,872,1265"/>
+<area shape="rect" id="node40" href="$classquda_1_1_dirac_twisted_mass.html#a9c05e1c0030794ecc52feaee32cbd415" title="quda::DiracTwistedMass\l::MdagM" alt="" coords="464,1409,624,1451"/>
+<area shape="rect" id="node42" href="$classquda_1_1_dirac_twisted_clover.html#a6b8a4b9a59ee851b8f6e0970344ae1b5" title="quda::DiracTwistedClover\l::MdagM" alt="" coords="461,1475,627,1516"/>
+<area shape="rect" id="node46" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="489,1682,599,1709"/>
+<area shape="rect" id="node47" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="718,1745,859,1771"/>
+<area shape="rect" id="node49" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="973,1682,1077,1709"/>
+<area shape="rect" id="node50" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="689,1619,888,1646"/>
+<area shape="rect" id="node48" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1000,1745,1051,1771"/>
+</map>

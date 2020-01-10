@@ -1,0 +1,5 @@
+<map id="quda::getIndicesShared" name="quda::getIndicesShared">
+<area shape="rect" id="node2" href="$namespacequda.html#a6f9ede29763d827e96cd90310cb454a1" title="quda::coarseIndex" alt="" coords="220,5,345,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#af188860e557c253cb2c4a3e5478f9da7" title="quda::virtualBlockDim" alt="" coords="209,56,356,83"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a005515a24573e522f9f567c166b3316f" title="quda::virtualThreadIdx" alt="" coords="209,107,356,133"/>
+</map>

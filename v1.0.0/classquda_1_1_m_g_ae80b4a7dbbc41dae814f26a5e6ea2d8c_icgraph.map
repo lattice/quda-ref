@@ -1,0 +1,8 @@
+<map id="quda::MG::destroyCoarseSolver" name="quda::MG::destroyCoarseSolver">
+<area shape="rect" id="node2" href="$classquda_1_1_m_g.html#a92ac0c19ef16629220b24ec4be52140b" title="Create the solver wrapper. " alt="" coords="253,43,448,69"/>
+<area shape="rect" id="node3" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="496,68,607,95"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="683,5,825,32"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="901,68,1005,95"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="655,155,853,181"/>
+<area shape="rect" id="node5" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="928,5,979,32"/>
+</map>

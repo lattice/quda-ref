@@ -1,0 +1,5 @@
+<map id="quda::VectorCache::sync" name="quda::VectorCache::sync">
+<area shape="rect" id="node2" href="$namespacequda.html#a8a923946d76979f01afbcd347a488866" title="Apply the M5 inverse operator at a given site on the lattice. This is the original algorithm as descr..." alt="" coords="234,5,357,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a1e0713fe4ac121590a5e29dd38473882" title="Apply the twisted&#45;mass dslash out(x) = M*in = a * D * in + (1 + i*b*gamma_5*tau_3 + c*tau_1)*x Note t..." alt="" coords="216,56,375,83"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a438a885d331b3193ac17cedebb545e1f" title="Apply the M5 inverse operator at a given site on the lattice. This is an alternative algorithm that i..." alt="" coords="237,107,354,133"/>
+</map>

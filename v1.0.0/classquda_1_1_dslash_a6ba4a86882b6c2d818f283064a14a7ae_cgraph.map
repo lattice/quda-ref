@@ -1,0 +1,3 @@
+<map id="quda::Dslash::maxSharedBytesPerBlock" name="quda::Dslash::maxSharedBytesPerBlock">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable.html#a00de54029b1a41730711bb42bcc7c8f3" title="This can&#39;t be correctly queried in CUDA for all architectures so here we set set this. Based on Table 14 of the CUDA Programming Guide 10.0 (Technical Specifications per Compute Capability). " alt="" coords="251,5,433,47"/>
+</map>

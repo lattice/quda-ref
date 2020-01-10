@@ -1,0 +1,51 @@
+<map id="SU3test" name="SU3test">
+<area shape="rect" id="node2" href="$test__util_8cpp.html#a9f9ec14fd388442da07ad105def1590b" title="check_gauge" alt="" coords="165,31,264,57"/>
+<area shape="rect" id="node4" href="$test__util_8cpp.html#a3d8f1952ab00bca45a06a88115580c8f" title="construct_gauge_field" alt="" coords="141,132,288,159"/>
+<area shape="rect" id="node8" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="177,863,252,889"/>
+<area shape="rect" id="node31" href="$test__util_8cpp.html#a41580396542087e712ad716d410052b4" title="finalizeComms" alt="" coords="162,812,267,839"/>
+<area shape="rect" id="node32" href="$quda_8h.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="158,459,271,485"/>
+<area shape="rect" id="node33" href="$test__util_8cpp.html#ad38053da3d147f8f635495faa57b7108" title="initComms" alt="" coords="173,1268,256,1295"/>
+<area shape="rect" id="node34" href="$test__util_8cpp.html#affc667f54d3aad05a212a708a1967851" title="initRand" alt="" coords="409,1420,479,1447"/>
+<area shape="rect" id="node35" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="179,1319,250,1345"/>
+<area shape="rect" id="node36" href="$quda_8h.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="157,1471,272,1497"/>
+<area shape="rect" id="node37" href="$quda_8h.html#a4d9475cdfdd2d15b5d94e8588f835645" title="newQudaGaugeParam" alt="" coords="139,1420,291,1447"/>
+<area shape="rect" id="node38" href="$quda_8h.html#a51da31992209b588cc71641963307d56" title="performAPEnStep" alt="" coords="151,1521,278,1548"/>
+<area shape="rect" id="node39" href="$quda_8h.html#a0ee20ea90421939924df9903acb6b4d8" title="performOvrImpSTOUTnStep" alt="" coords="121,1572,308,1599"/>
+<area shape="rect" id="node40" href="$quda_8h.html#ad9b78b143153725974886c392285b906" title="performSTOUTnStep" alt="" coords="143,1217,287,1244"/>
+<area shape="rect" id="node41" href="$quda_8h.html#a4bf6047ca71143fd895acbf5d5b86561" title="plaqQuda" alt="" coords="176,1623,253,1649"/>
+<area shape="rect" id="node42" href="$test__util_8cpp.html#a4e297cefdba144e8efe42dca5514f572" title="process_command_line\l_option" alt="" coords="136,1674,293,1715"/>
+<area shape="rect" id="node43" href="$quda_8h.html#a764d2570a1a7fb39ee7dc2b5ca3e6799" title="Calculates the topological charge from gaugeSmeared, if it exist, or from gaugePrecise if no smeared ..." alt="" coords="143,1740,286,1767"/>
+<area shape="rect" id="node44" href="$quda_8h.html#ae96c2351487ffad0c7fccf146acea047" title="qChargeQuda" alt="" coords="164,1791,265,1817"/>
+<area shape="rect" id="node45" href="$qio__field_8h.html#ac852356af7fb74a7696987292f101bce" title="read_gauge_field" alt="" coords="155,1841,274,1868"/>
+<area shape="rect" id="node46" href="$quda_8h.html#a9697844b4e6ef5debe0b7d8c05a96b76" title="saveGaugeQuda" alt="" coords="156,1892,273,1919"/>
+<area shape="rect" id="node47" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="181,1943,249,1969"/>
+<area shape="rect" id="node48" href="$su3__test_8cpp.html#aef93f536d7e512775b2a564b3f8ac3fa" title="setGaugeParam" alt="" coords="157,2044,272,2071"/>
+<area shape="rect" id="node49" href="$su3__test_8cpp.html#acbd2db65dfdaa2559f23006893e692c8" title="usage" alt="" coords="416,2019,472,2045"/>
+<area shape="rect" id="node50" href="$util__quda_8h.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="169,2095,260,2121"/>
+<area shape="rect" id="node3" href="$test__util_8cpp.html#aa7a741abf139239fd1cd9cc409c6d201" title="checkGauge" alt="" coords="397,5,491,32"/>
+<area shape="rect" id="node5" href="$test__util_8cpp.html#a9c01d12d72f64c84cd87e4aba721cc06" title="constructUnitGaugeField" alt="" coords="362,107,526,133"/>
+<area shape="rect" id="node6" href="$test__util_8cpp.html#a3a53ed4a3eefe16c496a3e2d4c1a0f29" title="applyGaugeFieldScaling" alt="" coords="580,107,741,133"/>
+<area shape="rect" id="node7" href="$test__util_8cpp.html#a90501c6aa892140ed3d96016b37cc0c9" title="constructGaugeField" alt="" coords="373,56,515,83"/>
+<area shape="rect" id="node9" href="$namespacequda.html#ac466a953381d986b1eca6880f1fda568" title="quda::assertAllMemFree" alt="" coords="364,812,524,839"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#acae24b1f48d2fe459c280cf33e61cc6e" title="comm_finalize" alt="" coords="392,863,496,889"/>
+<area shape="rect" id="node11" href="$namespacequda_1_1cublas.html#ac01bc3ebeb04196a5e5612ff8c99e286" title="Destroy the CUBLAS context. " alt="" coords="374,913,514,940"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a4f1346eb3e34bbda30ff8983af3f81c1" title="quda::destroyDslashEvents" alt="" coords="357,964,531,991"/>
+<area shape="rect" id="node13" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="391,1015,497,1041"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1pool.html#aafe898a5f018221ffd9f6336376a3a01" title="Free all outstanding device&#45;memory allocations. " alt="" coords="366,1065,522,1092"/>
+<area shape="rect" id="node15" href="$namespacequda_1_1pool.html#aa026d9c5ea0fa0090dfce4792b96908c" title="Free all outstanding pinned&#45;memory allocations. " alt="" coords="365,1116,523,1143"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#ab1d3e5c24eb7fcb0d2afffd71ce807f5" title="Flush the chronological history for the given index. " alt="" coords="384,1167,504,1193"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a7079faa2397250063ca3076015ac7bd3" title="Flush any outstanding force monitoring information. " alt="" coords="365,1217,523,1244"/>
+<area shape="rect" id="node18" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="615,1344,707,1371"/>
+<area shape="rect" id="node19" href="$interface__quda_8cpp.html#a9221f8639873c0844f04bc64d5e31ccd" title="freeCloverQuda" alt="" coords="389,259,499,285"/>
+<area shape="rect" id="node20" href="$interface__quda_8cpp.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="387,309,501,336"/>
+<area shape="rect" id="node22" href="$classquda_1_1_lattice_field.html#af3e43730f50a448d8b818413b9256fbc" title="Free statically allocated ghost buffers. " alt="" coords="383,361,505,402"/>
+<area shape="rect" id="node23" href="$classquda_1_1cpu_color_spinor_field.html#a51d79fe9a54a572b777123a2cd133752" title="quda::cpuColorSpinorField\l::freeGhostBuffer" alt="" coords="358,426,530,467"/>
+<area shape="rect" id="node24" href="$classquda_1_1_time_profile.html#a352ad271eb6f06f75cf3c3c0a28e8023" title="quda::TimeProfile::\lPrint" alt="" coords="597,569,724,610"/>
+<area shape="rect" id="node25" href="$namespacequda.html#a5db490f30c5b118722f667e80b022be0" title="Print out the timer profile for CUDA API calls. " alt="" coords="375,543,513,569"/>
+<area shape="rect" id="node26" href="$classquda_1_1_time_profile.html#a5ef400ee2d1499bd42a68a73eaf2ef7f" title="quda::TimeProfile::\lPrintGlobal" alt="" coords="381,594,507,635"/>
+<area shape="rect" id="node27" href="$namespacequda.html#ab980a6a7a4544d736fb7ede6931f4a18" title="quda::printLaunchTimer" alt="" coords="366,660,522,687"/>
+<area shape="rect" id="node28" href="$namespacequda.html#a4fc3a6b54caf9c55ffafa5066f7d715a" title="quda::printPeakMemUsage" alt="" coords="356,711,532,737"/>
+<area shape="rect" id="node29" href="$namespacequda.html#ae545834b5a0f9d48e009ad5c3ce44389" title="Save profile to disk. " alt="" coords="385,1319,503,1345"/>
+<area shape="rect" id="node30" href="$namespacequda.html#a1c01992fa9197e82c2463a91820a1d87" title="quda::saveTuneCache" alt="" coords="370,761,518,788"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#a668994b5c83eeffb4a0535878ecc23cd" title="freeSloppyGaugeQuda" alt="" coords="585,259,737,285"/>
+</map>

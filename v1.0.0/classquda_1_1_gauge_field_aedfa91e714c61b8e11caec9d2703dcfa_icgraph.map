@@ -1,0 +1,51 @@
+<map id="quda::GaugeField::Ghost" name="quda::GaugeField::Ghost">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="259,619,410,661"/>
+<area shape="rect" id="node15" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="746,735,857,761"/>
+<area shape="rect" id="node17" href="$covdev__test_8cpp.html#aa1cd5eafa5245aa7c3ded9b3b470f0b9" title="init" alt="" coords="782,803,821,829"/>
+<area shape="rect" id="node19" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="761,887,842,913"/>
+<area shape="rect" id="node22" href="$classquda_1_1cpu_gauge_field.html#a6f4ec9b03d920ef9ad7ece9adbc10968" title="quda::cpuGaugeField\l::copy" alt="" coords="263,787,406,829"/>
+<area shape="rect" id="node23" href="$domain__wall__dslash__reference_8h.html#acc3c3dfb8fc640ff871168e4c65bd210" title="dslash_4_4d" alt="" coords="288,1461,381,1488"/>
+<area shape="rect" id="node29" href="$domain__wall__dslash__reference_8h.html#abcc83ec1305a46a488f870b81fe42e71" title="dw_dslash" alt="" coords="294,1512,375,1539"/>
+<area shape="rect" id="node32" href="$structquda_1_1gauge_1_1_ghost_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___q_d_p___g_a_u_g_edba98cba7f194488e42e7a830abb1e97.html#aea102e27316f8c91d3df053976644919" title="quda::gauge::GhostAccessor\l\&lt; Float, nColor, QUDA_QDP\l_GAUGE_ORDER, native_ghost,\l storeFloat, use_tex \&gt;::GhostAccessor" alt="" coords="216,1563,453,1634"/>
+<area shape="rect" id="node33" href="$structquda_1_1gauge_1_1_ghost_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___m_i_l_c___g_a_u_g656a684b71192f463c0c771174ee66f3.html#aabcf0c8430ff9d5e2cee70834c6ccabf" title="quda::gauge::GhostAccessor\l\&lt; Float, nColor, QUDA_MILC\l_GAUGE_ORDER, native_ghost,\l storeFloat, use_tex \&gt;::GhostAccessor" alt="" coords="216,1658,453,1729"/>
+<area shape="rect" id="node34" href="$structquda_1_1gauge_1_1_legacy_order.html#afd5abf19c6706a4b8f1e940b4bad491b" title="quda::gauge::LegacyOrder\l::LegacyOrder" alt="" coords="249,1753,420,1794"/>
+<area shape="rect" id="node35" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="503,369,654,410"/>
+<area shape="rect" id="node42" href="$wilson__dslash__reference_8h.html#a4baf1106373856ef3ddf22ded94da45a" title="wil_dslash" alt="" coords="295,1132,375,1159"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="717,680,885,707"/>
+<area shape="rect" id="node4" href="$multigrid__benchmark__test_8cu.html#ab74e8c9c0b5eb4f70a8e36e650416d95" title="initFields" alt="" coords="542,635,615,661"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_coarse.html#a97b2f6b1749cc80498ea5a6309651832" title="Create the CPU or GPU coarse gauge fields on demand (requires that the fields have been created in th..." alt="" coords="513,787,645,829"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="503,518,654,559"/>
+<area shape="rect" id="node14" href="$interface__quda_8cpp.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="521,736,636,763"/>
+<area shape="rect" id="node21" href="$interface__quda_8cpp.html#a933684d9a6f77d2cc0e5e222c4c7292c" title="loadSloppyGaugeQuda" alt="" coords="501,467,656,493"/>
+<area shape="rect" id="node7" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="714,477,889,504"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="729,528,874,555"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="704,579,899,605"/>
+<area shape="rect" id="node10" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="747,629,856,656"/>
+<area shape="rect" id="node11" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="764,325,839,352"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#af6e8d08f0e5477d56e09f07c940ebf65" title="projectSU3Quda" alt="" coords="743,376,860,403"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="729,427,874,453"/>
+<area shape="rect" id="node16" href="$staggered__eigensolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="947,735,997,761"/>
+<area shape="rect" id="node18" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="947,803,997,829"/>
+<area shape="rect" id="node20" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="947,887,997,913"/>
+<area shape="rect" id="node24" href="$dslash__ctest_8cpp.html#a67d49cd517919ae845535dcd9e7585c7" title="dslashRef" alt="" coords="762,1309,841,1336"/>
+<area shape="rect" id="node25" href="$domain__wall__dslash__reference_8h.html#a36332181b764487e69cc5e526af76d48" title="dw_4d_mat" alt="" coords="535,1563,623,1589"/>
+<area shape="rect" id="node26" href="$domain__wall__dslash__reference_8h.html#a274def2472b331172739ecbe8f743f50" title="dw_4d_matpc" alt="" coords="527,1411,630,1437"/>
+<area shape="rect" id="node27" href="$domain__wall__dslash__reference_8h.html#a0f7a22f09a0b9bc90fbf66a2d7785259" title="mdw_mat" alt="" coords="539,1613,618,1640"/>
+<area shape="rect" id="node28" href="$domain__wall__dslash__reference_8h.html#a1a80c440d9dedfcb8438ed1b561eb590" title="mdw_matpc" alt="" coords="533,1461,625,1488"/>
+<area shape="rect" id="node30" href="$domain__wall__dslash__reference_8h.html#aea3817818da552a3fad7191728c89a22" title="dw_mat" alt="" coords="545,1715,612,1741"/>
+<area shape="rect" id="node31" href="$domain__wall__dslash__reference_8h.html#a8b8c40cb4ff1f79e9be51f3427217250" title="dw_matpc" alt="" coords="538,1765,619,1792"/>
+<area shape="rect" id="node36" href="$namespacequda.html#a54730f68a5a027c068a61f7f078d9ce6" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="745,5,858,32"/>
+<area shape="rect" id="node37" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="715,56,887,83"/>
+<area shape="rect" id="node38" href="$classquda_1_1cuda_gauge_field.html#ad640087d39ac539ab3b676e1f585a4c3" title="Upload from this field into a CPU field. Overloaded variant that includes profiling. " alt="" coords="726,107,877,149"/>
+<area shape="rect" id="node39" href="$interface__quda_8cpp.html#a6516a0a03688b7c5931b44ae4244e7d2" title="saveGaugeFieldQuda" alt="" coords="729,173,874,200"/>
+<area shape="rect" id="node40" href="$interface__quda_8cpp.html#a9697844b4e6ef5debe0b7d8c05a96b76" title="saveGaugeQuda" alt="" coords="743,224,860,251"/>
+<area shape="rect" id="node41" href="$unitarize__link__test_8cpp.html#a529cfbd2a1809bcaf7b4b76a7fb35e5b" title="TEST" alt="" coords="774,275,829,301"/>
+<area shape="rect" id="node43" href="$wilson__dslash__reference_8h.html#ae07c1a8764ffd56ab4823ffb2d9b275c" title="clover_dslash" alt="" coords="529,1309,628,1336"/>
+<area shape="rect" id="node44" href="$wilson__dslash__reference_8h.html#a69e3f1607c121be48fc540b0b4fd43a3" title="clover_mat" alt="" coords="536,1360,621,1387"/>
+<area shape="rect" id="node45" href="$wilson__dslash__reference_8h.html#aa44d6283bd416112a1b8b041504c413d" title="clover_matpc" alt="" coords="529,955,628,981"/>
+<area shape="rect" id="node46" href="$wilson__dslash__reference_8h.html#aa6b1bacabd159ad43da2ffb55d925291" title="tm_dslash" alt="" coords="539,1005,619,1032"/>
+<area shape="rect" id="node47" href="$wilson__dslash__reference_8h.html#a24a1dd19145f9b9f787285a06ecf3710" title="tm_mat" alt="" coords="545,1056,612,1083"/>
+<area shape="rect" id="node48" href="$wilson__dslash__reference_8h.html#a4e871b0ffa516458fc080ff3188a5a96" title="tm_matpc" alt="" coords="539,1107,619,1133"/>
+<area shape="rect" id="node49" href="$wilson__dslash__reference_8h.html#aa21c9574de771dbefa8bed2d678748fd" title="tm_ndeg_dslash" alt="" coords="521,1157,636,1184"/>
+<area shape="rect" id="node50" href="$wilson__dslash__reference_8h.html#ab3abff9d87e1bdf25aa494a2582827df" title="tm_ndeg_mat" alt="" coords="528,1208,629,1235"/>
+</map>

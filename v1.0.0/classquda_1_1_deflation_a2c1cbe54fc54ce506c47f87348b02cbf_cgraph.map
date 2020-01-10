@@ -1,0 +1,47 @@
+<map id="quda::Deflation::verify" name="quda::Deflation::verify">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ae3e5e69d87a6db7678c8fb7dc14daca7" title="quda::blas::caxpy" alt="" coords="461,31,580,58"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#acb454ec63e420889abf77968b103ad3c" title="quda::blas::cDotProductNormA" alt="" coords="196,297,393,323"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#a59441fb61d11540d7d02de34e9ce4c6b" title="quda::ColorSpinorField\l::Components" alt="" coords="219,348,370,389"/>
+<area shape="rect" id="node7" href="$blas__magma_8h.html#ae11509c54aa8da2d460e11ac78eb7e24" title="magma_Xheev" alt="" coords="241,414,349,441"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a3174ee67c7fa7d35dbdf37b13064e8b0" title="quda::norm2" alt="" coords="249,246,341,273"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="256,465,333,491"/>
+<area shape="rect" id="node44" href="$namespacequda_1_1blas.html#a8f3009e9e4a4bfe40b4d3f20d03c2f45" title="quda::blas::xpay" alt="" coords="239,149,350,175"/>
+<area shape="rect" id="node46" href="$namespacequda.html#afdd60a37d49f6d12f8472e2a910e80c6" title="quda::zero" alt="" coords="255,515,335,542"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="667,5,790,47"/>
+<area shape="rect" id="node6" href="$namespacequda.html#afd4bd2cb9895c735da434b82bb7cd7bb" title="quda::operator\&lt;\&lt;" alt="" coords="461,355,580,382"/>
+<area shape="rect" id="node8" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="499,418,543,445"/>
+<area shape="rect" id="node9" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="668,421,789,447"/>
+<area shape="rect" id="node10" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="870,497,951,523"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="857,446,964,473"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="1057,319,1120,346"/>
+<area shape="rect" id="node16" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="875,395,946,422"/>
+<area shape="rect" id="node18" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="887,345,934,371"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="1021,451,1157,478"/>
+<area shape="rect" id="node12" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1222,451,1343,478"/>
+<area shape="rect" id="node15" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1263,319,1303,346"/>
+<area shape="rect" id="node17" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="1038,395,1139,422"/>
+<area shape="rect" id="node20" href="$namespacequda.html#a026455342b50e0274c0aad8886880e0c" title="quda::colorSpinorParam" alt="" coords="441,187,600,214"/>
+<area shape="rect" id="node27" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="445,239,596,280"/>
+<area shape="rect" id="node28" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="460,305,581,331"/>
+<area shape="rect" id="node21" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="667,239,790,280"/>
+<area shape="rect" id="node22" href="$classquda_1_1_lattice_field.html#ac7938570cd9e0f6d7ff2328b0df441d7" title="quda::LatticeField\l::Ndim" alt="" coords="667,304,790,345"/>
+<area shape="rect" id="node23" href="$classquda_1_1_lattice_field.html#a5b12870225e1c7866a23a170d264050c" title="quda::LatticeField::Pad" alt="" coords="653,370,805,397"/>
+<area shape="rect" id="node24" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="648,71,809,112"/>
+<area shape="rect" id="node25" href="$classquda_1_1_clover_field.html#a6ee83d32cf08ff66f215da8eaa30f97f" title="quda::CloverField::V" alt="" coords="661,137,796,163"/>
+<area shape="rect" id="node26" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="659,187,798,214"/>
+<area shape="rect" id="node30" href="$namespacequda.html#a7b851d44a9626b208c0ad84cee6eec79" title="quda::sqrt" alt="" coords="482,573,559,599"/>
+<area shape="rect" id="node31" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="691,547,767,574"/>
+<area shape="rect" id="node35" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="691,598,766,625"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="687,649,771,675"/>
+<area shape="rect" id="node32" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="873,547,949,574"/>
+<area shape="rect" id="node33" href="$structquda_1_1complex_3_01double_01_4.html#a3da47d570b43abe5d1720537d69c681c" title="quda::complex\&lt; double\l \&gt;::imag" alt="" coords="1012,577,1165,619"/>
+<area shape="rect" id="node34" href="$structquda_1_1complex_3_01double_01_4.html#adc5681045ec6cd66e5ab0c73c8dc4ffd" title="quda::complex\&lt; double\l \&gt;::real" alt="" coords="1012,512,1165,553"/>
+<area shape="rect" id="node36" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="867,598,955,625"/>
+<area shape="rect" id="node38" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="873,649,949,675"/>
+<area shape="rect" id="node42" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="875,699,947,726"/>
+<area shape="rect" id="node39" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="1051,649,1127,675"/>
+<area shape="rect" id="node40" href="$structquda_1_1complex_3_01float_01_4.html#a692127ea4240002b39f3581648d5bab4" title="quda::complex\&lt; float\l \&gt;::imag" alt="" coords="1213,633,1352,675"/>
+<area shape="rect" id="node41" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="1213,699,1352,740"/>
+<area shape="rect" id="node43" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="1053,699,1125,726"/>
+<area shape="rect" id="node45" href="$namespacequda_1_1blas.html#a7a989a4b5814fab3ae2ad74d76bbc874" title="quda::blas::axpbyz" alt="" coords="459,101,583,127"/>
+</map>

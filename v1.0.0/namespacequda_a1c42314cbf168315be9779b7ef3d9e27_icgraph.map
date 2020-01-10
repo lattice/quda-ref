@@ -1,0 +1,9 @@
+<map id="quda::ApplyStaggered" name="quda::ApplyStaggered">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_staggered.html#ad55e559ed3addf5fea97900187ddb573" title="quda::DiracStaggered\l::Dslash" alt="" coords="209,32,354,73"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_staggered.html#a09b5947d550740e7a9489b6a3a90ab77" title="quda::DiracStaggered\l::DslashXpay" alt="" coords="209,97,354,139"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_staggered.html#ae3f134e60ec2dc0b6896ffd416a65c47" title="quda::DiracStaggered::M" alt="" coords="200,163,363,190"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_staggered.html#a66d8aa60a34b8940172315d6f404b2ad" title="quda::DiracStaggered\l::MdagM" alt="" coords="428,5,573,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_staggered_p_c.html#ac66c3de313dad720c11c22b1486b963a" title="quda::DiracStaggeredPC::M" alt="" coords="411,71,591,98"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_staggered_p_c.html#af8b20041fb422469b2918bdfc892655e" title="quda::DiracStaggeredPC\l::prepare" alt="" coords="419,123,582,164"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_staggered_p_c.html#a158baf3353d710f2a17c4456224235ce" title="quda::DiracStaggeredPC\l::reconstruct" alt="" coords="419,188,582,229"/>
+</map>

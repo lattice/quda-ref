@@ -1,0 +1,7 @@
+<map id="quda::kernel_random" name="quda::kernel_random">
+<area shape="rect" id="node2" href="$namespacequda.html#a416e52d2ea7f201272f902122f06668d" title="Compute the space&#45;time coordinates we are at. " alt="" coords="195,56,309,83"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="389,5,464,32"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a90286e7aed518e4cf52d5ca5a2175073" title="quda::getCoords5CB" alt="" coords="357,56,496,83"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a4534d3429a5a0d143e119a6e3e77f6ab" title="quda::getCoordsCB" alt="" coords="361,107,493,133"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="544,5,632,32"/>
+</map>

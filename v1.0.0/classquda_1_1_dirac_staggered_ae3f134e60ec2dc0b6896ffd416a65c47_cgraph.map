@@ -1,0 +1,8 @@
+<map id="quda::DiracStaggered::M" name="quda::DiracStaggered::M">
+<area shape="rect" id="node2" href="$namespacequda.html#a1c42314cbf168315be9779b7ef3d9e27" title="Apply the staggered dslash operator to a color&#45;spinor field. " alt="" coords="235,71,382,98"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="216,126,401,153"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="233,177,384,219"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="457,5,607,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="449,71,615,98"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="457,123,607,164"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pack_ghost_all_staples_cpu" name="pack_ghost_all_staples_cpu">
+<area shape="rect" id="node2" href="$face__gauge_8cpp.html#a5cad58d21adb23fb7df6ceaabaf08d05" title="packGhostAllStaples" alt="" coords="236,56,379,83"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="427,31,513,57"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="444,81,496,108"/>
+<area shape="rect" id="node4" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="561,5,720,32"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="595,56,687,83"/>
+</map>

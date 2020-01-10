@@ -1,0 +1,12 @@
+<map id="quda::Laplace::tuneKey" name="quda::Laplace::tuneKey">
+<area shape="rect" id="node2" href="$namespacequda.html#a9710cc1c1cc5a3a2463f272ceb7fefe1" title="quda::laplace" alt="" coords="221,107,318,133"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a76f37cdbf904d55183706de061155ff5" title="quda::u32toa" alt="" coords="222,157,317,184"/>
+<area shape="rect" id="node11" href="$classquda_1_1_lattice_field.html#a3e73db8978503626d9fbc60a07702e65" title="quda::LatticeField\l::VolString" alt="" coords="208,209,331,250"/>
+<area shape="rect" id="node3" href="$namespacequda.html#af0a21ca99b05c2d83281d78572e87d50" title="quda::applyLaplace" alt="" coords="379,81,509,108"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="407,132,481,159"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="580,5,660,32"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ab14419953c0b6e02a7e9ac4a4313e0b9" title="quda::linkIndexM1" alt="" coords="557,56,683,83"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a0b554befac535568a3866593316bfe26" title="quda::linkIndexP1" alt="" coords="559,107,681,133"/>
+<area shape="rect" id="node6" href="$namespacequda.html#aea9824fc761818042d9da81d081dcdd9" title="quda::linkIndexDn" alt="" coords="731,56,853,83"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="576,157,664,184"/>
+</map>

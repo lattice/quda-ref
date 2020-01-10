@@ -1,0 +1,6 @@
+<map id="quda::applyLaplace" name="quda::applyLaplace">
+<area shape="rect" id="node2" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="207,5,287,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ab14419953c0b6e02a7e9ac4a4313e0b9" title="quda::linkIndexM1" alt="" coords="184,56,309,83"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a0b554befac535568a3866593316bfe26" title="quda::linkIndexP1" alt="" coords="185,107,308,133"/>
+<area shape="rect" id="node4" href="$namespacequda.html#aea9824fc761818042d9da81d081dcdd9" title="quda::linkIndexDn" alt="" coords="357,56,480,83"/>
+</map>

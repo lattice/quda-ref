@@ -1,0 +1,6 @@
+<map id="quda::extendedCopyColorSpinor" name="quda::extendedCopyColorSpinor">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#acd8c0d81bd53a92345873561c6338967" title="quda::ColorSpinorField\l::GammaBasis" alt="" coords="265,5,416,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="265,71,416,112"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="265,136,416,177"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="257,202,424,229"/>
+</map>

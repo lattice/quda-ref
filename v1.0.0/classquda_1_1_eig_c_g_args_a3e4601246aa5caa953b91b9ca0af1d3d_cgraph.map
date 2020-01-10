@@ -1,0 +1,5 @@
+<map id="quda::EigCGArgs::RestartLanczos" name="quda::EigCGArgs::RestartLanczos">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="220,5,377,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a59441fb61d11540d7d02de34e9ce4c6b" title="quda::ColorSpinorField\l::Components" alt="" coords="223,57,374,98"/>
+<area shape="rect" id="node4" href="$namespacequda.html#afd4bd2cb9895c735da434b82bb7cd7bb" title="quda::operator\&lt;\&lt;" alt="" coords="425,64,544,91"/>
+</map>

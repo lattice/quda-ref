@@ -1,0 +1,6 @@
+<map id="quda::computeCoeffs" name="quda::computeCoeffs">
+<area shape="rect" id="node2" href="$namespacequda.html#ad775354748f7914f91cc9fa37c037f2c" title="quda::applyThirdTerm" alt="" coords="195,56,340,83"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a2e804a6b4f14819d0324ec55681494b5" title="quda::applyB" alt="" coords="388,5,483,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab68e0ace6b5ed95302e23b8dd34b13b6" title="quda::applyT" alt="" coords="388,56,483,83"/>
+<area shape="rect" id="node5" href="$namespacequda.html#afdd60a37d49f6d12f8472e2a910e80c6" title="quda::zero" alt="" coords="395,107,475,133"/>
+</map>

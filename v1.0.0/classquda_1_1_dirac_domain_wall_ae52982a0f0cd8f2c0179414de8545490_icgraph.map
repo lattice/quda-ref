@@ -1,0 +1,34 @@
+<map id="quda::DiracDomainWall::checkDWF" name="quda::DiracDomainWall::checkDWF">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_domain_wall.html#a18c17cd8c16c534e1e83e244340adb17" title="quda::DiracDomainWall\l::Dslash" alt="" coords="225,5,380,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_domain_wall_p_c.html#ada117b83ce2a2bcaa4ec3ff8ae94557b" title="quda::DiracDomainWallPC::M" alt="" coords="453,26,644,53"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_domain_wall4_d.html#ad5be2aa064ad2fc78ed63b83de7d5d99" title="quda::DiracDomainWall4D\l::Dslash4" alt="" coords="217,319,388,360"/>
+<area shape="rect" id="node11" href="$classquda_1_1_dirac_mobius.html#a21abad5b40b09b47dcbe01821a899d5a" title="quda::DiracMobius::\lDslash4" alt="" coords="482,763,615,804"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_mobius.html#ab10a7f5b4a806d33bd5eb4932e9381fa" title="quda::DiracMobius::\lDslash4pre" alt="" coords="482,828,615,869"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_mobius.html#abf7864163085e86ea5c09367e1b6fa4a" title="quda::DiracMobius::\lDslash4preXpay" alt="" coords="482,595,615,636"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_domain_wall4_d.html#a7b48a29f41726bea46271e65cd97fd06" title="quda::DiracDomainWall4D\l::Dslash4Xpay" alt="" coords="217,384,388,425"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dirac_mobius.html#aa086a0cabba100df75b877353f952645" title="quda::DiracMobius::\lDslash4Xpay" alt="" coords="482,1011,615,1052"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac_domain_wall4_d.html#acd4b25b21c0de25849d9335fe6af389c" title="quda::DiracDomainWall4D\l::Dslash5" alt="" coords="217,515,388,556"/>
+<area shape="rect" id="node24" href="$classquda_1_1_dirac_mobius.html#a614593dfcba10b6759db8fd2ef9658ea" title="quda::DiracMobius::\lDslash5" alt="" coords="236,887,369,928"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac_mobius_p_c.html#a272af818e172dcd19ea304eca4970f76" title="quda::DiracMobiusPC\l::Dslash5inv" alt="" coords="476,945,621,987"/>
+<area shape="rect" id="node26" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#ae7f3c940e2c58e2da52cdd0dc35b5732" title="quda::DiracDomainWall4DPC\l::Dslash5inv" alt="" coords="208,449,397,491"/>
+<area shape="rect" id="node27" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a336ae9729a8f72003255bb8e8b52b7f7" title="quda::DiracDomainWall4DPC\l::Dslash5invXpay" alt="" coords="208,188,397,229"/>
+<area shape="rect" id="node28" href="$classquda_1_1_dirac_mobius_p_c.html#a19089278378dae0ceca932a6d2ffbfa2" title="quda::DiracMobiusPC\l::Dslash5invXpay" alt="" coords="230,635,375,676"/>
+<area shape="rect" id="node29" href="$classquda_1_1_dirac_domain_wall4_d.html#aff4e042c73ae7e4d536f34baf78b15e0" title="quda::DiracDomainWall4D\l::Dslash5Xpay" alt="" coords="217,253,388,295"/>
+<area shape="rect" id="node30" href="$classquda_1_1_dirac_mobius.html#a72989227ef42b08123b6826a59031e2a" title="quda::DiracMobius::\lDslash5Xpay" alt="" coords="236,704,369,745"/>
+<area shape="rect" id="node31" href="$classquda_1_1_dirac_domain_wall.html#a70e017028b12ac583ab32c5bea213590" title="quda::DiracDomainWall\l::DslashXpay" alt="" coords="225,123,380,164"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dirac_domain_wall_p_c.html#a13763742b06925f4d2b552c16b848c24" title="quda::DiracDomainWallPC\l::MdagM" alt="" coords="700,19,873,60"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a67ce9a45dc1ca199482671c9f6b12f64" title="quda::DiracDomainWall4DPC::M" alt="" coords="445,259,652,286"/>
+<area shape="rect" id="node8" href="$dslash__ctest_8cpp.html#aae87026c545cd7c541478d495efebc47" title="dslashCUDA" alt="" coords="1159,594,1253,621"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#a2d8a2a7758507a87ae669d556e409e68" title="dslashQuda_4dpc" alt="" coords="487,493,611,519"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#ae5843e0598ed43bbc46f2289fd0bbc48" title="quda::DiracDomainWall4DPC\l::MdagM" alt="" coords="921,276,1111,317"/>
+<area shape="rect" id="node9" href="$dslash__ctest_8cpp.html#aec0525f6f538c2b24fead97ab6a1e8a4" title="TEST_P" alt="" coords="1301,594,1372,621"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_mobius_p_c.html#a836511b15a220e6e40bd2eb1315df40d" title="quda::DiracMobiusPC::M" alt="" coords="705,711,868,738"/>
+<area shape="rect" id="node14" href="$interface__quda_8cpp.html#a7ea97611c29b71b948ea41f974cf777f" title="dslashQuda_mdwf" alt="" coords="723,829,850,855"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_mobius_p_c.html#a19736fd7f917c47d1ef54b3379008540" title="quda::DiracMobiusPC\l::MdagM" alt="" coords="943,645,1089,687"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_mobius_p_c.html#a668f1b3b4b76e891f5cb223e015dc0da" title="quda::DiracMobiusPC\l::prepare" alt="" coords="714,880,859,921"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_mobius_p_c.html#ac4801a85c390e3418aab8b672927f78f" title="quda::DiracMobiusPC\l::reconstruct" alt="" coords="714,945,859,987"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#af43fc869db033d290e4c278b700434a4" title="quda::DiracDomainWall4DPC\l::prepare" alt="" coords="454,376,643,417"/>
+<area shape="rect" id="node21" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a8b1750de1cd898a71f251b3eb0ce342d" title="quda::DiracDomainWall4DPC\l::reconstruct" alt="" coords="454,311,643,352"/>
+<area shape="rect" id="node32" href="$classquda_1_1_dirac_domain_wall_p_c.html#a9c65952908127a7d5d4f511f467a5f10" title="quda::DiracDomainWallPC\l::prepare" alt="" coords="462,143,635,184"/>
+<area shape="rect" id="node33" href="$classquda_1_1_dirac_domain_wall_p_c.html#a18b2f618156dcb0ce5839e0eb9cc60d7" title="quda::DiracDomainWallPC\l::reconstruct" alt="" coords="462,77,635,119"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="quda::MinResExt" name="quda::MinResExt">
+<area shape="rect" id="node2" href="$classquda_1_1_time_profile.html" title="quda::TimeProfile" alt="" coords="956,64,1077,91"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac.html" title="quda::Dirac" alt="" coords="1183,137,1269,164"/>
+<area shape="rect" id="node3" href="$structquda_1_1_timer.html" title="quda::Timer" alt="" coords="640,9,729,36"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="647,69,723,96"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="307,62,429,103"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac_matrix.html" title="quda::DiracMatrix" alt="" coords="1355,116,1476,143"/>
+<area shape="rect" id="node8" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="7,155,102,181"/>
+<area shape="rect" id="node11" href="$classquda_1_1_lattice_field.html" title="quda::LatticeField" alt="" coords="307,225,429,252"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_gauge_field.html" title="quda::cudaGaugeField" alt="" coords="941,188,1092,215"/>
+<area shape="rect" id="node10" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="623,188,746,215"/>
+<area shape="rect" id="node13" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="609,292,760,319"/>
+<area shape="rect" id="node12" href="$struct_msg_handle__s.html" title="MsgHandle_s" alt="" coords="5,352,104,379"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="629,392,740,419"/>
+<area shape="rect" id="node17" href="$structquda_1_1_composite_color_spinor_field_descriptor.html" title="quda::CompositeColorSpinor\lFieldDescriptor" alt="" coords="276,279,460,321"/>
+<area shape="rect" id="node18" href="$structquda_1_1_dslash_constant.html" title="Constants used by dslash and packing kernels. " alt="" coords="295,345,441,372"/>
+<area shape="rect" id="node19" href="$classint__fastdiv.html" title="int_fastdiv" alt="" coords="15,544,95,571"/>
+</map>

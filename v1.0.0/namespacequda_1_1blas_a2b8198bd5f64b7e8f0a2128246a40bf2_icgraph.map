@@ -1,0 +1,51 @@
+<map id="quda::blas::initReduce" name="quda::blas::initReduce">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a2f7aa9affb07827bc351c97272c8d5cb" title="quda::blas::init" alt="" coords="203,571,306,597"/>
+<area shape="rect" id="node12" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="200,1033,309,1060"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a016889ba93ea2794377f06cd752b2d50" title="initQudaMemory" alt="" coords="395,157,511,184"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#a3c9e45e2cb4113a50f9fae983403e1f2" title="init_quda_memory_" alt="" coords="619,107,754,133"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a102297e079ab0f39e6e2006956f9714d" title="initQuda" alt="" coords="651,157,722,184"/>
+<area shape="rect" id="node6" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="860,107,971,133"/>
+<area shape="rect" id="node7" href="$gauge__force__test_8cpp.html#a7ca518d5f65b192c3be1c0afc9157c04" title="gauge_force_test" alt="" coords="855,157,976,184"/>
+<area shape="rect" id="node8" href="$hisq__paths__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="863,208,968,235"/>
+<area shape="rect" id="node9" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="879,5,952,32"/>
+<area shape="rect" id="node10" href="$covdev__test_8cpp.html#aa1cd5eafa5245aa7c3ded9b3b470f0b9" title="init" alt="" coords="896,56,935,83"/>
+<area shape="rect" id="node11" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="875,259,956,285"/>
+<area shape="rect" id="node13" href="$namespacequda_1_1blas.html#af2cff09079282af6e9d307ef2418c6ea" title="quda::blas::reduceKernel" alt="" coords="373,393,534,420"/>
+<area shape="rect" id="node15" href="$classquda_1_1_deflation.html#aa94e35d227e4a01ecc411bc8cd3c5012" title="quda::Deflation::reduce" alt="" coords="840,596,991,623"/>
+<area shape="rect" id="node16" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="1055,545,1227,572"/>
+<area shape="rect" id="node17" href="$classquda_1_1_eigen_solver.html#a9007310c3893f51e6ce4b53248c95437" title="Deflate vector with Eigenvectors. " alt="" coords="388,749,519,790"/>
+<area shape="rect" id="node18" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="619,708,755,735"/>
+<area shape="rect" id="node19" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="609,771,764,797"/>
+<area shape="rect" id="node20" href="$classquda_1_1_c_a_c_g_n_e.html#a5d7dae59806e1f16af69cee4707ebfdf" title="quda::CACGNE::operator()" alt="" coords="830,731,1001,757"/>
+<area shape="rect" id="node21" href="$classquda_1_1_c_a_c_g_n_r.html#a88172e047b80fe722212635b3e44eeca" title="quda::CACGNR::operator()" alt="" coords="829,811,1001,837"/>
+<area shape="rect" id="node22" href="$classquda_1_1_eigen_solver.html#a4474619dea6e4148413a033ec78dbbab" title="Deflate vector with both left and Right singular vectors. " alt="" coords="388,967,519,1009"/>
+<area shape="rect" id="node23" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="614,948,759,975"/>
+<area shape="rect" id="node24" href="$classquda_1_1_c_a_g_c_r.html#a53e792abb6297c7cc6b5fddee7fdda3d" title="quda::CAGCR::operator()" alt="" coords="605,1003,768,1029"/>
+<area shape="rect" id="node25" href="$classquda_1_1_t_r_l_m.html#a754ea84a5fcb1d2c75ca902ed5a957d4" title="Lanczos step: extends the Kylov space. " alt="" coords="370,1084,537,1111"/>
+<area shape="rect" id="node27" href="$generic__reduce_8cuh.html#a6d8a299d0b75db5c0739d4fc62140278" title="genericReduce" alt="" coords="399,1185,507,1212"/>
+<area shape="rect" id="node29" href="$namespacequda_1_1blas.html#a16a69ac7c8094d9438d7315185a7ee74" title="quda::blas::mixed_reduce" alt="" coords="604,1135,769,1161"/>
+<area shape="rect" id="node30" href="$namespacequda_1_1blas.html#a2d529d7244e0e7a7453150f83c9620ae" title="quda::blas::uni_reduce" alt="" coords="613,1236,761,1263"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="411,343,495,369"/>
+<area shape="rect" id="node34" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="367,1287,539,1313"/>
+<area shape="rect" id="node35" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="364,1337,543,1364"/>
+<area shape="rect" id="node36" href="$classquda_1_1_c_g3.html#affe2eda59aece923ef89de0a0d57f0b2" title="quda::CG3::operator()" alt="" coords="382,1388,525,1415"/>
+<area shape="rect" id="node37" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="373,1439,533,1465"/>
+<area shape="rect" id="node38" href="$classquda_1_1_c_g_n_e.html#a4043b6e48b0794cf6876ae6398431e08" title="Run CG. " alt="" coords="377,1489,530,1516"/>
+<area shape="rect" id="node39" href="$classquda_1_1_c_g_n_r.html#a2afa3f3b11946d0b8e2251064dce3882" title="Run CG. " alt="" coords="376,1540,531,1567"/>
+<area shape="rect" id="node40" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="383,1591,524,1617"/>
+<area shape="rect" id="node41" href="$classquda_1_1_inc_eig_c_g.html#ae13c42ec4fef25dfe346fbdf05b1d4fd" title="quda::IncEigCG::RestartVT" alt="" coords="366,495,541,521"/>
+<area shape="rect" id="node43" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="824,495,1007,521"/>
+<area shape="rect" id="node44" href="$classquda_1_1_g_m_res_d_r.html#a02994b126eca34ff3741341042242ec7" title="quda::GMResDR::RestartVZH" alt="" coords="359,1692,548,1719"/>
+<area shape="rect" id="node45" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="597,1667,776,1693"/>
+<area shape="rect" id="node46" href="$classquda_1_1_m_p_bi_c_gstab.html#aeaaa27e4d7c28168d04893447dab68b3" title="quda::MPBiCGstab::operator()" alt="" coords="357,1743,549,1769"/>
+<area shape="rect" id="node47" href="$classquda_1_1_m_p_c_g.html#a22dc04a12559494a1202da230c31a66a" title="quda::MPCG::operator()" alt="" coords="375,1793,531,1820"/>
+<area shape="rect" id="node48" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="385,1844,522,1871"/>
+<area shape="rect" id="node49" href="$classquda_1_1_min_res_ext.html#ab4acc2e02a9f112b964b88e099f32b86" title="quda::MinResExt::operator()" alt="" coords="364,225,543,252"/>
+<area shape="rect" id="node50" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="388,277,519,318"/>
+<area shape="rect" id="node14" href="$namespacequda_1_1blas.html#af9f7b3bc9c35b3921606691afdf1dc7e" title="quda::blas::reduceLaunch" alt="" coords="603,393,770,420"/>
+<area shape="rect" id="node26" href="$classquda_1_1_t_r_l_m.html#acf892e5bc9c2f3a40df569a25f931f4e" title="Compute eigenpairs. " alt="" coords="611,1084,763,1111"/>
+<area shape="rect" id="node28" href="$generic__reduce_8cuh.html#a6c20d4a2b76f10360ca8b6bd9ab97cdb" title="genericReduce" alt="" coords="633,1185,741,1212"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="639,292,734,319"/>
+<area shape="rect" id="node33" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="661,343,712,369"/>
+<area shape="rect" id="node42" href="$classquda_1_1_inc_eig_c_g.html#a84dd1308bc08bf1730f6fe8f0e5e88e0" title="quda::IncEigCG::UpdateVm" alt="" coords="598,495,775,521"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="lib/coarse_op.cu" name="lib/coarse_op.cu">
+<area shape="rect" id="node2" href="$transfer_8h.html" title="transfer.h" alt="" coords="691,80,766,107"/>
+<area shape="rect" id="node3" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="550,155,681,181"/>
+<area shape="rect" id="node34" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="876,229,973,256"/>
+<area shape="rect" id="node35" href="$clover__field_8h.html" title="clover_field.h" alt="" coords="755,229,851,256"/>
+<area shape="rect" id="node4" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="915,304,1025,331"/>
+<area shape="rect" id="node13" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="616,379,676,405"/>
+<area shape="rect" id="node29" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="468,304,565,331"/>
+<area shape="rect" id="node31" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="404,229,515,256"/>
+<area shape="rect" id="node33" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="641,229,731,256"/>
+<area shape="rect" id="node5" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="764,379,883,405"/>
+<area shape="rect" id="node11" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="733,528,831,555"/>
+<area shape="rect" id="node17" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="380,379,464,405"/>
+<area shape="rect" id="node23" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="1004,453,1109,480"/>
+<area shape="rect" id="node25" href="$object_8h.html" title="object.h" alt="" coords="931,379,998,405"/>
+<area shape="rect" id="node26" href="$timer_8h.html" title="timer.h" alt="" coords="1201,379,1262,405"/>
+<area shape="rect" id="node16" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="647,453,770,480"/>
+<area shape="rect" id="node19" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="5,453,108,480"/>
+<area shape="rect" id="node21" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="132,453,216,480"/>
+</map>

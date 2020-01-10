@@ -1,0 +1,8 @@
+<map id="compute_path_product" name="compute_path_product">
+<area shape="rect" id="node2" href="$gauge__force__reference_8cpp.html#a9014d2945dd85c3a8c2500717ec407c0" title="gf_neighborIndexFullLattice" alt="" coords="208,5,388,32"/>
+<area shape="rect" id="node3" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="264,56,332,83"/>
+<area shape="rect" id="node4" href="$gauge__force__reference_8cpp.html#a331fb473b71c09b5e97ce1638c3b1bb7" title="mult_su3_na" alt="" coords="251,107,345,133"/>
+<area shape="rect" id="node5" href="$gauge__force__reference_8cpp.html#af83f48282ba2e261f5af73ae1a00207c" title="mult_su3_nn" alt="" coords="251,157,345,184"/>
+<area shape="rect" id="node6" href="$gauge__force__reference_8cpp.html#a1da81de9f353bde8b9451094c7e0f747" title="scalar_mult_add_su3\l_matrix" alt="" coords="227,209,369,250"/>
+<area shape="rect" id="node7" href="$gauge__force__reference_8cpp.html#a287892d4e2788ad237fdbf3efddc18e4" title="su3_adjoint" alt="" coords="255,275,341,301"/>
+</map>

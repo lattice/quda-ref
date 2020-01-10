@@ -1,0 +1,15 @@
+<map id="quda::copyGenericColorSpinorMGQQ" name="quda::copyGenericColorSpinorMGQQ">
+<area shape="rect" id="node2" href="$namespacequda.html#a56030a5d7b4c3ea09d49ba9f45a50ba2" title="quda::copyGenericColorSpinor" alt="" coords="289,137,484,163"/>
+<area shape="rect" id="node3" href="$classquda_1_1cpu_color_spinor_field.html#aaaea8e395144bc424fec1640376c15ce" title="quda::cpuColorSpinorField\l::copy" alt="" coords="535,39,707,80"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_color_spinor_field.html#ac37ac6a9963555b7e4b3f9733c2d7c60" title="quda::cudaColorSpinorField\l::copySpinorField" alt="" coords="759,100,937,141"/>
+<area shape="rect" id="node11" href="$classquda_1_1cuda_color_spinor_field.html#a843a105822fda21e1ad2f06bb03452a0" title="quda::cudaColorSpinorField\l::loadSpinorField" alt="" coords="532,159,711,200"/>
+<area shape="rect" id="node13" href="$classquda_1_1cuda_color_spinor_field.html#aefb99b153a3c0290ea9c192afff38cac" title="quda::cudaColorSpinorField\l::saveSpinorField" alt="" coords="532,227,711,268"/>
+<area shape="rect" id="node4" href="$classquda_1_1cpu_color_spinor_field.html#a38014a8fd2e08568c3b582cf2f1744e9" title="quda::cpuColorSpinorField\l::operator=" alt="" coords="762,35,934,76"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_color_spinor_field.html#a32f2d2fd7ec78094748f94cb07a10f53" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="985,71,1164,112"/>
+<area shape="rect" id="node9" href="$classquda_1_1cuda_color_spinor_field.html#a7b1c5a7388663a844bff4693a0b30854" title="quda::cudaColorSpinorField\l::operator=" alt="" coords="1439,100,1617,141"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_color_spinor_field.html#afa525193d3a381a3e856ee3bd46d17a1" title="quda::cudaColorSpinorField\l::create" alt="" coords="1212,5,1391,47"/>
+<area shape="rect" id="node10" href="$classquda_1_1cuda_color_spinor_field.html#a498729d409b0a7962b81b1f06c6f1400" title="quda::cudaColorSpinorField\l::CopySubset" alt="" coords="1212,71,1391,112"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_color_spinor_field.html#a11545dd312911f12bdc39c5897cd3849" title="quda::cudaColorSpinorField\l::cudaColorSpinorField" alt="" coords="1439,5,1617,47"/>
+<area shape="rect" id="node12" href="$classquda_1_1cuda_color_spinor_field.html#aa8c3441001edb8738c946784c455dbec" title="quda::cudaColorSpinorField\l::operator=" alt="" coords="759,165,937,207"/>
+<area shape="rect" id="node14" href="$classquda_1_1cpu_color_spinor_field.html#ab39b05f0a7f7b16567cc30ea49be7a18" title="quda::cpuColorSpinorField\l::operator=" alt="" coords="762,231,934,272"/>
+</map>

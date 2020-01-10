@@ -1,0 +1,10 @@
+<map id="comm_drand" name="comm_drand">
+<area shape="rect" id="node2" href="$new__half_8cu.html#ae756f081802af40fe6a3fd2947f97fc3" title="insertNoise" alt="" coords="157,5,243,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a11c61842d8762266fd391ccf234fb22a" title="quda::random" alt="" coords="151,56,249,83"/>
+<area shape="rect" id="node3" href="$new__half_8cu.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="341,5,392,32"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ad9be7a3b87a6bc4b699e3587032b2fda" title="quda::genericSource" alt="" coords="297,56,436,83"/>
+<area shape="rect" id="node6" href="$classquda_1_1cpu_color_spinor_field.html#ac15d8b2aaff27079ef5c801e0bba4330" title="quda::cpuColorSpinorField\l::Source" alt="" coords="484,49,656,90"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_color_spinor_field.html#aac64c07b746c93df650da7d64e5c215b" title="quda::cudaColorSpinorField\l::Source" alt="" coords="704,19,883,61"/>
+<area shape="rect" id="node8" href="$covdev__test_8cpp.html#aa1cd5eafa5245aa7c3ded9b3b470f0b9" title="init" alt="" coords="774,85,813,112"/>
+<area shape="rect" id="node9" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="931,85,981,112"/>
+</map>

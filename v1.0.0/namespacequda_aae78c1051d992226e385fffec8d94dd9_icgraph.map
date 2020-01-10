@@ -1,0 +1,51 @@
+<map id="quda::getKernelPackT" name="quda::getKernelPackT">
+<area shape="rect" id="node2" href="$classquda_1_1dslash_1_1_dslash_policy_tune.html#a5dd2406cba43df94bf290d4fdb631ad6" title="quda::dslash::DslashPolicy\lTune::apply" alt="" coords="448,583,619,625"/>
+<area shape="rect" id="node17" href="$classquda_1_1dslash_1_1_dslash_policy_tune.html#a9ce6f4942a6182e91f85bdad4ddd0fa0" title="quda::dslash::DslashPolicy\lTune::DslashPolicyTune" alt="" coords="448,943,619,985"/>
+<area shape="rect" id="node18" href="$classquda_1_1_pack.html#a80c4bb68798a8f65b86810b618d838dc" title="quda::Pack::fillAux" alt="" coords="219,1648,345,1675"/>
+<area shape="rect" id="node19" href="$classquda_1_1_pack.html#a8446af896d399f4dea8b330dde4b4e41" title="quda::Pack::Pack" alt="" coords="472,1648,595,1675"/>
+<area shape="rect" id="node20" href="$namespacequda_1_1dslash.html#ac2abdcfcdf91dec98ad122fc021f2102" title="This helper function simply posts the device&#45;host memory copies of all halos in all dimensions and di..." alt="" coords="1042,1075,1209,1101"/>
+<area shape="rect" id="node21" href="$structquda_1_1dslash_1_1_dslash_basic.html#ac6a299ccb6cb6c87d77390ecced0b717" title="quda::dslash::DslashBasic\l::operator()" alt="" coords="1291,1002,1459,1043"/>
+<area shape="rect" id="node22" href="$structquda_1_1dslash_1_1_dslash_fused_exterior.html#aed1c7ad89c2c0e497aefb6e585c677ab" title="quda::dslash::DslashFused\lExterior::operator()" alt="" coords="1290,1067,1461,1109"/>
+<area shape="rect" id="node23" href="$structquda_1_1dslash_1_1_dslash_g_d_r_recv.html#a654d1bca65e88abd0d162b988838b36a" title="quda::dslash::DslashGDRRecv\l::operator()" alt="" coords="1279,1133,1472,1174"/>
+<area shape="rect" id="node24" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r_recv.html#a3fc0abd7a77ae5ef90a310e711f2524f" title="quda::dslash::DslashFused\lGDRRecv::operator()" alt="" coords="1290,1198,1461,1239"/>
+<area shape="rect" id="node25" href="$namespacequda_1_1dslash.html#a1fae35616d0b31439f2cd29d439d72b5" title="This helper function simply posts the packing kernel needed for halo exchange. " alt="" coords="1047,1441,1204,1468"/>
+<area shape="rect" id="node34" href="$namespacequda.html#a7e55427b7b6d3b68f0a9e672cf6b6085" title="Dslash face packing routine. " alt="" coords="222,1703,342,1729"/>
+<area shape="rect" id="node36" href="$namespacequda.html#ab322a3eff5a7800532b2f664b7803d2d" title="quda::pushKernelPackT" alt="" coords="203,1264,361,1291"/>
+<area shape="rect" id="node38" href="$classquda_1_1cuda_color_spinor_field.html#ac2e23741f5cea98c5e8672f115ae41b2" title="quda::cudaColorSpinorField\l::sendGhost" alt="" coords="444,1009,623,1050"/>
+<area shape="rect" id="node40" href="$classquda_1_1cuda_color_spinor_field.html#a8f3aa5c756bc4cdb3c2e32248cf82192" title="Initiate halo communication sending. " alt="" coords="1036,1493,1215,1534"/>
+<area shape="rect" id="node46" href="$classquda_1_1_dslash.html#a7cd1511de5017f7ceb021670e4d75227" title="quda::Dslash::setParam" alt="" coords="205,1772,359,1799"/>
+<area shape="rect" id="node50" href="$class_dslash_cuda.html#a66036530dcc1e821ac9f7be96470e65b" title="Set the dslashParam for the current multi&#45;GPU parameters (set these at the last minute to ensure we a..." alt="" coords="207,1823,357,1849"/>
+<area shape="rect" id="node3" href="$structquda_1_1_domain_wall4_d_apply.html#aa7317c2f0784b3c802cfb291b4fdef9d" title="quda::DomainWall4DApply\l::DomainWall4DApply" alt="" coords="760,617,933,658"/>
+<area shape="rect" id="node4" href="$structquda_1_1_domain_wall5_d_apply.html#aeaaec3866cf8e3e0a306ec05fc794c02" title="quda::DomainWall5DApply\l::DomainWall5DApply" alt="" coords="760,682,933,723"/>
+<area shape="rect" id="node5" href="$structquda_1_1_improved_staggered_apply.html#a8a5b1df64f7b19b77eba04ba1eef52f6" title="quda::ImprovedStaggeredApply\l::ImprovedStaggeredApply" alt="" coords="747,747,947,789"/>
+<area shape="rect" id="node6" href="$structquda_1_1_ndeg_twisted_mass_apply.html#aae5c15bb8abb90e68eeff367c7066d8c" title="quda::NdegTwistedMassApply\l::NdegTwistedMassApply" alt="" coords="751,813,943,854"/>
+<area shape="rect" id="node7" href="$structquda_1_1_ndeg_twisted_mass_preconditioned_apply.html#af956fb5c76531f5e037e1222f580a2da" title="quda::NdegTwistedMassPreconditioned\lApply::NdegTwistedMassPreconditionedApply" alt="" coords="705,878,988,919"/>
+<area shape="rect" id="node8" href="$structquda_1_1_staggered_apply.html#a0086bc9830d824738c128f9fb16b4436" title="quda::StaggeredApply\l::StaggeredApply" alt="" coords="773,943,920,985"/>
+<area shape="rect" id="node9" href="$structquda_1_1_twisted_clover_apply.html#a12d62a66acb6abc421f97d79d4c1ce8a" title="quda::TwistedCloverApply\l::TwistedCloverApply" alt="" coords="763,94,931,135"/>
+<area shape="rect" id="node10" href="$structquda_1_1_twisted_clover_preconditioned_apply.html#a8ec2dd11e0c92421ff0f9b6af7d77a1a" title="quda::TwistedCloverPreconditioned\lApply::TwistedCloverPreconditionedApply" alt="" coords="717,159,976,201"/>
+<area shape="rect" id="node11" href="$structquda_1_1_twisted_mass_apply.html#a0dcef2d3afafbf58496fd65a1451d06e" title="quda::TwistedMassApply\l::TwistedMassApply" alt="" coords="765,225,928,266"/>
+<area shape="rect" id="node12" href="$structquda_1_1_twisted_mass_preconditioned_apply.html#a59f00b1911ca0528c59a15cab020b630" title="quda::TwistedMassPreconditioned\lApply::TwistedMassPreconditionedApply" alt="" coords="721,290,973,331"/>
+<area shape="rect" id="node13" href="$structquda_1_1_wilson_apply.html#a91403cbbd4b66542e81dc7c04f56de4e" title="quda::WilsonApply::\lWilsonApply" alt="" coords="781,355,913,397"/>
+<area shape="rect" id="node14" href="$structquda_1_1_wilson_clover_apply.html#aed93ec67f19a9f22c3260dcafe224c1b" title="quda::WilsonCloverApply\l::WilsonCloverApply" alt="" coords="765,421,928,462"/>
+<area shape="rect" id="node15" href="$structquda_1_1_wilson_clover_preconditioned_apply.html#aeefed6f371ce3cad659683b3a2d95c11" title="quda::WilsonCloverPreconditioned\lApply::WilsonCloverPreconditionedApply" alt="" coords="721,486,973,527"/>
+<area shape="rect" id="node16" href="$structquda_1_1_laplace_apply.html#a61f684ba2fd915b161200a0f605600d5" title="quda::LaplaceApply\l::LaplaceApply" alt="" coords="780,551,913,593"/>
+<area shape="rect" id="node26" href="$structquda_1_1dslash_1_1_dslash_g_d_r.html#ade8125d09486ff3a23f49bb5833787bd" title="quda::dslash::DslashGDR\l::operator()" alt="" coords="1293,1655,1457,1697"/>
+<area shape="rect" id="node27" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r.html#a498fc68026bd1d36fd9c18e2416d2084" title="quda::dslash::DslashFused\lGDR::operator()" alt="" coords="1290,1721,1461,1762"/>
+<area shape="rect" id="node28" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack.html#a145bf19c8f418bb3a475485bef5fab4e" title="quda::dslash::DslashZero\lCopyPack::operator()" alt="" coords="1294,1263,1457,1305"/>
+<area shape="rect" id="node29" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack.html#a4dc97ba48ebb8e95517ec1e670f2eacd" title="quda::dslash::DslashFused\lZeroCopyPack::operator()" alt="" coords="1290,1329,1461,1370"/>
+<area shape="rect" id="node30" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack_g_d_r_recv.html#a9d86e2e91a220900c89f2722bf17751e" title="quda::dslash::DslashZero\lCopyPackGDRRecv::operator()" alt="" coords="1276,1394,1475,1435"/>
+<area shape="rect" id="node31" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack_g_d_r_recv.html#a111cae0d62f19d1995d40da2e0abb2ab" title="quda::dslash::DslashFused\lZeroCopyPackGDRRecv::operator()" alt="" coords="1263,1459,1488,1501"/>
+<area shape="rect" id="node32" href="$structquda_1_1dslash_1_1_dslash_zero_copy.html#ac4607a072c066facf43fdd2173a6a6be" title="quda::dslash::DslashZero\lCopy::operator()" alt="" coords="1294,1525,1457,1566"/>
+<area shape="rect" id="node33" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy.html#a6b4dc0531694d3d2886e9427ae4b8487" title="quda::dslash::DslashFused\lZeroCopy::operator()" alt="" coords="1290,1590,1461,1631"/>
+<area shape="rect" id="node35" href="$classquda_1_1cuda_color_spinor_field.html#a57ba8c0b6e1c3b5d3453592c25261766" title="Packs the cudaColorSpinorField&#39;s ghost zone. " alt="" coords="444,1699,623,1741"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a654d44d7961d8a259d1adb294329f4aa" title="Driver for applying the covariant derivative. " alt="" coords="467,1344,599,1371"/>
+<area shape="rect" id="node42" href="$classquda_1_1cuda_color_spinor_field.html#aae55bde1a84a1d166de6a3a7ab30d47a" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="1286,1851,1465,1893"/>
+<area shape="rect" id="node43" href="$namespacequda.html#afaccbc07ed42a2a0a36ab1beac534bdd" title="Driver for applying the Domain&#45;wall 5&#45;d stencil to a 5&#45;d vector with 5&#45;d preconditioned data order..." alt="" coords="447,1176,620,1203"/>
+<area shape="rect" id="node44" href="$namespacequda.html#aea599aeddc6f7b741886bdebbd8027c4" title="Driver for applying the preconditioned non&#45;degenerate twisted&#45;mass stencil. " alt="" coords="437,1227,629,1269"/>
+<area shape="rect" id="node45" href="$namespacequda.html#aa10722a05d416d0c36753694573e0dba" title="Driver for applying the preconditioned twisted&#45;mass stencil. " alt="" coords="409,1293,657,1320"/>
+<area shape="rect" id="node39" href="$classquda_1_1cuda_color_spinor_field.html#aec1261adeb195641da74629f94b998f4" title="quda::cudaColorSpinorField\l::gather" alt="" coords="757,1009,936,1050"/>
+<area shape="rect" id="node41" href="$classquda_1_1cuda_color_spinor_field.html#ae4d6e2612a25647660363ddc28c7685f" title="Initiate halo communication. " alt="" coords="1286,1786,1465,1827"/>
+<area shape="rect" id="node47" href="$classquda_1_1_domain_wall4_d.html#a0940b03d82452a3ab6233b256d007d28" title="quda::DomainWall4D\l::apply" alt="" coords="463,1765,604,1806"/>
+<area shape="rect" id="node48" href="$classquda_1_1_domain_wall5_d.html#aff649c1dd0a17314e04f75e2fd4e3a47" title="quda::DomainWall5D\l::apply" alt="" coords="463,1830,604,1871"/>
+<area shape="rect" id="node49" href="$classquda_1_1_staggered.html#a070c94e4112e52b693247a31a028404e" title="quda::Staggered::apply" alt="" coords="458,1896,609,1923"/>
+</map>

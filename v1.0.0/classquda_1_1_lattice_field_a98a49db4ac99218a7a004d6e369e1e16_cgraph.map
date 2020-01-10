@@ -1,0 +1,7 @@
+<map id="quda::LatticeField::destroyComms" name="quda::LatticeField::destroyComms">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="176,31,277,57"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#aaf356c30715ea44b84953c66f65c1ef9" title="comm_free" alt="" coords="183,81,270,108"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="325,31,416,57"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="464,5,564,32"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="469,56,559,83"/>
+</map>

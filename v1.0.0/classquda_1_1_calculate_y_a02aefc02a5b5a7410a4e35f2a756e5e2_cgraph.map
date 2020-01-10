@@ -1,0 +1,5 @@
+<map id="quda::CalculateY::advanceTuneParam" name="quda::CalculateY::advanceTuneParam">
+<area shape="rect" id="node2" href="$classquda_1_1_tunable.html#a6b682b3aa1e943bbb981c5e0948513d1" title="quda::Tunable::advanceTune\lParam" alt="" coords="227,5,412,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="258,71,381,112"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#abf48a71855b8e8460561da41eaa486ce" title="quda::LatticeField\l::MemType" alt="" coords="258,136,381,177"/>
+</map>

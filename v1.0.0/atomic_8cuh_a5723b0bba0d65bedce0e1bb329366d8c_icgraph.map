@@ -1,0 +1,10 @@
+<map id="atomicAdd" name="atomicAdd">
+<area shape="rect" id="node2" href="$structquda_1_1gauge_1_1_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___q_d_p___g_a_u_g_e___o_r18e8f8cc0cf320665821408416e0c3d7.html#a4e1439061ab2dd08a990780fede480a3" title="quda::gauge::Accessor\l\&lt; Float, nColor, QUDA\l_QDP_GAUGE_ORDER, storeFloat,\l use_tex \&gt;::atomic_add" alt="" coords="147,5,378,76"/>
+<area shape="rect" id="node3" href="$structquda_1_1gauge_1_1_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___m_i_l_c___g_a_u_g_e___ob3f8ab569f1b01e2fe1b1e99b6b90783.html#ad6dff02852e021909caeb934881d37bb" title="quda::gauge::Accessor\l\&lt; Float, nColor, QUDA\l_MILC_GAUGE_ORDER, storeFloat,\l use_tex \&gt;::atomic_add" alt="" coords="146,100,379,171"/>
+<area shape="rect" id="node4" href="$structquda_1_1gauge_1_1_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___f_l_o_a_t2___g_a_u_g_e_0851bfc944ce664513b027bdb1e7938b.html#ad08b3dd0c38cc7b44b1e2cde177c7d92" title="quda::gauge::Accessor\l\&lt; Float, nColor, QUDA\l_FLOAT2_GAUGE_ORDER, storeFloat,\l use_tex \&gt;::atomic_add" alt="" coords="137,195,388,265"/>
+<area shape="rect" id="node5" href="$atomic_8cuh.html#afbb00375ff1fcf7cec647cffc49035cc" title="Implementation of float2 atomic addition using two single&#45;precision additions. " alt="" coords="221,290,305,317"/>
+<area shape="rect" id="node6" href="$namespacequda.html#aa47667eabb4b3c7a1470a14fbed3793a" title="quda::computeVUV" alt="" coords="197,341,328,367"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a94f597c77eaea81692f698616f000114" title="quda::GaugeFixHit_AtomicAdd" alt="" coords="163,391,362,418"/>
+<area shape="rect" id="node8" href="$namespacequda.html#ab6f828717264388e85aa2107fce4cee1" title="quda::isUnitary" alt="" coords="210,442,315,469"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a2485151774a1f67c6f11875a2a3442ba" title="quda::ProjectSU3kernel" alt="" coords="184,493,341,519"/>
+</map>

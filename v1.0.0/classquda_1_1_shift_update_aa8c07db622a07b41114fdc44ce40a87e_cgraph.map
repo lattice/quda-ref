@@ -1,0 +1,5 @@
+<map id="quda::ShiftUpdate::apply" name="quda::ShiftUpdate::apply">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a8a51efb788a7aaead70dd6c0dec6d4a7" title="quda::blas::axpyBzpcx" alt="" coords="184,13,331,39"/>
+<area shape="rect" id="node4" href="$namespacequda.html#afdd60a37d49f6d12f8472e2a910e80c6" title="quda::zero" alt="" coords="217,63,297,90"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="379,5,501,47"/>
+</map>

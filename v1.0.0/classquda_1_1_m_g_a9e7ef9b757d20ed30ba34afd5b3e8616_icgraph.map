@@ -1,0 +1,11 @@
+<map id="quda::MG::saveVectors" name="quda::MG::saveVectors">
+<area shape="rect" id="node2" href="$classquda_1_1_m_g.html#aabb6069988c329c11b38dfab5868df76" title="Dump the null&#45;space vectors to disk. Will recurse dumping all levels. " alt="" coords="219,31,399,57"/>
+<area shape="rect" id="node5" href="$classquda_1_1_m_g.html#ad881072a23857253e540cf789cd73594" title="Generate lowest eigenvectors. " alt="" coords="205,105,413,132"/>
+<area shape="rect" id="node8" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="805,131,1004,157"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#ace9db785556886cd4655bba8685e83d5" title="Dump the null&#45;space vectors to disk. " alt="" coords="623,5,757,32"/>
+<area shape="rect" id="node4" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1052,31,1103,57"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="466,131,570,157"/>
+<area shape="rect" id="node10" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="461,80,575,107"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="635,80,745,107"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="834,56,975,83"/>
+</map>

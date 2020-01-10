@@ -1,0 +1,51 @@
+<map id="quda::CG::blocksolve" name="quda::CG::blocksolve">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a9a001f8e31cfe48d8b3b67db4b14dd92" title="quda::blas::ax" alt="" coords="263,5,361,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#aca6d0abadc46cf0048397a98c7e64316" title="quda::blas::axpy" alt="" coords="257,56,367,83"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#ae3e5e69d87a6db7678c8fb7dc14daca7" title="quda::blas::caxpy" alt="" coords="517,128,635,155"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="497,376,655,403"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#ae0819f9471411d51352d86d5b12ef830" title="quda::ColorSpinorField\l::Component" alt="" coords="501,310,651,351"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="272,461,352,488"/>
+<area shape="rect" id="node12" href="$hisq__force__reference2_8cpp.html#ad1593bcb1050aa9bf83bbd2ca53077bc" title="conj" alt="" coords="289,512,335,539"/>
+<area shape="rect" id="node15" href="$classquda_1_1_solver.html#a6567b6addff40d5212f1a1bfd878cd29" title="quda::Solver::convergence" alt="" coords="227,563,397,589"/>
+<area shape="rect" id="node16" href="$classquda_1_1_solver.html#a7fd2fa8c512c5eec42e175f4db317008" title="Test for HQ solver convergence – ignore L2 residual. " alt="" coords="217,613,407,640"/>
+<area shape="rect" id="node17" href="$classquda_1_1_solver.html#a2c1eb77cd1cb8cbe00a56903cb19f980" title="Test for L2 solver convergence – ignore HQ residual. " alt="" coords="219,664,405,691"/>
+<area shape="rect" id="node18" href="$namespacequda_1_1blas.html#aee938c63ad4eaa9d0ccc7d50013a5618" title="quda::blas::copy" alt="" coords="256,259,368,285"/>
+<area shape="rect" id="node22" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="237,715,387,757"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac_matrix.html#a70fd2aa9efa763e92789b478badb02b0" title="quda::DiracMatrix::\lflops" alt="" coords="249,781,375,822"/>
+<area shape="rect" id="node25" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="530,897,622,924"/>
+<area shape="rect" id="node26" href="$namespacequda_1_1blas.html#a46268afb6cc8f820c3b37ff6607e6954" title="quda::blas::HeavyQuarkResidualNorm" alt="" coords="195,1049,429,1076"/>
+<area shape="rect" id="node29" href="$classquda_1_1_dirac_matrix.html#a286acf4254016a519d2c3bb8f6c56304" title="quda::DiracMatrix::\lisStaggered" alt="" coords="249,1166,375,1207"/>
+<area shape="rect" id="node30" href="$classquda_1_1_time_profile.html#a6b6019dff862e546af7693a702ff69d0" title="quda::TimeProfile::Last" alt="" coords="237,1232,387,1259"/>
+<area shape="rect" id="node32" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="251,1283,373,1309"/>
+<area shape="rect" id="node33" href="$classquda_1_1_solver.html#acdece7f94464de0325bcbd97104dca4a" title="Prints out the running statistics of the solver (requires a verbosity of QUDA_VERBOSE) ..." alt="" coords="235,897,389,924"/>
+<area shape="rect" id="node34" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="537,948,615,975"/>
+<area shape="rect" id="node36" href="$classquda_1_1_solver.html#a8db54e989f46e8edf99a9a344f22f77d" title="Prints out the summary of the solver convergence (requires a verbosity of QUDA_SUMMARIZE). Assumes SolverParam.true_res and SolverParam.true_res_hq has been set. " alt="" coords="222,948,402,975"/>
+<area shape="rect" id="node37" href="$namespacequda_1_1blas.html#ac6bd2bf937b215506155a4c1fc61a6c6" title="quda::blas::reDotProduct" alt="" coords="231,1333,393,1360"/>
+<area shape="rect" id="node38" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="231,1385,393,1426"/>
+<area shape="rect" id="node39" href="$classquda_1_1_solver.html#a9f6fb837af6f05e1c1986440dcd89095" title="Set the solver L2 stopping condition. " alt="" coords="239,1451,385,1477"/>
+<area shape="rect" id="node40" href="$quda_8h.html#ae875af655915d6785450991316471a0d" title="update the radius for halos. " alt="" coords="277,1501,347,1528"/>
+<area shape="rect" id="node42" href="$namespacequda_1_1blas.html#a53d7fb8e21b813343450b14c6ba7e631" title="quda::blas::xmyNorm" alt="" coords="243,411,381,437"/>
+<area shape="rect" id="node45" href="$namespacequda_1_1blas.html#a8f3009e9e4a4bfe40b4d3f20d03c2f45" title="quda::blas::xpay" alt="" coords="257,107,367,133"/>
+<area shape="rect" id="node46" href="$namespacequda_1_1blas.html#ae823e2784a147b1ef92f13b2a6f6941c" title="quda::blas::xpy" alt="" coords="260,157,364,184"/>
+<area shape="rect" id="node47" href="$namespacequda_1_1blas.html#a9762289d4fd95b386235c996d59763d3" title="quda::blas::xpyHeavyQuark\lResidualNorm" alt="" coords="225,1101,399,1142"/>
+<area shape="rect" id="node48" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="257,1552,367,1579"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#a7a989a4b5814fab3ae2ad74d76bbc874" title="quda::blas::axpbyz" alt="" coords="514,77,638,104"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="737,114,859,155"/>
+<area shape="rect" id="node9" href="$classquda_1_1_color_spinor_field.html#a4ea3f6d046b9a6fa401089b8bc4e88e0" title="quda::ColorSpinorField\l::IsComposite" alt="" coords="723,245,873,286"/>
+<area shape="rect" id="node10" href="$classquda_1_1_color_spinor_field.html#a911a6a7e7b96abae1a61d906647a5854" title="quda::ColorSpinorField\l::CompositeDim" alt="" coords="723,310,873,351"/>
+<area shape="rect" id="node13" href="$covdev__reference_8cpp.html#ab0f599f28b95625a5325f690bfba3341" title="mat" alt="" coords="554,528,598,555"/>
+<area shape="rect" id="node14" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="776,528,820,555"/>
+<area shape="rect" id="node19" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="515,245,637,286"/>
+<area shape="rect" id="node20" href="$namespacequda_1_1blas_1_1copy__ns.html#ad7353084a830c81feb7c3f4aa2f14f7f" title="quda::blas::copy_ns\l::copy" alt="" coords="510,179,642,221"/>
+<area shape="rect" id="node21" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="723,179,873,221"/>
+<area shape="rect" id="node24" href="$classquda_1_1_dirac.html#a2c29da01d1a8aa6de6bba0f3218d3b0c" title="quda::Dirac::Flops" alt="" coords="515,788,637,815"/>
+<area shape="rect" id="node27" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="501,1042,651,1083"/>
+<area shape="rect" id="node28" href="$comm__quda_8h.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="533,1108,619,1135"/>
+<area shape="rect" id="node31" href="$classquda_1_1_time_profile.html#a5ef400ee2d1499bd42a68a73eaf2ef7f" title="quda::TimeProfile::\lPrintGlobal" alt="" coords="513,1225,639,1266"/>
+<area shape="rect" id="node35" href="$namespacequda.html#a7b851d44a9626b208c0ad84cee6eec79" title="quda::sqrt" alt="" coords="759,948,837,975"/>
+<area shape="rect" id="node41" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="505,1501,647,1528"/>
+<area shape="rect" id="node43" href="$namespacequda_1_1blas.html#a0263f204e2cf9f44d7c45c98a8712bd1" title="quda::blas::axpbyzNorm" alt="" coords="499,427,653,453"/>
+<area shape="rect" id="node44" href="$namespacequda_1_1blas.html#acb454ec63e420889abf77968b103ad3c" title="quda::blas::cDotProductNormA" alt="" coords="477,477,675,504"/>
+<area shape="rect" id="node49" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="503,1552,649,1579"/>
+<area shape="rect" id="node50" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="501,1603,651,1629"/>
+</map>

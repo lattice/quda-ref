@@ -1,0 +1,17 @@
+<map id="quda::copyGenericGauge" name="quda::copyGenericGauge">
+<area shape="rect" id="node2" href="$namespacequda.html#ab4994f3eed02aa09f9528cfaa430ff32" title="quda::copyGenericGaugeDoubleOut" alt="" coords="222,130,449,157"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a17df69e8e7bf5f628ac46ef7857856de" title="quda::copyGenericGaugeHalfOut" alt="" coords="230,181,441,207"/>
+<area shape="rect" id="node4" href="$namespacequda.html#af671d7743a65468f3228f3148de9983d" title="quda::copyGenericGaugeMG" alt="" coords="242,231,429,258"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="727,275,849,316"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a95064dd074ccf683ad0840c62a3f5ca6" title="quda::copyGenericGaugeQuarterOut" alt="" coords="220,333,451,359"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a0dc952bdcb5bea0b18f67e9932674212" title="quda::copyGenericGaugeSingleOut" alt="" coords="224,383,447,410"/>
+<area shape="rect" id="node14" href="$classquda_1_1_gauge_field.html#a02bc76f698126cbaa08301110983f779" title="quda::GaugeField::Geometry" alt="" coords="243,434,427,461"/>
+<area shape="rect" id="node15" href="$classquda_1_1_lattice_field.html#ac28a222cabb75e131517b3f129807bd6" title="quda::LatticeField\l::GhostExchange" alt="" coords="274,485,397,527"/>
+<area shape="rect" id="node16" href="$classquda_1_1_gauge_field.html#ab655802370bde3461711f30a2da68bb7" title="quda::GaugeField::Ncolor" alt="" coords="253,551,418,578"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ac8cf72dec05d3c21792309bd09bd418e" title="quda::copyGaugeMG" alt="" coords="499,173,641,199"/>
+<area shape="rect" id="node7" href="$classquda_1_1_gauge_field.html#a612a0607a564fdd24cc803223cd00a44" title="Compute the absolute maximum of the field (Linfinity norm) " alt="" coords="699,71,877,98"/>
+<area shape="rect" id="node8" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="701,122,875,149"/>
+<area shape="rect" id="node9" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="708,173,868,199"/>
+<area shape="rect" id="node10" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="689,223,887,250"/>
+<area shape="rect" id="node11" href="$classquda_1_1_lattice_field.html#ae8c8678bb923db27c8ea985546101f11" title="quda::LatticeField\l::Scale" alt="" coords="727,5,849,47"/>
+</map>

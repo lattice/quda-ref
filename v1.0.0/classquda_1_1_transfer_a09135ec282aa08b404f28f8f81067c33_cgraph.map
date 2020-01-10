@@ -1,0 +1,6 @@
+<map id="quda::Transfer::createGeoMap" name="quda::Transfer::createGeoMap">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#a067411e31ca7a803aca05df2b75479bb" title="quda::ColorSpinorField\l::LatticeIndex" alt="" coords="248,5,399,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a0fd1f89de7282388c6edb060396e8b8b" title="quda::ColorSpinorField\l::Ndim" alt="" coords="248,71,399,112"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#ab5e443440ef7c9ce919b96579feda2f9" title="quda::ColorSpinorField\l::OffsetIndex" alt="" coords="248,136,399,177"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="248,201,399,243"/>
+</map>

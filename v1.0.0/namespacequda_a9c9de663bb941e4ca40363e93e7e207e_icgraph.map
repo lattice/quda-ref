@@ -1,0 +1,7 @@
+<map id="quda::copyFloatN" name="quda::copyFloatN">
+<area shape="rect" id="node2" href="$namespacequda.html#af9cb1d44a4ad473caeeaa6452562fabe" title="quda::convert" alt="" coords="209,5,307,32"/>
+<area shape="rect" id="node3" href="$class_spinor_texture.html#aa1b157de6d363a8c3e0b6ac0a655af49" title="SpinorTexture::load" alt="" coords="192,56,324,83"/>
+<area shape="rect" id="node4" href="$class_spinor_texture.html#ad37201fc508caace7e96c9457b07cd3d" title="SpinorTexture::loadGhost" alt="" coords="175,107,341,133"/>
+<area shape="rect" id="node5" href="$class_texture.html#ade2ba5c43ad83a8e89b7e89849a303dd" title="Texture\&lt; InterType,\l StoreType \&gt;::operator[]" alt="" coords="180,158,336,199"/>
+<area shape="rect" id="node6" href="$class_spinor.html#adf08b2d875364e0ab8396c36ce1a0bed" title="Spinor::save" alt="" coords="213,224,303,251"/>
+</map>

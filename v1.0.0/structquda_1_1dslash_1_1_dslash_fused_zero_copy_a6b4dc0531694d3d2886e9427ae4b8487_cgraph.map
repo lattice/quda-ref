@@ -1,0 +1,51 @@
+<map id="quda::dslash::DslashFusedZeroCopy::operator()" name="quda::dslash::DslashFusedZeroCopy::operator()">
+<area shape="rect" id="node2" href="$classquda_1_1_worker.html#a5353c5d9c0b4df92d6a68b8a45b9003d" title="quda::Worker::apply" alt="" coords="255,99,389,126"/>
+<area shape="rect" id="node3" href="$classquda_1_1_tunable.html#a1d6de8001096e7620593315fa6fb51f6" title="quda::Tunable::apply" alt="" coords="253,150,391,177"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="702,421,877,447"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1dslash.html#adbfd94820c08f57b05ca9149846f2204" title="Wrapper for querying if communication is finished in the dslash, and if it is take the appropriate ac..." alt="" coords="225,341,419,367"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dslash.html#a75e23f9194be1a55a65fa0feb3d2de5a" title="quda::Dslash::Dagger" alt="" coords="489,573,631,599"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dslash.html#a1a15f80d26eacaa5cf368032b0ca6222" title="quda::Dslash::Nface" alt="" coords="493,623,627,650"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a88fef310d4d59eb0fe80ab65d465183d" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="468,187,652,214"/>
+<area shape="rect" id="node18" href="$namespacequda_1_1dslash.html#a225d04149cab1370cc4b0812ae6edd59" title="Ensure that the dslash is complete. By construction, the dslash will have completed (or is in flight)..." alt="" coords="227,201,417,227"/>
+<area shape="rect" id="node20" href="$namespacequda_1_1dslash.html#ab787c4c3d21ad54430c07b7a7770ab45" title="Returns a stream index for posting the pack/scatters to. We desire a stream index that is not being u..." alt="" coords="227,497,417,523"/>
+<area shape="rect" id="node22" href="$namespacequda_1_1dslash.html#a1fae35616d0b31439f2cd29d439d72b5" title="This helper function simply posts the packing kernel needed for halo exchange. " alt="" coords="243,899,401,926"/>
+<area shape="rect" id="node30" href="$namespacequda.html#a3f2b731bceb1847d99e603f56717aa64" title="Wrapper around cudaEventRecord or cuEventRecord. " alt="" coords="481,1110,639,1137"/>
+<area shape="rect" id="node31" href="$namespacequda_1_1dslash.html#a9f5be3bc4e96d3920819b2f602d1189b" title="This helper function simply posts all receives in all directions. " alt="" coords="244,598,400,625"/>
+<area shape="rect" id="node35" href="$namespacequda.html#a11db6809606f57d0e63d09000334b823" title="Wrapper around cudaStreamSynchronize or cuStreamSynchronize. " alt="" coords="224,1219,420,1246"/>
+<area shape="rect" id="node36" href="$classquda_1_1cuda_color_spinor_field.html#a8f3aa5c756bc4cdb3c2e32248cf82192" title="Initiate halo communication sending. " alt="" coords="233,1153,411,1195"/>
+<area shape="rect" id="node41" href="$namespacequda_1_1dslash.html#a2d6339fb9cbcd1878f55476f0b3d307a" title="quda::dslash::setFusedParam" alt="" coords="228,699,416,726"/>
+<area shape="rect" id="node42" href="$namespacequda_1_1dslash.html#acfd9bea728672d7dacbffac1360e4147" title="Set the ghosts to the mapped CPU ghost buffer, or unsets if already set. Note this must not be called..." alt="" coords="225,1518,419,1545"/>
+<area shape="rect" id="node50" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="247,1569,397,1611"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_color_spinor_field.html#a40b6a21c4b9703ac9f20dacb155b0453" title="Non&#45;blocking query if the halo communication has completed. " alt="" coords="471,239,649,280"/>
+<area shape="rect" id="node13" href="$classquda_1_1_lattice_field.html#ace26decf835f354063de78e124fa8c7a" title="quda::LatticeField\l::getIPCRemoteCopyEvent" alt="" coords="473,304,647,345"/>
+<area shape="rect" id="node16" href="$classquda_1_1cuda_color_spinor_field.html#a0c84cc5feb2ac1d16555d5cf06f84ac4" title="quda::cudaColorSpinorField\l::scatter" alt="" coords="471,71,649,112"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a6dcfe5c3faff54a12f659933a1f58546" title="Query if GPU Direct RDMA communication is enabled (global setting) " alt="" coords="722,775,857,802"/>
+<area shape="rect" id="node8" href="$comm__quda_8h.html#a7b8b0e9aa8c1cf786399268bde3381ee" title="comm_query" alt="" coords="741,246,837,273"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="927,826,1069,853"/>
+<area shape="rect" id="node9" href="$nvtx__pmpi_8c.html#afef53c038f98ace3170acd0c74a82f7e" title="MPI_Test" alt="" coords="959,246,1037,273"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="1117,826,1271,853"/>
+<area shape="rect" id="node17" href="$classquda_1_1cuda_color_spinor_field.html#a7a73b9310750a2a0f308c0e4611eefad" title="quda::cudaColorSpinorField\l::unpackGhost" alt="" coords="700,71,879,112"/>
+<area shape="rect" id="node19" href="$classquda_1_1_lattice_field.html#aaa8ee9176159a6b0198e4523b0c6364c" title="quda::LatticeField\l::getIPCCopyEvent" alt="" coords="495,5,625,47"/>
+<area shape="rect" id="node21" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="534,471,586,498"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="752,1009,827,1035"/>
+<area shape="rect" id="node25" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="715,1262,864,1289"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a0c3ea6427e0088123930e84faeeafe5b" title="quda::pack" alt="" coords="518,958,602,985"/>
+<area shape="rect" id="node27" href="$classquda_1_1cuda_color_spinor_field.html#a881783c582b313cdd14540829ad764bd" title="quda::cudaColorSpinorField\l::pack" alt="" coords="471,892,649,933"/>
+<area shape="rect" id="node24" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="954,1009,1042,1035"/>
+<area shape="rect" id="node28" href="$classquda_1_1cuda_color_spinor_field.html#a1a36967996f6c7c4297da38fbedf3a6b" title="Create the communication handlers and buffers. " alt="" coords="700,877,879,919"/>
+<area shape="rect" id="node29" href="$classquda_1_1cuda_color_spinor_field.html#a57ba8c0b6e1c3b5d3453592c25261766" title="Packs the cudaColorSpinorField&#39;s ghost zone. " alt="" coords="700,943,879,984"/>
+<area shape="rect" id="node32" href="$classquda_1_1cuda_color_spinor_field.html#aae9afae3384e9ab35122bd18919ad149" title="Initiate halo communication receive. " alt="" coords="471,827,649,868"/>
+<area shape="rect" id="node33" href="$comm__quda_8h.html#a0498a56438662fb30281fb92b5bc40b4" title="comm_start" alt="" coords="744,1211,835,1238"/>
+<area shape="rect" id="node34" href="$nvtx__pmpi_8c.html#a0ff352a818935c896c684af705d041e9" title="MPI_Start" alt="" coords="957,1211,1039,1238"/>
+<area shape="rect" id="node37" href="$classquda_1_1_color_spinor_field.html#a5e4cd07cc6d76cf2e652b36f28d5a455" title="quda::ColorSpinorField\l::Nvec" alt="" coords="485,1313,635,1355"/>
+<area shape="rect" id="node38" href="$namespacequda.html#ab711f0d6779ce4f27095811910ca39ea" title="quda::popKernelPackT" alt="" coords="484,1430,636,1457"/>
+<area shape="rect" id="node40" href="$namespacequda.html#ab322a3eff5a7800532b2f664b7803d2d" title="quda::pushKernelPackT" alt="" coords="481,1379,639,1406"/>
+<area shape="rect" id="node39" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="715,1383,863,1410"/>
+<area shape="rect" id="node43" href="$classquda_1_1_dslash.html#ac64385908cebf4c2bac178619b8eeb35" title="quda::Dslash::augmentAux" alt="" coords="474,1649,646,1675"/>
+<area shape="rect" id="node44" href="$comm__quda_8h.html#ae79c1a736c53def6d8682ca451ac81ed" title="comm_peer2peer_enabled\l_global" alt="" coords="473,1481,647,1523"/>
+<area shape="rect" id="node48" href="$classquda_1_1_dslash.html#a3f5406dd0dbbc28bdfe2e46df4dd1790" title="quda::Dslash::getAux" alt="" coords="490,1547,630,1574"/>
+<area shape="rect" id="node49" href="$classquda_1_1_dslash.html#a8fccc48b7ab8a7985b2b957ed740310a" title="quda::Dslash::setAux" alt="" coords="491,1598,629,1625"/>
+<area shape="rect" id="node45" href="$comm__quda_8h.html#a6e4eff43929395108b3726d35c2d85a4" title="comm_allreduce_int" alt="" coords="720,1539,859,1566"/>
+<area shape="rect" id="node46" href="$comm__common_8cpp.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="702,1438,877,1465"/>
+<area shape="rect" id="node47" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="731,1489,847,1515"/>
+</map>

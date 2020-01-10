@@ -1,0 +1,9 @@
+<map id="quda::gauge::fieldorder_wrapper::imag" name="quda::gauge::fieldorder_wrapper::imag">
+<area shape="rect" id="node2" href="$structquda_1_1complex_3_01double_01_4.html#a19991055871abc37a207d8adbfe86281" title="quda::complex\&lt; double\l \&gt;::complex" alt="" coords="203,5,356,47"/>
+<area shape="rect" id="node3" href="$structquda_1_1complex_3_01float_01_4.html#a8adc17c11fd9210705b61561f8213edb" title="quda::complex\&lt; float\l \&gt;::complex" alt="" coords="210,71,349,112"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1gauge.html#ad054f42108d03b4a84408084cd9e28d4" title="quda::gauge::operator*" alt="" coords="205,137,354,163"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1gauge.html#a8500f7a47458e4b2dee5e22f18f01b5a" title="quda::gauge::operator+" alt="" coords="203,187,355,214"/>
+<area shape="rect" id="node6" href="$structquda_1_1gauge_1_1fieldorder__wrapper.html#a1abe5792511bb445f8dcbe5d44be31ca" title="Assignment operator with fieldorder_wrapper instance as input. " alt="" coords="205,239,354,280"/>
+<area shape="rect" id="node7" href="$structquda_1_1complex_3_01double_01_4.html#a5e3890478b977cb27af07322759abc70" title="quda::complex\&lt; double\l \&gt;::operator=" alt="" coords="203,304,356,345"/>
+<area shape="rect" id="node8" href="$structquda_1_1complex_3_01float_01_4.html#a25085e565cc482498db72478cd84263d" title="quda::complex\&lt; float\l \&gt;::operator=" alt="" coords="210,369,349,411"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="quda::getDeterminant" name="quda::getDeterminant">
+<area shape="rect" id="node2" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="197,107,241,133"/>
+<area shape="rect" id="node3" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="289,107,411,133"/>
+<area shape="rect" id="node4" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="471,5,553,32"/>
+<area shape="rect" id="node7" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="459,56,565,83"/>
+<area shape="rect" id="node8" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="650,107,713,133"/>
+<area shape="rect" id="node10" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="477,157,547,184"/>
+<area shape="rect" id="node12" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="489,208,535,235"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="613,31,749,57"/>
+<area shape="rect" id="node6" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="797,31,919,57"/>
+<area shape="rect" id="node9" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="838,107,878,133"/>
+<area shape="rect" id="node11" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="631,157,732,184"/>
+</map>

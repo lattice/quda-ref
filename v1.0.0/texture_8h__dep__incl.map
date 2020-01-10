@@ -1,0 +1,13 @@
+<map id="include/texture.h" name="include/texture.h">
+<area shape="rect" id="node2" href="$blas__core_8cuh.html" title="include/kernels/blas\l_core.cuh" alt="" coords="5,80,140,121"/>
+<area shape="rect" id="node4" href="$clover__sigma__outer__product_8cuh.html" title="include/kernels/clover\l_sigma_outer_product.cuh" alt="" coords="165,80,338,121"/>
+<area shape="rect" id="node6" href="$multi__blas__core_8cuh.html" title="include/kernels/multi\l_blas_core.cuh" alt="" coords="363,80,503,121"/>
+<area shape="rect" id="node8" href="$multi__reduce__core_8cuh.html" title="include/kernels/multi\l_reduce_core.cuh" alt="" coords="527,80,667,121"/>
+<area shape="rect" id="node10" href="$reduce__core_8cuh.html" title="include/kernels/reduce\l_core.cuh" alt="" coords="691,80,841,121"/>
+<area shape="rect" id="node12" href="$copy__quda_8cu.html" title="lib/copy_quda.cu" alt="" coords="865,87,984,114"/>
+<area shape="rect" id="node3" href="$blas__quda_8cu.html" title="lib/blas_quda.cu" alt="" coords="15,177,130,203"/>
+<area shape="rect" id="node5" href="$clover__sigma__outer__product_8cu.html" title="lib/clover_sigma_outer\l_product.cu" alt="" coords="171,169,321,211"/>
+<area shape="rect" id="node7" href="$multi__blas__quda_8cu.html" title="lib/multi_blas_quda.cu" alt="" coords="346,177,495,203"/>
+<area shape="rect" id="node9" href="$multi__reduce__quda_8cu.html" title="lib/multi_reduce_quda.cu" alt="" coords="519,177,685,203"/>
+<area shape="rect" id="node11" href="$reduce__quda_8cu.html" title="lib/reduce_quda.cu" alt="" coords="709,177,839,203"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="quda::exp" name="quda::exp">
+<area shape="rect" id="node2" href="$namespacequda.html#a8a923946d76979f01afbcd347a488866" title="Apply the M5 inverse operator at a given site on the lattice. This is the original algorithm as descr..." alt="" coords="129,5,252,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ace287381e8bd109d55370a47fb3ada68" title="quda::exp" alt="" coords="153,56,229,83"/>
+<area shape="rect" id="node4" href="$namespacequda.html#afe0d4932915b098102d39232c3cb62ce" title="quda::expsu3" alt="" coords="143,107,239,133"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a33170dce685031492e9d66348442d2be" title="quda::pow" alt="" coords="151,157,230,184"/>
+<area shape="rect" id="node6" href="$svd__quda_8h.html#ab80f803de45ab4ad8b169d3110182fcc" title="smallSVD" alt="" coords="151,208,230,235"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a988d536044a8c4b7a3fa6116f74dd56c" title="quda::tanh" alt="" coords="150,259,231,285"/>
+<area shape="rect" id="node11" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="169,309,212,336"/>
+<area shape="rect" id="node7" href="$svd__quda_8h.html#af157496dd626137ecd5ce0a08be230c4" title="bdSVD" alt="" coords="309,208,372,235"/>
+<area shape="rect" id="node8" href="$svd__quda_8h.html#a4a285471d66d6c7ae4a7d6e778ef4f5e" title="computeSVD" alt="" coords="429,208,528,235"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a2647e289739a5a76df5ac7f8d80dc5ee" title="quda::tanh" alt="" coords="300,259,381,285"/>
+<area shape="rect" id="node12" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="305,309,376,336"/>
+</map>

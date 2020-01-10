@@ -1,0 +1,44 @@
+<map id="computeSVD" name="computeSVD">
+<area shape="rect" id="node2" href="$svd__quda_8h.html#af157496dd626137ecd5ce0a08be230c4" title="bdSVD" alt="" coords="152,164,215,191"/>
+<area shape="rect" id="node31" href="$hisq__force__reference2_8cpp.html#ad1593bcb1050aa9bf83bbd2ca53077bc" title="conj" alt="" coords="160,240,207,267"/>
+<area shape="rect" id="node3" href="$svd__quda_8h.html#adab4a18057e318e8678ebdca7689411c" title="accumGivensRotation" alt="" coords="263,12,411,39"/>
+<area shape="rect" id="node4" href="$svd__quda_8h.html#a6c48e36060998615c3c7b89971e2f002" title="getGivensRotation" alt="" coords="468,107,595,133"/>
+<area shape="rect" id="node5" href="$svd__quda_8h.html#a01777cb7ba3560cf1efc373388eaaca1" title="getLambdaMax" alt="" coords="281,63,392,89"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a9ec9350075113257bc217895241b0241" title="quda::setIdentity" alt="" coords="474,360,589,387"/>
+<area shape="rect" id="node24" href="$svd__quda_8h.html#ab80f803de45ab4ad8b169d3110182fcc" title="smallSVD" alt="" coords="297,201,376,228"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a296124c94737687814f895361fb2345b" title="quda::blas::norm1" alt="" coords="471,5,592,32"/>
+<area shape="rect" id="node7" href="$svd__quda_8h.html#a835ce6a70cbfffbf9aaefa786c651bc5" title="quadSum" alt="" coords="493,56,570,83"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="674,188,751,215"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a7b851d44a9626b208c0ad84cee6eec79" title="quda::sqrt" alt="" coords="836,195,913,221"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="1002,103,1086,129"/>
+<area shape="rect" id="node17" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="1006,208,1082,235"/>
+<area shape="rect" id="node21" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="1007,259,1081,285"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="1183,103,1259,129"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="1185,52,1257,79"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="1368,103,1444,129"/>
+<area shape="rect" id="node13" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="1531,38,1669,79"/>
+<area shape="rect" id="node14" href="$structquda_1_1complex_3_01float_01_4.html#a692127ea4240002b39f3581648d5bab4" title="quda::complex\&lt; float\l \&gt;::imag" alt="" coords="1531,103,1669,145"/>
+<area shape="rect" id="node16" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="1370,52,1442,79"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="1183,209,1259,236"/>
+<area shape="rect" id="node19" href="$structquda_1_1complex_3_01double_01_4.html#adc5681045ec6cd66e5ab0c73c8dc4ffd" title="quda::complex\&lt; double\l \&gt;::real" alt="" coords="1329,205,1483,246"/>
+<area shape="rect" id="node20" href="$structquda_1_1complex_3_01double_01_4.html#a3da47d570b43abe5d1720537d69c681c" title="quda::complex\&lt; double\l \&gt;::imag" alt="" coords="1329,270,1483,311"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="1177,260,1265,287"/>
+<area shape="rect" id="node25" href="$svd__quda_8h.html#ac90a0615ee9861304c6c5166c27e6d55" title="assignGivensRotation" alt="" coords="459,309,604,336"/>
+<area shape="rect" id="node26" href="$namespacequda.html#a5fcc49d4f09db180d4e92bd10642ea25" title="quda::log" alt="" coords="676,259,749,285"/>
+<area shape="rect" id="node28" href="$namespacequda.html#ab9b7c656cfd4121b9d553997230d76e2" title="quda::exp" alt="" coords="675,111,751,137"/>
+<area shape="rect" id="node30" href="$svd__quda_8h.html#ac7a87c384f18cdd536f4c2b10a335f2d" title="swap" alt="" coords="506,208,557,235"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a474f0c39c22343df4a6bcf97076fdde1" title="quda::log" alt="" coords="838,259,911,285"/>
+<area shape="rect" id="node29" href="$namespacequda.html#afbd4cbea98feea6d4c555e1df3714f27" title="quda::exp" alt="" coords="837,107,913,133"/>
+<area shape="rect" id="node32" href="$covdev__reference_8cpp.html#ab0f599f28b95625a5325f690bfba3341" title="mat" alt="" coords="315,379,359,405"/>
+<area shape="rect" id="node33" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="509,411,553,437"/>
+<area shape="rect" id="node34" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="652,411,773,437"/>
+<area shape="rect" id="node35" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="834,411,915,437"/>
+<area shape="rect" id="node38" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="821,461,928,488"/>
+<area shape="rect" id="node39" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="839,309,910,336"/>
+<area shape="rect" id="node41" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="1013,360,1075,387"/>
+<area shape="rect" id="node43" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="851,512,898,539"/>
+<area shape="rect" id="node36" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="976,436,1112,463"/>
+<area shape="rect" id="node37" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1160,436,1281,463"/>
+<area shape="rect" id="node40" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="993,309,1095,336"/>
+<area shape="rect" id="node42" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1201,360,1241,387"/>
+</map>

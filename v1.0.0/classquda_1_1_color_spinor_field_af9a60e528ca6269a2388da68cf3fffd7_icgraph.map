@@ -1,0 +1,12 @@
+<map id="quda::ColorSpinorField::GhostFaceCB" name="quda::ColorSpinorField::GhostFaceCB">
+<area shape="rect" id="node2" href="$structquda_1_1_improved_staggered_apply.html#a8a5b1df64f7b19b77eba04ba1eef52f6" title="quda::ImprovedStaggeredApply\l::ImprovedStaggeredApply" alt="" coords="233,5,433,47"/>
+<area shape="rect" id="node3" href="$structquda_1_1_laplace_apply.html#a61f684ba2fd915b161200a0f605600d5" title="quda::LaplaceApply\l::LaplaceApply" alt="" coords="267,71,400,112"/>
+<area shape="rect" id="node4" href="$structquda_1_1_staggered_apply.html#a0086bc9830d824738c128f9fb16b4436" title="quda::StaggeredApply\l::StaggeredApply" alt="" coords="260,136,407,177"/>
+<area shape="rect" id="node5" href="$structquda_1_1_twisted_clover_apply.html#a12d62a66acb6abc421f97d79d4c1ce8a" title="quda::TwistedCloverApply\l::TwistedCloverApply" alt="" coords="249,201,417,243"/>
+<area shape="rect" id="node6" href="$structquda_1_1_twisted_clover_preconditioned_apply.html#a8ec2dd11e0c92421ff0f9b6af7d77a1a" title="quda::TwistedCloverPreconditioned\lApply::TwistedCloverPreconditionedApply" alt="" coords="204,267,463,308"/>
+<area shape="rect" id="node7" href="$structquda_1_1_twisted_mass_apply.html#a0dcef2d3afafbf58496fd65a1451d06e" title="quda::TwistedMassApply\l::TwistedMassApply" alt="" coords="252,332,415,373"/>
+<area shape="rect" id="node8" href="$structquda_1_1_twisted_mass_preconditioned_apply.html#a59f00b1911ca0528c59a15cab020b630" title="quda::TwistedMassPreconditioned\lApply::TwistedMassPreconditionedApply" alt="" coords="207,397,459,439"/>
+<area shape="rect" id="node9" href="$structquda_1_1_wilson_apply.html#a91403cbbd4b66542e81dc7c04f56de4e" title="quda::WilsonApply::\lWilsonApply" alt="" coords="267,463,399,504"/>
+<area shape="rect" id="node10" href="$structquda_1_1_wilson_clover_apply.html#aed93ec67f19a9f22c3260dcafe224c1b" title="quda::WilsonCloverApply\l::WilsonCloverApply" alt="" coords="252,528,415,569"/>
+<area shape="rect" id="node11" href="$structquda_1_1_wilson_clover_preconditioned_apply.html#aeefed6f371ce3cad659683b3a2d95c11" title="quda::WilsonCloverPreconditioned\lApply::WilsonCloverPreconditionedApply" alt="" coords="207,593,459,635"/>
+</map>

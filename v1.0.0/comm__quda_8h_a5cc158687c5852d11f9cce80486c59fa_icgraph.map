@@ -1,0 +1,19 @@
+<map id="comm_allreduce_xor" name="comm_allreduce_xor">
+<area shape="rect" id="node2" href="$namespacequda.html#a67722133651ac086090b613f2ecba041" title="quda::Checksum" alt="" coords="195,153,312,180"/>
+<area shape="rect" id="node3" href="$classquda_1_1cpu_gauge_field.html#a6e91f1204e583f2f20bb295dce52eeb5" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="382,117,525,158"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#ab983f2bef311d704250673b9bc289afe" title="quda::GaugeField::checksum" alt="" coords="360,183,547,209"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="595,183,709,209"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#a3179d142bb1ad0a5bcc476a60e9f0b16" title="load_gauge_quda_" alt="" coords="785,5,916,32"/>
+<area shape="rect" id="node7" href="$covdev__test_8cpp.html#aa1cd5eafa5245aa7c3ded9b3b470f0b9" title="init" alt="" coords="831,56,870,83"/>
+<area shape="rect" id="node9" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="825,107,876,133"/>
+<area shape="rect" id="node10" href="$plaq__test_8cpp.html#a039131f3799421d26e6bbc9eee5c68af" title="plaq_test" alt="" coords="813,157,888,184"/>
+<area shape="rect" id="node12" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="992,240,1103,267"/>
+<area shape="rect" id="node14" href="$staggered__gauge__utils_8h.html#ae758bc34f333a2e7b43d6a885ce8c3a3" title="computeStaggeredPlaquette\lQDPOrder" alt="" coords="757,259,944,301"/>
+<area shape="rect" id="node15" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="1007,295,1088,321"/>
+<area shape="rect" id="node17" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="817,376,885,403"/>
+<area shape="rect" id="node8" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1022,56,1073,83"/>
+<area shape="rect" id="node11" href="$plaq__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1022,157,1073,184"/>
+<area shape="rect" id="node13" href="$staggered__eigensolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1151,240,1201,267"/>
+<area shape="rect" id="node16" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1151,295,1201,321"/>
+<area shape="rect" id="node18" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1022,376,1073,403"/>
+</map>

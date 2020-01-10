@@ -1,0 +1,12 @@
+<map id="quda::DiracCoarse::createY" name="quda::DiracCoarse::createY">
+<area shape="rect" id="node2" href="$classquda_1_1_transfer.html#a4208ea856d2bc1baf9d71b538421a02e" title="quda::Transfer::Geo_bs" alt="" coords="201,5,354,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a0fd1f89de7282388c6edb060396e8b8b" title="quda::ColorSpinorField\l::Ndim" alt="" coords="202,57,353,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#a6067aeefbeb02a469fadc6534ce01794" title="quda::ColorSpinorField\l::Nspin" alt="" coords="202,122,353,163"/>
+<area shape="rect" id="node5" href="$classquda_1_1_transfer.html#a9e59b755506f8fcbca8e1da9ad1dcd85" title="The precision of the packed null&#45;space vectors. " alt="" coords="185,188,369,215"/>
+<area shape="rect" id="node6" href="$classquda_1_1_transfer.html#a080b7fc33d7d4c22c5a43f957be27d58" title="quda::Transfer::nvec" alt="" coords="209,239,345,265"/>
+<area shape="rect" id="node7" href="$structquda_1_1_gauge_field_param.html#a3dd48f43933d09bb14ee9d05733dd8c0" title="Helper function for setting the precision and corresponding field order for QUDA internal fields..." alt="" coords="197,290,357,331"/>
+<area shape="rect" id="node9" href="$classquda_1_1_transfer.html#aaf0d832412995c0ccbbdf86c1d0a34f6" title="quda::Transfer::Spin_bs" alt="" coords="200,356,355,383"/>
+<area shape="rect" id="node10" href="$classquda_1_1_transfer.html#aff9a183805a9c82a6a859b5df2f44814" title="quda::Transfer::Vectors" alt="" coords="201,407,353,433"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="194,457,361,484"/>
+<area shape="rect" id="node8" href="$namespacequda.html#afd4bd2cb9895c735da434b82bb7cd7bb" title="quda::operator\&lt;\&lt;" alt="" coords="417,297,536,324"/>
+</map>

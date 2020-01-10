@@ -1,0 +1,51 @@
+<map id="quda::copyGaugeEx" name="quda::copyGaugeEx">
+<area shape="rect" id="node2" href="$namespacequda.html#ad288ddd1679350fa258fa42bd22accd4" title="quda::copyExtendedGauge" alt="" coords="188,1292,363,1319"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a8b0af6b94d7d5041eddf9e4a0a929c0c" title="Gauge fixing with overrelaxation with support for single and multi GPU. " alt="" coords="829,319,1032,345"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="847,1820,1015,1847"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="415,1147,565,1189"/>
+<area shape="rect" id="node30" href="$classquda_1_1cpu_gauge_field.html#a6f4ec9b03d920ef9ad7ece9adbc10968" title="quda::cpuGaugeField\l::copy" alt="" coords="419,271,561,313"/>
+<area shape="rect" id="node31" href="$interface__quda_8cpp.html#abb36177a48730b739464b49c044e609e" title="copyExtendedResidentGaugeQuda" alt="" coords="820,775,1041,801"/>
+<area shape="rect" id="node32" href="$heatbath__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1127,1239,1177,1265"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#afc9bde42103758785e412c281d2f37fa" title="createExtendedGauge" alt="" coords="620,648,769,675"/>
+<area shape="rect" id="node42" href="$classquda_1_1cpu_gauge_field.html#a6e91f1204e583f2f20bb295dce52eeb5" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="419,1922,561,1963"/>
+<area shape="rect" id="node43" href="$hisq__paths__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="437,1559,543,1585"/>
+<area shape="rect" id="node44" href="$interface__quda_8cpp.html#ad8e1cc7e05db09d619a92b8ac3782cb4" title="performWuppertalnStep" alt="" coords="411,1988,569,2015"/>
+<area shape="rect" id="node45" href="$classquda_1_1cuda_gauge_field.html#a9cdc7269080d7c2bbf5975d40b805dad" title="Upload from this field into a CPU field. " alt="" coords="619,1391,770,1433"/>
+<area shape="rect" id="node48" href="$interface__quda_8cpp.html#a9697844b4e6ef5debe0b7d8c05a96b76" title="saveGaugeQuda" alt="" coords="872,927,989,953"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="619,1265,770,1306"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dirac_coarse.html#a97b2f6b1749cc80498ea5a6309651832" title="Create the CPU or GPU coarse gauge fields on demand (requires that the fields have been created in th..." alt="" coords="629,187,761,229"/>
+<area shape="rect" id="node26" href="$interface__quda_8cpp.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="873,673,988,700"/>
+<area shape="rect" id="node28" href="$interface__quda_8cpp.html#a933684d9a6f77d2cc0e5e222c4c7292c" title="loadSloppyGaugeQuda" alt="" coords="617,1159,772,1185"/>
+<area shape="rect" id="node29" href="$multigrid__benchmark__test_8cu.html#ab74e8c9c0b5eb4f70a8e36e650416d95" title="initFields" alt="" coords="658,1108,731,1135"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_gauge_field.html#a0e6dfaa97702635923e0ea2ba4078034" title="Download into this field from a CPU field. Overloaded variant that includes profiling. " alt="" coords="855,978,1006,1019"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="858,825,1003,852"/>
+<area shape="rect" id="node9" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="1089,1061,1215,1088"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html#a41dcc85e360fc2744bffdb7486234fc8" title="computeGaugeForceQuda" alt="" coords="843,876,1018,903"/>
+<area shape="rect" id="node11" href="$interface__quda_8cpp.html#a1eba8aae7c46eca4d44b31b53d4c6079" title="createGaugeFieldQuda" alt="" coords="853,1044,1008,1071"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="833,1500,1028,1527"/>
+<area shape="rect" id="node13" href="$interface__quda_8cpp.html#a80c19191f476ca7c464ca450c3ae5c25" title="updateGaugeFieldQuda" alt="" coords="851,1095,1010,1121"/>
+<area shape="rect" id="node14" href="$interface__quda_8cpp.html#af6e8d08f0e5477d56e09f07c940ebf65" title="projectSU3Quda" alt="" coords="872,1348,989,1375"/>
+<area shape="rect" id="node15" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="858,1399,1003,1425"/>
+<area shape="rect" id="node16" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="871,1145,990,1172"/>
+<area shape="rect" id="node17" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="876,1551,985,1577"/>
+<area shape="rect" id="node18" href="$hisq__unitarize__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="878,1247,983,1273"/>
+<area shape="rect" id="node19" href="$pack__test_8cpp.html#aec76c9bf94bf0376129acd694d76a34b" title="packTest" alt="" coords="893,1449,968,1476"/>
+<area shape="rect" id="node21" href="$classquda_1_1_dirac_coarse.html#a12e57799c86f32aa433f8ca2a0e0b881" title="Apply the coarse clover operator. " alt="" coords="865,57,997,98"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dirac_coarse.html#aa082a88d338cb65d6f251d1e7b7469f2" title="Apply the inverse coarse clover operator. " alt="" coords="865,122,997,163"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac_coarse.html#a25227f748c269d75008717b8404bdcc1" title="Apply DslashXpay out = (D * in) " alt="" coords="865,187,997,229"/>
+<area shape="rect" id="node24" href="$classquda_1_1_dirac_coarse.html#ad450ec6c42dd0e2a8c9411446306cbb2" title="Apply DslashXpay out = (D * in + A * x) " alt="" coords="865,253,997,294"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac_coarse.html#a89e6cba5df9f38343a33ebf585256887" title="Apply the full operator. " alt="" coords="859,5,1002,32"/>
+<area shape="rect" id="node27" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="1118,597,1186,624"/>
+<area shape="rect" id="node34" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="845,1196,1017,1223"/>
+<area shape="rect" id="node35" href="$interface__quda_8cpp.html#ae25ca55804c0192e0d941c2b276d7d6d" title="createCloverQuda" alt="" coords="868,369,993,396"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#a51da31992209b588cc71641963307d56" title="performAPEnStep" alt="" coords="867,471,994,497"/>
+<area shape="rect" id="node37" href="$interface__quda_8cpp.html#a0ee20ea90421939924df9903acb6b4d8" title="performOvrImpSTOUTnStep" alt="" coords="837,420,1024,447"/>
+<area shape="rect" id="node38" href="$interface__quda_8cpp.html#ad9b78b143153725974886c392285b906" title="performSTOUTnStep" alt="" coords="859,521,1003,548"/>
+<area shape="rect" id="node39" href="$interface__quda_8cpp.html#a4bf6047ca71143fd895acbf5d5b86561" title="plaqQuda" alt="" coords="892,572,969,599"/>
+<area shape="rect" id="node40" href="$interface__quda_8cpp.html#ad06b8f39d97cabec9ba78084ff0cee18" title="Calculates the topological charge from gaugeSmeared, if it exist, or from gaugePrecise if no smeared ..." alt="" coords="859,623,1002,649"/>
+<area shape="rect" id="node41" href="$interface__quda_8cpp.html#ae96c2351487ffad0c7fccf146acea047" title="qChargeQuda" alt="" coords="880,724,981,751"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a54730f68a5a027c068a61f7f078d9ce6" title="Coarse operator construction from a fine&#45;grid operator (Wilson / Clover) " alt="" coords="874,1703,987,1729"/>
+<area shape="rect" id="node47" href="$classquda_1_1cuda_gauge_field.html#ad640087d39ac539ab3b676e1f585a4c3" title="Upload from this field into a CPU field. Overloaded variant that includes profiling. " alt="" coords="855,1754,1006,1795"/>
+<area shape="rect" id="node49" href="$interface__quda_8cpp.html#a6516a0a03688b7c5931b44ae4244e7d2" title="saveGaugeFieldQuda" alt="" coords="858,1601,1003,1628"/>
+<area shape="rect" id="node50" href="$unitarize__link__test_8cpp.html#a529cfbd2a1809bcaf7b4b76a7fb35e5b" title="TEST" alt="" coords="903,1652,958,1679"/>
+</map>

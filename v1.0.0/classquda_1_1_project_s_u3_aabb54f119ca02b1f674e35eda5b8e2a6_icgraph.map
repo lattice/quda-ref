@@ -1,0 +1,4 @@
+<map id="quda::ProjectSU3::apply" name="quda::ProjectSU3::apply">
+<area shape="rect" id="node2" href="$namespacequda.html#a3c307c013d43c3f829373c28c25cf7f0" title="Project the input gauge field onto the SU(3) group. This is a destructive operation. The number of link failures is reported so appropriate action can be taken. " alt="" coords="212,5,332,32"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#af6e8d08f0e5477d56e09f07c940ebf65" title="projectSU3Quda" alt="" coords="380,5,497,32"/>
+</map>

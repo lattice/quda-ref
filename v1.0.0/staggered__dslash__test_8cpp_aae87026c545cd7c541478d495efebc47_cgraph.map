@@ -1,0 +1,51 @@
+<map id="dslashCUDA" name="dslashCUDA">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="1005,70,1107,96"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac.html#a69792f182bbe560af9e1358109df730d" title="quda::Dirac::Dslash" alt="" coords="148,523,279,550"/>
+<area shape="rect" id="node7" href="$staggered__dslash__test_8cpp.html#aaf81d3fdaf258088d7692fa70cece087" title="end" alt="" coords="192,472,235,499"/>
+<area shape="rect" id="node50" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="162,574,265,600"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="1155,70,1245,96"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="1293,44,1393,71"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="1298,95,1389,122"/>
+<area shape="rect" id="node8" href="$quda_8h.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="358,908,471,935"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#ab213b188bc96e090912616eb9d7672a3" title="Reset the comm dim partioned array to zero,. " alt="" coords="327,323,503,350"/>
+<area shape="rect" id="node13" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="377,622,452,648"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a668994b5c83eeffb4a0535878ecc23cd" title="freeSloppyGaugeQuda" alt="" coords="790,1056,942,1083"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#a4d9b659714b667da8423d595f8a7abe3" title="comm_dim_partitioned\l_reset" alt="" coords="562,44,715,85"/>
+<area shape="rect" id="node12" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="789,51,943,78"/>
+<area shape="rect" id="node14" href="$namespacequda.html#ac466a953381d986b1eca6880f1fda568" title="quda::assertAllMemFree" alt="" coords="559,292,719,319"/>
+<area shape="rect" id="node17" href="$comm__quda_8h.html#acae24b1f48d2fe459c280cf33e61cc6e" title="comm_finalize" alt="" coords="587,343,691,370"/>
+<area shape="rect" id="node21" href="$namespacequda_1_1cublas.html#ac01bc3ebeb04196a5e5612ff8c99e286" title="Destroy the CUBLAS context. " alt="" coords="569,394,709,420"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a4f1346eb3e34bbda30ff8983af3f81c1" title="quda::destroyDslashEvents" alt="" coords="552,444,725,471"/>
+<area shape="rect" id="node23" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="585,495,692,522"/>
+<area shape="rect" id="node25" href="$namespacequda_1_1pool.html#aafe898a5f018221ffd9f6336376a3a01" title="Free all outstanding device&#45;memory allocations. " alt="" coords="561,546,717,572"/>
+<area shape="rect" id="node26" href="$namespacequda_1_1pool.html#aa026d9c5ea0fa0090dfce4792b96908c" title="Free all outstanding pinned&#45;memory allocations. " alt="" coords="560,596,717,623"/>
+<area shape="rect" id="node27" href="$interface__quda_8cpp.html#ab1d3e5c24eb7fcb0d2afffd71ce807f5" title="Flush the chronological history for the given index. " alt="" coords="579,647,699,674"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a7079faa2397250063ca3076015ac7bd3" title="Flush any outstanding force monitoring information. " alt="" coords="559,698,718,724"/>
+<area shape="rect" id="node32" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="820,799,912,826"/>
+<area shape="rect" id="node33" href="$interface__quda_8cpp.html#a9221f8639873c0844f04bc64d5e31ccd" title="freeCloverQuda" alt="" coords="583,900,694,927"/>
+<area shape="rect" id="node35" href="$interface__quda_8cpp.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="582,951,695,978"/>
+<area shape="rect" id="node36" href="$classquda_1_1_lattice_field.html#af3e43730f50a448d8b818413b9256fbc" title="Free statically allocated ghost buffers. " alt="" coords="577,226,700,268"/>
+<area shape="rect" id="node38" href="$classquda_1_1cpu_color_spinor_field.html#a51d79fe9a54a572b777123a2cd133752" title="quda::cpuColorSpinorField\l::freeGhostBuffer" alt="" coords="553,1002,725,1044"/>
+<area shape="rect" id="node39" href="$classquda_1_1_time_profile.html#a352ad271eb6f06f75cf3c3c0a28e8023" title="quda::TimeProfile::\lPrint" alt="" coords="803,1162,929,1204"/>
+<area shape="rect" id="node40" href="$namespacequda.html#a5db490f30c5b118722f667e80b022be0" title="Print out the timer profile for CUDA API calls. " alt="" coords="569,110,708,136"/>
+<area shape="rect" id="node41" href="$classquda_1_1_time_profile.html#a5ef400ee2d1499bd42a68a73eaf2ef7f" title="quda::TimeProfile::\lPrintGlobal" alt="" coords="575,161,702,202"/>
+<area shape="rect" id="node42" href="$namespacequda.html#ab980a6a7a4544d736fb7ede6931f4a18" title="quda::printLaunchTimer" alt="" coords="561,1119,717,1146"/>
+<area shape="rect" id="node43" href="$namespacequda.html#a4fc3a6b54caf9c55ffafa5066f7d715a" title="quda::printPeakMemUsage" alt="" coords="551,1068,727,1095"/>
+<area shape="rect" id="node44" href="$namespacequda.html#ae545834b5a0f9d48e009ad5c3ce44389" title="Save profile to disk. " alt="" coords="579,850,698,876"/>
+<area shape="rect" id="node48" href="$namespacequda.html#a1c01992fa9197e82c2463a91820a1d87" title="quda::saveTuneCache" alt="" coords="565,748,713,775"/>
+<area shape="rect" id="node15" href="$namespacequda.html#ac7591d2f72a05a83d9fb8a39ed93f1ea" title="quda::print_alloc_header" alt="" coords="785,292,947,319"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a6e4a411d560dd2b165d0c48f6eec108f" title="quda::print_alloc" alt="" coords="809,242,923,268"/>
+<area shape="rect" id="node18" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="787,394,945,420"/>
+<area shape="rect" id="node19" href="$comm__common_8cpp.html#ae51a9bfd349c0b71c586feb2d8c3fa47" title="comm_destroy_topology" alt="" coords="785,444,947,471"/>
+<area shape="rect" id="node20" href="$comm__common_8cpp.html#aabb1077a2f4eb1b7aa974b0e92ec305c" title="comm_set_default_topology" alt="" coords="775,343,957,370"/>
+<area shape="rect" id="node24" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="791,495,941,522"/>
+<area shape="rect" id="node28" href="$interface__quda_8cpp.html#a362129bb8567a7ebf60ddb48569b07b3" title="chronoResident" alt="" coords="811,596,921,623"/>
+<area shape="rect" id="node30" href="$namespacequda.html#a42baede862270bd329a75ba1a9b0d73d" title="Whether we are monitoring the force or not. " alt="" coords="802,647,930,674"/>
+<area shape="rect" id="node31" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="821,748,911,775"/>
+<area shape="rect" id="node34" href="$interface__quda_8cpp.html#a5851bc3e0c05e88bb7c3c11ec82034eb" title="freeSloppyCloverQuda" alt="" coords="791,1002,941,1028"/>
+<area shape="rect" id="node37" href="$classquda_1_1_lattice_field.html#a6914c75efd90a13ecb619356e632e63a" title="quda::LatticeField\l::destroyIPCComms" alt="" coords="799,138,933,180"/>
+<area shape="rect" id="node45" href="$namespacequda.html#acf8d40c61c8d618001b7cadbf8d902d0" title="quda::traceEnabled" alt="" coords="801,900,931,927"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a883c30b0eab045aaf88d0c0f6267cd24" title="quda::serializeProfile" alt="" coords="797,951,935,978"/>
+<area shape="rect" id="node47" href="$namespacequda.html#a2163bd33faa9d1a855dbb39aacb3440e" title="quda::serializeTrace" alt="" coords="799,850,933,876"/>
+<area shape="rect" id="node49" href="$namespacequda.html#a4cf7120a3f6aa7fa21ebff3870969bb2" title="quda::serializeTuneCache" alt="" coords="782,698,950,724"/>
+</map>

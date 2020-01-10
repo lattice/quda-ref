@@ -1,0 +1,6 @@
+<map id="initQudaDevice" name="initQudaDevice">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#aed9cf3a332bd56a53d524699b0fd0776" title="comm_gpuid" alt="" coords="201,5,297,32"/>
+<area shape="rect" id="node3" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="203,56,295,83"/>
+<area shape="rect" id="node4" href="$namespacequda.html#aaf67ea136dee872a19103cca2522f488" title="Set whether data is reorderd on the CPU or GPU. This can set at QUDA initialization using the environ..." alt="" coords="163,107,335,133"/>
+<area shape="rect" id="node5" href="$numa__affinity_8h.html#afc2c8f007904bc8e54d738389d53c965" title="setNumaAffinityNVML" alt="" coords="176,157,321,184"/>
+</map>

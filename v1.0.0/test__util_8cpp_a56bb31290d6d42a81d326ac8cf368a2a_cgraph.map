@@ -1,0 +1,46 @@
+<map id="construct_fat_long_gauge_field" name="construct_fat_long_gauge_field">
+<area shape="rect" id="node2" href="$test__util_8cpp.html#a31022e3fdbba2e0f9b7bb6c58467366b" title="applyStaggeredScaling" alt="" coords="186,132,341,159"/>
+<area shape="rect" id="node11" href="$test__util_8cpp.html#a90501c6aa892140ed3d96016b37cc0c9" title="constructGaugeField" alt="" coords="193,233,334,260"/>
+<area shape="rect" id="node17" href="$namespacequda.html#a1ba7cd5a898e13ed57acf0a7cd4c28f1" title="Returns the complex with magnitude m and angle theta in radians. " alt="" coords="944,552,1028,579"/>
+<area shape="rect" id="node45" href="$test__util_8cpp.html#a9c01d12d72f64c84cd87e4aba721cc06" title="constructUnitGaugeField" alt="" coords="181,183,345,209"/>
+<area shape="rect" id="node3" href="$test__util_8cpp.html#a89b20526a3b057ed51149add7befd83c" title="applyGaugeFieldScaling_long" alt="" coords="393,107,585,133"/>
+<area shape="rect" id="node4" href="$test__util_8cpp.html#abd8308e0d3bb82711cf9d214112d9cbc" title="fullLatticeIndex" alt="" coords="633,56,743,83"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="662,5,714,32"/>
+<area shape="rect" id="node6" href="$test__util_8cpp.html#ace310e6f1c317157f01e11e59068dd5d" title="last_node_in_t" alt="" coords="635,107,741,133"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a206b67c95a89bcfed306b2994205b473" title="commCoords" alt="" coords="791,107,889,133"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#a6c081bfedfe939a19ca8acd025864f14" title="comm_coord" alt="" coords="937,107,1035,133"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#ae272add21a9cc81ff61e2ae27f849ebd" title="comm_coords" alt="" coords="1111,107,1213,133"/>
+<area shape="rect" id="node10" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1083,56,1241,83"/>
+<area shape="rect" id="node12" href="$test__util_8cpp.html#a2b5502d2a7e51937f81b4bbe647c4ef9" title="normalize" alt="" coords="451,345,528,372"/>
+<area shape="rect" id="node30" href="$test__util_8cpp.html#a6ff77ced36e930f1bc260bab5c691bbb" title="orthogonalize" alt="" coords="440,233,539,260"/>
+<area shape="rect" id="node43" href="$test__util_8cpp.html#ac759861ca379a4dcca023c0bcaef6b0a" title="accumulateConjugateProduct" alt="" coords="393,396,585,423"/>
+<area shape="rect" id="node44" href="$test__util_8cpp.html#a3a53ed4a3eefe16c496a3e2d4c1a0f29" title="applyGaugeFieldScaling" alt="" coords="409,183,570,209"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="1343,401,1389,428"/>
+<area shape="rect" id="node14" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="645,447,731,473"/>
+<area shape="rect" id="node15" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="649,396,727,423"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a7b851d44a9626b208c0ad84cee6eec79" title="quda::sqrt" alt="" coords="801,427,879,453"/>
+<area shape="rect" id="node24" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="948,469,1024,496"/>
+<area shape="rect" id="node28" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="949,419,1023,445"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="1124,619,1200,645"/>
+<area shape="rect" id="node22" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="1126,568,1198,595"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="1328,635,1404,661"/>
+<area shape="rect" id="node20" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="1491,569,1629,610"/>
+<area shape="rect" id="node21" href="$structquda_1_1complex_3_01float_01_4.html#a692127ea4240002b39f3581648d5bab4" title="quda::complex\&lt; float\l \&gt;::imag" alt="" coords="1491,634,1629,675"/>
+<area shape="rect" id="node23" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="1330,584,1402,611"/>
+<area shape="rect" id="node25" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="1124,469,1200,496"/>
+<area shape="rect" id="node26" href="$structquda_1_1complex_3_01double_01_4.html#adc5681045ec6cd66e5ab0c73c8dc4ffd" title="quda::complex\&lt; double\l \&gt;::real" alt="" coords="1289,453,1443,494"/>
+<area shape="rect" id="node27" href="$structquda_1_1complex_3_01double_01_4.html#a3da47d570b43abe5d1720537d69c681c" title="quda::complex\&lt; double\l \&gt;::imag" alt="" coords="1289,518,1443,559"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="1118,419,1206,445"/>
+<area shape="rect" id="node31" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1718,199,1758,225"/>
+<area shape="rect" id="node32" href="$hisq__force__reference2_8cpp.html#ad1593bcb1050aa9bf83bbd2ca53077bc" title="conj" alt="" coords="665,245,711,272"/>
+<area shape="rect" id="node33" href="$covdev__reference_8cpp.html#ab0f599f28b95625a5325f690bfba3341" title="mat" alt="" coords="818,259,862,285"/>
+<area shape="rect" id="node34" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="964,276,1008,303"/>
+<area shape="rect" id="node35" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="1101,284,1223,311"/>
+<area shape="rect" id="node36" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="1325,300,1407,327"/>
+<area shape="rect" id="node39" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="1313,351,1419,377"/>
+<area shape="rect" id="node40" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="1529,249,1591,276"/>
+<area shape="rect" id="node41" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="1331,199,1401,225"/>
+<area shape="rect" id="node37" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="1492,325,1628,352"/>
+<area shape="rect" id="node38" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1677,325,1799,352"/>
+<area shape="rect" id="node42" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="1509,199,1611,225"/>
+</map>

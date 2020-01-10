@@ -1,0 +1,51 @@
+<map id="include/fast_intdiv.h" name="include/fast_intdiv.h">
+<area shape="rect" id="node2" href="$color__spinor__field_8h.html" title="include/color_spinor\l_field.h" alt="" coords="2663,80,2799,121"/>
+<area shape="rect" id="node15" href="$block__orthogonalize_8cuh.html" title="include/kernels/block\l_orthogonalize.cuh" alt="" coords="5,259,148,300"/>
+<area shape="rect" id="node16" href="$color__spinor__pack_8cuh.html" title="include/kernels/color\l_spinor_pack.cuh" alt="" coords="645,259,785,300"/>
+<area shape="rect" id="node18" href="$restrictor_8cuh.html" title="include/kernels/restrictor.cuh" alt="" coords="173,266,359,293"/>
+<area shape="rect" id="node48" href="$gauge__field__order_8h.html" title="Main header file for host and device accessors to GaugeFields. " alt="" coords="392,80,524,121"/>
+<area shape="rect" id="node49" href="$llfat__quda_8cu.html" title="lib/llfat_quda.cu" alt="" coords="303,177,415,203"/>
+<area shape="rect" id="node50" href="$dslash__constants_8h.html" title="lib/dslash_constants.h" alt="" coords="2823,87,2970,114"/>
+<area shape="rect" id="node3" href="$blas__helper_8cuh.html" title="include/blas_helper.cuh" alt="" coords="4623,177,4779,203"/>
+<area shape="rect" id="node4" href="$blas__quda_8h.html" title="include/blas_quda.h" alt="" coords="2483,177,2617,203"/>
+<area shape="rect" id="node5" href="$dirac__quda_8h.html" title="include/dirac_quda.h" alt="" coords="2184,266,2324,293"/>
+<area shape="rect" id="node6" href="$eigensolve__quda_8h.html" title="include/eigensolve\l_quda.h" alt="" coords="1945,348,2072,389"/>
+<area shape="rect" id="node7" href="$invert__quda_8h.html" title="include/invert_quda.h" alt="" coords="2039,437,2181,464"/>
+<area shape="rect" id="node8" href="$quda__arpack__interface_8h.html" title="include/quda_arpack\l_interface.h" alt="" coords="2147,348,2289,389"/>
+<area shape="rect" id="node9" href="$blas__quda_8cu.html" title="lib/blas_quda.cu" alt="" coords="2515,266,2630,293"/>
+<area shape="rect" id="node10" href="$clover__field_8cpp.html" title="lib/clover_field.cpp" alt="" coords="2655,266,2781,293"/>
+<area shape="rect" id="node11" href="$color__spinor__util_8cu.html" title="lib/color_spinor_util.cu" alt="" coords="1474,266,1623,293"/>
+<area shape="rect" id="node12" href="$contract_8cu.html" title="lib/contract.cu" alt="" coords="2805,266,2908,293"/>
+<area shape="rect" id="node13" href="$cuda__color__spinor__field_8cpp.html" title="lib/cuda_color_spinor\l_field.cpp" alt="" coords="2348,259,2491,300"/>
+<area shape="rect" id="node14" href="$color__spinor__field__order_8h.html" title="include/color_spinor\l_field_order.h" alt="" coords="985,169,1121,211"/>
+<area shape="rect" id="node17" href="$color__spinor__pack_8cu.html" title="This is the implementation of the color&#45;spinor halo packer for an arbitrary field. This implementation uses the fine&#45;grained accessors and should support all field types reqgardless of precision, number of color or spins etc. " alt="" coords="477,355,637,382"/>
+<area shape="rect" id="node19" href="$color__spinor__wuppertal_8cu.html" title="lib/color_spinor_wuppertal.cu" alt="" coords="434,266,621,293"/>
+<area shape="rect" id="node20" href="$copy__color__spinor_8cuh.html" title="lib/copy_color_spinor.cuh" alt="" coords="809,266,976,293"/>
+<area shape="rect" id="node21" href="$copy__color__spinor__mg_8cuh.html" title="lib/copy_color_spinor\l_mg.cuh" alt="" coords="1000,259,1143,300"/>
+<area shape="rect" id="node22" href="$dslash5__domain__wall_8cu.html" title="lib/dslash5_domain\l_wall.cu" alt="" coords="1167,259,1298,300"/>
+<area shape="rect" id="node23" href="$dslash__quda_8cu.html" title="lib/dslash_quda.cu" alt="" coords="1323,266,1449,293"/>
+<area shape="rect" id="node24" href="$dslash_8h.html" title="include/dslash.h" alt="" coords="3085,266,3199,293"/>
+<area shape="rect" id="node25" href="$dslash__domain__wall__4d_8cu.html" title="lib/dslash_domain_wall\l_4d.cu" alt="" coords="2313,348,2467,389"/>
+<area shape="rect" id="node26" href="$dslash__domain__wall__5d_8cu.html" title="lib/dslash_domain_wall\l_5d.cu" alt="" coords="2491,348,2644,389"/>
+<area shape="rect" id="node27" href="$dslash__ndeg__twisted__mass_8cu.html" title="lib/dslash_ndeg_twisted\l_mass.cu" alt="" coords="2669,348,2826,389"/>
+<area shape="rect" id="node28" href="$dslash__ndeg__twisted__mass__preconditioned_8cu.html" title="lib/dslash_ndeg_twisted\l_mass_preconditioned.cu" alt="" coords="2851,348,3017,389"/>
+<area shape="rect" id="node29" href="$dslash__twisted__clover_8cu.html" title="lib/dslash_twisted\l_clover.cu" alt="" coords="3042,348,3165,389"/>
+<area shape="rect" id="node30" href="$dslash__twisted__clover__preconditioned_8cu.html" title="lib/dslash_twisted\l_clover_preconditioned.cu" alt="" coords="3189,348,3359,389"/>
+<area shape="rect" id="node31" href="$dslash__twisted__mass_8cu.html" title="lib/dslash_twisted\l_mass.cu" alt="" coords="3383,348,3506,389"/>
+<area shape="rect" id="node32" href="$dslash__twisted__mass__preconditioned_8cu.html" title="lib/dslash_twisted\l_mass_preconditioned.cu" alt="" coords="3531,348,3697,389"/>
+<area shape="rect" id="node33" href="$dslash__wilson_8cu.html" title="lib/dslash_wilson.cu" alt="" coords="3977,355,4112,382"/>
+<area shape="rect" id="node34" href="$dslash__wilson__clover_8cu.html" title="lib/dslash_wilson_clover.cu" alt="" coords="4549,355,4724,382"/>
+<area shape="rect" id="node35" href="$dslash__helper_8cuh.html" title="include/dslash_helper.cuh" alt="" coords="2947,177,3116,203"/>
+<area shape="rect" id="node36" href="$dslash__quda_8h.html" title="include/dslash_quda.h" alt="" coords="2168,177,2316,203"/>
+<area shape="rect" id="node37" href="$clover__sigma__outer__product_8cu.html" title="lib/clover_sigma_outer\l_product.cu" alt="" coords="1851,259,2001,300"/>
+<area shape="rect" id="node38" href="$dslash__pack2_8cu.html" title="lib/dslash_pack2.cu" alt="" coords="2025,266,2160,293"/>
+<area shape="rect" id="node39" href="$staggered__oprod_8h.html" title="include/staggered_oprod.h" alt="" coords="3293,177,3465,203"/>
+<area shape="rect" id="node40" href="$transfer_8h.html" title="include/transfer.h" alt="" coords="3591,177,3711,203"/>
+<area shape="rect" id="node41" href="$coarse__op_8cu.html" title="lib/coarse_op.cu" alt="" coords="3567,266,3682,293"/>
+<area shape="rect" id="node42" href="$coarsecoarse__op_8cu.html" title="lib/coarsecoarse_op.cu" alt="" coords="4192,266,4345,293"/>
+<area shape="rect" id="node43" href="$block__orthogonalize_8cu.html" title="lib/block_orthogonalize.cu" alt="" coords="3735,177,3906,203"/>
+<area shape="rect" id="node44" href="$color__spinor__field_8cpp.html" title="lib/color_spinor_field.cpp" alt="" coords="3930,177,4093,203"/>
+<area shape="rect" id="node45" href="$copy__color__spinor_8cu.html" title="lib/copy_color_spinor.cu" alt="" coords="4117,177,4276,203"/>
+<area shape="rect" id="node46" href="$cpu__color__spinor__field_8cpp.html" title="lib/cpu_color_spinor\l_field.cpp" alt="" coords="4301,169,4437,211"/>
+<area shape="rect" id="node47" href="$dslash__coarse_8cu.html" title="lib/dslash_coarse.cu" alt="" coords="4461,177,4599,203"/>
+</map>

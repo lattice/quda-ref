@@ -1,0 +1,14 @@
+<map id="packGhostAllStaples" name="packGhostAllStaples">
+<area shape="rect" id="node2" href="$face__gauge_8cpp.html#aaa32dc7b7b5372f5ccc24a7ed35900d1" title="pack_ghost_all_staples_cpu" alt="" coords="196,81,379,108"/>
+<area shape="rect" id="node3" href="$face__gauge_8cpp.html#ae3cf19131ee08a04097e4a0cbc92a957" title="do_exchange_cpu_staple" alt="" coords="427,81,593,108"/>
+<area shape="rect" id="node4" href="$test__util_8h.html#ae8f61490333f3712993fe2725d6b2091" title="exchange_cpu_staple" alt="" coords="641,81,788,108"/>
+<area shape="rect" id="node5" href="$llfat__reference_8h.html#acd5781bd4bc58c138d6853b33c60a525" title="llfat_reference" alt="" coords="836,81,940,108"/>
+<area shape="rect" id="node6" href="$llfat__reference_8h.html#a80444b8d9b6fba55e969c8afa100c26a" title="computeHISQLinksCPU" alt="" coords="988,56,1149,83"/>
+<area shape="rect" id="node12" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="1033,107,1104,133"/>
+<area shape="rect" id="node7" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="1258,5,1331,32"/>
+<area shape="rect" id="node9" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="1197,56,1392,83"/>
+<area shape="rect" id="node8" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1440,5,1491,32"/>
+<area shape="rect" id="node10" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="1446,56,1485,83"/>
+<area shape="rect" id="node11" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="1539,49,1683,90"/>
+<area shape="rect" id="node13" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1269,107,1320,133"/>
+</map>

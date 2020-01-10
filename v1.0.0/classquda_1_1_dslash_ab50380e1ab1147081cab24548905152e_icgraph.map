@@ -1,0 +1,12 @@
+<map id="quda::Dslash::flops" name="quda::Dslash::flops">
+<area shape="rect" id="node2" href="$classquda_1_1_domain_wall5_d.html#ab19228277bff7330123df2d16643808a" title="quda::DomainWall5D\l::flops" alt="" coords="233,5,374,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_twisted_mass.html#a3c725b29d18aab7a133fa68335d6fce5" title="quda::TwistedMass::\lflops" alt="" coords="235,71,371,112"/>
+<area shape="rect" id="node4" href="$classquda_1_1_twisted_clover.html#a5c8f5d2a1fde3f0399e2f3fc0605721c" title="quda::TwistedClover\l::flops" alt="" coords="235,136,371,177"/>
+<area shape="rect" id="node5" href="$classquda_1_1_wilson_clover.html#ab2c10a0ff9c7bd819edf11f32fb95cf4" title="quda::WilsonClover\l::flops" alt="" coords="238,201,369,243"/>
+<area shape="rect" id="node6" href="$classquda_1_1_ndeg_twisted_mass.html#a06fa9af9fe3503b971ac1908b59621ff" title="quda::NdegTwistedMass\l::flops" alt="" coords="223,267,383,308"/>
+<area shape="rect" id="node7" href="$classquda_1_1_twisted_clover_preconditioned.html#a181f1ac9dc518148eee566f17f708788" title="quda::TwistedCloverPreconditioned\l::flops" alt="" coords="192,332,415,373"/>
+<area shape="rect" id="node8" href="$classquda_1_1_wilson_clover_preconditioned.html#a5adb3b2d7cb1374037a76d7182eeb235" title="quda::WilsonCloverPreconditioned\l::flops" alt="" coords="195,397,411,439"/>
+<area shape="rect" id="node9" href="$classquda_1_1_twisted_mass_preconditioned.html#a78089039b9dc6a8106307577db3bd3ba" title="quda::TwistedMassPreconditioned\l::flops" alt="" coords="195,463,411,504"/>
+<area shape="rect" id="node10" href="$classquda_1_1_ndeg_twisted_mass_preconditioned.html#a7fc6f256bedf72d72d05817cc85faea5" title="quda::NdegTwistedMassPreconditioned\l::flops" alt="" coords="180,528,427,569"/>
+<area shape="rect" id="node11" href="$classquda_1_1dslash_1_1_dslash_policy_tune.html#a909ede1748ea3ec25819a159731658c5" title="quda::dslash::DslashPolicy\lTune::flops" alt="" coords="218,593,389,635"/>
+</map>

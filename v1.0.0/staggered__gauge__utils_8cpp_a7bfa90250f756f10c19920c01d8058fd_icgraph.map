@@ -1,0 +1,10 @@
+<map id="setActionPaths" name="setActionPaths">
+<area shape="rect" id="node2" href="$staggered__gauge__utils_8h.html#af0aca89a3894a49dac7950c095b36bf4" title="computeFatLongGPU" alt="" coords="187,56,333,83"/>
+<area shape="rect" id="node7" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="163,108,357,135"/>
+<area shape="rect" id="node3" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="405,5,516,32"/>
+<area shape="rect" id="node5" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="420,56,501,83"/>
+<area shape="rect" id="node4" href="$staggered__eigensolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="611,5,661,32"/>
+<area shape="rect" id="node6" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="611,56,661,83"/>
+<area shape="rect" id="node8" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="441,112,480,139"/>
+<area shape="rect" id="node9" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="564,107,708,149"/>
+</map>

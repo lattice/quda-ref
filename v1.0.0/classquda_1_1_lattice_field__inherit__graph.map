@@ -1,0 +1,12 @@
+<map id="quda::LatticeField" name="quda::LatticeField">
+<area shape="rect" id="node3" href="$classquda_1_1_clover_field.html" title="quda::CloverField" alt="" coords="334,56,454,83"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html" title="quda::ColorSpinorField" alt="" coords="319,132,469,159"/>
+<area shape="rect" id="node9" href="$classquda_1_1_gauge_field.html" title="quda::GaugeField" alt="" coords="333,208,455,235"/>
+<area shape="rect" id="node2" href="$classquda_1_1_object.html" title="quda::Object" alt="" coords="5,132,100,159"/>
+<area shape="rect" id="node4" href="$classquda_1_1cpu_clover_field.html" title="quda::cpuCloverField" alt="" coords="536,5,677,32"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_clover_field.html" title="quda::cudaCloverField" alt="" coords="533,56,681,83"/>
+<area shape="rect" id="node7" href="$classquda_1_1cpu_color_spinor_field.html" title="quda::cpuColorSpinorField" alt="" coords="521,107,693,133"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_color_spinor_field.html" title="quda::cudaColorSpinorField" alt="" coords="517,157,696,184"/>
+<area shape="rect" id="node10" href="$classquda_1_1cpu_gauge_field.html" title="quda::cpuGaugeField" alt="" coords="535,208,678,235"/>
+<area shape="rect" id="node11" href="$classquda_1_1cuda_gauge_field.html" title="quda::cudaGaugeField" alt="" coords="531,259,682,285"/>
+</map>

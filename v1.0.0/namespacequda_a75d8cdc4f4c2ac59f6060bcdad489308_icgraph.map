@@ -1,0 +1,5 @@
+<map id="quda::computeQChargeDensity" name="quda::computeQChargeDensity">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#ad06b8f39d97cabec9ba78084ff0cee18" title="Calculates the topological charge from gaugeSmeared, if it exist, or from gaugePrecise if no smeared ..." alt="" coords="252,5,395,32"/>
+<area shape="rect" id="node3" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="443,5,511,32"/>
+<area shape="rect" id="node4" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="559,5,609,32"/>
+</map>

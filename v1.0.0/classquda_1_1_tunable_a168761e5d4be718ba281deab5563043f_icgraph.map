@@ -1,0 +1,3 @@
+<map id="quda::Tunable::gridStep" name="quda::Tunable::gridStep">
+<area shape="rect" id="node2" href="$classquda_1_1_pack.html#a157a77fd6cc178d11afa89814ac069fb" title="gridStep sets the step size when iterating the grid size in advanceGridDim. " alt="" coords="209,5,349,32"/>
+</map>

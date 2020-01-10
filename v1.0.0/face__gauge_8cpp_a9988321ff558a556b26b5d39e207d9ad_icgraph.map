@@ -1,0 +1,13 @@
+<map id="setup_dims" name="setup_dims">
+<area shape="rect" id="node2" href="$test__util_8h.html#ae101a4d75bc466870b0a6d21c5e12641" title="exchange_cpu_sitelink" alt="" coords="335,63,487,90"/>
+<area shape="rect" id="node11" href="$test__util_8h.html#ae8f61490333f3712993fe2725d6b2091" title="exchange_cpu_staple" alt="" coords="140,114,287,141"/>
+<area shape="rect" id="node3" href="$llfat__reference_8h.html#a80444b8d9b6fba55e969c8afa100c26a" title="computeHISQLinksCPU" alt="" coords="535,63,696,90"/>
+<area shape="rect" id="node9" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="580,114,651,141"/>
+<area shape="rect" id="node4" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="805,63,878,90"/>
+<area shape="rect" id="node6" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="744,13,939,39"/>
+<area shape="rect" id="node5" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="987,63,1037,90"/>
+<area shape="rect" id="node7" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="993,13,1031,39"/>
+<area shape="rect" id="node8" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="1085,5,1229,47"/>
+<area shape="rect" id="node10" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="816,114,867,141"/>
+<area shape="rect" id="node12" href="$llfat__reference_8h.html#acd5781bd4bc58c138d6853b33c60a525" title="llfat_reference" alt="" coords="359,114,463,141"/>
+</map>

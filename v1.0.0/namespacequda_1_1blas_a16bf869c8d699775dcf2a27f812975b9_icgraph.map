@@ -1,0 +1,14 @@
+<map id="quda::blas::_caxpy" name="quda::blas::_caxpy">
+<area shape="rect" id="node2" href="$structquda_1_1blas_1_1_multi_blas_functor.html#aa2991e7b5b8b756134c41759f0b55b55" title="pre&#45;computation routine before the main loop " alt="" coords="179,5,361,47"/>
+<area shape="rect" id="node3" href="$structquda_1_1blas_1_1caxpy__.html#a6770b5c978d75c75ec0c64568f4cae5e" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="207,71,333,112"/>
+<area shape="rect" id="node4" href="$structquda_1_1blas_1_1multicaxpy__.html#a5fa0014611d78240e6ceab6f8fc740a5" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="197,136,343,177"/>
+<area shape="rect" id="node5" href="$structquda_1_1blas_1_1multicaxpyz__.html#af691e1839da42573b9186b7737a269de" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="194,201,346,243"/>
+<area shape="rect" id="node6" href="$structquda_1_1blas_1_1caxpbypczw__.html#ab75f930a5df12c3d58fefb6a0c92db90" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="193,267,347,308"/>
+<area shape="rect" id="node7" href="$structquda_1_1blas_1_1multi__caxpy_bxpz__.html#a1368015456ab453d46089c53546a24e4" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="179,332,361,373"/>
+<area shape="rect" id="node8" href="$structquda_1_1blas_1_1caxpy_bzpx__.html#aa95952e3cd21bea4b95bd5fac5d23517" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="197,397,343,439"/>
+<area shape="rect" id="node9" href="$structquda_1_1blas_1_1caxpy_bxpz__.html#a414039c7195d7a7db20d22680254d103" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="197,463,343,504"/>
+<area shape="rect" id="node10" href="$structquda_1_1blas_1_1caxpbypz_ymbw__.html#a458907f7f796729e2cec47bbb51e45d4" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="183,528,357,569"/>
+<area shape="rect" id="node11" href="$structquda_1_1blas_1_1cabxpy_ax__.html#aad4a0c0f28bd6c7e78d031cfe5fceec5" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="200,593,340,635"/>
+<area shape="rect" id="node12" href="$structquda_1_1blas_1_1caxpyxmaz__.html#af2ababec9cba9fb9ef6c33e0b7ebf91b" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="196,659,344,700"/>
+<area shape="rect" id="node13" href="$structquda_1_1blas_1_1caxpyxmaz_m_r__.html#a2621e7ff8ca09cad3e547c88993364b8" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="186,724,354,765"/>
+</map>

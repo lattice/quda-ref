@@ -1,0 +1,16 @@
+<map id="quda::MG::createSmoother" name="quda::MG::createSmoother">
+<area shape="rect" id="node2" href="$classquda_1_1_solver.html#a50fee738be21e288b85c2400cfba9369" title="quda::Solver::create" alt="" coords="251,49,385,76"/>
+<area shape="rect" id="node4" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="658,5,750,32"/>
+<area shape="rect" id="node5" href="$classquda_1_1_m_g.html#a336aa127724707cfaab984d485d49d39" title="Destroy the smoothers. " alt="" coords="228,151,408,177"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#a87cc0a6121cb6ed45d9b12280c75ef82" title="Helper function called on entry to each MG function. " alt="" coords="456,125,596,152"/>
+<area shape="rect" id="node13" href="$classquda_1_1_m_g.html#a01a0bba925966fecde19aaaae2dff33d" title="Helper function called on exit to each MG member function. " alt="" coords="459,189,593,216"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a01e796ad6c1651d23230e0648e0e2010" title="quda::report" alt="" coords="481,49,571,76"/>
+<area shape="rect" id="node7" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="Push a new verbosity onto the stack. " alt="" coords="653,164,755,191"/>
+<area shape="rect" id="node10" href="$util__quda_8h.html#abc25dbf265ff0ac6b168061d62387a82" title="Push a new output prefix onto the stack. " alt="" coords="644,63,764,89"/>
+<area shape="rect" id="node8" href="$util__quda_8cpp.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="821,164,913,191"/>
+<area shape="rect" id="node9" href="$util__quda_8cpp.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="822,215,913,241"/>
+<area shape="rect" id="node11" href="$util__quda_8cpp.html#ac20e0acbc14d842af0070c41a90c2304" title="getOutputPrefix" alt="" coords="812,63,923,89"/>
+<area shape="rect" id="node12" href="$util__quda_8cpp.html#af0b637354d88c2cf044d20a3f472dcd9" title="setOutputPrefix" alt="" coords="812,113,923,140"/>
+<area shape="rect" id="node14" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="Pop the verbosity restoring the prior one on the stack. " alt="" coords="657,215,751,241"/>
+<area shape="rect" id="node15" href="$util__quda_8h.html#a33cc820219095ddbc3e7aaf4f401dd2b" title="Pop the output prefix restoring the prior one on the stack. " alt="" coords="647,113,761,140"/>
+</map>

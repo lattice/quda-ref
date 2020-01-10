@@ -1,0 +1,4 @@
+<map id="quda::copyGhostKernel" name="quda::copyGhostKernel">
+<area shape="rect" id="node2" href="$namespacequda_1_1gauge.html#a6cd40608aabdb9080a2df09bb7c10203" title="Return the number of colors of the accessor based on the length of the field. " alt="" coords="208,5,343,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1gauge.html#a038c45259e95c5426f880805d15b8a4e" title="quda::gauge::ct_sqrt" alt="" coords="391,5,527,32"/>
+</map>

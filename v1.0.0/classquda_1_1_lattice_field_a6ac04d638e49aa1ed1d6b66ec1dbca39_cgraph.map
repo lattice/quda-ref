@@ -1,0 +1,5 @@
+<map id="quda::LatticeField::Nvec" name="quda::LatticeField::Nvec">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="181,5,331,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_clover_field.html#a366c3d0d2cf199278998e07bcec8698f" title="quda::CloverField::\lOrder" alt="" coords="193,71,319,112"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="176,137,336,163"/>
+</map>

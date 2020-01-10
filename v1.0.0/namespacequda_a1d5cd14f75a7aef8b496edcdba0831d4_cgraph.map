@@ -1,0 +1,6 @@
+<map id="quda::cloverDerivativeKernel" name="quda::cloverDerivativeKernel">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="240,5,315,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ad33c4c0c54ceb9072f773e55c186174c" title="quda::axpy" alt="" coords="236,56,319,83"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="251,107,303,133"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="367,5,455,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MPI_Bcast" name="MPI_Bcast">
+<area shape="rect" id="node2" href="$nvtx__pmpi_8c.html#a1926ff3a4b86dde1210dd5e734b07256" title="PMPI_Bcast" alt="" coords="151,5,245,32"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#a10403186cb83e8e124eb3791a12cb622" title="PMPI_Sendrecv" alt="" coords="140,56,256,83"/>
+</map>

@@ -1,0 +1,47 @@
+<map id="quda::blas::hDotProduct_Anorm" name="quda::blas::hDotProduct_Anorm">
+<area shape="rect" id="node2" href="$classquda_1_1blas_1_1_tile_size_tune.html#afa2185f1a7892ff17eadce6eb3378f21" title="quda::blas::TileSizeTune\l::apply" alt="" coords="211,1113,371,1155"/>
+<area shape="rect" id="node35" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="251,1194,331,1221"/>
+<area shape="rect" id="node36" href="$comm__quda_8h.html#ab0e0c436ffe5a991562449d9255e0163" title="reduceDoubleArray" alt="" coords="225,1274,356,1301"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="433,585,556,611"/>
+<area shape="rect" id="node33" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="455,1117,534,1143"/>
+<area shape="rect" id="node34" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="449,1167,541,1194"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#a6b682b3aa1e943bbb981c5e0948513d1" title="quda::Tunable::advanceTune\lParam" alt="" coords="622,5,807,47"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#a1d6de8001096e7620593315fa6fb51f6" title="quda::Tunable::apply" alt="" coords="645,71,784,98"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a215058968f858fd16b5368d56a916790" title="quda::broadcastTuneCache" alt="" coords="625,173,804,199"/>
+<area shape="rect" id="node11" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="905,122,995,149"/>
+<area shape="rect" id="node14" href="$classquda_1_1_tunable.html#ad192f84c0bfebd5bdb8ada76b333974f" title="quda::Tunable::checkLaunch\lParam" alt="" coords="622,224,807,265"/>
+<area shape="rect" id="node15" href="$comm__quda_8h.html#a7b9e8a5fb7188e57f46e70c3243dfbdd" title="commGlobalReduction" alt="" coords="638,290,791,317"/>
+<area shape="rect" id="node16" href="$classquda_1_1_tunable.html#aded93d27cbfd6568d4f4e44f3e6687ca" title="quda::Tunable::defaultTune\lParam" alt="" coords="627,341,803,383"/>
+<area shape="rect" id="node17" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="661,407,768,434"/>
+<area shape="rect" id="node19" href="$classquda_1_1_tunable.html#a7656afbdf0d2f848ea0058110543abf1" title="quda::Tunable::initTuneParam" alt="" coords="619,458,811,485"/>
+<area shape="rect" id="node20" href="$classquda_1_1_tunable.html#a41c2cde2839229d85f72f89959c7c7cb" title="quda::Tunable::jitifyError" alt="" coords="635,509,794,535"/>
+<area shape="rect" id="node21" href="$structquda_1_1_timer.html#a09ec09f5b1844c2ae4178a5e924b2967" title="quda::Timer::Last" alt="" coords="655,559,774,586"/>
+<area shape="rect" id="node22" href="$classquda_1_1_tunable.html#a4149bcac2c1216e6a6f2223fab27b9ad" title="quda::Tunable::paramString" alt="" coords="625,610,804,637"/>
+<area shape="rect" id="node23" href="$classquda_1_1_tunable.html#a1cb0f81faa3e823b77e75c656969d184" title="quda::Tunable::perfString" alt="" coords="633,661,797,687"/>
+<area shape="rect" id="node24" href="$namespacequda.html#a3c503154d742b953547abe4aa49bc130" title="quda::policyTuning" alt="" coords="651,711,779,738"/>
+<area shape="rect" id="node25" href="$classquda_1_1_tunable.html#a813f352da09afa3850a33f960dd8c24e" title="quda::Tunable::postTune" alt="" coords="634,762,795,789"/>
+<area shape="rect" id="node26" href="$classquda_1_1_tunable.html#a84c6bfed530f37c172c1ba576bab9b22" title="quda::Tunable::preTune" alt="" coords="637,813,792,839"/>
+<area shape="rect" id="node27" href="$structquda_1_1_timer.html#abb870b23fd97a72c360bb50895ba2e80" title="quda::Timer::Start" alt="" coords="653,863,776,890"/>
+<area shape="rect" id="node28" href="$structquda_1_1_timer.html#a04bf76b5de522151541e6f85841bdad2" title="quda::Timer::Stop" alt="" coords="653,914,776,941"/>
+<area shape="rect" id="node29" href="$namespacequda.html#acf8d40c61c8d618001b7cadbf8d902d0" title="quda::traceEnabled" alt="" coords="649,965,780,991"/>
+<area shape="rect" id="node31" href="$classquda_1_1_tunable.html#aa51219d121871be33e3dba212aa969b0" title="quda::Tunable::tuneKey" alt="" coords="637,1015,792,1042"/>
+<area shape="rect" id="node32" href="$classquda_1_1_tunable.html#aeda35bb2e3deda6f2b9d140d799d29b6" title="quda::Tunable::tuningIter" alt="" coords="633,1066,796,1093"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a8b877be417d6c8f73bcca8497b730d40" title="comm_broadcast" alt="" coords="889,173,1011,199"/>
+<area shape="rect" id="node12" href="$namespacequda.html#ae7f7d2bed3522d1acce3fe9f433c3495" title="quda::deserializeTuneCache" alt="" coords="859,223,1041,250"/>
+<area shape="rect" id="node13" href="$namespacequda.html#a4cf7120a3f6aa7fa21ebff3870969bb2" title="quda::serializeTuneCache" alt="" coords="866,274,1034,301"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a5997e8e9b61e2f97c69d0667992fce1c" title="MPI_Bcast" alt="" coords="1089,173,1176,199"/>
+<area shape="rect" id="node9" href="$nvtx__pmpi_8c.html#a1926ff3a4b86dde1210dd5e734b07256" title="PMPI_Bcast" alt="" coords="1235,147,1329,174"/>
+<area shape="rect" id="node10" href="$nvtx__pmpi_8c.html#a10403186cb83e8e124eb3791a12cb622" title="PMPI_Sendrecv" alt="" coords="1224,198,1340,225"/>
+<area shape="rect" id="node18" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="875,407,1025,434"/>
+<area shape="rect" id="node30" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="892,1041,1008,1067"/>
+<area shape="rect" id="node37" href="$comm__quda_8h.html#aee0b1daeb8b9a004d4f24f8fc23b8270" title="comm_allreduce_array" alt="" coords="419,1278,571,1305"/>
+<area shape="rect" id="node38" href="$comm__quda_8h.html#a7518e44660d59793c0e6a5c0621b8fc3" title="comm_deterministic\l_reduce" alt="" coords="645,1168,784,1209"/>
+<area shape="rect" id="node39" href="$comm__mpi_8cpp.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="671,1234,758,1261"/>
+<area shape="rect" id="node40" href="$comm__mpi_8cpp.html#a27b2b7d99e593219e858574324a8cfe0" title="deterministic_reduce" alt="" coords="644,1285,785,1311"/>
+<area shape="rect" id="node41" href="$nvtx__pmpi_8c.html#a41222d5360f1da1bf44f776c24ddb046" title="MPI_Allgather" alt="" coords="663,1335,767,1362"/>
+<area shape="rect" id="node44" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="661,1386,768,1413"/>
+<area shape="rect" id="node42" href="$nvtx__pmpi_8c.html#a3281b70c6bb31afc9d093e5eb01ce823" title="PMPI_Allgather" alt="" coords="893,1285,1007,1311"/>
+<area shape="rect" id="node43" href="$nvtx__pmpi_8c.html#a28ca8e45f5b1eb17533778f96ec09e13" title="PMPI_Allgatherv" alt="" coords="891,1335,1009,1362"/>
+<area shape="rect" id="node45" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="892,1386,1008,1413"/>
+<area shape="rect" id="node46" href="$nvtx__pmpi_8c.html#aa494422fc1d868c35ecbfa909bf9d468" title="PMPI_Reduce" alt="" coords="897,1437,1003,1463"/>
+</map>

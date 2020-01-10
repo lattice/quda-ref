@@ -1,0 +1,17 @@
+<map id="dslashCUDA" name="dslashCUDA">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="163,44,264,71"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac.html#a69792f182bbe560af9e1358109df730d" title="quda::Dirac::Dslash" alt="" coords="148,95,279,121"/>
+<area shape="rect" id="node7" href="$staggered__dslash__ctest_8cpp.html#a081b5c662ecee58405a543518f699d31" title="end" alt="" coords="192,145,235,172"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="162,196,265,223"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="369,44,460,71"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="577,5,677,32"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="582,56,673,83"/>
+<area shape="rect" id="node8" href="$quda_8h.html#a67afad4edd08cb7092511cb6f8164abf" title="freeGaugeQuda" alt="" coords="358,121,471,148"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#ab213b188bc96e090912616eb9d7672a3" title="Reset the comm dim partioned array to zero,. " alt="" coords="327,173,503,200"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a668994b5c83eeffb4a0535878ecc23cd" title="freeSloppyGaugeQuda" alt="" coords="551,119,703,145"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#a4d9b659714b667da8423d595f8a7abe3" title="comm_dim_partitioned\l_reset" alt="" coords="551,170,704,211"/>
+<area shape="rect" id="node12" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="752,177,905,204"/>
+<area shape="rect" id="node13" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="953,177,1040,204"/>
+<area shape="rect" id="node14" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1088,152,1247,179"/>
+<area shape="rect" id="node15" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1121,203,1213,229"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="quda::ColorSpinorField::create" name="quda::ColorSpinorField::create">
+<area shape="rect" id="node2" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="219,5,369,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#a0fd1f89de7282388c6edb060396e8b8b" title="quda::ColorSpinorField\l::Ndim" alt="" coords="219,71,369,112"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#a5e4cd07cc6d76cf2e652b36f28d5a455" title="quda::ColorSpinorField\l::Nvec" alt="" coords="219,136,369,177"/>
+<area shape="rect" id="node5" href="$classquda_1_1_color_spinor_field.html#aefc7d6c23f199d677d3a458a9add3934" title="quda::ColorSpinorField::Pad" alt="" coords="204,202,384,229"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#ae8773f62a646118e571b072c00505686" title="Set the vol_string and aux_string for use in tuning. " alt="" coords="219,253,369,295"/>
+</map>

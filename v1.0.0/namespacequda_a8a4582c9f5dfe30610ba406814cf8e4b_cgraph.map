@@ -1,0 +1,5 @@
+<map id="quda::sinh" name="quda::sinh">
+<area shape="rect" id="node2" href="$namespacequda.html#a8d5d7121dbc89e14a76651637adb3a7e" title="quda::sinh" alt="" coords="132,46,211,73"/>
+<area shape="rect" id="node3" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="259,5,397,47"/>
+<area shape="rect" id="node4" href="$structquda_1_1complex_3_01float_01_4.html#a692127ea4240002b39f3581648d5bab4" title="quda::complex\&lt; float\l \&gt;::imag" alt="" coords="259,71,397,112"/>
+</map>

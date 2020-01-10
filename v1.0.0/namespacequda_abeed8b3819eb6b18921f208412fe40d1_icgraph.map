@@ -1,0 +1,51 @@
+<map id="quda::norm" name="quda::norm">
+<area shape="rect" id="node2" href="$class_spinor.html#a91cddbc85b8579d91c18937a55b9d188" title="Spinor::backup" alt="" coords="179,5,285,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ac973fcc768c8805999bf969d55d74b6f" title="quda::ComputeHarmonicRitz\l\&lt; libtype::eigen_lib \&gt;" alt="" coords="139,57,325,98"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a70335f89785e7fec8596640185e70900" title="quda::ComputeHarmonicRitz\l\&lt; libtype::magma_lib \&gt;" alt="" coords="139,122,325,163"/>
+<area shape="rect" id="node5" href="$classquda_1_1_eigen_solver.html#a054858df44f196f0844e20ab94544578" title="Computes Left/Right SVD from pre computed Right/Left. " alt="" coords="167,187,297,229"/>
+<area shape="rect" id="node11" href="$test__util_8cpp.html#aaed7fdb762ab994dbcdbc4f92eb6eac2" title="constructCloverField" alt="" coords="163,304,301,331"/>
+<area shape="rect" id="node13" href="$dslash__ctest_8cpp.html#a64129cf6a57ea1eaec3d8beb72214bd7" title="init" alt="" coords="693,303,732,329"/>
+<area shape="rect" id="node15" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="687,353,738,380"/>
+<area shape="rect" id="node16" href="$namespacequda.html#a2e7000316c376842a4565445aab78972" title="quda::ErrorSU3" alt="" coords="178,405,286,432"/>
+<area shape="rect" id="node19" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html#a24658700e219d7ff28dda07217ba601f" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l coarseSpin, coarseColor,\l 1, csOrder, Float, ghostFloat\l \&gt;::FieldOrderCB" alt="" coords="389,608,576,693"/>
+<area shape="rect" id="node20" href="$classquda_1_1_g_m_res_d_r.html#aa869a115446b88110dcbf22c55e8d9b7" title="quda::GMResDR::FlexArnoldi\lProcedure" alt="" coords="139,457,325,498"/>
+<area shape="rect" id="node21" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="393,507,572,533"/>
+<area shape="rect" id="node22" href="$classquda_1_1_matrix.html#a103583ed3cfab61f443970ca920b65e2" title="Compute the matrix L2 norm. We actually compute the Frobenius norm which is an upper bound on the L2 ..." alt="" coords="177,573,287,600"/>
+<area shape="rect" id="node24" href="$class_spinor.html#a54d123ddac296cbef72862eadee53a47" title="Spinor::Norm" alt="" coords="184,675,280,701"/>
+<area shape="rect" id="node25" href="$classquda_1_1_color_spinor_field.html#a37215d878b1f82b333e03b070f0ea47c" title="quda::ColorSpinorField\l::Norm" alt="" coords="157,726,307,767"/>
+<area shape="rect" id="node33" href="$test__util_8cpp.html#a2b5502d2a7e51937f81b4bbe647c4ef9" title="normalize" alt="" coords="193,792,271,819"/>
+<area shape="rect" id="node36" href="$structquda_1_1clover_1_1square__.html#ad0fd8d5383dbf028bbe349153f78bdad" title="quda::clover::square\l_::operator()" alt="" coords="165,843,299,885"/>
+<area shape="rect" id="node37" href="$structquda_1_1gauge_1_1square__.html#ac36b98bc253f8cb5ea2f18e8bcf7efa7" title="quda::gauge::square\l_::operator()" alt="" coords="165,909,299,950"/>
+<area shape="rect" id="node38" href="$structquda_1_1gauge_1_1square___3_01_reduce_type_00_01char_01_4.html#a08f5cd5a402e179961e858f346b73f04" title="quda::gauge::square\l_\&lt; ReduceType, char\l \&gt;::operator()" alt="" coords="160,975,304,1031"/>
+<area shape="rect" id="node39" href="$structquda_1_1gauge_1_1square___3_01_reduce_type_00_01short_01_4.html#a2239341e1135930359e23f18a96ba283" title="quda::gauge::square\l_\&lt; ReduceType, short\l \&gt;::operator()" alt="" coords="159,1055,305,1111"/>
+<area shape="rect" id="node40" href="$structquda_1_1gauge_1_1square___3_01_reduce_type_00_01int_01_4.html#a0673da2a17293bfa08f73f188db78ff8" title="quda::gauge::square\l_\&lt; ReduceType, int \&gt;\l::operator()" alt="" coords="160,1135,304,1191"/>
+<area shape="rect" id="node41" href="$structquda_1_1colorspinor_1_1square__.html#a4a9ad890e30c0deba69918164f30f24c" title="quda::colorspinor::\lsquare_::operator()" alt="" coords="168,1215,296,1257"/>
+<area shape="rect" id="node42" href="$structquda_1_1colorspinor_1_1square___3_01_reduce_type_00_01short_01_4.html#a3ab3d0221e6067de534718e4a3b5f5d9" title="quda::colorspinor::\lsquare_\&lt; ReduceType,\l short \&gt;::operator()" alt="" coords="155,1281,309,1337"/>
+<area shape="rect" id="node43" href="$classquda_1_1_t_r_l_m.html#acf892e5bc9c2f3a40df569a25f931f4e" title="Compute eigenpairs. " alt="" coords="156,1361,308,1388"/>
+<area shape="rect" id="node44" href="$structquda_1_1colorspinor_1_1square___3_01_reduce_type_00_01char_01_4.html#af002ca2b7d83838b17e9d07065f3afc4" title="quda::colorspinor::\lsquare_\&lt; ReduceType,\l char \&gt;::operator()" alt="" coords="155,1412,309,1468"/>
+<area shape="rect" id="node45" href="$classquda_1_1colorspinor_1_1_field_order_c_b.html#a7bd2a70ecaf8c0ce8f3cc8ac814574f8" title="quda::colorspinor::\lFieldOrderCB\&lt; Float,\l coarseSpin, coarseColor,\l 1, csOrder, Float, ghostFloat\l \&gt;::operator()" alt="" coords="139,1492,325,1577"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a5c3ba5a44dcaac8a849438dd73aafa59" title="quda::operator/" alt="" coords="179,1601,285,1628"/>
+<area shape="rect" id="node47" href="$interface__quda_8cpp.html#ad8e1cc7e05db09d619a92b8ac3782cb4" title="performWuppertalnStep" alt="" coords="153,1652,311,1679"/>
+<area shape="rect" id="node48" href="$namespacequda.html#ab0fdd052fd3ec3ef5b47118b820fce01" title="Project the input matrix on the SU(3) group. First unitarize the matrix and then project onto the spe..." alt="" coords="179,1703,285,1729"/>
+<area shape="rect" id="node49" href="$class_spinor.html#abc8a06600b5cb0b7563dba1b8848584b" title="Spinor::restore" alt="" coords="180,1753,284,1780"/>
+<area shape="rect" id="node50" href="$class_spinor.html#adf08b2d875364e0ab8396c36ce1a0bed" title="Spinor::save" alt="" coords="187,1804,277,1831"/>
+<area shape="rect" id="node6" href="$classquda_1_1_solver.html#a71b5c8751745dbe8740df929e5859962" title="Constructs the deflation space. " alt="" coords="382,187,583,229"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_a_c_g.html#a36adb4a2c0be0e865145e72e6ce55481" title="Initiate the fields needed by the solver. " alt="" coords="645,197,780,224"/>
+<area shape="rect" id="node8" href="$classquda_1_1_c_a_g_c_r.html#a9ad88f1a6ecdd05e9a4c37c63dddf070" title="Initiate the fields needed by the solver. " alt="" coords="641,248,785,275"/>
+<area shape="rect" id="node9" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="645,96,781,123"/>
+<area shape="rect" id="node10" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="640,147,785,173"/>
+<area shape="rect" id="node12" href="$test__util_8h.html#a016a05c092fcba38fdca37e4d90efbcd" title="construct_clover_field" alt="" coords="409,304,556,331"/>
+<area shape="rect" id="node14" href="$class_dslash_test.html#afb0a7879cf403f62842a6a187b18c2dc" title="DslashTest::SetUp" alt="" coords="833,303,960,329"/>
+<area shape="rect" id="node17" href="$namespacequda.html#abb828db4d01a4a845f7448943e02d120" title="quda::computeOvrImpSTOUTStep" alt="" coords="373,405,592,432"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a4c6454379fb7e715088552d1f2340f9c" title="quda::computeSTOUTStep" alt="" coords="394,456,571,483"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a34dd1c4bb3cbe98eb22f8ff86fa0acf1" title="Compute and return global the momentum action 1/2 mom^2. " alt="" coords="397,557,569,584"/>
+<area shape="rect" id="node26" href="$structquda_1_1colorspinor_1_1_float_n_order.html#a946f9c40478d2a450a7cc4a6967565f7" title="quda::colorspinor::\lFloatNOrder::FloatNOrder" alt="" coords="399,966,567,1007"/>
+<area shape="rect" id="node27" href="$namespacequda.html#a1cdf2e213ab40ec55678259d222adafe" title="quda::genericCudaPrintVector" alt="" coords="387,1032,579,1059"/>
+<area shape="rect" id="node28" href="$namespacequda_1_1blas_1_1copy__ns.html#ad7353084a830c81feb7c3f4aa2f14f7f" title="quda::blas::copy_ns\l::copy" alt="" coords="417,1083,549,1125"/>
+<area shape="rect" id="node29" href="$classquda_1_1cpu_color_spinor_field.html#a0513b4ff30e2490730a79821e176ec91" title="quda::cpuColorSpinorField\l::cpuColorSpinorField" alt="" coords="397,718,569,759"/>
+<area shape="rect" id="node30" href="$classquda_1_1cuda_color_spinor_field.html#a843a105822fda21e1ad2f06bb03452a0" title="quda::cudaColorSpinorField\l::loadSpinorField" alt="" coords="393,783,572,825"/>
+<area shape="rect" id="node31" href="$classquda_1_1cuda_color_spinor_field.html#aefb99b153a3c0290ea9c192afff38cac" title="quda::cudaColorSpinorField\l::saveSpinorField" alt="" coords="393,849,572,890"/>
+<area shape="rect" id="node32" href="$namespacequda.html#aef3d9d4bc466961551296a7825590aee" title="quda::copyExtendedColorSpinor" alt="" coords="381,915,584,941"/>
+<area shape="rect" id="node34" href="$test__util_8cpp.html#a90501c6aa892140ed3d96016b37cc0c9" title="constructGaugeField" alt="" coords="412,1149,553,1176"/>
+<area shape="rect" id="node35" href="$test__util_8cpp.html#ad9e6d31f3ed9ea6998c9444fd56789a8" title="constructUnitaryGaugeField" alt="" coords="392,1200,573,1227"/>
+</map>

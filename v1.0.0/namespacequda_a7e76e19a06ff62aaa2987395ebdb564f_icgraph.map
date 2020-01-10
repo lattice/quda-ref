@@ -1,0 +1,7 @@
+<map id="quda::f2i" name="quda::f2i">
+<area shape="rect" id="node2" href="$namespacequda.html#a0605855d143faa7df9cdfdbef7b23e1a" title="quda::convert\&lt; short2,\l float4 \&gt;" alt="" coords="124,5,272,47"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a93b346a00bb59cff1c494616fa8b1970" title="quda::convert\&lt; short4,\l float2 \&gt;" alt="" coords="124,71,272,112"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a9586212763209e01fcdcb7e0a50d9cf7" title="quda::copy" alt="" coords="157,137,239,163"/>
+<area shape="rect" id="node5" href="$namespacequda.html#ae944921c169e909af7991f479a061d07" title="quda::copy_scaled" alt="" coords="135,187,261,214"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ad881b770fe547242850fbecf001f8df6" title="quda::copyFloatN" alt="" coords="137,238,259,265"/>
+</map>

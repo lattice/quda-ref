@@ -1,0 +1,10 @@
+<map id="quda::linkIndexM1" name="quda::linkIndexM1">
+<area shape="rect" id="node2" href="$namespacequda.html#ad7224fa56ac49e4be5e0a5a8e758a5d2" title="quda::applyDslash" alt="" coords="209,5,333,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#af0a21ca99b05c2d83281d78572e87d50" title="quda::applyLaplace" alt="" coords="205,56,336,83"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a934c5fc9441c8e192d6b6e178e0d626f" title="Applies the off&#45;diagonal part of the Staggered / Asqtad operator. " alt="" coords="198,107,343,133"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a7de044440049234d497fc6d2902b1f50" title="quda::computeNeighborSum" alt="" coords="179,157,363,184"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a7df5435818e4e46b8241213664bbd9b1" title="quda::computeYhat" alt="" coords="204,208,337,235"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a9710cc1c1cc5a3a2463f272ceb7fefe1" title="quda::laplace" alt="" coords="411,56,508,83"/>
+<area shape="rect" id="node5" href="$structquda_1_1_laplace_apply.html#a61f684ba2fd915b161200a0f605600d5" title="quda::LaplaceApply\l::LaplaceApply" alt="" coords="567,19,700,61"/>
+<area shape="rect" id="node6" href="$classquda_1_1_laplace.html#a50107c0f7f104d95f33a7641ccd7d5ce" title="quda::Laplace::tuneKey" alt="" coords="556,85,711,112"/>
+</map>

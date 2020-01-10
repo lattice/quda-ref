@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="1230,145,1321,172"/>
+<area shape="rect" id="node3" href="$test__util_8cpp.html#a41580396542087e712ad716d410052b4" title="finalizeComms" alt="" coords="130,144,235,171"/>
+<area shape="rect" id="node4" href="$test__util_8cpp.html#ad38053da3d147f8f635495faa57b7108" title="initComms" alt="" coords="141,195,224,221"/>
+<area shape="rect" id="node26" href="$test__util_8cpp.html#a4e297cefdba144e8efe42dca5514f572" title="process_command_line\l_option" alt="" coords="104,795,261,837"/>
+<area shape="rect" id="node50" href="$dslash__ctest_8cpp.html#acbd2db65dfdaa2559f23006893e692c8" title="usage" alt="" coords="155,861,211,888"/>
+<area shape="rect" id="node5" href="$test__util_8cpp.html#a1951651440c5ddcb5ad54323e902f80d" title="get_gridsize_from_env" alt="" coords="329,43,480,69"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#a22de5dc35e882c7adfd00b7292215475" title="MPI_Init" alt="" coords="369,93,440,120"/>
+<area shape="rect" id="node9" href="$test__util_8cpp.html#a4f892f0d09ea7473fe32fed5e5de3b75" title="lex_rank_from_coords_t" alt="" coords="325,144,484,171"/>
+<area shape="rect" id="node10" href="$test__util_8cpp.html#a383c2945b1320c63394b2440dbdcee1e" title="lex_rank_from_coords_x" alt="" coords="324,195,485,221"/>
+<area shape="rect" id="node11" href="$quda_8h.html#acf46984ae469d1d7603f8fbf34bc221c" title="initCommsGridQuda" alt="" coords="335,245,474,272"/>
+<area shape="rect" id="node25" href="$test__util_8cpp.html#affc667f54d3aad05a212a708a1967851" title="initRand" alt="" coords="370,296,439,323"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#a667391759eadca2f052c148723afe0b9" title="PMPI_Init" alt="" coords="589,119,669,145"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a260c7ed2ea8ff4a93c677ab710f5bfe4" title="PMPI_Send" alt="" coords="583,68,675,95"/>
+<area shape="rect" id="node12" href="$comm__quda_8h.html#add004a3d38b9dc2f15a65bb6e43a2840" title="Initialize the communications, implemented in comm_single.cpp, comm_qmp.cpp, and comm_mpi.cpp. " alt="" coords="588,284,671,311"/>
+<area shape="rect" id="node24" href="$interface__quda_8cpp.html#ad602698cbe7a5b05515a851435eb1f16" title="lex_rank_from_coords" alt="" coords="555,233,703,260"/>
+<area shape="rect" id="node13" href="$comm__quda_8h.html#a28f2c1670b57527ab3a9ce34f1110caf" title="Initialize the communications common to all communications abstractions. " alt="" coords="778,284,917,311"/>
+<area shape="rect" id="node14" href="$comm__quda_8h.html#a8b877be417d6c8f73bcca8497b730d40" title="comm_broadcast" alt="" coords="1015,461,1136,488"/>
+<area shape="rect" id="node16" href="$comm__common_8cpp.html#a03fa1c0e94c2722e5f85d050bde726b5" title="comm_create_topology" alt="" coords="997,157,1153,184"/>
+<area shape="rect" id="node17" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1232,411,1319,437"/>
+<area shape="rect" id="node18" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="999,512,1152,539"/>
+<area shape="rect" id="node19" href="$comm__quda_8h.html#a672f517336c21190ab990b5d77bd1657" title="Gather all hostnames. " alt="" coords="993,107,1157,133"/>
+<area shape="rect" id="node20" href="$comm__common_8cpp.html#a1d3bfabe2ec90535541e408c05aea34c" title="comm_hostname" alt="" coords="1215,221,1336,248"/>
+<area shape="rect" id="node21" href="$comm__common_8cpp.html#adc5670739f5284d3d5a2f06d2e4e0cfd" title="comm_peer2peer_init" alt="" coords="1002,259,1149,285"/>
+<area shape="rect" id="node22" href="$comm__quda_8h.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="1232,291,1319,317"/>
+<area shape="rect" id="node23" href="$comm__common_8cpp.html#aabb1077a2f4eb1b7aa974b0e92ec305c" title="comm_set_default_topology" alt="" coords="984,360,1167,387"/>
+<area shape="rect" id="node15" href="$nvtx__pmpi_8c.html#a5997e8e9b61e2f97c69d0667992fce1c" title="MPI_Bcast" alt="" coords="1232,461,1319,488"/>
+<area shape="rect" id="node27" href="$test__util_8cpp.html#ad179db7b04bfd86a67a6a62a36bffdac" title="usage" alt="" coords="377,347,433,373"/>
+<area shape="rect" id="node29" href="$misc_8cpp.html#a99471044ee384d5d46db53ba340fff82" title="get_verbosity_type" alt="" coords="341,397,469,424"/>
+<area shape="rect" id="node30" href="$qio__field_8cpp.html#a7747ef505b7b51f4c5926e7d4468447b" title="get_prec" alt="" coords="369,448,441,475"/>
+<area shape="rect" id="node31" href="$misc_8cpp.html#a99907faf75f00a2624016e76d101a786" title="get_recon" alt="" coords="365,499,444,525"/>
+<area shape="rect" id="node32" href="$comm__quda_8h.html#af4ec6ef88884d17d9f1c2ced82828eaa" title="commDimPartitionedSet" alt="" coords="548,512,711,539"/>
+<area shape="rect" id="node34" href="$misc_8cpp.html#a197879a716be9ad6a76013703abfdb1f" title="get_rank_order" alt="" coords="351,600,459,627"/>
+<area shape="rect" id="node35" href="$misc_8cpp.html#a16ead3c5b46a696dabc150de2ff16518" title="get_dslash_type" alt="" coords="347,651,462,677"/>
+<area shape="rect" id="node36" href="$misc_8cpp.html#a6b8f750f7260ee8321cd0f4ec3e6e412" title="get_flavor_type" alt="" coords="351,701,459,728"/>
+<area shape="rect" id="node37" href="$misc_8cpp.html#a02bc780f6d2637278241452375e12cce" title="get_solver_type" alt="" coords="349,752,460,779"/>
+<area shape="rect" id="node38" href="$misc_8cpp.html#a06761f581c9d8639ab3b390e5d725029" title="get_mass_normalization_type" alt="" coords="309,803,500,829"/>
+<area shape="rect" id="node39" href="$misc_8cpp.html#acf171b5d935891ec671b2d3927f4576f" title="get_matpc_type" alt="" coords="347,853,462,880"/>
+<area shape="rect" id="node40" href="$misc_8cpp.html#aa74745965b9061c60baf1b03f85acc7e" title="get_solve_type" alt="" coords="351,904,458,931"/>
+<area shape="rect" id="node41" href="$misc_8cpp.html#a89abb177e7518495cf427678a2b3288a" title="get_solution_type" alt="" coords="343,955,466,981"/>
+<area shape="rect" id="node42" href="$misc_8cpp.html#a0419d082e9b344504c22e1f44e158e45" title="get_location" alt="" coords="359,1005,451,1032"/>
+<area shape="rect" id="node43" href="$misc_8cpp.html#a077ee1808863804b832d3e46ffdc6988" title="get_schwarz_type" alt="" coords="343,1056,467,1083"/>
+<area shape="rect" id="node44" href="$misc_8cpp.html#ad5da350065e09170c2e77625bf47b08d" title="get_solve_ext_lib_type" alt="" coords="329,1107,480,1133"/>
+<area shape="rect" id="node45" href="$misc_8cpp.html#af47ba24fe5612142ecfc55950ced1034" title="get_df_mem_type_ritz" alt="" coords="330,1157,479,1184"/>
+<area shape="rect" id="node46" href="$misc_8cpp.html#a5125de34685e5156137f3341bc90b754" title="get_eig_spectrum_type" alt="" coords="327,1208,482,1235"/>
+<area shape="rect" id="node47" href="$misc_8cpp.html#a4644a861b7d165d9f379ac8d02538e83" title="get_eig_type" alt="" coords="357,1259,452,1285"/>
+<area shape="rect" id="node48" href="$misc_8cpp.html#a023fb162b487537f24d7ec0316b7a9ac" title="get_contract_type" alt="" coords="342,1309,467,1336"/>
+<area shape="rect" id="node49" href="$misc_8cpp.html#a0b9204fa994c88d68eb71466e82aaf40" title="get_quda_ver_str" alt="" coords="345,1360,465,1387"/>
+<area shape="rect" id="node28" href="$covdev__test_8cpp.html#ae4d6baf95c1fda8f2c2e3a4079637026" title="usage_extra" alt="" coords="584,347,675,373"/>
+<area shape="rect" id="node33" href="$comm__common_8cpp.html#aca05a5e60e1864b54bd3aa2d19b0ef0f" title="comm_dim_partitioned_set" alt="" coords="759,512,936,539"/>
+</map>

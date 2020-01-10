@@ -1,0 +1,10 @@
+<map id="quda::blas::axpyCGNorm" name="quda::blas::axpyCGNorm">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#ace51af2e017b9d4292669f1d7e81eb6a" title="Return (a,b) and ||b||^2 &#45; implemented using cDotProductNormA. " alt="" coords="215,31,412,57"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="245,81,381,108"/>
+<area shape="rect" id="node8" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="225,132,402,159"/>
+<area shape="rect" id="node9" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="248,183,379,225"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="460,5,547,32"/>
+<area shape="rect" id="node5" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="482,56,525,83"/>
+<area shape="rect" id="node4" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="595,5,665,32"/>
+<area shape="rect" id="node6" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="595,56,665,83"/>
+</map>

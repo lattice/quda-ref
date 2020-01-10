@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['identity',['Identity',['../struct_identity.html',1,'Identity&lt; N, T &gt;'],['../structquda_1_1_identity.html',1,'quda::Identity&lt; T &gt;']]],
+  ['improvedstaggeredapply',['ImprovedStaggeredApply',['../structquda_1_1_improved_staggered_apply.html',1,'quda']]],
+  ['inceigcg',['IncEigCG',['../classquda_1_1_inc_eig_c_g.html',1,'quda']]],
+  ['int2',['Int2',['../structquda_1_1_int2.html',1,'quda']]],
+  ['int_5ffastdiv',['int_fastdiv',['../classint__fastdiv.html',1,'']]],
+  ['is_5fvariable',['is_variable',['../structquda_1_1is__variable.html',1,'quda']]],
+  ['is_5fvariable_3c_20dslash5_5fmobius_20_3e',['is_variable&lt; DSLASH5_MOBIUS &gt;',['../structquda_1_1is__variable_3_01_d_s_l_a_s_h5___m_o_b_i_u_s_01_4.html',1,'quda']]],
+  ['is_5fvariable_3c_20dslash5_5fmobius_5fpre_20_3e',['is_variable&lt; DSLASH5_MOBIUS_PRE &gt;',['../structquda_1_1is__variable_3_01_d_s_l_a_s_h5___m_o_b_i_u_s___p_r_e_01_4.html',1,'quda']]],
+  ['is_5fvariable_3c_20m5_5finv_5fzmobius_20_3e',['is_variable&lt; M5_INV_ZMOBIUS &gt;',['../structquda_1_1is__variable_3_01_m5___i_n_v___z_m_o_b_i_u_s_01_4.html',1,'quda']]],
+  ['isfixed',['isFixed',['../structquda_1_1is_fixed.html',1,'quda']]],
+  ['isfixed_3c_20char_20_3e',['isFixed&lt; char &gt;',['../structquda_1_1is_fixed_3_01char_01_4.html',1,'quda']]],
+  ['isfixed_3c_20char2_20_3e',['isFixed&lt; char2 &gt;',['../structquda_1_1is_fixed_3_01char2_01_4.html',1,'quda']]],
+  ['isfixed_3c_20char4_20_3e',['isFixed&lt; char4 &gt;',['../structquda_1_1is_fixed_3_01char4_01_4.html',1,'quda']]],
+  ['isfixed_3c_20short_20_3e',['isFixed&lt; short &gt;',['../structquda_1_1is_fixed_3_01short_01_4.html',1,'quda']]],
+  ['isfixed_3c_20short2_20_3e',['isFixed&lt; short2 &gt;',['../structquda_1_1is_fixed_3_01short2_01_4.html',1,'quda']]],
+  ['isfixed_3c_20short4_20_3e',['isFixed&lt; short4 &gt;',['../structquda_1_1is_fixed_3_01short4_01_4.html',1,'quda']]],
+  ['ishalf',['isHalf',['../structquda_1_1is_half.html',1,'quda']]],
+  ['ishalf_3c_20short_20_3e',['isHalf&lt; short &gt;',['../structquda_1_1is_half_3_01short_01_4.html',1,'quda']]],
+  ['ishalf_3c_20short2_20_3e',['isHalf&lt; short2 &gt;',['../structquda_1_1is_half_3_01short2_01_4.html',1,'quda']]],
+  ['ishalf_3c_20short4_20_3e',['isHalf&lt; short4 &gt;',['../structquda_1_1is_half_3_01short4_01_4.html',1,'quda']]],
+  ['isquarter',['isQuarter',['../structquda_1_1is_quarter.html',1,'quda']]],
+  ['isquarter_3c_20char_20_3e',['isQuarter&lt; char &gt;',['../structquda_1_1is_quarter_3_01char_01_4.html',1,'quda']]],
+  ['isquarter_3c_20char2_20_3e',['isQuarter&lt; char2 &gt;',['../structquda_1_1is_quarter_3_01char2_01_4.html',1,'quda']]],
+  ['isquarter_3c_20char4_20_3e',['isQuarter&lt; char4 &gt;',['../structquda_1_1is_quarter_3_01char4_01_4.html',1,'quda']]]
+];

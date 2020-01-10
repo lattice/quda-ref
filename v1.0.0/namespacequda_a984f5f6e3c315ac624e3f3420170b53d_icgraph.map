@@ -1,0 +1,51 @@
+<map id="quda::sum" name="quda::sum">
+<area shape="rect" id="node2" href="$classquda_1_1_eigen_solver.html#a890144d5f751036ad61a1f3c2b066d86" title="Orthogonalise input vector r against vector space v using block&#45;BLAS. " alt="" coords="180,35,312,77"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a02de07b00ba3632872e9043101b2807b" title="quda::blas::cdotNormA_" alt="" coords="167,149,325,176"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a0733ac7bb030e42b0cceca2b83abc4fa" title="quda::blas::cdotNormB_" alt="" coords="167,200,325,227"/>
+<area shape="rect" id="node7" href="$wilson__dslash__reference_8cpp.html#a254701a68d337537a66c9cf0c8f67f24" title="dslashReference" alt="" coords="187,251,305,277"/>
+<area shape="rect" id="node22" href="$domain__wall__dslash__reference_8cpp.html#a3964f6b215e1dda74b994183560f238e" title="dslashReference_4d_sgpu" alt="" coords="160,301,332,328"/>
+<area shape="rect" id="node23" href="$domain__wall__dslash__reference_8cpp.html#a1b1389c2d182a680ed5f1eeda763a5af" title="dslashReference_5th" alt="" coords="175,352,317,379"/>
+<area shape="rect" id="node24" href="$structquda_1_1blas_1_1_norm2.html#a3e11c688ecec0f841c3dec5c781686cc" title="total number of input and output streams " alt="" coords="181,403,311,445"/>
+<area shape="rect" id="node25" href="$namespacequda.html#ab5c9e4cc49f330b9aa9dc29b3de10b86" title="quda::getRealTraceUVdagger" alt="" coords="151,469,341,496"/>
+<area shape="rect" id="node26" href="$namespacequda_1_1blas.html#a8cd7df88179c2cbf0eff47a295139242" title="quda::blas::multiReduceKernel" alt="" coords="149,520,343,547"/>
+<area shape="rect" id="node27" href="$namespacequda_1_1blas.html#ad1c808c1ffe67d6977642a97e47529f0" title="quda::blas::multiReduceLaunch" alt="" coords="407,545,605,572"/>
+<area shape="rect" id="node28" href="$structquda_1_1blas_1_1_norm2.html#a2a6fa681aa2fa689399a80dcd7a5fd4d" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="181,622,311,663"/>
+<area shape="rect" id="node29" href="$structquda_1_1blas_1_1_dot.html#aff973cc9ec425e09cac862f9c2cb5324" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="163,688,329,715"/>
+<area shape="rect" id="node30" href="$structquda_1_1reduce__vector.html#afc85f90f4ba8061b77e0f3fd1fa7760a" title="quda::reduce_vector\l::operator()" alt="" coords="177,739,315,781"/>
+<area shape="rect" id="node31" href="$structquda_1_1blas_1_1axpbyz_norm2.html#ae4c13f3d061c64c7b99674565ab4b58c" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="165,805,327,846"/>
+<area shape="rect" id="node32" href="$structquda_1_1blas_1_1_axpy_re_dot.html#a852ad14c280b998cee0d2e0b5399f0bb" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="171,870,321,911"/>
+<area shape="rect" id="node33" href="$structquda_1_1blas_1_1_cdot.html#ad5200f7f345702d3e7cd1402d3bc76e7" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="159,936,333,963"/>
+<area shape="rect" id="node34" href="$structquda_1_1blas_1_1_cdot_copy.html#a804470bb21debf2b257244616c683489" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="175,987,317,1029"/>
+<area shape="rect" id="node35" href="$structquda_1_1blas_1_1caxpy_norm2.html#a6f66147ce49a15d5d11753dff029f484" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="168,1053,324,1094"/>
+<area shape="rect" id="node36" href="$structquda_1_1blas_1_1caxpyxmaznormx.html#a81b86562362e6f476c13d14bd726e617" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="155,1118,337,1159"/>
+<area shape="rect" id="node37" href="$structquda_1_1blas_1_1cabxpyzaxnorm.html#a00dd3b82dfc205b41d8260a00a781bf9" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="159,1183,333,1225"/>
+<area shape="rect" id="node38" href="$structquda_1_1blas_1_1caxpydotzy.html#a48d4b95065c6f8ab178714b867ae192e" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="172,1249,320,1290"/>
+<area shape="rect" id="node39" href="$structquda_1_1blas_1_1_cdot_norm_a.html#af63adfc24c162720db95740f47c42df0" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="170,1314,322,1355"/>
+<area shape="rect" id="node40" href="$structquda_1_1blas_1_1caxpbypz_ymbwc_dot_product_u_y_norm_y__.html#ae0bd755567a467a6bf522ee538ed85f8" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="139,1379,353,1421"/>
+<area shape="rect" id="node41" href="$structquda_1_1blas_1_1quadruple_c_g3_init_norm__.html#aed7e5463bcf5e50ca6bcbf9ae47e2a43" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="163,1445,329,1486"/>
+<area shape="rect" id="node42" href="$structquda_1_1blas_1_1quadruple_c_g3_update_norm__.html#a863c2ad2ee62e90f3f24cb1bfb70d88a" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="163,1510,329,1551"/>
+<area shape="rect" id="node43" href="$structquda_1_1blas_1_1double_c_g3_init_norm__.html#aae90edc471a5997afd525300e21a74f0" title="where the reduction is usually computed and any auxiliary operations " alt="" coords="163,1575,329,1617"/>
+<area shape="rect" id="node44" href="$structquda_1_1blas_1_1_reduce_functor.html#ac0c5f8a5000abf4f449738d07bcb4ff9" title="pre&#45;computation routine called before the &quot;M&#45;loop&quot; " alt="" coords="147,1641,345,1668"/>
+<area shape="rect" id="node45" href="$structquda_1_1blas_1_1_multi_reduce_functor.html#a68a3b08b33aae33245ac7a8ee2b8d820" title="pre&#45;computation routine called before the &quot;M&#45;loop&quot; " alt="" coords="133,1692,359,1719"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a88a37e8a6742e88d5eb8d734c8ea2fd8" title="quda::reduce2d" alt="" coords="191,1743,301,1769"/>
+<area shape="rect" id="node47" href="$namespacequda_1_1blas.html#af2cff09079282af6e9d307ef2418c6ea" title="quda::blas::reduceKernel" alt="" coords="165,1793,327,1820"/>
+<area shape="rect" id="node48" href="$namespacequda_1_1blas.html#af9f7b3bc9c35b3921606691afdf1dc7e" title="quda::blas::reduceLaunch" alt="" coords="423,1819,589,1845"/>
+<area shape="rect" id="node49" href="$namespacequda.html#adf289508b1ae22ddf0e73a0f851232f1" title="quda::reduceRow" alt="" coords="186,1895,306,1921"/>
+<area shape="rect" id="node50" href="$namespacequda.html#a162ac9c88f58bc1c599c02869acd83cd" title="quda::sum" alt="" coords="206,1945,286,1972"/>
+<area shape="rect" id="node3" href="$classquda_1_1_t_r_l_m.html#a754ea84a5fcb1d2c75ca902ed5a957d4" title="Lanczos step: extends the Kylov space. " alt="" coords="423,19,589,45"/>
+<area shape="rect" id="node4" href="$classquda_1_1_t_r_l_m.html#acf892e5bc9c2f3a40df569a25f931f4e" title="Compute eigenpairs. " alt="" coords="653,5,805,32"/>
+<area shape="rect" id="node8" href="$wilson__dslash__reference_8h.html#a4baf1106373856ef3ddf22ded94da45a" title="wil_dslash" alt="" coords="466,348,546,375"/>
+<area shape="rect" id="node9" href="$wilson__dslash__reference_8h.html#ae07c1a8764ffd56ab4823ffb2d9b275c" title="clover_dslash" alt="" coords="680,56,779,83"/>
+<area shape="rect" id="node10" href="$dslash__ctest_8cpp.html#a67d49cd517919ae845535dcd9e7585c7" title="dslashRef" alt="" coords="853,360,932,387"/>
+<area shape="rect" id="node11" href="$wilson__dslash__reference_8h.html#a69e3f1607c121be48fc540b0b4fd43a3" title="clover_mat" alt="" coords="687,157,772,184"/>
+<area shape="rect" id="node12" href="$wilson__dslash__reference_8h.html#aa44d6283bd416112a1b8b041504c413d" title="clover_matpc" alt="" coords="680,208,779,235"/>
+<area shape="rect" id="node13" href="$wilson__dslash__reference_8h.html#aa6b1bacabd159ad43da2ffb55d925291" title="tm_dslash" alt="" coords="689,259,769,285"/>
+<area shape="rect" id="node14" href="$wilson__dslash__reference_8h.html#a24a1dd19145f9b9f787285a06ecf3710" title="tm_mat" alt="" coords="696,309,763,336"/>
+<area shape="rect" id="node15" href="$wilson__dslash__reference_8h.html#a4e871b0ffa516458fc080ff3188a5a96" title="tm_matpc" alt="" coords="689,360,769,387"/>
+<area shape="rect" id="node16" href="$wilson__dslash__reference_8h.html#aa21c9574de771dbefa8bed2d678748fd" title="tm_ndeg_dslash" alt="" coords="672,411,787,437"/>
+<area shape="rect" id="node17" href="$wilson__dslash__reference_8h.html#ab3abff9d87e1bdf25aa494a2582827df" title="tm_ndeg_mat" alt="" coords="679,461,780,488"/>
+<area shape="rect" id="node18" href="$wilson__dslash__reference_8h.html#ace75b4c5ca7e210ca873e627a272a82b" title="tm_ndeg_matpc" alt="" coords="672,512,787,539"/>
+<area shape="rect" id="node19" href="$wilson__dslash__reference_8h.html#a4fa28c6e8f2141fc1838ea8582756807" title="tmc_dslash" alt="" coords="686,563,773,589"/>
+<area shape="rect" id="node20" href="$wilson__dslash__reference_8h.html#a9ec587006fc538ff89d33e0d9ea6c5fd" title="tmc_mat" alt="" coords="693,613,766,640"/>
+<area shape="rect" id="node21" href="$wilson__dslash__reference_8h.html#af47d4a96b1e9667333ae7973e3c8cc0f" title="tmc_matpc" alt="" coords="686,664,773,691"/>
+</map>

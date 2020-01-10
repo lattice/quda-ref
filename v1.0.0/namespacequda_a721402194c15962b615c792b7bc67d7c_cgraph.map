@@ -1,0 +1,5 @@
+<map id="quda::CalculateYhatGPU" name="quda::CalculateYhatGPU">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="224,5,299,32"/>
+<area shape="rect" id="node4" href="$atomic_8cuh.html#a9672facac7cf53cd5b1122b09ef5dc36" title="Implementation of single&#45;precision atomic max using compare and swap. May not support NaNs properly..." alt="" coords="219,56,304,83"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="352,5,440,32"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="include/staggered_oprod.h" name="include/staggered_oprod.h">
+<area shape="rect" id="node2" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="704,155,801,181"/>
+<area shape="rect" id="node30" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="857,80,987,107"/>
+<area shape="rect" id="node3" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="399,229,509,256"/>
+<area shape="rect" id="node12" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="805,304,865,331"/>
+<area shape="rect" id="node27" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="956,229,1053,256"/>
+<area shape="rect" id="node4" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="547,304,665,331"/>
+<area shape="rect" id="node10" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="547,453,646,480"/>
+<area shape="rect" id="node16" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="987,304,1071,331"/>
+<area shape="rect" id="node22" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="337,379,443,405"/>
+<area shape="rect" id="node24" href="$object_8h.html" title="object.h" alt="" coords="455,304,522,331"/>
+<area shape="rect" id="node25" href="$timer_8h.html" title="timer.h" alt="" coords="14,304,75,331"/>
+<area shape="rect" id="node15" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="737,379,859,405"/>
+<area shape="rect" id="node18" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="1337,379,1440,405"/>
+<area shape="rect" id="node20" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="1229,379,1313,405"/>
+<area shape="rect" id="node31" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="1043,155,1153,181"/>
+<area shape="rect" id="node33" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="877,155,967,181"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="quda::ApplyGamma" name="quda::ApplyGamma">
+<area shape="rect" id="node2" href="$namespacequda.html#a9f36ac87697d9fb03507fadf76267b22" title="quda::ApplyGamma" alt="" coords="188,5,323,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#ab89bf31f53e61dcc0460e33950c6073b" title="Applies a gamma5 matrix to a spinor (wrapper to ApplyGamma) " alt="" coords="202,56,309,83"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="371,56,543,83"/>
+</map>

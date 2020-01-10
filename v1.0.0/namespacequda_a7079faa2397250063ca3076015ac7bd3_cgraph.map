@@ -1,0 +1,6 @@
+<map id="quda::flushForceMonitor" name="quda::flushForceMonitor">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="231,5,321,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a42baede862270bd329a75ba1a9b0d73d" title="Whether we are monitoring the force or not. " alt="" coords="212,56,340,83"/>
+<area shape="rect" id="node5" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="230,107,322,133"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="388,56,504,83"/>
+</map>

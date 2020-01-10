@@ -1,0 +1,51 @@
+<map id="staggeredDslashRef" name="staggeredDslashRef">
+<area shape="rect" id="node2" href="$namespacequda.html#ad33c4c0c54ceb9072f773e55c186174c" title="quda::axpy" alt="" coords="223,170,306,197"/>
+<area shape="rect" id="node3" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="403,5,554,47"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#a002d065313f670d2960dd8b7f5ea87dd" title="quda::ColorSpinorField\l::Length" alt="" coords="189,272,340,313"/>
+<area shape="rect" id="node5" href="$covdev__reference_8cpp.html#a889c78c66d143bdfb3ade7271407a422" title="matdagmat" alt="" coords="221,338,308,365"/>
+<area shape="rect" id="node41" href="$classquda_1_1_color_spinor_field.html#a4113be893234cf6813ad7438d6d0b210" title="quda::ColorSpinorField::Odd" alt="" coords="388,426,569,453"/>
+<area shape="rect" id="node42" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="396,645,561,671"/>
+<area shape="rect" id="node43" href="$staggered__dslash__reference_8cpp.html#a644fdeeba8af318dc56a43af6791d46f" title="staggered_dslash" alt="" coords="204,535,325,562"/>
+<area shape="rect" id="node48" href="$namespacequda_1_1blas.html#a8f3009e9e4a4bfe40b4d3f20d03c2f45" title="quda::blas::xpay" alt="" coords="209,681,320,707"/>
+<area shape="rect" id="node6" href="$covdev__reference_8h.html#a52f872ecee815e81e95c7b54f5f7ed7a" title="covdev_dslash_mg4dir" alt="" coords="403,71,554,98"/>
+<area shape="rect" id="node7" href="$classquda_1_1cpu_color_spinor_field.html#a69850014a1e80a2d6ddaece3932ad860" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="393,528,565,569"/>
+<area shape="rect" id="node28" href="$covdev__reference_8h.html#a6f83b6304f6e53ba62f77b87e7e960cc" title="mat_mg4dir" alt="" coords="433,122,524,149"/>
+<area shape="rect" id="node29" href="$covdev__reference_8cpp.html#a8698d271fa81fce7f2cdd9d01f5bd37e" title="Matdagmat" alt="" coords="435,375,522,402"/>
+<area shape="rect" id="node35" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="1135,210,1198,237"/>
+<area shape="rect" id="node37" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="888,286,959,313"/>
+<area shape="rect" id="node39" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="900,235,947,262"/>
+<area shape="rect" id="node40" href="$covdev__reference_8h.html#a0bac7825c8c9a18cfe00c303d3257080" title="matdagmat_mg4dir" alt="" coords="412,325,545,351"/>
+<area shape="rect" id="node8" href="$classquda_1_1cpu_color_spinor_field.html#af375a9f256d62db1749bcafffa1ed5b2" title="Allocate the ghost buffers. " alt="" coords="617,749,789,791"/>
+<area shape="rect" id="node10" href="$classquda_1_1cpu_color_spinor_field.html#a8386225c8fc1020670e5a0b9f4995473" title="quda::cpuColorSpinorField\l::packGhost" alt="" coords="617,561,789,603"/>
+<area shape="rect" id="node17" href="$classquda_1_1_color_spinor_field.html#a03366c6ecf5bdea2e1988dd8d9e4d114" title="quda::ColorSpinorField\l::exchange" alt="" coords="628,684,779,725"/>
+<area shape="rect" id="node9" href="$classquda_1_1cpu_color_spinor_field.html#a51d79fe9a54a572b777123a2cd133752" title="quda::cpuColorSpinorField\l::freeGhostBuffer" alt="" coords="837,895,1009,936"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a014ceadabae12572d2dcd8215e8f5f77" title="Generic ghost packing routine. " alt="" coords="842,590,1005,617"/>
+<area shape="rect" id="node12" href="$classquda_1_1_generic_pack_ghost_launcher.html#a7d92338a4bc5f7ffce7830f27f64d13d" title="quda::GenericPackGhostLauncher\l::apply" alt="" coords="1057,583,1276,624"/>
+<area shape="rect" id="node13" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="1342,684,1465,725"/>
+<area shape="rect" id="node14" href="$namespacequda.html#a2fcf456b8236c9c3fbb5f4df47b2096c" title="quda::tuneLaunch" alt="" coords="1342,582,1465,609"/>
+<area shape="rect" id="node15" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="1364,633,1443,659"/>
+<area shape="rect" id="node16" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="1357,531,1449,558"/>
+<area shape="rect" id="node18" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="847,843,1000,870"/>
+<area shape="rect" id="node22" href="$comm__quda_8h.html#a0498a56438662fb30281fb92b5bc40b4" title="comm_start" alt="" coords="878,793,969,819"/>
+<area shape="rect" id="node25" href="$comm__quda_8h.html#aa949084ae3512a75d7218748b38f7015" title="comm_wait" alt="" coords="879,742,967,769"/>
+<area shape="rect" id="node27" href="$comm__quda_8h.html#aaf356c30715ea44b84953c66f65c1ef9" title="comm_free" alt="" coords="880,641,967,667"/>
+<area shape="rect" id="node19" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1123,843,1210,870"/>
+<area shape="rect" id="node20" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1324,843,1483,870"/>
+<area shape="rect" id="node21" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1357,894,1449,921"/>
+<area shape="rect" id="node23" href="$nvtx__pmpi_8c.html#a0ff352a818935c896c684af705d041e9" title="MPI_Start" alt="" coords="1126,793,1207,819"/>
+<area shape="rect" id="node24" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="1358,793,1449,819"/>
+<area shape="rect" id="node26" href="$nvtx__pmpi_8c.html#a65a90a976c9dc2704d5661ee066ca937" title="MPI_Wait" alt="" coords="1127,742,1206,769"/>
+<area shape="rect" id="node30" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="643,350,764,377"/>
+<area shape="rect" id="node31" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="883,438,964,465"/>
+<area shape="rect" id="node34" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="870,387,977,414"/>
+<area shape="rect" id="node32" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="1099,413,1235,439"/>
+<area shape="rect" id="node33" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1343,413,1464,439"/>
+<area shape="rect" id="node36" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1383,210,1423,237"/>
+<area shape="rect" id="node38" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="1116,286,1217,313"/>
+<area shape="rect" id="node44" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="395,594,562,621"/>
+<area shape="rect" id="node45" href="$staggered__dslash__reference_8cpp.html#a74c575aa20c8f163c5f9bfe2e4431ea3" title="dslashReference" alt="" coords="645,438,762,465"/>
+<area shape="rect" id="node46" href="$dslash__util_8h.html#a66a2d3f8888720862ca576f3ab189c35" title="sub" alt="" coords="902,489,945,515"/>
+<area shape="rect" id="node47" href="$dslash__util_8h.html#afba36700990ad2f2ce04ff83cb69ea7a" title="negx" alt="" coords="899,539,948,566"/>
+<area shape="rect" id="node49" href="$namespacequda_1_1blas.html#a7a989a4b5814fab3ae2ad74d76bbc874" title="quda::blas::axpbyz" alt="" coords="417,753,541,779"/>
+<area shape="rect" id="node50" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="642,815,765,856"/>
+</map>

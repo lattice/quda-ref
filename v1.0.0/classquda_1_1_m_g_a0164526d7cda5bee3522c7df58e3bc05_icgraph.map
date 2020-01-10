@@ -1,0 +1,6 @@
+<map id="quda::MG::generateNullVectors" name="quda::MG::generateNullVectors">
+<area shape="rect" id="node2" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="252,5,356,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="404,37,515,64"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="563,37,704,64"/>
+<area shape="rect" id="node5" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="752,37,803,64"/>
+</map>

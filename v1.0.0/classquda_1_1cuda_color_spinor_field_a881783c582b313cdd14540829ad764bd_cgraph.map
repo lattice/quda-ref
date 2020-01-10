@@ -1,0 +1,41 @@
+<map id="quda::cudaColorSpinorField::pack" name="quda::cudaColorSpinorField::pack">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_color_spinor_field.html#a1a36967996f6c7c4297da38fbedf3a6b" title="Create the communication handlers and buffers. " alt="" coords="232,406,411,447"/>
+<area shape="rect" id="node37" href="$classquda_1_1cuda_color_spinor_field.html#a57ba8c0b6e1c3b5d3453592c25261766" title="Packs the cudaColorSpinorField&#39;s ghost zone. " alt="" coords="232,501,411,542"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#ae17ff77d97453e7bff3273c7a296b2b1" title="Allocate the ghost buffers. " alt="" coords="459,253,637,294"/>
+<area shape="rect" id="node18" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="689,136,832,163"/>
+<area shape="rect" id="node20" href="$classquda_1_1_lattice_field.html#aec6375f2e46d9ad87a71ce212e437e18" title="quda::LatticeField\l::createComms" alt="" coords="487,377,609,418"/>
+<area shape="rect" id="node24" href="$classquda_1_1_lattice_field.html#a0888a2cb649719504a1611733e4208aa" title="quda::LatticeField\l::createIPCComms" alt="" coords="695,551,826,593"/>
+<area shape="rect" id="node36" href="$classquda_1_1_lattice_field.html#a6914c75efd90a13ecb619356e632e63a" title="quda::LatticeField\l::destroyIPCComms" alt="" coords="693,486,828,527"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#adc74cb2a2196e83fcafb640f0a8600f4" title="Allocate the static ghost buffers. " alt="" coords="691,253,831,294"/>
+<area shape="rect" id="node9" href="$classquda_1_1_color_spinor_field.html#aaa41e877573c40c38c7542eda455145c" title="quda::ColorSpinorField\l::createGhostZone" alt="" coords="685,187,836,229"/>
+<area shape="rect" id="node5" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="921,355,1022,381"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="1107,375,1197,401"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="1275,375,1375,401"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="1279,444,1370,471"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="895,253,1048,280"/>
+<area shape="rect" id="node14" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="896,57,1047,98"/>
+<area shape="rect" id="node15" href="$classquda_1_1_color_spinor_field.html#add5b48c1aa0eea27d10193cd6d523bfc" title="quda::ColorSpinorField\l::GhostOffset" alt="" coords="896,122,1047,163"/>
+<area shape="rect" id="node16" href="$classquda_1_1_color_spinor_field.html#ac324b268700ab27a4455e7d216f2e92c" title="quda::ColorSpinorField\l::isNative" alt="" coords="896,187,1047,229"/>
+<area shape="rect" id="node17" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="888,304,1055,331"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1109,259,1195,285"/>
+<area shape="rect" id="node12" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1245,261,1404,288"/>
+<area shape="rect" id="node13" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1279,312,1371,339"/>
+<area shape="rect" id="node19" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="895,5,1048,32"/>
+<area shape="rect" id="node21" href="$classquda_1_1_lattice_field.html#a98a49db4ac99218a7a004d6e369e1e16" title="quda::LatticeField\l::destroyComms" alt="" coords="699,318,822,359"/>
+<area shape="rect" id="node23" href="$comm__quda_8h.html#a6dcfe5c3faff54a12f659933a1f58546" title="Query if GPU Direct RDMA communication is enabled (global setting) " alt="" coords="693,384,828,411"/>
+<area shape="rect" id="node22" href="$comm__quda_8h.html#aaf356c30715ea44b84953c66f65c1ef9" title="comm_free" alt="" coords="928,405,1015,432"/>
+<area shape="rect" id="node25" href="$comm__quda_8h.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="928,608,1015,635"/>
+<area shape="rect" id="node26" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1109,315,1195,341"/>
+<area shape="rect" id="node27" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="884,507,1059,533"/>
+<area shape="rect" id="node28" href="$comm__quda_8h.html#a0498a56438662fb30281fb92b5bc40b4" title="comm_start" alt="" coords="926,659,1017,685"/>
+<area shape="rect" id="node31" href="$comm__quda_8h.html#aa949084ae3512a75d7218748b38f7015" title="comm_wait" alt="" coords="927,709,1015,736"/>
+<area shape="rect" id="node29" href="$nvtx__pmpi_8c.html#a0ff352a818935c896c684af705d041e9" title="MPI_Start" alt="" coords="1111,532,1193,559"/>
+<area shape="rect" id="node30" href="$nvtx__pmpi_8c.html#a60fc3eec4e2d6d05a2f3867b94588cd1" title="PMPI_Test" alt="" coords="1281,532,1368,559"/>
+<area shape="rect" id="node32" href="$nvtx__pmpi_8c.html#a65a90a976c9dc2704d5661ee066ca937" title="MPI_Wait" alt="" coords="1113,709,1191,736"/>
+<area shape="rect" id="node33" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="1299,760,1351,787"/>
+<area shape="rect" id="node34" href="$nvtx__pmpi_8c.html#a89a5128619ef11cdf9173a34436ad3d5" title="PMPI_Wait" alt="" coords="1281,659,1369,685"/>
+<area shape="rect" id="node35" href="$nvtx__pmpi_8c.html#a6da5aebfab9343484ea0cbeb0954e11a" title="PMPI_Waitany" alt="" coords="1271,709,1379,736"/>
+<area shape="rect" id="node38" href="$namespacequda.html#a7e55427b7b6d3b68f0a9e672cf6b6085" title="Dslash face packing routine. " alt="" coords="488,617,608,644"/>
+<area shape="rect" id="node39" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="686,617,835,644"/>
+<area shape="rect" id="node40" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="699,669,822,710"/>
+</map>

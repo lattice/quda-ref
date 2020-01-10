@@ -1,0 +1,6 @@
+<map id="quda::blas::caxpy_U" name="quda::blas::caxpy_U">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#abd5c82dcc90a9903d04e90992ad5d192" title="Compute the block &quot;caxpy_U&quot; with over the set of ColorSpinorFields. E.g., it computes. " alt="" coords="196,5,331,32"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#a59441fb61d11540d7d02de34e9ce4c6b" title="quda::ColorSpinorField\l::Components" alt="" coords="188,57,339,98"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a3f2725935da1f568741a1c5bb739c833" title="quda::blas::caxpy_recurse" alt="" coords="387,5,553,32"/>
+<area shape="rect" id="node5" href="$namespacequda.html#afd4bd2cb9895c735da434b82bb7cd7bb" title="quda::operator\&lt;\&lt;" alt="" coords="411,64,529,91"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="neighborIndexFullLattice" name="neighborIndexFullLattice">
+<area shape="rect" id="node2" href="$hisq__force__reference_8cpp.html#af81528cc7cda6c5ba9a6320c591a7f2d" title="computeLinkOrderedOuterProduct" alt="" coords="216,56,435,83"/>
+<area shape="rect" id="node7" href="$llfat__reference_8cpp.html#a46a4c77a812394de82360606bef3072b" title="computeLongLinkCPU" alt="" coords="761,111,912,137"/>
+<area shape="rect" id="node17" href="$hisq__force__reference_8cpp.html#ad88b48689fa32bcf0f9947c46a694472" title="forward_shifted_outer_prod" alt="" coords="237,224,414,251"/>
+<area shape="rect" id="node20" href="$llfat__reference_8cpp.html#a181732fa2cea832452350183932b5e84" title="llfat_compute_gen_staple\l_field" alt="" coords="241,158,410,199"/>
+<area shape="rect" id="node23" href="$hisq__force__reference_8cpp.html#a90c6242374a1089bb36754032cf6dfb0" title="shifted_outer_prod" alt="" coords="261,275,389,301"/>
+<area shape="rect" id="node27" href="$hisq__force__reference_8cpp.html#a08120b955b0b2137d75d97e6ac0cc7b4" title="u_shift_hw" alt="" coords="284,376,367,403"/>
+<area shape="rect" id="node28" href="$hisq__force__reference_8cpp.html#a8aadb19d273059c3e49860a8de794612" title="u_shift_mat" alt="" coords="281,325,370,352"/>
+<area shape="rect" id="node3" href="$hisq__force__reference_8h.html#a336a199b49dbf97b1d6f30e201b06f83" title="computeLinkOrderedOuterProduct" alt="" coords="483,5,701,32"/>
+<area shape="rect" id="node4" href="$hisq__paths__force__test_8cpp.html#a25e269281760c3a76006f4ce5bacab7e" title="hisq_force_init" alt="" coords="539,56,645,83"/>
+<area shape="rect" id="node5" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="782,56,891,83"/>
+<area shape="rect" id="node6" href="$hisq__paths__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1027,56,1078,83"/>
+<area shape="rect" id="node8" href="$llfat__reference_8h.html#a68dd6bb68ff408009829f022ea0d85c7" title="computeLongLinkCPU" alt="" coords="977,107,1128,133"/>
+<area shape="rect" id="node9" href="$llfat__reference_8h.html#a80444b8d9b6fba55e969c8afa100c26a" title="computeHISQLinksCPU" alt="" coords="972,157,1133,184"/>
+<area shape="rect" id="node15" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="1017,208,1088,235"/>
+<area shape="rect" id="node10" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="1242,157,1315,184"/>
+<area shape="rect" id="node12" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="1181,107,1376,133"/>
+<area shape="rect" id="node11" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1424,157,1475,184"/>
+<area shape="rect" id="node13" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="1430,107,1469,133"/>
+<area shape="rect" id="node14" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="1523,99,1667,141"/>
+<area shape="rect" id="node16" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1253,208,1304,235"/>
+<area shape="rect" id="node18" href="$hisq__force__reference_8cpp.html#a0062319b6abf524d29f46309b6ede805" title="forwardShiftedOuterProduct" alt="" coords="501,216,683,243"/>
+<area shape="rect" id="node19" href="$hisq__force__reference_8h.html#ada03702390240b831ac7203cd313495d" title="computeHisqOuterProduct" alt="" coords="749,216,924,243"/>
+<area shape="rect" id="node21" href="$llfat__reference_8cpp.html#ae3fea7e39543c6920a6ca463031b78cc" title="llfat_cpu" alt="" coords="557,165,627,192"/>
+<area shape="rect" id="node22" href="$llfat__reference_8h.html#acd5781bd4bc58c138d6853b33c60a525" title="llfat_reference" alt="" coords="785,165,889,192"/>
+<area shape="rect" id="node24" href="$hisq__force__reference_8cpp.html#ae523a7ed0e553177b1c706baa1daba88" title="shiftedOuterProduct" alt="" coords="523,267,661,293"/>
+<area shape="rect" id="node25" href="$hisq__force__reference_8cpp.html#a802fa6cd9b5490464aef0a014fffff2f" title="do_halfwilson_hisq\l_force_reference" alt="" coords="527,318,657,359"/>
+<area shape="rect" id="node26" href="$hisq__force__reference_8h.html#ab3519c8c9f6ae59d62bef2f43bdd95ef" title="halfwilson_hisq_force\l_reference" alt="" coords="765,318,909,359"/>
+<area shape="rect" id="node29" href="$hisq__force__reference_8cpp.html#aec39084be01314ca58e050d31c83850a" title="do_color_matrix_hisq\l_force_reference" alt="" coords="521,383,663,425"/>
+<area shape="rect" id="node30" href="$hisq__force__reference_8h.html#a362f32eb1dc1b46a95c4642a2e8a2d44" title="color_matrix_hisq_force\l_reference" alt="" coords="757,383,916,425"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="quda::MPBiCGstab::computeMatrixPowers" name="quda::MPBiCGstab::computeMatrixPowers">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="240,5,397,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="279,56,359,83"/>
+<area shape="rect" id="node4" href="$namespacequda.html#aecaaf9606593df42514f70be73876c42" title="quda::print" alt="" coords="278,107,359,133"/>
+<area shape="rect" id="node5" href="$namespacequda.html#afdd60a37d49f6d12f8472e2a910e80c6" title="quda::zero" alt="" coords="279,157,359,184"/>
+</map>

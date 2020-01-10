@@ -1,0 +1,51 @@
+<map id="comm_set_gridsize_" name="comm_set_gridsize_">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#acf46984ae469d1d7603f8fbf34bc221c" title="initCommsGridQuda" alt="" coords="192,335,331,361"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#ad602698cbe7a5b05515a851435eb1f16" title="lex_rank_from_coords" alt="" coords="379,309,527,336"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#add004a3d38b9dc2f15a65bb6e43a2840" title="Initialize the communications, implemented in comm_single.cpp, comm_qmp.cpp, and comm_mpi.cpp. " alt="" coords="411,360,494,387"/>
+<area shape="rect" id="node5" href="$comm__quda_8h.html#a28f2c1670b57527ab3a9ce34f1110caf" title="Initialize the communications common to all communications abstractions. " alt="" coords="575,360,713,387"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#a8b877be417d6c8f73bcca8497b730d40" title="comm_broadcast" alt="" coords="792,31,913,57"/>
+<area shape="rect" id="node10" href="$comm__common_8cpp.html#a03fa1c0e94c2722e5f85d050bde726b5" title="comm_create_topology" alt="" coords="775,208,931,235"/>
+<area shape="rect" id="node12" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="1257,385,1348,412"/>
+<area shape="rect" id="node14" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1036,335,1123,361"/>
+<area shape="rect" id="node17" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="776,335,929,361"/>
+<area shape="rect" id="node18" href="$comm__quda_8h.html#a672f517336c21190ab990b5d77bd1657" title="Gather all hostnames. " alt="" coords="997,1009,1161,1036"/>
+<area shape="rect" id="node25" href="$comm__common_8cpp.html#a1d3bfabe2ec90535541e408c05aea34c" title="comm_hostname" alt="" coords="1019,284,1140,311"/>
+<area shape="rect" id="node26" href="$comm__common_8cpp.html#adc5670739f5284d3d5a2f06d2e4e0cfd" title="comm_peer2peer_init" alt="" coords="779,563,926,589"/>
+<area shape="rect" id="node49" href="$comm__quda_8h.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="1036,959,1123,985"/>
+<area shape="rect" id="node50" href="$comm__common_8cpp.html#aabb1077a2f4eb1b7aa974b0e92ec305c" title="comm_set_default_topology" alt="" coords="761,715,944,741"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#a5997e8e9b61e2f97c69d0667992fce1c" title="MPI_Bcast" alt="" coords="1036,31,1123,57"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a1926ff3a4b86dde1210dd5e734b07256" title="PMPI_Bcast" alt="" coords="1255,5,1350,32"/>
+<area shape="rect" id="node9" href="$nvtx__pmpi_8c.html#a10403186cb83e8e124eb3791a12cb622" title="PMPI_Sendrecv" alt="" coords="1245,56,1361,83"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#a1ce76d2b3764460cbc6826cf8d0a2b57" title="advance_coords" alt="" coords="1022,132,1137,159"/>
+<area shape="rect" id="node13" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="1053,183,1105,209"/>
+<area shape="rect" id="node15" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1223,335,1382,361"/>
+<area shape="rect" id="node16" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1644,495,1736,521"/>
+<area shape="rect" id="node19" href="$comm__quda_8h.html#a1d3bfabe2ec90535541e408c05aea34c" title="comm_hostname" alt="" coords="1242,1111,1363,1137"/>
+<area shape="rect" id="node20" href="$comm__qmp_8cpp.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="1257,1009,1348,1036"/>
+<area shape="rect" id="node21" href="$comm__qmp_8cpp.html#a6d49118e74f712bb0d6d5a9b7c31b82a" title="comm_size" alt="" coords="1259,1060,1346,1087"/>
+<area shape="rect" id="node22" href="$nvtx__pmpi_8c.html#a41222d5360f1da1bf44f776c24ddb046" title="MPI_Allgather" alt="" coords="1251,959,1355,985"/>
+<area shape="rect" id="node23" href="$nvtx__pmpi_8c.html#a3281b70c6bb31afc9d093e5eb01ce823" title="PMPI_Allgather" alt="" coords="1459,953,1572,980"/>
+<area shape="rect" id="node24" href="$nvtx__pmpi_8c.html#a28ca8e45f5b1eb17533778f96ec09e13" title="PMPI_Allgatherv" alt="" coords="1456,1004,1575,1031"/>
+<area shape="rect" id="node27" href="$namespacequda.html#afc8f979be274d625e247ce913db49805" title="quda::abs" alt="" coords="1041,857,1117,884"/>
+<area shape="rect" id="node31" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="1252,596,1353,623"/>
+<area shape="rect" id="node35" href="$comm__quda_8h.html#aa6fca48a2524913fa52f8a1a71cd7cd8" title="Gather all GPU ids. " alt="" coords="1010,908,1149,935"/>
+<area shape="rect" id="node37" href="$comm__common_8cpp.html#a33f999508e8c88555a3ddbc2a0814d85" title="Query if GPU Direct RDMA communication is blacklisted for this GPU. " alt="" coords="1011,487,1148,513"/>
+<area shape="rect" id="node38" href="$comm__common_8cpp.html#aed9cf3a332bd56a53d524699b0fd0776" title="comm_gpuid" alt="" coords="1255,487,1351,513"/>
+<area shape="rect" id="node39" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="1257,537,1349,564"/>
+<area shape="rect" id="node40" href="$comm__common_8cpp.html#a6dcfe5c3faff54a12f659933a1f58546" title="Query if GPU Direct RDMA communication is enabled (global setting) " alt="" coords="1012,588,1147,615"/>
+<area shape="rect" id="node41" href="$comm__common_8cpp.html#a3de479e788d2de155177214eae817d8e" title="comm_neighbor_rank" alt="" coords="1006,740,1153,767"/>
+<area shape="rect" id="node42" href="$comm__common_8cpp.html#a23cfdb00f6f19fad1ef37ce1815824d7" title="comm_set_neighbor_ranks" alt="" coords="1215,655,1391,681"/>
+<area shape="rect" id="node44" href="$comm__common_8cpp.html#ae79c1a736c53def6d8682ca451ac81ed" title="comm_peer2peer_enabled\l_global" alt="" coords="992,791,1167,833"/>
+<area shape="rect" id="node28" href="$namespacequda.html#a5094d384fd151318c2af5a9f5fd44fa7" title="quda::abs" alt="" coords="1265,857,1341,884"/>
+<area shape="rect" id="node29" href="$structquda_1_1complex_3_01double_01_4.html#adc5681045ec6cd66e5ab0c73c8dc4ffd" title="quda::complex\&lt; double\l \&gt;::real" alt="" coords="1439,882,1592,923"/>
+<area shape="rect" id="node30" href="$structquda_1_1complex_3_01double_01_4.html#a3da47d570b43abe5d1720537d69c681c" title="quda::complex\&lt; double\l \&gt;::imag" alt="" coords="1439,817,1592,858"/>
+<area shape="rect" id="node32" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="1470,596,1561,623"/>
+<area shape="rect" id="node33" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="1640,575,1740,601"/>
+<area shape="rect" id="node34" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="1645,625,1735,652"/>
+<area shape="rect" id="node36" href="$comm__quda_8h.html#aed9cf3a332bd56a53d524699b0fd0776" title="comm_gpuid" alt="" coords="1255,908,1351,935"/>
+<area shape="rect" id="node43" href="$comm__common_8cpp.html#a0f31fd7abcfc2ed609e5f9c47940af71" title="comm_rank_displaced" alt="" coords="1440,509,1591,536"/>
+<area shape="rect" id="node45" href="$comm__quda_8h.html#a6e4eff43929395108b3726d35c2d85a4" title="comm_allreduce_int" alt="" coords="1233,756,1372,783"/>
+<area shape="rect" id="node47" href="$comm__common_8cpp.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="1215,807,1390,833"/>
+<area shape="rect" id="node48" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="1245,705,1361,732"/>
+<area shape="rect" id="node46" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="1462,756,1569,783"/>
+</map>

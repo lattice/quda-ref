@@ -1,0 +1,9 @@
+<map id="quda::cudaColorSpinorField::~cudaColorSpinorField" name="quda::cudaColorSpinorField::~cudaColorSpinorField">
+<area shape="rect" id="node2" href="$classquda_1_1cuda_color_spinor_field.html#a2105594278d95ede597eac94aecf3852" title="quda::cudaColorSpinorField\l::destroy" alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a98a49db4ac99218a7a004d6e369e1e16" title="quda::LatticeField\l::destroyComms" alt="" coords="260,71,383,112"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="459,53,560,79"/>
+<area shape="rect" id="node8" href="$comm__quda_8h.html#aaf356c30715ea44b84953c66f65c1ef9" title="comm_free" alt="" coords="466,103,553,130"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="608,53,699,79"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="747,27,847,54"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="751,78,842,105"/>
+</map>

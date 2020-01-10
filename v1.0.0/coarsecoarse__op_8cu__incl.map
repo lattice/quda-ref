@@ -1,0 +1,19 @@
+<map id="lib/coarsecoarse_op.cu" name="lib/coarsecoarse_op.cu">
+<area shape="rect" id="node2" href="$transfer_8h.html" title="transfer.h" alt="" coords="749,80,823,107"/>
+<area shape="rect" id="node3" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="535,155,666,181"/>
+<area shape="rect" id="node34" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="672,229,769,256"/>
+<area shape="rect" id="node4" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="951,304,1061,331"/>
+<area shape="rect" id="node13" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="607,379,667,405"/>
+<area shape="rect" id="node29" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="468,304,565,331"/>
+<area shape="rect" id="node31" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="435,229,545,256"/>
+<area shape="rect" id="node33" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="319,229,410,256"/>
+<area shape="rect" id="node5" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="771,379,889,405"/>
+<area shape="rect" id="node11" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="733,528,831,555"/>
+<area shape="rect" id="node17" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="380,379,464,405"/>
+<area shape="rect" id="node23" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="1004,453,1109,480"/>
+<area shape="rect" id="node25" href="$object_8h.html" title="object.h" alt="" coords="938,379,1005,405"/>
+<area shape="rect" id="node26" href="$timer_8h.html" title="timer.h" alt="" coords="1207,379,1269,405"/>
+<area shape="rect" id="node16" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="647,453,770,480"/>
+<area shape="rect" id="node19" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="5,453,108,480"/>
+<area shape="rect" id="node21" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="132,453,216,480"/>
+</map>

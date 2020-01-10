@@ -1,0 +1,16 @@
+<map id="include/transfer.h" name="include/transfer.h">
+<area shape="rect" id="node2" href="$multigrid_8h.html" title="include/multigrid.h" alt="" coords="977,80,1104,107"/>
+<area shape="rect" id="node13" href="$transfer_8cpp.html" title="lib/transfer.cpp" alt="" coords="1653,155,1759,181"/>
+<area shape="rect" id="node14" href="$coarse__op_8cu.html" title="lib/coarse_op.cu" alt="" coords="1461,80,1575,107"/>
+<area shape="rect" id="node15" href="$coarsecoarse__op_8cu.html" title="lib/coarsecoarse_op.cu" alt="" coords="1600,80,1753,107"/>
+<area shape="rect" id="node3" href="$dirac__clover_8cpp.html" title="lib/dirac_clover.cpp" alt="" coords="5,155,137,181"/>
+<area shape="rect" id="node4" href="$dirac__coarse_8cpp.html" title="lib/dirac_coarse.cpp" alt="" coords="162,155,298,181"/>
+<area shape="rect" id="node5" href="$dirac__twisted__clover_8cpp.html" title="lib/dirac_twisted_clover.cpp" alt="" coords="322,155,501,181"/>
+<area shape="rect" id="node6" href="$dirac__twisted__mass_8cpp.html" title="lib/dirac_twisted_mass.cpp" alt="" coords="525,155,700,181"/>
+<area shape="rect" id="node7" href="$dirac__wilson_8cpp.html" title="lib/dirac_wilson.cpp" alt="" coords="725,155,858,181"/>
+<area shape="rect" id="node8" href="$gauge__covdev_8cpp.html" title="lib/gauge_covdev.cpp" alt="" coords="883,155,1028,181"/>
+<area shape="rect" id="node9" href="$gauge__laplace_8cpp.html" title="lib/gauge_laplace.cpp" alt="" coords="1053,155,1199,181"/>
+<area shape="rect" id="node10" href="$interface__quda_8cpp.html" title="lib/interface_quda.cpp" alt="" coords="1224,155,1372,181"/>
+<area shape="rect" id="node11" href="$multigrid_8cpp.html" title="lib/multigrid.cpp" alt="" coords="1397,155,1509,181"/>
+<area shape="rect" id="node12" href="$solver_8cpp.html" title="lib/solver.cpp" alt="" coords="1533,155,1629,181"/>
+</map>

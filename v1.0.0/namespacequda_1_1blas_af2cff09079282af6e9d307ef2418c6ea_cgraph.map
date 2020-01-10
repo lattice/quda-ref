@@ -1,0 +1,9 @@
+<map id="quda::blas::reduceKernel" name="quda::blas::reduceKernel">
+<area shape="rect" id="node2" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="232,5,307,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a984f5f6e3c315ac624e3f3420170b53d" title="quda::sum" alt="" coords="229,56,309,83"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#ab738546293a39098f5c9bdb3c1ea6876" title="quda::blas::zero" alt="" coords="215,107,324,133"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="403,5,491,32"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="374,81,521,108"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="372,132,523,159"/>
+<area shape="rect" id="node7" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="571,81,639,108"/>
+</map>

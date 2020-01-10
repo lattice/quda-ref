@@ -1,0 +1,4 @@
+<map id="quda::RNG::State" name="quda::RNG::State">
+<area shape="rect" id="node2" href="$classquda_1_1_r_n_g.html#a2f9e545c548f10372ddc59ac30b346b8" title="Backup CURAND array states initialization. " alt="" coords="175,5,307,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_r_n_g.html#afc9c966179f021e4e5a071fa9161e7c8" title="Restore CURAND array states initialization. " alt="" coords="176,56,305,83"/>
+</map>

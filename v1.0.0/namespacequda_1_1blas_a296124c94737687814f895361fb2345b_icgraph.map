@@ -1,0 +1,12 @@
+<map id="quda::blas::norm1" name="quda::blas::norm1">
+<area shape="rect" id="node2" href="$svd__quda_8h.html#a01777cb7ba3560cf1efc373388eaaca1" title="getLambdaMax" alt="" coords="188,13,299,40"/>
+<area shape="rect" id="node5" href="$svd__quda_8h.html#a9f379a7d68a1ec725f9e496aa753c75b" title="getRealBidiagMatrix" alt="" coords="175,72,312,99"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a8cf44a943240ae861170a70f8f416b2b" title="quda::norm1" alt="" coords="197,123,289,149"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#a2b7fb83a851af1be1a205ed4f6830983" title="quda::blas::xpayz" alt="" coords="185,199,302,225"/>
+<area shape="rect" id="node3" href="$svd__quda_8h.html#af157496dd626137ecd5ce0a08be230c4" title="bdSVD" alt="" coords="417,5,479,32"/>
+<area shape="rect" id="node4" href="$svd__quda_8h.html#a4a285471d66d6c7ae4a7d6e778ef4f5e" title="computeSVD" alt="" coords="584,5,683,32"/>
+<area shape="rect" id="node7" href="$classquda_1_1cpu_gauge_field.html#a6e91f1204e583f2f20bb295dce52eeb5" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="377,57,519,98"/>
+<area shape="rect" id="node8" href="$classquda_1_1_clover_field.html#a051cbd435dd39837c190bd32f81e9da8" title="quda::CloverField::Rho" alt="" coords="373,123,523,149"/>
+<area shape="rect" id="node9" href="$classquda_1_1_gauge_field.html#abb291ab5484923d4066ad1944aac9960" title="quda::GaugeField::SiteSize" alt="" coords="360,173,536,200"/>
+<area shape="rect" id="node11" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="380,224,516,251"/>
+</map>

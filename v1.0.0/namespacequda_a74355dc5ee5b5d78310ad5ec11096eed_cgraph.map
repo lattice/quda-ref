@@ -1,0 +1,9 @@
+<map id="quda::computeFmunuCore" name="quda::computeFmunuCore">
+<area shape="rect" id="node2" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="254,5,334,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a416e52d2ea7f201272f902122f06668d" title="Compute the space&#45;time coordinates we are at. " alt="" coords="237,56,351,83"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a80824523b356ad71e2496fdb838c6fa7" title="quda::linkIndexShift" alt="" coords="227,107,361,133"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a90286e7aed518e4cf52d5ca5a2175073" title="quda::getCoords5CB" alt="" coords="409,5,548,32"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a4534d3429a5a0d143e119a6e3e77f6ab" title="quda::getCoordsCB" alt="" coords="413,56,545,83"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="441,107,516,133"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="596,107,684,133"/>
+</map>

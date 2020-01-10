@@ -1,0 +1,12 @@
+<map id="quda::TwistedCloverPreconditionedLaunch::launch" name="quda::TwistedCloverPreconditionedLaunch::launch">
+<area shape="rect" id="node2" href="$classquda_1_1_dslash.html#affb99ada2d860dc0b581b04413f3be65" title="quda::Dslash::launch" alt="" coords="330,68,469,95"/>
+<area shape="rect" id="node6" href="$namespacequda_1_1blas.html#a8f3009e9e4a4bfe40b4d3f20d03c2f45" title="quda::blas::xpay" alt="" coords="615,123,725,149"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a2c8b4faea8e482983be69653bdb024bc" title="quda::twistedCloverPreconditionedGPU" alt="" coords="276,173,523,200"/>
+<area shape="rect" id="node3" href="$namespacequda.html#aca5f37dbe8651b15b71b1fa25dbe2e5e" title="Wrapper around cudaLaunchKernel. " alt="" coords="589,5,751,32"/>
+<area shape="rect" id="node5" href="$classquda_1_1_tunable.html#a240d6c2d95435cec04b5f805741e3147" title="Enable the maximum dynamic shared bytes for the kernel &quot;func&quot; (values given by maxDynamicSharedBytesP..." alt="" coords="571,57,769,98"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a8e4632c766ec0cd48ed8f0543c4eedb3" title="query if tuning is in progress " alt="" coords="817,5,947,32"/>
+<area shape="rect" id="node7" href="$namespacequda_1_1blas.html#a7a989a4b5814fab3ae2ad74d76bbc874" title="quda::blas::axpbyz" alt="" coords="820,123,944,149"/>
+<area shape="rect" id="node8" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="995,115,1117,157"/>
+<area shape="rect" id="node10" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="633,173,707,200"/>
+<area shape="rect" id="node11" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="838,173,926,200"/>
+</map>

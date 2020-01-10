@@ -1,0 +1,51 @@
+<map id="quda::LatticeField::R" name="quda::LatticeField::R">
+<area shape="rect" id="node2" href="$namespacequda.html#a34dd1c4bb3cbe98eb22f8ff86fa0acf1" title="Compute and return global the momentum action 1/2 mom^2. " alt="" coords="206,23,378,49"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="217,534,367,575"/>
+<area shape="rect" id="node18" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="960,199,1069,225"/>
+<area shape="rect" id="node20" href="$interface__quda_8cpp.html#a82945f6a92b5651e82c6079f43a762b2" title="loadGaugeQuda" alt="" coords="732,709,847,736"/>
+<area shape="rect" id="node39" href="$structquda_1_1gauge_1_1_float_n_order.html#a6351fb6fa9f56d2777e35c172db1f233" title="quda::gauge::FloatNOrder\l::FloatNOrder" alt="" coords="209,753,375,794"/>
+<area shape="rect" id="node40" href="$structquda_1_1_gauge_a_p_e_arg.html#ad9424f956e1c916e2e40efdf9510e03e" title="quda::GaugeAPEArg::\lGaugeAPEArg" alt="" coords="219,818,365,859"/>
+<area shape="rect" id="node41" href="$namespacequda.html#a934c1cc3fbfc0a989e5b4eff1fdf923e" title="Generate Gaussian distributed su(N) or SU(N) fields. If U is a momentum field, then we generate rando..." alt="" coords="229,884,355,911"/>
+<area shape="rect" id="node45" href="$structquda_1_1_gauge_gauss_arg.html#a7fa250aa4c8e6e83849814364d5b4e34" title="quda::GaugeGaussArg\l::GaugeGaussArg" alt="" coords="217,935,367,977"/>
+<area shape="rect" id="node46" href="$structquda_1_1_gauge_ovr_imp_s_t_o_u_t_arg.html#a1da3dc1d32f41368496ad8695dcf043d" title="quda::GaugeOvrImpSTOUTArg\l::GaugeOvrImpSTOUTArg" alt="" coords="192,1001,392,1042"/>
+<area shape="rect" id="node47" href="$structquda_1_1_gauge_plaq_arg.html#a05553f6a58786220963b0f2038f58156" title="quda::GaugePlaqArg\l::GaugePlaqArg" alt="" coords="222,1066,362,1107"/>
+<area shape="rect" id="node48" href="$structquda_1_1_gauge_s_t_o_u_t_arg.html#a9ca3fc241040537a159d41ef584b0dfd" title="quda::GaugeSTOUTArg\l::GaugeSTOUTArg" alt="" coords="213,1131,371,1173"/>
+<area shape="rect" id="node49" href="$classquda_1_1cuda_gauge_field.html#a35c80b98e5741d6cedb19c741198d47d" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="217,1197,367,1238"/>
+<area shape="rect" id="node50" href="$structquda_1_1_lattice_field_param.html#a60f07f5bf8102877f7dbbf10eb9d120d" title="Contructor for creating LatticeFieldParam from a LatticeField. " alt="" coords="211,1262,373,1303"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a004044d1e9bec75f92aa844863084f95" title="quda::forceRecord" alt="" coords="485,23,612,49"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#a039ed660aacff6a6bde36df446564845" title="momActionQuda" alt="" coords="955,31,1074,57"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#a9942ec2c95b902f2a2c1bcf715ef4f0d" title="Evaluate the kinetic (momentum) contribution to classical Hamiltonian for Hybrid Monte Carlo..." alt="" coords="1160,31,1263,57"/>
+<area shape="rect" id="node7" href="$classquda_1_1_gauge_field.html#aa9c859aa3d4825102b83d0ce736ab9a9" title="quda::GaugeField::applyStaggered\lPhase" alt="" coords="440,301,657,342"/>
+<area shape="rect" id="node10" href="$classquda_1_1cuda_gauge_field.html#a0c7ebf34e114a34e5adf1e9de7297e24" title="quda::cudaGaugeField\l::copy" alt="" coords="473,469,624,510"/>
+<area shape="rect" id="node35" href="$classquda_1_1cuda_gauge_field.html#ad3f8d04434f551955d2e3654fabcbdd1" title="quda::cudaGaugeField\l::cudaGaugeField" alt="" coords="473,534,624,575"/>
+<area shape="rect" id="node36" href="$interface__quda_8cpp.html#ad8e1cc7e05db09d619a92b8ac3782cb4" title="performWuppertalnStep" alt="" coords="469,600,628,627"/>
+<area shape="rect" id="node37" href="$classquda_1_1_gauge_field.html#a348b77beb2d1e61bacbd89b41a2c369a" title="quda::GaugeField::remove\lStaggeredPhase" alt="" coords="463,183,634,225"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#a327cb455334d59db3e501bb52c720fe0" title="Apply the staggered phase factors to the resident gauge field. " alt="" coords="711,242,867,283"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a721ebb14cef240674ee6023ec2530975" title="staggeredPhaseQuda" alt="" coords="942,308,1087,335"/>
+<area shape="rect" id="node11" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="931,367,1099,393"/>
+<area shape="rect" id="node12" href="$multigrid__benchmark__test_8cu.html#ab74e8c9c0b5eb4f70a8e36e650416d95" title="initFields" alt="" coords="753,527,826,553"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_coarse.html#a97b2f6b1749cc80498ea5a6309651832" title="Create the CPU or GPU coarse gauge fields on demand (requires that the fields have been created in th..." alt="" coords="723,578,855,619"/>
+<area shape="rect" id="node17" href="$classquda_1_1cuda_gauge_field.html#a6cdb095d3cb0aaba840598486e9b15dc" title="Download into this field from a CPU field. " alt="" coords="714,359,865,401"/>
+<area shape="rect" id="node34" href="$interface__quda_8cpp.html#a933684d9a6f77d2cc0e5e222c4c7292c" title="loadSloppyGaugeQuda" alt="" coords="712,425,867,452"/>
+<area shape="rect" id="node13" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="989,417,1040,444"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_coarse.html#a12e57799c86f32aa433f8ca2a0e0b881" title="Apply the coarse clover operator. " alt="" coords="949,469,1081,510"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_coarse.html#aa082a88d338cb65d6f251d1e7b7469f2" title="Apply the inverse coarse clover operator. " alt="" coords="949,534,1081,575"/>
+<area shape="rect" id="node19" href="$hisq__paths__force__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1186,199,1237,225"/>
+<area shape="rect" id="node21" href="$staggered__gauge__utils_8h.html#ae758bc34f333a2e7b43d6a885ce8c3a3" title="computeStaggeredPlaquette\lQDPOrder" alt="" coords="921,702,1108,743"/>
+<area shape="rect" id="node22" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="1156,683,1267,709"/>
+<area shape="rect" id="node24" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="1171,737,1252,764"/>
+<area shape="rect" id="node26" href="$covdev__test_8cpp.html#aa1cd5eafa5245aa7c3ded9b3b470f0b9" title="init" alt="" coords="995,819,1034,845"/>
+<area shape="rect" id="node28" href="$interface__quda_8cpp.html#a3179d142bb1ad0a5bcc476a60e9f0b16" title="load_gauge_quda_" alt="" coords="949,869,1080,896"/>
+<area shape="rect" id="node29" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="989,920,1040,947"/>
+<area shape="rect" id="node30" href="$plaq__test_8cpp.html#a039131f3799421d26e6bbc9eee5c68af" title="plaq_test" alt="" coords="977,971,1052,997"/>
+<area shape="rect" id="node32" href="$su3__test_8cpp.html#a84e1f316c439f969c44e17002e14e3f8" title="SU3test" alt="" coords="981,600,1049,627"/>
+<area shape="rect" id="node23" href="$staggered__eigensolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1315,683,1365,709"/>
+<area shape="rect" id="node25" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1315,737,1365,764"/>
+<area shape="rect" id="node27" href="$covdev__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1186,819,1237,845"/>
+<area shape="rect" id="node31" href="$plaq__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1186,971,1237,997"/>
+<area shape="rect" id="node33" href="$su3__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1186,600,1237,627"/>
+<area shape="rect" id="node38" href="$interface__quda_8cpp.html#ac0fd92020c06f4715a4ab16446481024" title="Remove the staggered phase factors to the resident gauge field. " alt="" coords="705,125,873,166"/>
+<area shape="rect" id="node42" href="$namespacequda.html#a929c9facd13aeb7d4115c80b13415825" title="Generate Gaussian distributed su(N) or SU(N) fields. If U is a momentum field, then we generate rando..." alt="" coords="485,889,612,916"/>
+<area shape="rect" id="node43" href="$interface__quda_8cpp.html#a0ade1446720f13dc6cc1a688a1153023" title="Generate Gaussian distributed fields and store in the resident gauge field. We create a Gaussian&#45;dist..." alt="" coords="727,953,851,980"/>
+<area shape="rect" id="node44" href="$namespacequda.html#a0119e786d84f723bb576cbf67f949903" title="quda::genGauss" alt="" coords="492,839,605,865"/>
+</map>

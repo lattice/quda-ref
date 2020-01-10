@@ -1,0 +1,4 @@
+<map id="quda::dslash::setMappedGhost" name="quda::dslash::setMappedGhost">
+<area shape="rect" id="node2" href="$structquda_1_1dslash_1_1_dslash_zero_copy.html#ac4607a072c066facf43fdd2173a6a6be" title="quda::dslash::DslashZero\lCopy::operator()" alt="" coords="252,5,415,47"/>
+<area shape="rect" id="node3" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy.html#a6b4dc0531694d3d2886e9427ae4b8487" title="quda::dslash::DslashFused\lZeroCopy::operator()" alt="" coords="248,71,419,112"/>
+</map>

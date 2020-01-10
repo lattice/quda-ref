@@ -1,0 +1,12 @@
+<map id="quda::MG::destroyCoarseSolver" name="quda::MG::destroyCoarseSolver">
+<area shape="rect" id="node2" href="$classquda_1_1_m_g.html#a01a0bba925966fecde19aaaae2dff33d" title="Helper function called on exit to each MG member function. " alt="" coords="256,56,391,83"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_g.html#a87cc0a6121cb6ed45d9b12280c75ef82" title="Helper function called on entry to each MG function. " alt="" coords="253,107,393,133"/>
+<area shape="rect" id="node3" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="Pop the verbosity restoring the prior one on the stack. " alt="" coords="454,5,549,32"/>
+<area shape="rect" id="node5" href="$util__quda_8h.html#a33cc820219095ddbc3e7aaf4f401dd2b" title="Pop the output prefix restoring the prior one on the stack. " alt="" coords="444,107,559,133"/>
+<area shape="rect" id="node4" href="$util__quda_8cpp.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="619,5,710,32"/>
+<area shape="rect" id="node6" href="$util__quda_8cpp.html#af0b637354d88c2cf044d20a3f472dcd9" title="setOutputPrefix" alt="" coords="609,107,720,133"/>
+<area shape="rect" id="node8" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="Push a new verbosity onto the stack. " alt="" coords="451,56,552,83"/>
+<area shape="rect" id="node10" href="$util__quda_8h.html#abc25dbf265ff0ac6b168061d62387a82" title="Push a new output prefix onto the stack. " alt="" coords="441,157,561,184"/>
+<area shape="rect" id="node9" href="$util__quda_8cpp.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="619,56,711,83"/>
+<area shape="rect" id="node11" href="$util__quda_8cpp.html#ac20e0acbc14d842af0070c41a90c2304" title="getOutputPrefix" alt="" coords="609,157,720,184"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="quda::ColorSpinorField::VolumeCB" name="quda::ColorSpinorField::VolumeCB">
+<area shape="rect" id="node2" href="$classquda_1_1_copy_spinor.html#a57bff4714a1143338ad551c216f4d966" title="quda::CopySpinor::apply" alt="" coords="254,5,413,32"/>
+<area shape="rect" id="node4" href="$structquda_1_1_block_ortho_arg.html#a873815906580f08f894d43a301e76423" title="quda::BlockOrthoArg\l::BlockOrthoArg" alt="" coords="263,57,404,98"/>
+<area shape="rect" id="node5" href="$classquda_1_1_domain_wall5_d.html#a5851d54249cdab0f762b8487648ebfc2" title="quda::DomainWall5D\l::bytes" alt="" coords="263,122,404,163"/>
+<area shape="rect" id="node6" href="$classquda_1_1_wuppertal_smearing.html#afd0a113fdb404df6d3659623e7a13c22" title="quda::WuppertalSmearing\l::bytes" alt="" coords="249,187,418,229"/>
+<area shape="rect" id="node7" href="$classquda_1_1_dirac_coarse.html#a12e57799c86f32aa433f8ca2a0e0b881" title="Apply the coarse clover operator. " alt="" coords="267,370,399,411"/>
+<area shape="rect" id="node12" href="$classquda_1_1_dirac_coarse.html#aa082a88d338cb65d6f251d1e7b7469f2" title="Apply the inverse coarse clover operator. " alt="" coords="267,553,399,594"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_coarse.html#a25227f748c269d75008717b8404bdcc1" title="Apply DslashXpay out = (D * in) " alt="" coords="267,487,399,529"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_coarse_p_c.html#a8217d0fbec51cb52bd81be7b3fa78a63" title="Apply DslashXpay out = (D * in) " alt="" coords="261,253,405,294"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_coarse_p_c.html#a3e88577a44e6b7d883da615181e34190" title="Apply DslashXpay out = (D * in + A * x) " alt="" coords="536,261,680,302"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_coarse.html#ad450ec6c42dd0e2a8c9411446306cbb2" title="Apply DslashXpay out = (D * in + A * x) " alt="" coords="267,618,399,659"/>
+<area shape="rect" id="node19" href="$classquda_1_1_wuppertal_smearing.html#abda254092398134d494df376dc10c85b" title="quda::WuppertalSmearing\l::flops" alt="" coords="249,683,418,725"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dslash_coarse_policy_tune.html#ab2ceb5fe9b12b5732e09f146d3324936" title="quda::DslashCoarsePolicy\lTune::flops" alt="" coords="249,749,418,790"/>
+<area shape="rect" id="node21" href="$structquda_1_1_improved_staggered_apply.html#a8a5b1df64f7b19b77eba04ba1eef52f6" title="quda::ImprovedStaggeredApply\l::ImprovedStaggeredApply" alt="" coords="233,814,433,855"/>
+<area shape="rect" id="node22" href="$structquda_1_1_laplace_apply.html#a61f684ba2fd915b161200a0f605600d5" title="quda::LaplaceApply\l::LaplaceApply" alt="" coords="267,879,400,921"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac_coarse.html#a89e6cba5df9f38343a33ebf585256887" title="Apply the full operator. " alt="" coords="262,436,405,463"/>
+<area shape="rect" id="node25" href="$classquda_1_1_copy_spinor.html#a953350604aeb308ea34ddb09c99e9f35" title="quda::CopySpinor::minThreads" alt="" coords="236,945,431,972"/>
+<area shape="rect" id="node26" href="$classquda_1_1_spinor_noise.html#afe3c4b8acae0432c04ac5114fdd95702" title="quda::SpinorNoise::\lminThreads" alt="" coords="268,997,399,1038"/>
+<area shape="rect" id="node27" href="$classquda_1_1_copy_color_spinor.html#a680b3142fd9f2bfb9128da1947cafdd9" title="quda::CopyColorSpinor\l::minThreads" alt="" coords="257,1062,409,1103"/>
+<area shape="rect" id="node28" href="$classquda_1_1_copy_color_spinor_3_014_00_01_arg_01_4.html#a5a37856477940993f9f66775669f445d" title="quda::CopyColorSpinor\l\&lt; 4, Arg \&gt;::minThreads" alt="" coords="257,1127,409,1169"/>
+<area shape="rect" id="node29" href="$classquda_1_1_transfer.html#acae8c442c5f6dd3a12530c010d556838" title="quda::Transfer::P" alt="" coords="274,1244,393,1271"/>
+<area shape="rect" id="node37" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="274,1193,393,1220"/>
+<area shape="rect" id="node38" href="$structquda_1_1_staggered_apply.html#a0086bc9830d824738c128f9fb16b4436" title="quda::StaggeredApply\l::StaggeredApply" alt="" coords="260,1295,407,1337"/>
+<area shape="rect" id="node39" href="$structquda_1_1_twisted_clover_apply.html#a12d62a66acb6abc421f97d79d4c1ce8a" title="quda::TwistedCloverApply\l::TwistedCloverApply" alt="" coords="249,1361,417,1402"/>
+<area shape="rect" id="node40" href="$structquda_1_1_twisted_clover_preconditioned_apply.html#a8ec2dd11e0c92421ff0f9b6af7d77a1a" title="quda::TwistedCloverPreconditioned\lApply::TwistedCloverPreconditionedApply" alt="" coords="204,1426,463,1467"/>
+<area shape="rect" id="node41" href="$structquda_1_1_twisted_mass_apply.html#a0dcef2d3afafbf58496fd65a1451d06e" title="quda::TwistedMassApply\l::TwistedMassApply" alt="" coords="252,1491,415,1533"/>
+<area shape="rect" id="node42" href="$structquda_1_1_twisted_mass_preconditioned_apply.html#a59f00b1911ca0528c59a15cab020b630" title="quda::TwistedMassPreconditioned\lApply::TwistedMassPreconditionedApply" alt="" coords="207,1557,459,1598"/>
+<area shape="rect" id="node43" href="$structquda_1_1_wilson_apply.html#a91403cbbd4b66542e81dc7c04f56de4e" title="quda::WilsonApply::\lWilsonApply" alt="" coords="267,1622,399,1663"/>
+<area shape="rect" id="node44" href="$structquda_1_1_wilson_clover_apply.html#aed93ec67f19a9f22c3260dcafe224c1b" title="quda::WilsonCloverApply\l::WilsonCloverApply" alt="" coords="252,1687,415,1729"/>
+<area shape="rect" id="node45" href="$structquda_1_1_wilson_clover_preconditioned_apply.html#aeefed6f371ce3cad659683b3a2d95c11" title="quda::WilsonCloverPreconditioned\lApply::WilsonCloverPreconditionedApply" alt="" coords="207,1753,459,1794"/>
+<area shape="rect" id="node3" href="$namespacequda.html#acc69cd0f55a312c4af858552f7ce2230" title="quda::genericCopyColorSpinor" alt="" coords="511,5,705,32"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac_coarse_p_c.html#a02e5998a7272e651f34c5e9dc5e921d8" title="Apply the full operator. " alt="" coords="753,297,915,324"/>
+<area shape="rect" id="node10" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="565,377,651,404"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac_coarse_p_c.html#a8b3ca702350b5180d51c2968f7e3e558" title="quda::DiracCoarsePC\l::MdagM" alt="" coords="990,290,1134,331"/>
+<area shape="rect" id="node11" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="809,377,859,404"/>
+<area shape="rect" id="node13" href="$classquda_1_1_dirac_coarse_p_c.html#a774dc231c855d3dcf0f904914317251f" title="quda::DiracCoarsePC\l::prepare" alt="" coords="536,611,680,653"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_coarse_p_c.html#a99702def183155f5a992f0113ea31e81" title="quda::DiracCoarsePC\l::reconstruct" alt="" coords="536,546,680,587"/>
+<area shape="rect" id="node24" href="$classquda_1_1_dirac_coarse.html#ab220d4707bf9bf7e83a76b249acf3835" title="quda::DiracCoarse::\lMdagM" alt="" coords="542,429,674,470"/>
+<area shape="rect" id="node30" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="551,1219,665,1245"/>
+<area shape="rect" id="node36" href="$classquda_1_1_m_g.html#a28cea5426b1f08e1ee1883e30cd39b19" title="quda::MG::operator()" alt="" coords="539,1269,677,1296"/>
+<area shape="rect" id="node31" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="779,1168,889,1195"/>
+<area shape="rect" id="node32" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="991,1231,1133,1257"/>
+<area shape="rect" id="node34" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="1209,1168,1313,1195"/>
+<area shape="rect" id="node35" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="963,1105,1161,1132"/>
+<area shape="rect" id="node33" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1236,1231,1287,1257"/>
+</map>

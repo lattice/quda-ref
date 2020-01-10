@@ -1,0 +1,4 @@
+<map id="quda::CoarseCoarseOp" name="quda::CoarseCoarseOp">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac_coarse.html#ab76cf8673c2904f5a297c68a9d87745a" title="Create the coarse operator from this coarse operator. " alt="" coords="213,5,345,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac_coarse_p_c.html#ae2a592a11d6cdbc7c513c1a2f3b972eb" title="Create the coarse even&#45;odd preconditioned coarse operator. Unlike the Wilson operator, the coarsening of the preconditioned coarse operator differs from that of the unpreconditioned coarse operator, so we need to specialize it. " alt="" coords="207,71,351,112"/>
+</map>

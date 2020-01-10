@@ -1,0 +1,12 @@
+<map id="comm_rank_from_coords" name="comm_rank_from_coords">
+<area shape="rect" id="node2" href="$comm__common_8cpp.html#a0f31fd7abcfc2ed609e5f9c47940af71" title="comm_rank_displaced" alt="" coords="221,130,372,157"/>
+<area shape="rect" id="node3" href="$comm__mpi_8cpp.html#a1b76cb2605ec86e831fbc316528284eb" title="comm_declare_receive\l_displaced" alt="" coords="444,5,599,47"/>
+<area shape="rect" id="node4" href="$comm__mpi_8cpp.html#a4d7233bc6a3a786074eda2e639331066" title="comm_declare_send_displaced" alt="" coords="420,71,623,98"/>
+<area shape="rect" id="node5" href="$comm__mpi_8cpp.html#a5a446f8199e451000296e4910fa61df1" title="comm_declare_strided\l_receive_displaced" alt="" coords="445,123,597,164"/>
+<area shape="rect" id="node6" href="$comm__mpi_8cpp.html#a0b8592a044962c195623852212e6e6ab" title="comm_declare_strided\l_send_displaced" alt="" coords="445,188,597,229"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a23cfdb00f6f19fad1ef37ce1815824d7" title="comm_set_neighbor_ranks" alt="" coords="433,254,609,281"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#adc5670739f5284d3d5a2f06d2e4e0cfd" title="comm_peer2peer_init" alt="" coords="865,254,1012,281"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#a3de479e788d2de155177214eae817d8e" title="comm_neighbor_rank" alt="" coords="671,279,817,306"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#a28f2c1670b57527ab3a9ce34f1110caf" title="Initialize the communications common to all communications abstractions. " alt="" coords="1060,254,1199,281"/>
+<area shape="rect" id="node10" href="$comm__mpi_8cpp.html#add004a3d38b9dc2f15a65bb6e43a2840" title="Initialize the communications, implemented in comm_single.cpp, comm_qmp.cpp, and comm_mpi.cpp. " alt="" coords="1247,254,1329,281"/>
+</map>

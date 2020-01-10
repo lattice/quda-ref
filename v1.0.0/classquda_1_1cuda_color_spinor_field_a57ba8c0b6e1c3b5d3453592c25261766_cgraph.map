@@ -1,0 +1,5 @@
+<map id="quda::cudaColorSpinorField::packGhost" name="quda::cudaColorSpinorField::packGhost">
+<area shape="rect" id="node2" href="$namespacequda.html#a7e55427b7b6d3b68f0a9e672cf6b6085" title="Dslash face packing routine. " alt="" coords="232,35,352,61"/>
+<area shape="rect" id="node3" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="400,5,549,32"/>
+<area shape="rect" id="node4" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="413,57,536,98"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="quda::DiracImprovedStaggeredPC::reconstruct" name="quda::DiracImprovedStaggeredPC::reconstruct">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a9a001f8e31cfe48d8b3b67db4b14dd92" title="quda::blas::ax" alt="" coords="302,185,401,211"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dirac.html#ada8a3c94386a5a088dea6e266df7dec0" title="quda::Dirac::checkFullSpinor" alt="" coords="506,82,691,109"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dirac_improved_staggered.html#ae71e501b73cfdf74ad6ba79ba53ccf2a" title="quda::DiracImprovedStaggered\l::DslashXpay" alt="" coords="252,287,451,328"/>
+<area shape="rect" id="node21" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="276,352,427,393"/>
+<area shape="rect" id="node22" href="$classquda_1_1_color_spinor_field.html#a4113be893234cf6813ad7438d6d0b210" title="quda::ColorSpinorField::Odd" alt="" coords="261,418,442,445"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="755,5,905,47"/>
+<area shape="rect" id="node6" href="$namespacequda.html#ad989249b72d50fc8f7a8f4bfbaa067fd" title="Apply the improved staggered dslash operator to a color&#45;spinor field. " alt="" coords="499,509,699,535"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_improved_staggered.html#ab6598d5bcd11120b045e01293e6e3ada" title="quda::DiracImprovedStaggered\l::checkParitySpinor" alt="" coords="499,235,698,276"/>
+<area shape="rect" id="node18" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="755,384,905,425"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="753,450,907,477"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="755,501,905,543"/>
+<area shape="rect" id="node12" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="747,567,913,594"/>
+<area shape="rect" id="node13" href="$classquda_1_1_lattice_field.html#a96f46542c595993b72818d3d031cd72f" title="quda::LatticeField::X" alt="" coords="761,618,899,645"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="961,450,1048,477"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1096,425,1255,451"/>
+<area shape="rect" id="node10" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1129,475,1221,502"/>
+<area shape="rect" id="node15" href="$classquda_1_1_color_spinor_field.html#a0fd1f89de7282388c6edb060396e8b8b" title="quda::ColorSpinorField\l::Ndim" alt="" coords="755,71,905,112"/>
+<area shape="rect" id="node16" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="769,136,891,177"/>
+<area shape="rect" id="node17" href="$classquda_1_1_color_spinor_field.html#a0cafcb630c9233708e17ceab841c922d" title="quda::ColorSpinorField\l::Stride" alt="" coords="755,201,905,243"/>
+<area shape="rect" id="node19" href="$classquda_1_1_lattice_field.html#ad9c8e3a0508dbb7f9a61953cdf89f97c" title="quda::LatticeField\l::VolumeCB" alt="" coords="769,267,891,308"/>
+<area shape="rect" id="node20" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="747,333,913,359"/>
+</map>

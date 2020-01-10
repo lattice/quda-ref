@@ -1,0 +1,19 @@
+<map id="dslashReference_4d_sgpu" name="dslashReference_4d_sgpu">
+<area shape="rect" id="node2" href="$domain__wall__dslash__reference_8cpp.html#a3bd2fbf35f639ccd6271c003ef8fe720" title="gaugeLink_mgpu" alt="" coords="269,56,389,83"/>
+<area shape="rect" id="node8" href="$domain__wall__dslash__reference_8cpp.html#a573a075c749d9cfa1c9ba2c836fa4db8" title="gaugeLink_sgpu" alt="" coords="271,107,386,133"/>
+<area shape="rect" id="node11" href="$domain__wall__dslash__reference_8cpp.html#a6a780ddc39fc22cfc26224970d58d8d8" title="multiplySpinorByDiracProjector5" alt="" coords="225,157,432,184"/>
+<area shape="rect" id="node12" href="$test__util_8cpp.html#a7c12b40a717e82a12f996e8f451369ef" title="printSpinorElement" alt="" coords="263,208,394,235"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="525,259,588,285"/>
+<area shape="rect" id="node16" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="293,309,364,336"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a984f5f6e3c315ac624e3f3420170b53d" title="quda::sum" alt="" coords="289,360,369,387"/>
+<area shape="rect" id="node3" href="$test__util_8cpp.html#abd8308e0d3bb82711cf9d214112d9cbc" title="fullLatticeIndex" alt="" coords="502,5,611,32"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="480,56,633,83"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="703,56,790,83"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="860,31,1019,57"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="893,81,985,108"/>
+<area shape="rect" id="node9" href="$domain__wall__dslash__reference_8cpp.html#ae7343d609e57e7cf407296e0ba401d38" title="neighborIndex_4d" alt="" coords="495,107,618,133"/>
+<area shape="rect" id="node10" href="$test__util_8cpp.html#a5670e0493c73c2fa506c45811fd3193d" title="fullLatticeIndex_4d" alt="" coords="681,107,812,133"/>
+<area shape="rect" id="node13" href="$test__util_8cpp.html#ac6424da3a9363d2830523c41ca3f8305" title="printVector" alt="" coords="515,208,599,235"/>
+<area shape="rect" id="node15" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="727,259,767,285"/>
+<area shape="rect" id="node17" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="506,309,607,336"/>
+</map>

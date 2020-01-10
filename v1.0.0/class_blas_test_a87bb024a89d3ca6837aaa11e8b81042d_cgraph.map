@@ -1,0 +1,5 @@
+<map id="BlasTest::SetUp" name="BlasTest::SetUp">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#a41091909138c2cc9f7a7873ce3164206" title="initFields" alt="" coords="168,31,241,57"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#a3216bd0e6b9d91ca1363a355a710b1e1" title="setPrec" alt="" coords="289,5,356,32"/>
+<area shape="rect" id="node4" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="404,23,565,65"/>
+</map>

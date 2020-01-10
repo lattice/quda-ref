@@ -1,0 +1,24 @@
+<map id="quda::TimeProfile::Last" name="quda::TimeProfile::Last">
+<area shape="rect" id="node2" href="$classquda_1_1_c_g.html#aac9e485df80f1a5c2bf1503d11e5c26a" title="quda::CG::blocksolve" alt="" coords="235,5,376,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_c_a_c_g.html#a9fc24e3145040c8a5597fcb21619e96b" title="Compute the alpha coefficients. " alt="" coords="231,57,380,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_c_a_c_g.html#afcb16f78e8181f1c94b3c84197ef261d" title="quda::CACG::operator()" alt="" coords="463,123,618,149"/>
+<area shape="rect" id="node7" href="$classquda_1_1_c_a_c_g.html#a8291788a62cd02ed3da2c3e6aa85b4f6" title="Compute the beta coefficients. " alt="" coords="215,173,396,200"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#a712409027ee905b83584cb83debd2226" title="Gauge fixing with Steepest descent method with FFTs with support for single GPU only. " alt="" coords="206,224,405,251"/>
+<area shape="rect" id="node9" href="$interface__quda_8cpp.html#a8b0af6b94d7d5041eddf9e4a0a929c0c" title="Gauge fixing with overrelaxation with support for single and multi GPU. " alt="" coords="204,275,407,301"/>
+<area shape="rect" id="node10" href="$classquda_1_1_inc_eig_c_g.html#a449b906dfbf2cf0a70ddc781f8025c20" title="quda::IncEigCG::eigCGsolve" alt="" coords="214,325,397,352"/>
+<area shape="rect" id="node12" href="$classquda_1_1_c_g.html#a1ac6d09c755098c90a5c5b9d8efd74a4" title="Solve re&#45;using an initial Krylov space defined by an initial r2_old_init and search direction p_init..." alt="" coords="237,376,373,403"/>
+<area shape="rect" id="node13" href="$classquda_1_1_c_g3.html#affe2eda59aece923ef89de0a0d57f0b2" title="quda::CG3::operator()" alt="" coords="234,427,377,453"/>
+<area shape="rect" id="node14" href="$classquda_1_1_c_g3_n_e.html#a3c8ac91194bba07facec58e27ac07d26" title="quda::CG3NE::operator()" alt="" coords="225,477,385,504"/>
+<area shape="rect" id="node15" href="$classquda_1_1_precon_c_g.html#a7944afcee52c1d4f3d2d135347a35d5a" title="quda::PreconCG::operator()" alt="" coords="217,528,394,555"/>
+<area shape="rect" id="node16" href="$classquda_1_1_bi_c_gstab.html#adfae1bcd56432a345946274093f047dd" title="quda::BiCGstab::operator()" alt="" coords="219,579,391,605"/>
+<area shape="rect" id="node17" href="$classquda_1_1_bi_c_gstab_l.html#ae2203df8be03b810a4761ea1c05566d4" title="quda::BiCGstabL::operator()" alt="" coords="216,629,395,656"/>
+<area shape="rect" id="node18" href="$classquda_1_1_g_c_r.html#ac307f48e235520a7dcf611177926948a" title="quda::GCR::operator()" alt="" coords="233,680,378,707"/>
+<area shape="rect" id="node19" href="$classquda_1_1_m_r.html#a8e13eba27e507cb5b8d666e12756e1fe" title="quda::MR::operator()" alt="" coords="237,731,374,757"/>
+<area shape="rect" id="node20" href="$classquda_1_1_c_a_g_c_r.html#a53e792abb6297c7cc6b5fddee7fdda3d" title="quda::CAGCR::operator()" alt="" coords="459,865,622,892"/>
+<area shape="rect" id="node21" href="$classquda_1_1_multi_shift_c_g.html#aa16337542a4eaf8c8d0b7cda2f547cb2" title="Run multi&#45;shift and return Krylov&#45;space at the end of the solve in p and r2_old_arry. " alt="" coords="240,833,371,874"/>
+<area shape="rect" id="node22" href="$classquda_1_1_g_m_res_d_r.html#af005990d3f1e771a151af3a28f79e74d" title="quda::GMResDR::operator()" alt="" coords="216,899,395,925"/>
+<area shape="rect" id="node23" href="$classquda_1_1_c_a_g_c_r.html#a62cbe8b49644fc5591d54b9c49895e67" title="Solve the equation A p_k psi_k = q_k psi_k = b by minimizing the least square residual using Eigen&#39;s ..." alt="" coords="237,949,374,976"/>
+<area shape="rect" id="node5" href="$classquda_1_1_c_a_c_g_n_e.html#a5d7dae59806e1f16af69cee4707ebfdf" title="quda::CACGNE::operator()" alt="" coords="675,97,846,124"/>
+<area shape="rect" id="node6" href="$classquda_1_1_c_a_c_g_n_r.html#a88172e047b80fe722212635b3e44eeca" title="quda::CACGNR::operator()" alt="" coords="675,148,847,175"/>
+<area shape="rect" id="node11" href="$classquda_1_1_inc_eig_c_g.html#a442e1a931ac8148029e429c087665a7d" title="quda::IncEigCG::operator()" alt="" coords="455,325,627,352"/>
+</map>

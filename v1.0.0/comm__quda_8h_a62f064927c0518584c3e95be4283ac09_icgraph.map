@@ -1,0 +1,8 @@
+<map id="comm_dim_partitioned_string" name="comm_dim_partitioned_string">
+<area shape="rect" id="node2" href="$classquda_1_1_calculate_y.html#ad58cb9c4ac046f76c93cbf026993b648" title="quda::CalculateY::CalculateY" alt="" coords="222,5,410,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_dslash_coarse_policy_tune.html#a999e08702fb5769550ea1737534451b0" title="quda::DslashCoarsePolicy\lTune::DslashCoarsePolicyTune" alt="" coords="217,57,415,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_dslash.html#a4caad2709b20a14c142eb7ccf195bc74" title="Specialize the auxiliary strings for each kernel type. " alt="" coords="249,123,383,149"/>
+<area shape="rect" id="node6" href="$classquda_1_1_generic_pack_ghost_launcher.html#afb3c4eb145beca84774f3bb7f97e105f" title="quda::GenericPackGhostLauncher\l::GenericPackGhostLauncher" alt="" coords="207,174,425,215"/>
+<area shape="rect" id="node7" href="$classquda_1_1_wuppertal_smearing.html#a021ef074e72e606f27aa9472d6e6dd8f" title="quda::WuppertalSmearing\l::WuppertalSmearing" alt="" coords="231,239,401,281"/>
+<area shape="rect" id="node5" href="$classquda_1_1_dslash.html#aa6c208d2a5408f433f3a21c7b2933c7e" title="quda::Dslash::Dslash" alt="" coords="473,123,612,149"/>
+</map>

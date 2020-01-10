@@ -1,0 +1,8 @@
+<map id="quda::RNG::Init" name="quda::RNG::Init">
+<area shape="rect" id="node2" href="$classquda_1_1_r_n_g.html#a91852388c0f96837f2c307be37dd12f2" title="local lattice dimensions " alt="" coords="161,5,327,32"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a6fc31f08e600b15282eb7a3fd97206e5" title="Call CUDA kernel to initialize CURAND RNG states. " alt="" coords="176,57,312,98"/>
+<area shape="rect" id="node3" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="395,5,487,32"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="404,60,479,87"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a2d9365a8573d7d34160257d4cff18f1c" title="quda::GetBlockDim" alt="" coords="375,111,508,137"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="556,60,644,87"/>
+</map>

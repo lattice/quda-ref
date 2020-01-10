@@ -1,0 +1,17 @@
+<map id="quda::dslash::DslashPolicyImp&lt; Dslash &gt;" name="quda::dslash::DslashPolicyImp&lt; Dslash &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1dslash_1_1_dslash_async.html" title="quda::dslash::DslashAsync\l\&lt; Dslash \&gt;" alt="" coords="251,5,421,47"/>
+<area shape="rect" id="node3" href="$structquda_1_1dslash_1_1_dslash_basic.html" title="quda::dslash::DslashBasic\l\&lt; Dslash \&gt;" alt="" coords="252,71,420,112"/>
+<area shape="rect" id="node4" href="$structquda_1_1dslash_1_1_dslash_fused_exterior.html" title="quda::dslash::DslashFused\lExterior\&lt; Dslash \&gt;" alt="" coords="251,136,421,177"/>
+<area shape="rect" id="node5" href="$structquda_1_1dslash_1_1_dslash_fused_exterior_async.html" title="quda::dslash::DslashFused\lExteriorAsync\&lt; Dslash \&gt;" alt="" coords="251,201,421,243"/>
+<area shape="rect" id="node6" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r.html" title="quda::dslash::DslashFused\lGDR\&lt; Dslash \&gt;" alt="" coords="251,267,421,308"/>
+<area shape="rect" id="node7" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r_recv.html" title="quda::dslash::DslashFused\lGDRRecv\&lt; Dslash \&gt;" alt="" coords="251,332,421,373"/>
+<area shape="rect" id="node8" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy.html" title="quda::dslash::DslashFused\lZeroCopy\&lt; Dslash \&gt;" alt="" coords="251,397,421,439"/>
+<area shape="rect" id="node9" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack.html" title="quda::dslash::DslashFused\lZeroCopyPack\&lt; Dslash \&gt;" alt="" coords="251,463,421,504"/>
+<area shape="rect" id="node10" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack_g_d_r_recv.html" title="quda::dslash::DslashFused\lZeroCopyPackGDRRecv\&lt; Dslash \&gt;" alt="" coords="224,528,448,569"/>
+<area shape="rect" id="node11" href="$structquda_1_1dslash_1_1_dslash_g_d_r.html" title="quda::dslash::DslashGDR\l\&lt; Dslash \&gt;" alt="" coords="254,593,418,635"/>
+<area shape="rect" id="node12" href="$structquda_1_1dslash_1_1_dslash_g_d_r_recv.html" title="quda::dslash::DslashGDRRecv\l\&lt; Dslash \&gt;" alt="" coords="239,659,433,700"/>
+<area shape="rect" id="node13" href="$structquda_1_1dslash_1_1_dslash_n_c.html" title="quda::dslash::DslashNC\l\&lt; Dslash \&gt;" alt="" coords="259,724,413,765"/>
+<area shape="rect" id="node14" href="$structquda_1_1dslash_1_1_dslash_zero_copy.html" title="quda::dslash::DslashZero\lCopy\&lt; Dslash \&gt;" alt="" coords="255,789,417,831"/>
+<area shape="rect" id="node15" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack.html" title="quda::dslash::DslashZero\lCopyPack\&lt; Dslash \&gt;" alt="" coords="255,855,417,896"/>
+<area shape="rect" id="node16" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack_g_d_r_recv.html" title="quda::dslash::DslashZero\lCopyPackGDRRecv\&lt; Dslash \&gt;" alt="" coords="237,920,435,961"/>
+</map>

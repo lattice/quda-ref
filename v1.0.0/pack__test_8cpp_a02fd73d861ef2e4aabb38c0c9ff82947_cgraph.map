@@ -1,0 +1,51 @@
+<map id="init" name="init">
+<area shape="rect" id="node2" href="$quda_8h.html#a6965ba794b55c6a038daeb528c1b8a4e" title="initQuda" alt="" coords="143,412,213,439"/>
+<area shape="rect" id="node30" href="$covdev__reference_8h.html#ad80b92ec9ce48e0533a4aeaa630c74e3" title="setDims" alt="" coords="144,539,212,565"/>
+<area shape="rect" id="node31" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="97,590,259,631"/>
+<area shape="rect" id="node32" href="$quda_8h.html#a583a1acaecff1b5e1e541ea266cf6f04" title="setVerbosityQuda" alt="" coords="117,656,239,683"/>
+<area shape="rect" id="node36" href="$classquda_1_1cpu_color_spinor_field.html#ac15d8b2aaff27079ef5c801e0bba4330" title="quda::cpuColorSpinorField\l::Source" alt="" coords="92,729,264,770"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#add03448c5bbe339a93332f6907881a7e" title="init_default_comms" alt="" coords="517,505,652,532"/>
+<area shape="rect" id="node12" href="$interface__quda_8cpp.html#a7d267ad5d21c4f5e5be730c7a6a916e9" title="initQudaDevice" alt="" coords="327,100,436,127"/>
+<area shape="rect" id="node17" href="$interface__quda_8cpp.html#a016889ba93ea2794377f06cd752b2d50" title="initQudaMemory" alt="" coords="323,379,439,405"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#acf46984ae469d1d7603f8fbf34bc221c" title="initCommsGridQuda" alt="" coords="739,505,877,532"/>
+<area shape="rect" id="node5" href="$comm__quda_8h.html#add004a3d38b9dc2f15a65bb6e43a2840" title="Initialize the communications, implemented in comm_single.cpp, comm_qmp.cpp, and comm_mpi.cpp. " alt="" coords="995,505,1078,532"/>
+<area shape="rect" id="node11" href="$interface__quda_8cpp.html#ad602698cbe7a5b05515a851435eb1f16" title="lex_rank_from_coords" alt="" coords="963,556,1111,583"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#a28f2c1670b57527ab3a9ce34f1110caf" title="Initialize the communications common to all communications abstractions. " alt="" coords="1178,363,1317,389"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#a8b877be417d6c8f73bcca8497b730d40" title="comm_broadcast" alt="" coords="1383,296,1504,323"/>
+<area shape="rect" id="node8" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="1568,388,1655,415"/>
+<area shape="rect" id="node9" href="$comm__common_8cpp.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="1367,413,1520,440"/>
+<area shape="rect" id="node10" href="$comm__quda_8h.html#a676c17bddea6edd2dc4540b34d01d47b" title="comm_rank" alt="" coords="1398,237,1489,264"/>
+<area shape="rect" id="node13" href="$comm__quda_8h.html#aed9cf3a332bd56a53d524699b0fd0776" title="comm_gpuid" alt="" coords="537,151,633,177"/>
+<area shape="rect" id="node14" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="762,5,854,32"/>
+<area shape="rect" id="node15" href="$namespacequda.html#aaf67ea136dee872a19103cca2522f488" title="Set whether data is reorderd on the CPU or GPU. This can set at QUDA initialization using the environ..." alt="" coords="499,49,671,76"/>
+<area shape="rect" id="node16" href="$numa__affinity_8h.html#afc2c8f007904bc8e54d738389d53c965" title="setNumaAffinityNVML" alt="" coords="512,100,657,127"/>
+<area shape="rect" id="node18" href="$comm__quda_8h.html#ab9723e12c958683c4e591e39aee74415" title="commDimPartitioned" alt="" coords="1176,424,1319,451"/>
+<area shape="rect" id="node19" href="$namespacequda.html#a17b42aa349702cfaf3810343f0735a31" title="quda::createDslashEvents" alt="" coords="501,252,669,279"/>
+<area shape="rect" id="node20" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="979,300,1095,327"/>
+<area shape="rect" id="node21" href="$namespacequda_1_1blas.html#a2f7aa9affb07827bc351c97272c8d5cb" title="quda::blas::init" alt="" coords="533,353,636,380"/>
+<area shape="rect" id="node24" href="$namespacequda_1_1pool.html#a401799164747bba00c6b8ebd41127ed8" title="Initialize the memory pool allocator. " alt="" coords="533,404,636,431"/>
+<area shape="rect" id="node25" href="$namespacequda.html#a2741f6831197038513428673ff834f8f" title="quda::loadTuneCache" alt="" coords="511,201,658,228"/>
+<area shape="rect" id="node22" href="$namespacequda_1_1blas.html#a2b8198bd5f64b7e8f0a2128246a40bf2" title="quda::blas::initReduce" alt="" coords="735,353,881,380"/>
+<area shape="rect" id="node23" href="$covdev__reference_8cpp.html#ace6ee45c30e71865e6eb635200379db9" title="memset" alt="" coords="1003,353,1071,380"/>
+<area shape="rect" id="node26" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="769,252,847,279"/>
+<area shape="rect" id="node27" href="$namespacequda.html#ae7f7d2bed3522d1acce3fe9f433c3495" title="quda::deserializeTuneCache" alt="" coords="945,35,1128,61"/>
+<area shape="rect" id="node28" href="$namespacequda.html#a215058968f858fd16b5368d56a916790" title="quda::broadcastTuneCache" alt="" coords="719,136,897,163"/>
+<area shape="rect" id="node29" href="$namespacequda.html#a4cf7120a3f6aa7fa21ebff3870969bb2" title="quda::serializeTuneCache" alt="" coords="953,136,1121,163"/>
+<area shape="rect" id="node33" href="$util__quda_8h.html#af67436dc245347090f0250daa7b308df" title="setOutputFile" alt="" coords="332,707,431,733"/>
+<area shape="rect" id="node34" href="$util__quda_8h.html#af0b637354d88c2cf044d20a3f472dcd9" title="setOutputPrefix" alt="" coords="326,605,437,632"/>
+<area shape="rect" id="node35" href="$util__quda_8h.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="336,656,427,683"/>
+<area shape="rect" id="node37" href="$namespacequda.html#ad9be7a3b87a6bc4b699e3587032b2fda" title="quda::genericSource" alt="" coords="312,789,451,816"/>
+<area shape="rect" id="node38" href="$namespacequda.html#a11c61842d8762266fd391ccf234fb22a" title="quda::random" alt="" coords="535,819,634,845"/>
+<area shape="rect" id="node40" href="$namespacequda.html#a496fb4615efea2a02957097d15c4e315" title="quda::point" alt="" coords="543,869,627,896"/>
+<area shape="rect" id="node41" href="$namespacequda.html#a1e5142c465869cd7a0d0896c3f6bf980" title="quda::constant" alt="" coords="532,920,637,947"/>
+<area shape="rect" id="node42" href="$namespacequda.html#a5f203e3a5be33b5a821d55e68174a9c9" title="quda::sin" alt="" coords="549,971,621,997"/>
+<area shape="rect" id="node45" href="$namespacequda.html#a36eb631863ad2a00894bd9996ae51f2a" title="quda::corner" alt="" coords="539,1021,631,1048"/>
+<area shape="rect" id="node47" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="509,557,660,598"/>
+<area shape="rect" id="node48" href="$classquda_1_1_color_spinor_field.html#a6067aeefbeb02a469fadc6534ce01794" title="quda::ColorSpinorField\l::Nspin" alt="" coords="509,622,660,663"/>
+<area shape="rect" id="node49" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="509,687,660,729"/>
+<area shape="rect" id="node50" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="523,753,646,794"/>
+<area shape="rect" id="node39" href="$comm__quda_8h.html#ae6de60e46d8d755fde6459821c4da486" title="comm_drand" alt="" coords="759,819,857,845"/>
+<area shape="rect" id="node43" href="$namespacequda.html#af6157c116e521ad645bb1b28c431b129" title="quda::sin" alt="" coords="772,971,844,997"/>
+<area shape="rect" id="node44" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="967,963,1106,1005"/>
+<area shape="rect" id="node46" href="$namespacequda.html#a416e52d2ea7f201272f902122f06668d" title="Compute the space&#45;time coordinates we are at. " alt="" coords="751,1021,865,1048"/>
+</map>

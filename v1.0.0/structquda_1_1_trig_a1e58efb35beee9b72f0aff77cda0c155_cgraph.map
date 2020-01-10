@@ -1,0 +1,6 @@
+<map id="quda::Trig::Cos" name="quda::Trig::Cos">
+<area shape="rect" id="node2" href="$namespacequda.html#a2d4a2b780818e195647aed48c6b1f396" title="quda::cos" alt="" coords="160,46,236,73"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a5f4bfd8f9b6066c120aba2c6ca838349" title="quda::cos" alt="" coords="284,46,360,73"/>
+<area shape="rect" id="node4" href="$structquda_1_1complex_3_01float_01_4.html#a692127ea4240002b39f3581648d5bab4" title="quda::complex\&lt; float\l \&gt;::imag" alt="" coords="408,5,547,47"/>
+<area shape="rect" id="node5" href="$structquda_1_1complex_3_01float_01_4.html#aae75a803a65bb8e285157b65ede2fb80" title="quda::complex\&lt; float\l \&gt;::real" alt="" coords="408,71,547,112"/>
+</map>

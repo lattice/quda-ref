@@ -1,0 +1,45 @@
+<map id="quda::ColorSpinorField::Odd" name="quda::ColorSpinorField::Odd">
+<area shape="rect" id="node2" href="$multigrid__benchmark__test_8cu.html#af0ce670595628366fcea67f4e498431d" title="benchmark" alt="" coords="291,5,378,32"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#ae9fc71bd2fec390a855eb1aff9858fb2" title="computeCloverForceQuda" alt="" coords="249,56,421,83"/>
+<area shape="rect" id="node5" href="$interface__quda_8cpp.html#aaf9500f95065985077c7377e9c3a4dbb" title="computeStaggeredForceQuda" alt="" coords="483,107,677,133"/>
+<area shape="rect" id="node7" href="$namespacequda.html#ab66fd156403b1009b401b00c433d77b4" title="Compute the outer&#45;product field between the staggered quark field&#39;s one and (for HISQ and ASQTAD) thr..." alt="" coords="235,157,435,184"/>
+<area shape="rect" id="node9" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="539,233,621,260"/>
+<area shape="rect" id="node11" href="$covdev__reference_8h.html#a889c78c66d143bdfb3ade7271407a422" title="matdagmat" alt="" coords="291,259,378,285"/>
+<area shape="rect" id="node12" href="$staggered__dslash__ctest_8cpp.html#a395582865fa2cf85dfdc964a961ac000" title="staggeredDslashRef" alt="" coords="512,297,648,324"/>
+<area shape="rect" id="node14" href="$classquda_1_1_dirac_staggered.html#a66d8aa60a34b8940172315d6f404b2ad" title="quda::DiracStaggered\l::MdagM" alt="" coords="262,361,407,402"/>
+<area shape="rect" id="node15" href="$classquda_1_1_dirac_improved_staggered.html#af8feb7629ee55950a1a8be4acfd6bc90" title="quda::DiracImprovedStaggered\l::MdagM" alt="" coords="235,426,434,467"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac_wilson_p_c.html#a376ec0f9cf81efa5d330046125772472" title="quda::DiracWilsonPC\l::prepare" alt="" coords="263,491,406,533"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac_clover_p_c.html#a3ef0096d2bf6380732a2b84975963496" title="quda::DiracCloverPC\l::prepare" alt="" coords="265,557,405,598"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac_domain_wall_p_c.html#a9c65952908127a7d5d4f511f467a5f10" title="quda::DiracDomainWallPC\l::prepare" alt="" coords="248,622,421,663"/>
+<area shape="rect" id="node19" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#af43fc869db033d290e4c278b700434a4" title="quda::DiracDomainWall4DPC\l::prepare" alt="" coords="240,687,429,729"/>
+<area shape="rect" id="node20" href="$classquda_1_1_dirac_mobius_p_c.html#a668f1b3b4b76e891f5cb223e015dc0da" title="quda::DiracMobiusPC\l::prepare" alt="" coords="262,753,407,794"/>
+<area shape="rect" id="node21" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a6be83a5144164ad7acf1151cb36cd2d2" title="quda::DiracTwistedMassPC\l::prepare" alt="" coords="245,818,424,859"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dirac_twisted_clover_p_c.html#a575011bb2425b78658f06c3d93eafc24" title="quda::DiracTwistedClover\lPC::prepare" alt="" coords="251,883,418,925"/>
+<area shape="rect" id="node23" href="$classquda_1_1_dirac_staggered_p_c.html#af8b20041fb422469b2918bdfc892655e" title="quda::DiracStaggeredPC\l::prepare" alt="" coords="253,949,416,990"/>
+<area shape="rect" id="node24" href="$classquda_1_1_dirac_improved_staggered_p_c.html#a978836276634480a65604ca59fe6d4ce" title="quda::DiracImprovedStaggered\lPC::prepare" alt="" coords="235,1014,434,1055"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac_coarse_p_c.html#a774dc231c855d3dcf0f904914317251f" title="quda::DiracCoarsePC\l::prepare" alt="" coords="263,1079,407,1121"/>
+<area shape="rect" id="node26" href="$classquda_1_1_gauge_laplace_p_c.html#aed27addfc9c7b1a772673be64d68a4a8" title="quda::GaugeLaplacePC\l::prepare" alt="" coords="256,1145,413,1186"/>
+<area shape="rect" id="node27" href="$classquda_1_1_dirac_wilson_p_c.html#a6d6f3ab0f5b4db70323b46dbf67695cb" title="quda::DiracWilsonPC\l::reconstruct" alt="" coords="263,1210,406,1251"/>
+<area shape="rect" id="node28" href="$classquda_1_1_dirac_clover_p_c.html#aafe72319c000f86b469b523a261dbde4" title="quda::DiracCloverPC\l::reconstruct" alt="" coords="265,1275,405,1317"/>
+<area shape="rect" id="node29" href="$classquda_1_1_dirac_domain_wall_p_c.html#a18b2f618156dcb0ce5839e0eb9cc60d7" title="quda::DiracDomainWallPC\l::reconstruct" alt="" coords="248,1341,421,1382"/>
+<area shape="rect" id="node30" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#a8b1750de1cd898a71f251b3eb0ce342d" title="quda::DiracDomainWall4DPC\l::reconstruct" alt="" coords="240,1406,429,1447"/>
+<area shape="rect" id="node31" href="$classquda_1_1_dirac_mobius_p_c.html#ac4801a85c390e3418aab8b672927f78f" title="quda::DiracMobiusPC\l::reconstruct" alt="" coords="262,1471,407,1513"/>
+<area shape="rect" id="node32" href="$classquda_1_1_dirac_twisted_mass_p_c.html#a410ab24479e1571524de12f5faddbbef" title="quda::DiracTwistedMassPC\l::reconstruct" alt="" coords="245,1537,424,1578"/>
+<area shape="rect" id="node33" href="$classquda_1_1_dirac_twisted_clover_p_c.html#acc55a7986745e4ad5a5291a394a502ac" title="quda::DiracTwistedClover\lPC::reconstruct" alt="" coords="251,1602,418,1643"/>
+<area shape="rect" id="node34" href="$classquda_1_1_dirac_staggered_p_c.html#a158baf3353d710f2a17c4456224235ce" title="quda::DiracStaggeredPC\l::reconstruct" alt="" coords="253,1667,416,1709"/>
+<area shape="rect" id="node35" href="$classquda_1_1_dirac_improved_staggered_p_c.html#a29e0419161b8fd48fd0ca904f684f7e0" title="quda::DiracImprovedStaggered\lPC::reconstruct" alt="" coords="235,1733,434,1774"/>
+<area shape="rect" id="node36" href="$classquda_1_1_dirac_coarse_p_c.html#a99702def183155f5a992f0113ea31e81" title="quda::DiracCoarsePC\l::reconstruct" alt="" coords="263,1798,407,1839"/>
+<area shape="rect" id="node37" href="$classquda_1_1_gauge_laplace_p_c.html#af00eb6f54bc83711640679f9a9ba80ec" title="quda::GaugeLaplacePC\l::reconstruct" alt="" coords="256,1863,413,1905"/>
+<area shape="rect" id="node38" href="$namespacequda.html#ad9b26ad8994921de469b8577055403ad" title="quda::shiftColorSpinorField" alt="" coords="247,1929,422,1956"/>
+<area shape="rect" id="node39" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="278,2004,391,2031"/>
+<area shape="rect" id="node3" href="$multigrid__benchmark__test_8cu.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="555,5,605,32"/>
+<area shape="rect" id="node6" href="$interface__quda_8cpp.html#afadd4cd6ca173c9a4a8627e3e1ab5b7d" title="compute_staggered_force\l_quda_" alt="" coords="739,99,910,141"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#a0361b5188220918f5b01cdcaa80bc565" title="computeHISQForceQuda" alt="" coords="496,157,664,184"/>
+<area shape="rect" id="node10" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="799,233,850,260"/>
+<area shape="rect" id="node13" href="$staggered__dslash__ctest_8cpp.html#a15fa07f5c4df8fc8e33ab3970f8a712f" title="TEST_P" alt="" coords="789,297,860,324"/>
+<area shape="rect" id="node40" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="525,2004,635,2031"/>
+<area shape="rect" id="node41" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="754,1941,895,1968"/>
+<area shape="rect" id="node43" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="972,2004,1076,2031"/>
+<area shape="rect" id="node44" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="725,2091,924,2117"/>
+<area shape="rect" id="node42" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="999,1941,1049,1968"/>
+</map>

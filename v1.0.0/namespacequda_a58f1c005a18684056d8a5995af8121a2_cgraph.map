@@ -1,0 +1,14 @@
+<map id="quda::ComputeRitz&lt; libtype::magma_lib &gt;" name="quda::ComputeRitz&lt; libtype::magma_lib &gt;">
+<area shape="rect" id="node2" href="$blas__magma_8h.html#ae11509c54aa8da2d460e11ac78eb7e24" title="magma_Xheev" alt="" coords="196,107,304,133"/>
+<area shape="rect" id="node3" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="352,107,396,133"/>
+<area shape="rect" id="node4" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="444,107,565,133"/>
+<area shape="rect" id="node5" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="626,5,707,32"/>
+<area shape="rect" id="node8" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="613,56,720,83"/>
+<area shape="rect" id="node9" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="805,107,867,133"/>
+<area shape="rect" id="node11" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="631,157,702,184"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="643,208,690,235"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="768,31,904,57"/>
+<area shape="rect" id="node7" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="952,31,1073,57"/>
+<area shape="rect" id="node10" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="993,107,1033,133"/>
+<area shape="rect" id="node12" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="785,157,887,184"/>
+</map>

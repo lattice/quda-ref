@@ -1,0 +1,6 @@
+<map id="quda::blas::getFastReduce" name="quda::blas::getFastReduce">
+<area shape="rect" id="node2" href="$classquda_1_1blas_1_1_multi_reduce_cuda.html#af90d42ff83e2770624a25a6fe2088243" title="quda::blas::MultiReduceCuda\l::MultiReduceCuda" alt="" coords="231,5,418,47"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#ad1c808c1ffe67d6977642a97e47529f0" title="quda::blas::multiReduceLaunch" alt="" coords="225,71,424,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1blas_1_1_reduce_cuda.html#a53c4f9075b5340adb5d417b33d7e5509" title="quda::blas::ReduceCuda\l::ReduceCuda" alt="" coords="245,123,404,164"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#af9f7b3bc9c35b3921606691afdf1dc7e" title="quda::blas::reduceLaunch" alt="" coords="241,189,408,215"/>
+</map>

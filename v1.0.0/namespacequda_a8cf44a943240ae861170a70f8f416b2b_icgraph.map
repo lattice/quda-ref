@@ -1,0 +1,5 @@
+<map id="quda::norm1" name="quda::norm1">
+<area shape="rect" id="node2" href="$classquda_1_1cpu_gauge_field.html#a6e91f1204e583f2f20bb295dce52eeb5" title="quda::cpuGaugeField\l::Gauge_p" alt="" coords="162,5,305,47"/>
+<area shape="rect" id="node3" href="$classquda_1_1_clover_field.html#a051cbd435dd39837c190bd32f81e9da8" title="quda::CloverField::Rho" alt="" coords="159,71,308,98"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#abb291ab5484923d4066ad1944aac9960" title="quda::GaugeField::SiteSize" alt="" coords="145,122,321,149"/>
+</map>

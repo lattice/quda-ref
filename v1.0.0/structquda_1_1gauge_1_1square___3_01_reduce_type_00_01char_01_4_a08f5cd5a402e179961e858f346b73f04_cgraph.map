@@ -1,0 +1,5 @@
+<map id="quda::gauge::square_&lt; ReduceType, char &gt;::operator()" name="quda::gauge::square_&lt; ReduceType, char &gt;::operator()">
+<area shape="rect" id="node2" href="$structquda_1_1complex_3_01char_01_4.html#a97ebd156203c91b2f6d127f19b2faf6a" title="quda::complex\&lt; char\l \&gt;::imag" alt="" coords="197,5,337,47"/>
+<area shape="rect" id="node3" href="$namespacequda.html#abeed8b3819eb6b18921f208412fe40d1" title="Returns the magnitude of z squared. " alt="" coords="225,71,310,98"/>
+<area shape="rect" id="node4" href="$structquda_1_1complex_3_01char_01_4.html#a611a70ec9a63a1e1d708737dd4525c0b" title="quda::complex\&lt; char\l \&gt;::real" alt="" coords="197,123,337,164"/>
+</map>

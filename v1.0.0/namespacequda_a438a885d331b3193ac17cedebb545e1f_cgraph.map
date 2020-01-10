@@ -1,0 +1,8 @@
+<map id="quda::variableInv" name="quda::variableInv">
+<area shape="rect" id="node2" href="$classquda_1_1coeff__type.html#ad4066c7187502f2f8c53a4fae37b0b62" title="quda::coeff_type::b" alt="" coords="189,5,315,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1coeff__type.html#ad59899f3fd523feb48188b8ef4a51c61" title="quda::coeff_type::c" alt="" coords="189,56,315,83"/>
+<area shape="rect" id="node4" href="$classquda_1_1_vector_cache.html#a2c043a581f028fd1f527d262c8954da7" title="Load a vector from the shared memory cache. " alt="" coords="172,107,332,133"/>
+<area shape="rect" id="node6" href="$classquda_1_1_vector_cache.html#ab6140bbfafb29f3028d0c00f52bbb7e0" title="Save the vector into the 3&#45;d shared memory cache. Implicitly store the vector at coordinates given by..." alt="" coords="171,157,333,184"/>
+<area shape="rect" id="node7" href="$classquda_1_1_vector_cache.html#aa3c30257feb1dee24fa797c70826d6af" title="Synchronize the cache. " alt="" coords="171,208,333,235"/>
+<area shape="rect" id="node5" href="$classquda_1_1_vector_cache.html#a0c6877e122ff801db65a815a35d3fb77" title="This is the handle to the shared memory. " alt="" coords="381,125,517,166"/>
+</map>

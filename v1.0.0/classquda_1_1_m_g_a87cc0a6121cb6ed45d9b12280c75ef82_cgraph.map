@@ -1,0 +1,8 @@
+<map id="quda::MG::pushLevel" name="quda::MG::pushLevel">
+<area shape="rect" id="node2" href="$util__quda_8h.html#abc25dbf265ff0ac6b168061d62387a82" title="Push a new output prefix onto the stack. " alt="" coords="193,56,313,83"/>
+<area shape="rect" id="node5" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="Push a new verbosity onto the stack. " alt="" coords="203,107,304,133"/>
+<area shape="rect" id="node3" href="$util__quda_8cpp.html#ac20e0acbc14d842af0070c41a90c2304" title="getOutputPrefix" alt="" coords="361,5,472,32"/>
+<area shape="rect" id="node4" href="$util__quda_8cpp.html#af0b637354d88c2cf044d20a3f472dcd9" title="setOutputPrefix" alt="" coords="361,56,472,83"/>
+<area shape="rect" id="node6" href="$util__quda_8cpp.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="371,107,463,133"/>
+<area shape="rect" id="node7" href="$util__quda_8cpp.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="371,157,462,184"/>
+</map>

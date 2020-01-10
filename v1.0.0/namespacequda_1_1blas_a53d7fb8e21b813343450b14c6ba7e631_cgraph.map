@@ -1,0 +1,5 @@
+<map id="quda::blas::xmyNorm" name="quda::blas::xmyNorm">
+<area shape="rect" id="node2" href="$namespacequda_1_1blas.html#a0263f204e2cf9f44d7c45c98a8712bd1" title="quda::blas::axpbyzNorm" alt="" coords="213,5,368,32"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="212,56,369,83"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#acb454ec63e420889abf77968b103ad3c" title="quda::blas::cDotProductNormA" alt="" coords="192,107,389,133"/>
+</map>

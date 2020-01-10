@@ -1,0 +1,9 @@
+<map id="quda::cudaColorSpinorField::gather" name="quda::cudaColorSpinorField::gather">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="234,5,409,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#ac2e23741f5cea98c5e8672f115ae41b2" title="quda::cudaColorSpinorField\l::sendGhost" alt="" coords="232,57,411,98"/>
+<area shape="rect" id="node4" href="$namespacequda.html#ab322a3eff5a7800532b2f664b7803d2d" title="quda::pushKernelPackT" alt="" coords="459,35,617,61"/>
+<area shape="rect" id="node5" href="$namespacequda.html#aae78c1051d992226e385fffec8d94dd9" title="quda::getKernelPackT" alt="" coords="665,9,815,36"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#a5e4cd07cc6d76cf2e652b36f28d5a455" title="quda::ColorSpinorField\l::Nvec" alt="" coords="463,86,613,127"/>
+<area shape="rect" id="node8" href="$namespacequda.html#ab711f0d6779ce4f27095811910ca39ea" title="quda::popKernelPackT" alt="" coords="462,152,614,179"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a1be9b81bf9b01e0f0a0b7d8f36601586" title="quda::setKernelPackT" alt="" coords="666,93,814,120"/>
+</map>

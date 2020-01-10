@@ -1,0 +1,7 @@
+<map id="quda::ContractionArg&lt; real &gt;" name="quda::ContractionArg&lt; real &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1colorspinor__mapper.html" title="quda::colorspinor_mapper\l\&lt; real, nSpin, nColor,\l spin_project, spinor_direct_load \&gt;" alt="" coords="533,21,749,77"/>
+<area shape="rect" id="node3" href="$structquda_1_1colorspinor__mapper.html" title="quda::colorspinor_mapper\l\&lt; T, Ns, Nc, project, huge\l_alloc \&gt;" alt="" coords="193,21,361,77"/>
+<area shape="rect" id="node4" href="$structquda_1_1matrix__field.html" title="quda::matrix_field\l\&lt; complex\&lt; real \&gt;, nSpin \&gt;" alt="" coords="554,102,729,143"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="5,105,99,132"/>
+<area shape="rect" id="node7" href="$structquda_1_1matrix__field.html" title="quda::matrix_field\l\&lt; T, n \&gt;" alt="" coords="217,158,338,199"/>
+</map>

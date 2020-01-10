@@ -1,0 +1,11 @@
+<map id="quda::computeYhat" name="quda::computeYhat">
+<area shape="rect" id="node2" href="$namespacequda.html#aaffbb8136180ff3fc91d20933dc1e1a3" title="quda::caxpy" alt="" coords="205,5,294,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a043738f16cdeb082fa1a5158fbad36b3" title="quda::conj" alt="" coords="209,56,289,83"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a416e52d2ea7f201272f902122f06668d" title="Compute the space&#45;time coordinates we are at. " alt="" coords="192,107,307,133"/>
+<area shape="rect" id="node9" href="$namespacequda.html#ab14419953c0b6e02a7e9ac4a4313e0b9" title="quda::linkIndexM1" alt="" coords="187,169,312,196"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a90286e7aed518e4cf52d5ca5a2175073" title="quda::getCoords5CB" alt="" coords="360,43,499,69"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a4534d3429a5a0d143e119a6e3e77f6ab" title="quda::getCoordsCB" alt="" coords="363,93,495,120"/>
+<area shape="rect" id="node7" href="$namespacequda.html#a519e30abf575a4084224e899c730e95f" title="Returns the phase angle of z. " alt="" coords="392,144,467,171"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a44329c21f13739c6829c1fc13fbfa25f" title="quda::atan2" alt="" coords="547,144,635,171"/>
+<area shape="rect" id="node10" href="$namespacequda.html#aea9824fc761818042d9da81d081dcdd9" title="quda::linkIndexDn" alt="" coords="368,195,491,221"/>
+</map>

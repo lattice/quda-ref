@@ -1,0 +1,51 @@
+<map id="quda::MG::generateNullVectors" name="quda::MG::generateNullVectors">
+<area shape="rect" id="node2" href="$namespacequda.html#a4e5e8ddc62dac184981ffe1ed46f4c54" title="Scale the gauge field by the scalar a. " alt="" coords="311,252,381,279"/>
+<area shape="rect" id="node6" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="769,344,892,385"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_param.html#a4d7b41b67de91dd1cd2ea6bc8cc5a33f" title="quda::ColorSpinorParam\l::setPrecision" alt="" coords="750,45,911,86"/>
+<area shape="rect" id="node9" href="$namespacequda.html#aaffbb8136180ff3fc91d20933dc1e1a3" title="quda::caxpy" alt="" coords="301,310,391,336"/>
+<area shape="rect" id="node10" href="$namespacequda_1_1blas.html#af3cffbae4092951f3b76c26f842d1db3" title="quda::blas::cDotProduct" alt="" coords="267,360,425,387"/>
+<area shape="rect" id="node11" href="$classquda_1_1_solver.html#a50fee738be21e288b85c2400cfba9369" title="quda::Solver::create" alt="" coords="763,1008,898,1035"/>
+<area shape="rect" id="node13" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="1181,1008,1273,1035"/>
+<area shape="rect" id="node14" href="$classquda_1_1_m_g.html#a81c27dc5f468e10f91d9cf0742866ad0" title="Create the smoothers. " alt="" coords="498,1512,673,1539"/>
+<area shape="rect" id="node16" href="$classquda_1_1_m_g.html#a01a0bba925966fecde19aaaae2dff33d" title="Helper function called on exit to each MG member function. " alt="" coords="981,1363,1116,1390"/>
+<area shape="rect" id="node19" href="$classquda_1_1_m_g.html#a87cc0a6121cb6ed45d9b12280c75ef82" title="Helper function called on entry to each MG function. " alt="" coords="979,1582,1119,1608"/>
+<area shape="rect" id="node22" href="$classquda_1_1_dirac.html#a8a391a873fd4e5a2f9ee03c06ebd6914" title="quda::Dirac::HaloPrecision" alt="" coords="261,1014,431,1040"/>
+<area shape="rect" id="node23" href="$namespacequda.html#a3174ee67c7fa7d35dbdf37b13064e8b0" title="quda::norm2" alt="" coords="300,411,392,438"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac.html#a13de326bf7fa0e621d95273137065397" title="quda::Dirac::prepare" alt="" coords="279,1139,413,1166"/>
+<area shape="rect" id="node26" href="$classquda_1_1_transfer.html#a297eae1bcc8232617d65802f50502343" title="quda::Transfer::R" alt="" coords="526,658,645,684"/>
+<area shape="rect" id="node35" href="$classquda_1_1_dirac.html#a7c1ac436f1f39923aa080991cc3c55e3" title="quda::Dirac::reconstruct" alt="" coords="268,1240,424,1267"/>
+<area shape="rect" id="node36" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="291,1088,401,1115"/>
+<area shape="rect" id="node41" href="$namespacequda.html#afdd60a37d49f6d12f8472e2a910e80c6" title="quda::zero" alt="" coords="545,1614,625,1640"/>
+<area shape="rect" id="node47" href="$classquda_1_1_m_g.html#a9e7ef9b757d20ed30ba34afd5b3e8616" title="Save the null space vectors in from file. " alt="" coords="755,1734,907,1760"/>
+<area shape="rect" id="node48" href="$classquda_1_1_dirac.html#adb2229db6ed751f1bd68b35fb9f457fc" title="Enable / disable communications for the Dirac operator. " alt="" coords="261,1766,431,1792"/>
+<area shape="rect" id="node49" href="$classquda_1_1_dirac.html#a770f5fa876584d8510df6f92836679fd" title="quda::Dirac::setHaloPrecision" alt="" coords="252,1816,440,1843"/>
+<area shape="rect" id="node50" href="$namespacequda.html#a6a71833ed525c0d7a4c0d7bfaf48a6d2" title="quda::sqrt" alt="" coords="307,1867,385,1894"/>
+<area shape="rect" id="node3" href="$namespacequda_1_1blas.html#a9a001f8e31cfe48d8b3b67db4b14dd92" title="quda::blas::ax" alt="" coords="536,175,635,202"/>
+<area shape="rect" id="node4" href="$namespacequda.html#a026455342b50e0274c0aad8886880e0c" title="quda::colorSpinorParam" alt="" coords="506,327,665,354"/>
+<area shape="rect" id="node8" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="755,110,906,152"/>
+<area shape="rect" id="node5" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="769,278,892,320"/>
+<area shape="rect" id="node12" href="$namespacequda.html#a01e796ad6c1651d23230e0648e0e2010" title="quda::report" alt="" coords="1004,1008,1093,1035"/>
+<area shape="rect" id="node15" href="$classquda_1_1_m_g.html#a336aa127724707cfaab984d485d49d39" title="Destroy the smoothers. " alt="" coords="741,1582,921,1608"/>
+<area shape="rect" id="node17" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="Pop the verbosity restoring the prior one on the stack. " alt="" coords="1179,1388,1274,1415"/>
+<area shape="rect" id="node18" href="$util__quda_8h.html#a33cc820219095ddbc3e7aaf4f401dd2b" title="Pop the output prefix restoring the prior one on the stack. " alt="" coords="1169,1338,1284,1364"/>
+<area shape="rect" id="node20" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="Push a new verbosity onto the stack. " alt="" coords="1176,1607,1277,1634"/>
+<area shape="rect" id="node21" href="$util__quda_8h.html#abc25dbf265ff0ac6b168061d62387a82" title="Push a new output prefix onto the stack. " alt="" coords="1167,1556,1287,1583"/>
+<area shape="rect" id="node24" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="525,382,646,408"/>
+<area shape="rect" id="node27" href="$classquda_1_1_transfer.html#a2468fcfbd528d5b9a8cfc631301cf8aa" title="Lazy allocation of the transfer operator in a given location. " alt="" coords="740,410,921,436"/>
+<area shape="rect" id="node28" href="$classquda_1_1_color_spinor_field.html#acd8c0d81bd53a92345873561c6338967" title="quda::ColorSpinorField\l::GammaBasis" alt="" coords="755,461,906,502"/>
+<area shape="rect" id="node29" href="$classquda_1_1_color_spinor_field.html#a90745824603ee1cb98347966934f808b" title="quda::ColorSpinorField\l::SiteSubset" alt="" coords="755,526,906,568"/>
+<area shape="rect" id="node30" href="$classquda_1_1_color_spinor_field.html#ac9894680e8db0ee566218f0a69a6b73f" title="quda::ColorSpinorField\l::Even" alt="" coords="755,942,906,984"/>
+<area shape="rect" id="node31" href="$classquda_1_1_color_spinor_field.html#a6067aeefbeb02a469fadc6534ce01794" title="quda::ColorSpinorField\l::Nspin" alt="" coords="755,592,906,633"/>
+<area shape="rect" id="node32" href="$namespacequda.html#a5dc486d143d6fdfd3a1aced4ce237891" title="quda::Restrict" alt="" coords="781,658,881,684"/>
+<area shape="rect" id="node33" href="$classquda_1_1_color_spinor_field.html#a8a20ca6517a22be6651ef7eb8b3889be" title="quda::ColorSpinorField\l::Ncolor" alt="" coords="755,709,906,750"/>
+<area shape="rect" id="node34" href="$classquda_1_1_color_spinor_field.html#a54263c7556bad9742b00f2c625bb7331" title="quda::ColorSpinorField\l::VolumeCB" alt="" coords="755,774,906,816"/>
+<area shape="rect" id="node37" href="$classquda_1_1_m_g.html#ae80b4a7dbbc41dae814f26a5e6ea2d8c" title="Destroy the solver wrapper. " alt="" coords="731,1363,931,1390"/>
+<area shape="rect" id="node38" href="$classquda_1_1_dirac_matrix.html#a123030484afb5d8a15a1df5fcb08e3ca" title="quda::DiracMatrix::\lExpose" alt="" coords="767,1465,894,1506"/>
+<area shape="rect" id="node39" href="$classquda_1_1_transfer.html#a4e342b78b6d5ffe90317e86d54743187" title="Sets whether the transfer operator is to act on full fields or single parity fields, and if single&#45;parity which parity. " alt="" coords="491,1363,680,1390"/>
+<area shape="rect" id="node40" href="$classquda_1_1_transfer.html#a08ea45190015b4e46b4bf6559d075cc9" title="for resetting the Transfer when the null vectors have changed " alt="" coords="980,840,1117,867"/>
+<area shape="rect" id="node42" href="$classquda_1_1_m_g.html#a6ced52a315ef7762ff818a29fd5b389d" title="Create the coarse dirac operator. " alt="" coords="491,1211,680,1238"/>
+<area shape="rect" id="node43" href="$structquda_1_1_solver_param.html#af7c2f92ed96605f733df04c73312bd4e" title="quda::SolverParam::\lupdateInvertParam" alt="" coords="517,993,653,1034"/>
+<area shape="rect" id="node44" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="533,432,637,459"/>
+<area shape="rect" id="node45" href="$util__quda_8h.html#af0b637354d88c2cf044d20a3f472dcd9" title="setOutputPrefix" alt="" coords="530,1059,641,1086"/>
+<area shape="rect" id="node46" href="$classquda_1_1_m_g.html#a92ac0c19ef16629220b24ec4be52140b" title="Create the solver wrapper. " alt="" coords="488,1160,683,1187"/>
+</map>

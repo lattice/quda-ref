@@ -1,0 +1,28 @@
+<map id="quda::cpuGaugeField::injectGhost" name="quda::cpuGaugeField::injectGhost">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#a93b1219a2b9d0a7540162587f756a913" title="Exchange the buffers across all dimensions in a given direction. " alt="" coords="196,195,379,221"/>
+<area shape="rect" id="node18" href="$namespacequda.html#a30c73bae2ad5e120dd0c2fea452b7924" title="quda::extractGaugeGhost" alt="" coords="204,384,371,411"/>
+<area shape="rect" id="node3" href="$classquda_1_1_lattice_field.html#a644c9306ed8f513cdb2c88c755e305d8" title="quda::LatticeField\l::Location" alt="" coords="448,158,571,199"/>
+<area shape="rect" id="node4" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="433,224,586,251"/>
+<area shape="rect" id="node8" href="$comm__quda_8h.html#a0498a56438662fb30281fb92b5bc40b4" title="comm_start" alt="" coords="464,275,555,301"/>
+<area shape="rect" id="node12" href="$comm__quda_8h.html#aa949084ae3512a75d7218748b38f7015" title="comm_wait" alt="" coords="465,56,553,83"/>
+<area shape="rect" id="node17" href="$comm__quda_8h.html#aaf356c30715ea44b84953c66f65c1ef9" title="comm_free" alt="" coords="466,107,553,133"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="691,216,777,243"/>
+<area shape="rect" id="node6" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="876,216,1035,243"/>
+<area shape="rect" id="node7" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="909,165,1001,192"/>
+<area shape="rect" id="node9" href="$nvtx__pmpi_8c.html#a0ff352a818935c896c684af705d041e9" title="MPI_Start" alt="" coords="693,275,775,301"/>
+<area shape="rect" id="node10" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="910,317,1001,344"/>
+<area shape="rect" id="node11" href="$nvtx__pmpi_8c.html#a60fc3eec4e2d6d05a2f3867b94588cd1" title="PMPI_Test" alt="" coords="912,267,999,293"/>
+<area shape="rect" id="node13" href="$nvtx__pmpi_8c.html#a65a90a976c9dc2704d5661ee066ca937" title="MPI_Wait" alt="" coords="695,56,773,83"/>
+<area shape="rect" id="node14" href="$comm__common_8cpp.html#a9050542b1bb11f6418bae82e3ef4c192" title="index" alt="" coords="929,5,981,32"/>
+<area shape="rect" id="node15" href="$nvtx__pmpi_8c.html#a89a5128619ef11cdf9173a34436ad3d5" title="PMPI_Wait" alt="" coords="911,56,999,83"/>
+<area shape="rect" id="node16" href="$nvtx__pmpi_8c.html#a6da5aebfab9343484ea0cbeb0954e11a" title="PMPI_Waitany" alt="" coords="901,107,1009,133"/>
+<area shape="rect" id="node19" href="$namespacequda.html#abe091511f03b1c04c4a18b3235bb7368" title="quda::extractGaugeGhostMG" alt="" coords="640,384,828,411"/>
+<area shape="rect" id="node24" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="894,369,1017,410"/>
+<area shape="rect" id="node25" href="$namespacequda.html#a04def932827868afffccb9716ff55018" title="quda::extractGhost" alt="" coords="445,489,574,516"/>
+<area shape="rect" id="node27" href="$classquda_1_1_gauge_field.html#ab655802370bde3461711f30a2da68bb7" title="quda::GaugeField::Ncolor" alt="" coords="427,435,592,461"/>
+<area shape="rect" id="node20" href="$namespacequda.html#a7e2c22a17b3ff299b7a1a6d220a6d343" title="quda::extractGhostMG" alt="" coords="880,488,1031,515"/>
+<area shape="rect" id="node21" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="1095,540,1268,567"/>
+<area shape="rect" id="node22" href="$classquda_1_1_gauge_field.html#a665b02dd23bcb1de3636a30adbfaf176" title="quda::GaugeField::Order" alt="" coords="1101,595,1261,621"/>
+<area shape="rect" id="node23" href="$classquda_1_1_gauge_field.html#afdd2f0de51c876a311001738329083c6" title="quda::GaugeField::Reconstruct" alt="" coords="1083,488,1280,515"/>
+<area shape="rect" id="node26" href="$classquda_1_1_gauge_field.html#a08c5aeb84134058a821ffcec017769ad" title="quda::GaugeField::Staggered\lPhase" alt="" coords="641,486,827,527"/>
+</map>

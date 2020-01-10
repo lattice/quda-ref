@@ -1,0 +1,6 @@
+<map id="quda::Solver::blocksolve" name="quda::Solver::blocksolve">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="212,31,344,57"/>
+<area shape="rect" id="node3" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="392,5,473,32"/>
+<area shape="rect" id="node5" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="407,56,458,83"/>
+<area shape="rect" id="node4" href="$staggered__invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="521,5,572,32"/>
+</map>

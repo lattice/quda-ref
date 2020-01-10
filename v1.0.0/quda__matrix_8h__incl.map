@@ -1,0 +1,18 @@
+<map id="include/quda_matrix.h" name="include/quda_matrix.h">
+<area shape="rect" id="node6" href="$register__traits_8h.html" title="Provides precision abstractions and defines the register precision given the storage precision using ..." alt="" coords="624,80,733,107"/>
+<area shape="rect" id="node32" href="$complex__quda_8h.html" title="complex_quda.h" alt="" coords="865,155,980,181"/>
+<area shape="rect" id="node36" href="$float__vector_8h.html" title="float_vector.h" alt="" coords="757,80,856,107"/>
+<area shape="rect" id="node7" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="512,229,621,256"/>
+<area shape="rect" id="node30" href="$convert_8h.html" title="convert.h" alt="" coords="529,155,604,181"/>
+<area shape="rect" id="node35" href="$inline__ptx_8h.html" title="inline_ptx.h" alt="" coords="754,155,841,181"/>
+<area shape="rect" id="node8" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="1145,304,1263,331"/>
+<area shape="rect" id="node14" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="571,453,669,480"/>
+<area shape="rect" id="node16" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="537,304,597,331"/>
+<area shape="rect" id="node20" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="726,304,810,331"/>
+<area shape="rect" id="node26" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="137,379,242,405"/>
+<area shape="rect" id="node27" href="$object_8h.html" title="object.h" alt="" coords="283,304,349,331"/>
+<area shape="rect" id="node28" href="$timer_8h.html" title="timer.h" alt="" coords="923,304,984,331"/>
+<area shape="rect" id="node19" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="267,379,389,405"/>
+<area shape="rect" id="node22" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="673,379,775,405"/>
+<area shape="rect" id="node24" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="938,379,1022,405"/>
+</map>

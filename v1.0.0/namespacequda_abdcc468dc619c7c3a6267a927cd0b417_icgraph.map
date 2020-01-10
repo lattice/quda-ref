@@ -1,0 +1,18 @@
+<map id="quda::fatLongKSLink" name="quda::fatLongKSLink">
+<area shape="rect" id="node2" href="$interface__quda_8cpp.html#a9761917e83bb240a0ce1783d1f4c1b9e" title="computeKSLinkQuda" alt="" coords="195,187,340,213"/>
+<area shape="rect" id="node3" href="$staggered__gauge__utils_8h.html#a80b581c4061de4f160efca53727a8ced" title="computeHISQLinksGPU" alt="" coords="388,111,551,137"/>
+<area shape="rect" id="node12" href="$hisq__stencil__test_8cpp.html#aa2da8296fccdb0b46be5983be9555ac5" title="hisq_test" alt="" coords="433,161,506,188"/>
+<area shape="rect" id="node14" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="434,212,505,239"/>
+<area shape="rect" id="node16" href="$unitarize__link__test_8cpp.html#a1e05c3bf384f1ff78293ab713b760257" title="unitarize_link_test" alt="" coords="407,263,532,289"/>
+<area shape="rect" id="node4" href="$staggered__gauge__utils_8h.html#af0aca89a3894a49dac7950c095b36bf4" title="computeFatLongGPU" alt="" coords="623,56,769,83"/>
+<area shape="rect" id="node9" href="$staggered__gauge__utils_8h.html#a5c61efb8fa261fe6ef380fc8cf5445b7" title="computeFatLongGPUandCPU" alt="" coords="599,111,793,137"/>
+<area shape="rect" id="node5" href="$staggered__eigensolve__test_8cpp.html#ab91ab1d94409255c5cd32624c20072ba" title="eigensolve_test" alt="" coords="841,5,952,32"/>
+<area shape="rect" id="node7" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="856,56,937,83"/>
+<area shape="rect" id="node6" href="$staggered__eigensolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1047,5,1097,32"/>
+<area shape="rect" id="node8" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1047,56,1097,83"/>
+<area shape="rect" id="node10" href="$staggered__dslash__ctest_8cpp.html#ae9fb412e7b61efbde915eff462e06324" title="init" alt="" coords="877,112,916,139"/>
+<area shape="rect" id="node11" href="$class_staggered_dslash_test.html#adfdb5e1678117e83c42481674a51400b" title="StaggeredDslashTest\l::SetUp" alt="" coords="1000,107,1144,149"/>
+<area shape="rect" id="node13" href="$hisq__stencil__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="671,161,721,188"/>
+<area shape="rect" id="node15" href="$llfat__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="671,212,721,239"/>
+<area shape="rect" id="node17" href="$unitarize__link__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="671,263,721,289"/>
+</map>

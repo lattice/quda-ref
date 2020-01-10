@@ -1,0 +1,5 @@
+<map id="quda::applyLaplace" name="quda::applyLaplace">
+<area shape="rect" id="node2" href="$namespacequda.html#a9710cc1c1cc5a3a2463f272ceb7fefe1" title="quda::laplace" alt="" coords="184,35,281,61"/>
+<area shape="rect" id="node3" href="$classquda_1_1_laplace.html#a50107c0f7f104d95f33a7641ccd7d5ce" title="quda::Laplace::tuneKey" alt="" coords="329,5,484,32"/>
+<area shape="rect" id="node4" href="$structquda_1_1_laplace_apply.html#a61f684ba2fd915b161200a0f605600d5" title="quda::LaplaceApply\l::LaplaceApply" alt="" coords="340,57,473,98"/>
+</map>

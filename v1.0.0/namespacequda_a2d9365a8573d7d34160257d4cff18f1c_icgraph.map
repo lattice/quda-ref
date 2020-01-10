@@ -1,0 +1,13 @@
+<map id="quda::GetBlockDim" name="quda::GetBlockDim">
+<area shape="rect" id="node2" href="$namespacequda.html#a6fc31f08e600b15282eb7a3fd97206e5" title="Call CUDA kernel to initialize CURAND RNG states. " alt="" coords="187,99,323,141"/>
+<area shape="rect" id="node3" href="$classquda_1_1_r_n_g.html#a8870863b35c992bae85971bfbd61efd9" title="Initialize CURAND RNG states. " alt="" coords="371,107,479,133"/>
+<area shape="rect" id="node4" href="$classquda_1_1_t_r_l_m.html#acf892e5bc9c2f3a40df569a25f931f4e" title="Compute eigenpairs. " alt="" coords="527,5,679,32"/>
+<area shape="rect" id="node5" href="$namespacequda.html#a929c9facd13aeb7d4115c80b13415825" title="Generate Gaussian distributed su(N) or SU(N) fields. If U is a momentum field, then we generate rando..." alt="" coords="539,56,666,83"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="551,107,655,133"/>
+<area shape="rect" id="node11" href="$namespacequda.html#ad09cbe9ca876899dbf98e717554648d6" title="Generate a random noise spinor. This variant just requires a seed and will create and destroy the ran..." alt="" coords="541,157,664,184"/>
+<area shape="rect" id="node12" href="$heatbath__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="577,208,628,235"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="727,107,837,133"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="914,57,1055,84"/>
+<area shape="rect" id="node10" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="885,132,1084,159"/>
+<area shape="rect" id="node9" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1132,57,1183,84"/>
+</map>

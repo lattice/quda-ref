@@ -1,0 +1,7 @@
+<map id="quda::clover::Accessor::transform_reduce" name="quda::clover::Accessor::transform_reduce">
+<area shape="rect" id="node2" href="$structquda_1_1clover_1_1_field_order.html#a7210f54cd7b3800ad69e041039743a8c" title="Returns the Linfinity norm of the field. " alt="" coords="203,5,359,47"/>
+<area shape="rect" id="node4" href="$structquda_1_1clover_1_1_field_order.html#aac48e9ca0e7b74e518966486cb941f2b" title="Returns the minimum absolute value of the field. " alt="" coords="203,71,359,112"/>
+<area shape="rect" id="node5" href="$structquda_1_1clover_1_1_field_order.html#a2f8135432ab105e69c40018af3d2a37b" title="Returns the L1 norm of the field. " alt="" coords="203,136,359,177"/>
+<area shape="rect" id="node6" href="$structquda_1_1clover_1_1_field_order.html#a3c65469c2fa4a20cd104211d46b5b83e" title="Returns the L2 norm suared of the field. " alt="" coords="203,201,359,243"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a50d3cfe4817fa34d1fac8539b3a0a574" title="quda::norm" alt="" coords="407,111,492,138"/>
+</map>

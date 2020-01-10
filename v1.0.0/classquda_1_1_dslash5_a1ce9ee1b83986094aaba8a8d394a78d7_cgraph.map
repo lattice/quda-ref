@@ -1,0 +1,5 @@
+<map id="quda::Dslash5::launch" name="quda::Dslash5::launch">
+<area shape="rect" id="node2" href="$namespacequda.html#aca5f37dbe8651b15b71b1fa25dbe2e5e" title="Wrapper around cudaLaunchKernel. " alt="" coords="217,5,379,32"/>
+<area shape="rect" id="node4" href="$classquda_1_1_tunable.html#a240d6c2d95435cec04b5f805741e3147" title="Enable the maximum dynamic shared bytes for the kernel &quot;func&quot; (values given by maxDynamicSharedBytesP..." alt="" coords="199,57,397,98"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a8e4632c766ec0cd48ed8f0543c4eedb3" title="query if tuning is in progress " alt="" coords="445,5,575,32"/>
+</map>

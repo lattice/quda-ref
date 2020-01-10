@@ -1,0 +1,4 @@
+<map id="quda::Transfer::flops" name="quda::Transfer::flops">
+<area shape="rect" id="node2" href="$classquda_1_1_m_g.html#a21d08b0054422434bd04ed6b9fe9d406" title="Return the total flops done on this and all coarser levels. " alt="" coords="234,29,343,56"/>
+<area shape="rect" id="node3" href="$classquda_1_1_transfer.html#a8f2186b2d2b24f85cf90cba20c407d1c" title="quda::Transfer::setTransferGPU" alt="" coords="188,80,389,107"/>
+</map>

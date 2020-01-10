@@ -1,0 +1,14 @@
+<map id="quda::spinorNoise" name="quda::spinorNoise">
+<area shape="rect" id="node2" href="$test__util_8h.html#a88ab21203c6c7e1f46ebc383ef3d8367" title="construct_spinor_source" alt="" coords="176,31,337,57"/>
+<area shape="rect" id="node6" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="205,308,309,335"/>
+<area shape="rect" id="node7" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="385,257,496,284"/>
+<area shape="rect" id="node11" href="$classquda_1_1_t_r_l_m.html#acf892e5bc9c2f3a40df569a25f931f4e" title="Compute eigenpairs. " alt="" coords="181,207,333,233"/>
+<area shape="rect" id="node12" href="$namespacequda.html#ad09cbe9ca876899dbf98e717554648d6" title="Generate a random noise spinor. This variant just requires a seed and will create and destroy the ran..." alt="" coords="195,257,318,284"/>
+<area shape="rect" id="node13" href="$classquda_1_1_m_g.html#ab9d2dd4f685e297f66f40ed0a31fe5fa" title="quda::MG::verify" alt="" coords="200,156,313,183"/>
+<area shape="rect" id="node3" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="400,5,481,32"/>
+<area shape="rect" id="node5" href="$invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="415,56,466,83"/>
+<area shape="rect" id="node4" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="618,5,669,32"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="573,208,714,235"/>
+<area shape="rect" id="node10" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="544,283,743,309"/>
+<area shape="rect" id="node9" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="791,208,841,235"/>
+</map>

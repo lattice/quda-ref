@@ -1,0 +1,51 @@
+<map id="dslashCUDA" name="dslashCUDA">
+<area shape="rect" id="node2" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="163,31,264,57"/>
+<area shape="rect" id="node6" href="$classquda_1_1_dirac.html#a69792f182bbe560af9e1358109df730d" title="quda::Dirac::Dslash" alt="" coords="148,81,279,108"/>
+<area shape="rect" id="node7" href="$quda_8h.html#a6826eb81d4a6da7a9107670ff0bbcc77" title="dslashQuda" alt="" coords="169,1469,258,1496"/>
+<area shape="rect" id="node24" href="$quda_8h.html#a2d8a2a7758507a87ae669d556e409e68" title="dslashQuda_4dpc" alt="" coords="151,1292,275,1319"/>
+<area shape="rect" id="node31" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="982,183,1147,209"/>
+<area shape="rect" id="node36" href="$quda_8h.html#a7ea97611c29b71b948ea41f974cf777f" title="dslashQuda_mdwf" alt="" coords="150,1165,277,1192"/>
+<area shape="rect" id="node42" href="$dslash__test_8cpp.html#aaf81d3fdaf258088d7692fa70cece087" title="end" alt="" coords="192,2149,235,2176"/>
+<area shape="rect" id="node46" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="349,1925,452,1952"/>
+<area shape="rect" id="node47" href="$quda_8h.html#a752f99361f4f44f0d9662841736d9041" title="MatDagMatQuda" alt="" coords="153,1599,273,1625"/>
+<area shape="rect" id="node48" href="$classquda_1_1_dirac.html#a5579a5c54f186793a2e84280bdba929a" title="quda::Dirac::MdagM" alt="" coords="333,2128,468,2155"/>
+<area shape="rect" id="node50" href="$quda_8h.html#afe79acaec8e033157d9214b5ad97ae66" title="MatQuda" alt="" coords="176,1520,251,1547"/>
+<area shape="rect" id="node3" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="355,31,446,57"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="567,5,667,32"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="572,56,663,83"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1blas.html#a9a001f8e31cfe48d8b3b67db4b14dd92" title="quda::blas::ax" alt="" coords="351,1469,450,1496"/>
+<area shape="rect" id="node9" href="$classquda_1_1_dirac.html#ac13ad4c6bdcacd4b53a473176e7ab830" title="quda::Dirac::create" alt="" coords="337,1672,465,1699"/>
+<area shape="rect" id="node10" href="$util__quda_8h.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="571,1672,663,1699"/>
+<area shape="rect" id="node11" href="$classquda_1_1_color_spinor_field.html#aa0d2e38c03e2f97e358194a272b358dd" title="quda::ColorSpinorField\l::Create" alt="" coords="771,1101,922,1142"/>
+<area shape="rect" id="node12" href="$namespacequda_1_1blas.html#ab8b470443eb61a4c95b5f996ff485e15" title="quda::blas::norm2" alt="" coords="786,1495,907,1521"/>
+<area shape="rect" id="node13" href="$util__quda_8h.html#a7efc6647d04d720d7ec040e8348ef483" title="Pop the verbosity restoring the prior one on the stack. " alt="" coords="353,1419,448,1445"/>
+<area shape="rect" id="node15" href="$quda_8h.html#a3df6e48cb66b7fe0b8e5e2110ca28981" title="printQudaInvertParam" alt="" coords="327,1317,475,1344"/>
+<area shape="rect" id="node19" href="$util__quda_8h.html#a13b05722eea48a935ab172483b89f3c7" title="Push a new verbosity onto the stack. " alt="" coords="350,1520,451,1547"/>
+<area shape="rect" id="node21" href="$namespacequda.html#ab3c2ca4ac4027f6856559cef4a721009" title="quda::setDiracParam" alt="" coords="330,1267,471,1293"/>
+<area shape="rect" id="node14" href="$util__quda_8cpp.html#ae478a3084e0f703a2ba06503c0ed3014" title="setVerbosity" alt="" coords="572,1520,663,1547"/>
+<area shape="rect" id="node16" href="$namespacequda.html#aee1dc55d8f32802f2e4d3400113f9ec2" title="quda::get_pointer_location" alt="" coords="531,1469,703,1496"/>
+<area shape="rect" id="node17" href="$quda_8h.html#a781f3c5590375d63bb6d1cd2b6aec58c" title="newQudaMultigridParam" alt="" coords="536,1368,699,1395"/>
+<area shape="rect" id="node18" href="$check__params_8h.html#aca62d56369d5531d0110d2e56516b404" title="printQudaCloverParam" alt="" coords="541,1419,693,1445"/>
+<area shape="rect" id="node20" href="$util__quda_8cpp.html#abe3e2ab0dbcbcf59b87c00c81a6c94dc" title="getVerbosity" alt="" coords="571,1571,663,1597"/>
+<area shape="rect" id="node22" href="$classquda_1_1_gauge_field.html#aea09fc8dc9f69a1bfebbbad4717e433a" title="quda::GaugeField::Anisotropy" alt="" coords="523,1267,711,1293"/>
+<area shape="rect" id="node23" href="$classquda_1_1_lattice_field.html#a5ddb59a67d4ade2aad18f1d974599073" title="quda::LatticeField\l::Precision" alt="" coords="1003,1023,1126,1065"/>
+<area shape="rect" id="node25" href="$classquda_1_1_dirac_domain_wall4_d.html#ad5be2aa064ad2fc78ed63b83de7d5d99" title="quda::DiracDomainWall4D\l::Dslash4" alt="" coords="532,327,703,369"/>
+<area shape="rect" id="node33" href="$classquda_1_1_dirac_domain_wall4_d.html#acd4b25b21c0de25849d9335fe6af389c" title="quda::DiracDomainWall4D\l::Dslash5" alt="" coords="532,781,703,822"/>
+<area shape="rect" id="node35" href="$classquda_1_1_dirac_domain_wall4_d_p_c.html#ae7f3c940e2c58e2da52cdd0dc35b5732" title="quda::DiracDomainWall4DPC\l::Dslash5inv" alt="" coords="523,846,712,887"/>
+<area shape="rect" id="node26" href="$classquda_1_1_dirac_domain_wall.html#ae52982a0f0cd8f2c0179414de8545490" title="quda::DiracDomainWall\l::checkDWF" alt="" coords="769,503,924,545"/>
+<area shape="rect" id="node28" href="$classquda_1_1_dirac.html#ab3c0807942e7c0a585030c80101bdfe2" title="quda::Dirac::checkParity\lSpinor" alt="" coords="767,671,927,713"/>
+<area shape="rect" id="node29" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="989,701,1140,742"/>
+<area shape="rect" id="node30" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="765,335,929,377"/>
+<area shape="rect" id="node32" href="$namespacequda.html#ab37f5ab389e64f576459533641358a51" title="Driver for applying the batched Wilson 4&#45;d stencil to a 5&#45;d vector with 4&#45;d preconditioned data order..." alt="" coords="760,183,933,209"/>
+<area shape="rect" id="node27" href="$classquda_1_1_color_spinor_field.html#af25b67fc2c472440b8138e553cceca07" title="quda::ColorSpinorField::X" alt="" coords="981,620,1148,647"/>
+<area shape="rect" id="node34" href="$namespacequda.html#af7019e9408ff36b2d43c26b4e820e551" title="Apply either the domain&#45;wall / mobius Dslash5 operator or the M5 inverse operator. In the current implementation, it is expected that the color&#45;spinor fields are 4&#45;d preconditioned. " alt="" coords="780,788,913,815"/>
+<area shape="rect" id="node37" href="$classquda_1_1_dirac_mobius.html#a21abad5b40b09b47dcbe01821a899d5a" title="quda::DiracMobius::\lDslash4" alt="" coords="551,262,684,303"/>
+<area shape="rect" id="node38" href="$classquda_1_1_dirac_mobius.html#ab10a7f5b4a806d33bd5eb4932e9381fa" title="quda::DiracMobius::\lDslash4pre" alt="" coords="551,445,684,486"/>
+<area shape="rect" id="node39" href="$classquda_1_1_dirac_mobius.html#a614593dfcba10b6759db8fd2ef9658ea" title="quda::DiracMobius::\lDslash5" alt="" coords="551,562,684,603"/>
+<area shape="rect" id="node40" href="$classquda_1_1_dirac_mobius_p_c.html#a272af818e172dcd19ea304eca4970f76" title="quda::DiracMobiusPC\l::Dslash5inv" alt="" coords="328,671,473,713"/>
+<area shape="rect" id="node41" href="$namespacequda.html#a3174ee67c7fa7d35dbdf37b13064e8b0" title="quda::norm2" alt="" coords="571,1115,663,1141"/>
+<area shape="rect" id="node43" href="$quda_8h.html#ab6cffc1dded11dc0a65b80e065a5747b" title="endQuda" alt="" coords="363,2179,438,2205"/>
+<area shape="rect" id="node44" href="$namespacequda.html#ac466a953381d986b1eca6880f1fda568" title="quda::assertAllMemFree" alt="" coords="537,2153,697,2180"/>
+<area shape="rect" id="node45" href="$comm__quda_8h.html#acae24b1f48d2fe459c280cf33e61cc6e" title="comm_finalize" alt="" coords="565,2204,669,2231"/>
+<area shape="rect" id="node49" href="$namespacequda.html#aaa35e68beb10c3fdbf3ba1d4915fa752" title="quda::pow" alt="" coords="361,2027,440,2053"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="quda::GaugeLaplacePC::MdagM" name="quda::GaugeLaplacePC::MdagM">
+<area shape="rect" id="node2" href="$classquda_1_1_dirac.html#a91e825a3286cf2f9e64097c047ca925d" title="quda::Dirac::deleteTmp" alt="" coords="433,62,587,88"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_laplace_p_c.html#a6c471950b428df22248f3749bc90e3f8" title="quda::GaugeLaplacePC::M" alt="" coords="211,186,385,212"/>
+<area shape="rect" id="node16" href="$classquda_1_1_dirac.html#a2c6897be4272a960f6bcc45fe7e76045" title="quda::Dirac::newTmp" alt="" coords="439,244,581,271"/>
+<area shape="rect" id="node17" href="$classquda_1_1_dirac.html#aeb18a3d5387dec9e3673364db4feef7f" title="quda::Dirac::Mdag" alt="" coords="236,291,360,318"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_laplace.html#a9a4c195b71b16112e0c1e386ec3bc725" title="quda::GaugeLaplace\l::Dslash" alt="" coords="441,178,579,220"/>
+<area shape="rect" id="node15" href="$classquda_1_1_gauge_laplace.html#aae8b140931e499d45b2a2b18db7eb8e7" title="quda::GaugeLaplace\l::DslashXpay" alt="" coords="441,113,579,154"/>
+<area shape="rect" id="node5" href="$namespacequda.html#afd93a8e1b590f6288d3692226a5f3169" title="Driver for applying the Laplace stencil. " alt="" coords="650,156,783,183"/>
+<area shape="rect" id="node8" href="$classquda_1_1_dirac.html#acc42b934087b335cb0ad6af7ee18592b" title="quda::Dirac::checkSpinor\lAlias" alt="" coords="635,208,799,249"/>
+<area shape="rect" id="node9" href="$comm__quda_8h.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="886,98,973,124"/>
+<area shape="rect" id="node12" href="$comm__quda_8h.html#a9390c85afcad52ee6919c40cf85cbc2d" title="comm_dim_partitioned" alt="" coords="640,274,793,300"/>
+<area shape="rect" id="node14" href="$classquda_1_1_color_spinor_field.html#ae708f6e0180cb9ecab5e25169c4c2960" title="quda::ColorSpinorField\l::Volume" alt="" coords="641,40,792,81"/>
+<area shape="rect" id="node6" href="$classquda_1_1_color_spinor_field.html#ac825bed31e6f651d73c10da2595c7acc" title="quda::ColorSpinorField\l::FieldOrder" alt="" coords="854,149,1005,190"/>
+<area shape="rect" id="node7" href="$classquda_1_1_color_spinor_field.html#abce013c01320309ed37e5ce64f6d42a0" title="quda::ColorSpinorField::V" alt="" coords="847,215,1012,242"/>
+<area shape="rect" id="node10" href="$comm__common_8cpp.html#a1985ff73289596b09aecba32bd39db6f" title="comm_default_topology" alt="" coords="1060,207,1219,234"/>
+<area shape="rect" id="node11" href="$comm__common_8cpp.html#a857e28618113c5eaff296515fd0b26df" title="comm_dims" alt="" coords="1093,127,1185,154"/>
+<area shape="rect" id="node13" href="$comm__common_8cpp.html#ab6471b31d5a7f3f80e6561382c09b3b5" title="comm_dim" alt="" coords="886,266,973,292"/>
+<area shape="rect" id="node18" href="$classquda_1_1_dirac.html#a024b6e56d47bff005873773e9fa130f3" title="quda::Dirac::M" alt="" coords="459,295,561,322"/>
+</map>

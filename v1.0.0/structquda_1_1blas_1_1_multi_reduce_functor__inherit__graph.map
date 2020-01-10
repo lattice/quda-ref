@@ -1,0 +1,5 @@
+<map id="quda::blas::MultiReduceFunctor&lt; NXZ, ReduceType, Float2, FloatN &gt;" name="quda::blas::MultiReduceFunctor&lt; NXZ, ReduceType, Float2, FloatN &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1blas_1_1_cdot.html" title="quda::blas::Cdot\&lt; NXZ,\l ReduceType, Float2,\l FloatN \&gt;" alt="" coords="271,5,424,61"/>
+<area shape="rect" id="node3" href="$structquda_1_1blas_1_1_cdot_copy.html" title="quda::blas::CdotCopy\l\&lt; NXZ, ReduceType, Float2,\l FloatN \&gt;" alt="" coords="255,85,440,141"/>
+<area shape="rect" id="node4" href="$structquda_1_1blas_1_1_dot.html" title="quda::blas::Dot\&lt; NXZ,\l ReduceType, Float2,\l FloatN \&gt;" alt="" coords="274,165,421,221"/>
+</map>

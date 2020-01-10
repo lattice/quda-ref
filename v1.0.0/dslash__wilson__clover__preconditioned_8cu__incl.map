@@ -1,0 +1,38 @@
+<map id="lib/dslash_wilson_clover_preconditioned.cu" name="lib/dslash_wilson_clover_preconditioned.cu">
+<area shape="rect" id="node2" href="$gauge__field_8h.html" title="gauge_field.h" alt="" coords="955,423,1053,449"/>
+<area shape="rect" id="node24" href="$color__spinor__field_8h.html" title="color_spinor_field.h" alt="" coords="483,423,613,449"/>
+<area shape="rect" id="node28" href="$clover__field_8h.html" title="clover_field.h" alt="" coords="835,423,931,449"/>
+<area shape="rect" id="node29" href="$dslash_8h.html" title="dslash.h" alt="" coords="621,266,689,293"/>
+<area shape="rect" id="node35" href="$worker_8h.html" title="worker.h" alt="" coords="689,423,759,449"/>
+<area shape="rect" id="node41" href="$dslash__policy_8cuh.html" title="dslash_policy.cuh" alt="" coords="236,102,359,129"/>
+<area shape="rect" id="node42" href="$dslash__wilson__clover__preconditioned_8cuh.html" title="kernels/dslash_wilson\l_clover_preconditioned.cuh" alt="" coords="1304,95,1483,136"/>
+<area shape="rect" id="node3" href="$quda__internal_8h.html" title="quda_internal.h" alt="" coords="1025,572,1135,599"/>
+<area shape="rect" id="node10" href="$quda_8h.html" title="Main header file for the QUDA library. " alt="" coords="661,647,721,673"/>
+<area shape="rect" id="node21" href="$lattice__field_8h.html" title="lattice_field.h" alt="" coords="590,572,687,599"/>
+<area shape="rect" id="node4" href="$quda__cuda__api_8h.html" title="quda_cuda_api.h" alt="" coords="1023,647,1142,673"/>
+<area shape="rect" id="node9" href="$enum__quda_8h.html" title="enum_quda.h" alt="" coords="1013,796,1112,823"/>
+<area shape="rect" id="node14" href="$util__quda_8h.html" title="util_quda.h" alt="" coords="553,647,637,673"/>
+<area shape="rect" id="node18" href="$malloc__quda_8h.html" title="malloc_quda.h" alt="" coords="1123,721,1229,748"/>
+<area shape="rect" id="node19" href="$object_8h.html" title="object.h" alt="" coords="796,647,863,673"/>
+<area shape="rect" id="node20" href="$timer_8h.html" title="timer.h" alt="" coords="937,647,999,673"/>
+<area shape="rect" id="node13" href="$quda__constants_8h.html" title="quda_constants.h" alt="" coords="665,721,788,748"/>
+<area shape="rect" id="node15" href="$comm__quda_8h.html" title="comm_quda.h" alt="" coords="405,721,507,748"/>
+<area shape="rect" id="node16" href="$tune__key_8h.html" title="tune_key.h" alt="" coords="207,721,291,748"/>
+<area shape="rect" id="node25" href="$random__quda_8h.html" title="random_quda.h" alt="" coords="402,497,513,524"/>
+<area shape="rect" id="node27" href="$fast__intdiv_8h.html" title="fast_intdiv.h" alt="" coords="689,497,780,524"/>
+<area shape="rect" id="node30" href="$tune__quda_8h.html" title="tune_quda.h" alt="" coords="234,497,326,524"/>
+<area shape="rect" id="node34" href="$dslash__quda_8h.html" title="dslash_quda.h" alt="" coords="673,348,775,375"/>
+<area shape="rect" id="node36" href="$dslash__helper_8cuh.html" title="dslash_helper.cuh" alt="" coords="962,348,1086,375"/>
+<area shape="rect" id="node40" href="$jitify__helper_8cuh.html" title="Helper file when using jitify run&#45;time compilation. This file should be included in source code..." alt="" coords="435,348,546,375"/>
+<area shape="rect" id="node37" href="$register__traits_8h.html" title="Provides precision abstractions and defines the register precision given the storage precision using ..." alt="" coords="1277,497,1387,524"/>
+<area shape="rect" id="node39" href="$index__helper_8cuh.html" title="index_helper.cuh" alt="" coords="1230,423,1349,449"/>
+<area shape="rect" id="node38" href="$complex__quda_8h.html" title="complex_quda.h" alt="" coords="1613,572,1728,599"/>
+<area shape="rect" id="node43" href="$dslash__wilson_8cuh.html" title="kernels/dslash_wilson.cuh" alt="" coords="1235,184,1405,211"/>
+<area shape="rect" id="node49" href="$clover__field__order_8h.html" title="Main header file for host and device accessors to CloverFields. " alt="" coords="1653,266,1785,293"/>
+<area shape="rect" id="node50" href="$linalg_8cuh.html" title="linalg.cuh" alt="" coords="1501,184,1577,211"/>
+<area shape="rect" id="node44" href="$color__spinor__field__order_8h.html" title="color_spinor_field\l_order.h" alt="" coords="1330,259,1451,300"/>
+<area shape="rect" id="node45" href="$color__spinor_8h.html" title="color_spinor.h" alt="" coords="1529,348,1631,375"/>
+<area shape="rect" id="node48" href="$gauge__field__order_8h.html" title="Main header file for host and device accessors to GaugeFields. " alt="" coords="1119,348,1252,375"/>
+<area shape="rect" id="node47" href="$thrust__helper_8cuh.html" title="thrust_helper.cuh" alt="" coords="1373,423,1493,449"/>
+<area shape="rect" id="node46" href="$quda__matrix_8h.html" title="quda_matrix.h" alt="" coords="1619,423,1722,449"/>
+</map>

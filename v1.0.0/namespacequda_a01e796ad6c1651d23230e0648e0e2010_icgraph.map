@@ -1,0 +1,19 @@
+<map id="quda::report" name="quda::report">
+<area shape="rect" id="node2" href="$classquda_1_1_solver.html#a50fee738be21e288b85c2400cfba9369" title="quda::Solver::create" alt="" coords="143,271,277,297"/>
+<area shape="rect" id="node3" href="$interface__quda_8cpp.html#a3a4b1f462861bf844400fb1a644f6b55" title="invertQuda" alt="" coords="381,81,465,108"/>
+<area shape="rect" id="node8" href="$interface__quda_8cpp.html#aba2a41e0d893a30281facd09a8d47eb0" title="invertMultiSrcQuda" alt="" coords="357,208,489,235"/>
+<area shape="rect" id="node12" href="$classquda_1_1_m_g.html#a81c27dc5f468e10f91d9cf0742866ad0" title="Create the smoothers. " alt="" coords="335,321,510,348"/>
+<area shape="rect" id="node17" href="$classquda_1_1_m_g.html#a0164526d7cda5bee3522c7df58e3bc05" title="Generate the null&#45;space vectors. " alt="" coords="727,369,925,396"/>
+<area shape="rect" id="node18" href="$classquda_1_1_m_g.html#a92ac0c19ef16629220b24ec4be52140b" title="Create the solver wrapper. " alt="" coords="325,271,520,297"/>
+<area shape="rect" id="node4" href="$interface__quda_8cpp.html#a415627afa094618fe2e6a197955513b7" title="invert_quda_" alt="" coords="576,5,671,32"/>
+<area shape="rect" id="node5" href="$staggered__invert__test_8cpp.html#a73b12a1c950a0324fc1d9f45d7153a73" title="invert_test" alt="" coords="583,56,664,83"/>
+<area shape="rect" id="node7" href="$deflated__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="598,107,649,133"/>
+<area shape="rect" id="node6" href="$staggered__invert__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="801,56,851,83"/>
+<area shape="rect" id="node9" href="$staggered__invertmsrc__test_8cpp.html#a794fd74673dc1e10c3ffebf4653fd528" title="invert_test" alt="" coords="583,157,664,184"/>
+<area shape="rect" id="node11" href="$invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="598,208,649,235"/>
+<area shape="rect" id="node10" href="$staggered__invertmsrc__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="801,157,851,184"/>
+<area shape="rect" id="node13" href="$classquda_1_1_m_g.html#aedaf230bf33eb3123819a32b8db8acef" title="This method resets the solver, e.g., when a parameter has changed such as the mass. " alt="" coords="568,283,679,309"/>
+<area shape="rect" id="node14" href="$interface__quda_8cpp.html#afd214f69edc579871addfc1aa622ea38" title="Updates the multigrid preconditioner for the new gauge / clover field. " alt="" coords="755,220,897,247"/>
+<area shape="rect" id="node16" href="$classquda_1_1_m_g.html#a221f73068b0cc155b46f579cdb3939d4" title="quda::MG::MG" alt="" coords="973,283,1077,309"/>
+<area shape="rect" id="node15" href="$multigrid__evolve__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1000,220,1051,247"/>
+</map>

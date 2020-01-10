@@ -1,0 +1,10 @@
+<map id="comm_config_string" name="comm_config_string">
+<area shape="rect" id="node2" href="$comm__common_8cpp.html#a6dcfe5c3faff54a12f659933a1f58546" title="Query if GPU Direct RDMA communication is enabled (global setting) " alt="" coords="211,5,345,32"/>
+<area shape="rect" id="node3" href="$comm__common_8cpp.html#ae79c1a736c53def6d8682ca451ac81ed" title="comm_peer2peer_enabled\l_global" alt="" coords="191,57,365,98"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="443,13,559,40"/>
+<area shape="rect" id="node5" href="$comm__common_8cpp.html#a82b9e474cead97c708bd543a0d63b7af" title="comm_peer2peer_enabled" alt="" coords="413,64,588,91"/>
+<area shape="rect" id="node6" href="$comm__quda_8h.html#a6e4eff43929395108b3726d35c2d85a4" title="comm_allreduce_int" alt="" coords="431,115,570,141"/>
+<area shape="rect" id="node7" href="$nvtx__pmpi_8c.html#aed92a3b3cb94d628741e09a3bfe84b3f" title="MPI_Allreduce" alt="" coords="636,115,743,141"/>
+<area shape="rect" id="node8" href="$nvtx__pmpi_8c.html#a5d7ecf2863e55d35eb2c385313fb1341" title="PMPI_Allreduce" alt="" coords="791,89,907,116"/>
+<area shape="rect" id="node9" href="$nvtx__pmpi_8c.html#aa494422fc1d868c35ecbfa909bf9d468" title="PMPI_Reduce" alt="" coords="795,140,902,167"/>
+</map>

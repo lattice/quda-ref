@@ -1,0 +1,5 @@
+<map id="quda::copyGaugeEx" name="quda::copyGaugeEx">
+<area shape="rect" id="node2" href="$classquda_1_1_gauge_field.html#a02bc76f698126cbaa08301110983f779" title="quda::GaugeField::Geometry" alt="" coords="188,5,372,32"/>
+<area shape="rect" id="node3" href="$classquda_1_1_gauge_field.html#a572f6c61199a2be7bae4e13999800bbe" title="quda::GaugeField::LinkType" alt="" coords="190,56,370,83"/>
+<area shape="rect" id="node4" href="$classquda_1_1_gauge_field.html#ab655802370bde3461711f30a2da68bb7" title="quda::GaugeField::Ncolor" alt="" coords="197,107,363,133"/>
+</map>

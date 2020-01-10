@@ -1,0 +1,11 @@
+<map id="quda::blas::TileSizeTune::TileSizeTune" name="quda::blas::TileSizeTune::TileSizeTune">
+<area shape="rect" id="node2" href="$namespacequda.html#a0389a712c6d12dcb872044fcef1e04de" title="Disable the profile kernel counting. " alt="" coords="213,5,380,32"/>
+<area shape="rect" id="node3" href="$namespacequda.html#adc824e2717d7c08e09192f71c49ebc20" title="Enable the profile kernel counting. " alt="" coords="215,56,379,83"/>
+<area shape="rect" id="node4" href="$namespacequda_1_1blas.html#ae04fe4fbf4b1a2be17bf613a396deb1d" title="quda::blas::end" alt="" coords="243,107,350,133"/>
+<area shape="rect" id="node6" href="$namespacequda.html#a1668cec50be83643f8c8024622afddb8" title="Returns a reference to the tunecache map. " alt="" coords="227,157,367,184"/>
+<area shape="rect" id="node7" href="$util__quda_8h.html#a24293a1c210c219c02b59af2cd0d658c" title="Query whether autotuning is enabled or not. Default is enabled but can be overridden by setting QUDA_..." alt="" coords="257,208,336,235"/>
+<area shape="rect" id="node9" href="$namespacequda.html#a694cc087833c97d4e304ab3423b718d3" title="Enable / disable whether are tuning a policy. " alt="" coords="223,259,370,285"/>
+<area shape="rect" id="node10" href="$namespacequda.html#acae335ae0d5853977fe51e5ce616600b" title="quda::u64toa" alt="" coords="249,309,344,336"/>
+<area shape="rect" id="node5" href="$namespacequda_1_1blas.html#a6ebe48696e7c3fa8f2207941d995f22a" title="quda::blas::endReduce" alt="" coords="428,107,579,133"/>
+<area shape="rect" id="node8" href="$namespacequda_1_1cublas.html#ac642c2c4f9dd3abfe528cc1581e5bf76" title="Create the CUBLAS context. " alt="" coords="445,208,561,235"/>
+</map>

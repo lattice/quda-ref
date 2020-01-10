@@ -1,0 +1,9 @@
+<map id="quda::cudaGaugeField::~cudaGaugeField" name="quda::cudaGaugeField::~cudaGaugeField">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html#a98a49db4ac99218a7a004d6e369e1e16" title="quda::LatticeField\l::destroyComms" alt="" coords="229,49,352,90"/>
+<area shape="rect" id="node8" href="$classquda_1_1_gauge_field.html#aca7e53965b88761140d7bf4a78ecd935" title="quda::GaugeField::isNative" alt="" coords="204,115,377,141"/>
+<area shape="rect" id="node3" href="$comm__quda_8h.html#a080c67a9384f7489c5fd84b0bcfc5b9a" title="comm_barrier" alt="" coords="425,31,527,57"/>
+<area shape="rect" id="node7" href="$comm__quda_8h.html#aaf356c30715ea44b84953c66f65c1ef9" title="comm_free" alt="" coords="433,81,519,108"/>
+<area shape="rect" id="node4" href="$nvtx__pmpi_8c.html#af4c4fae04fe54b786cec8f9f673d0ef0" title="MPI_Barrier" alt="" coords="575,31,665,57"/>
+<area shape="rect" id="node5" href="$nvtx__pmpi_8c.html#a9631d214f0de1199cb988111735b62d6" title="PMPI_Barrier" alt="" coords="713,5,813,32"/>
+<area shape="rect" id="node6" href="$nvtx__pmpi_8c.html#a7f117e9d7ecbd62b3268aa4e0bd21bce" title="PMPI_Start" alt="" coords="718,56,809,83"/>
+</map>

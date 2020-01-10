@@ -1,0 +1,51 @@
+<map id="comm_start" name="comm_start">
+<area shape="rect" id="node2" href="$classquda_1_1_lattice_field.html#a0888a2cb649719504a1611733e4208aa" title="quda::LatticeField\l::createIPCComms" alt="" coords="170,1103,301,1144"/>
+<area shape="rect" id="node13" href="$face__gauge_8cpp.html#ae3cf19131ee08a04097e4a0cbc92a957" title="do_exchange_cpu_staple" alt="" coords="152,1582,319,1609"/>
+<area shape="rect" id="node18" href="$classquda_1_1_gauge_field.html#a93b1219a2b9d0a7540162587f756a913" title="Exchange the buffers across all dimensions in a given direction. " alt="" coords="144,1306,327,1333"/>
+<area shape="rect" id="node23" href="$classquda_1_1_color_spinor_field.html#a03366c6ecf5bdea2e1988dd8d9e4d114" title="quda::ColorSpinorField\l::exchange" alt="" coords="160,1633,311,1675"/>
+<area shape="rect" id="node26" href="$test__util_8h.html#a70a086cc63080fb6b9e0434abb2b0b6e" title="exchange_cpu_sitelink_ex" alt="" coords="628,1481,800,1507"/>
+<area shape="rect" id="node28" href="$face__gauge_8cpp.html#a7304d214a52451c757d1fcb67b1427af" title="exchange_sitelink" alt="" coords="402,1531,526,1558"/>
+<area shape="rect" id="node30" href="$face__gauge_8cpp.html#a55fa9380ad14b50989b169b8ad26adee" title="exchange_sitelink_diag" alt="" coords="158,1531,313,1558"/>
+<area shape="rect" id="node31" href="$classquda_1_1cpu_gauge_field.html#ab0cc045fdabb6d5bb80af251426da60f" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="150,972,321,1013"/>
+<area shape="rect" id="node33" href="$classquda_1_1cuda_gauge_field.html#a39ea1d8407ea192a18c920114e41b50b" title="Start the receive communicators. " alt="" coords="389,1168,539,1209"/>
+<area shape="rect" id="node34" href="$classquda_1_1cuda_color_spinor_field.html#aae9afae3384e9ab35122bd18919ad149" title="Initiate halo communication receive. " alt="" coords="146,824,325,865"/>
+<area shape="rect" id="node49" href="$classquda_1_1cuda_gauge_field.html#aef802319d1de1743c220eb5e0199cc12" title="Start the sending communicators. " alt="" coords="389,1233,539,1275"/>
+<area shape="rect" id="node50" href="$classquda_1_1cuda_color_spinor_field.html#a8f3aa5c756bc4cdb3c2e32248cf82192" title="Initiate halo communication sending. " alt="" coords="375,463,553,504"/>
+<area shape="rect" id="node3" href="$classquda_1_1cuda_color_spinor_field.html#a1a36967996f6c7c4297da38fbedf3a6b" title="Create the communication handlers and buffers. " alt="" coords="375,1037,553,1079"/>
+<area shape="rect" id="node7" href="$classquda_1_1cuda_gauge_field.html#a294b5722e5ddd8d532a6bd4a76f7c075" title="Create the communication handlers and buffers. " alt="" coords="389,1103,539,1144"/>
+<area shape="rect" id="node4" href="$classquda_1_1cuda_color_spinor_field.html#a881783c582b313cdd14540829ad764bd" title="quda::cudaColorSpinorField\l::pack" alt="" coords="625,972,803,1013"/>
+<area shape="rect" id="node5" href="$classquda_1_1cuda_color_spinor_field.html#aa9b3e1130d53dedce7d15801604d2f9f" title="quda::cudaColorSpinorField\l::packExtended" alt="" coords="625,1037,803,1079"/>
+<area shape="rect" id="node6" href="$classquda_1_1cuda_color_spinor_field.html#aae55bde1a84a1d166de6a3a7ab30d47a" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="625,855,803,896"/>
+<area shape="rect" id="node8" href="$classquda_1_1cuda_gauge_field.html#a28a0e18fad9c6673f31c782e827e4ffe" title="Exchange the ghost and store store in the padded region. " alt="" coords="639,1233,789,1275"/>
+<area shape="rect" id="node10" href="$classquda_1_1cuda_gauge_field.html#a35c80b98e5741d6cedb19c741198d47d" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="639,1103,789,1144"/>
+<area shape="rect" id="node11" href="$classquda_1_1cuda_gauge_field.html#afd84ce53bf3df8c690e6b2ada0c2f02f" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="629,1168,799,1209"/>
+<area shape="rect" id="node9" href="$classquda_1_1_gauge_field.html#aa9c859aa3d4825102b83d0ce736ab9a9" title="quda::GaugeField::applyStaggered\lPhase" alt="" coords="875,1324,1092,1365"/>
+<area shape="rect" id="node12" href="$hisq__paths__force__test_8cpp.html#a63ea554e0408541c80de0f1192bbfc9b" title="hisq_force_test" alt="" coords="929,1049,1038,1075"/>
+<area shape="rect" id="node14" href="$test__util_8h.html#ae8f61490333f3712993fe2725d6b2091" title="exchange_cpu_staple" alt="" coords="391,1582,537,1609"/>
+<area shape="rect" id="node15" href="$llfat__reference_8h.html#acd5781bd4bc58c138d6853b33c60a525" title="llfat_reference" alt="" coords="662,1582,766,1609"/>
+<area shape="rect" id="node16" href="$llfat__reference_8h.html#a80444b8d9b6fba55e969c8afa100c26a" title="computeHISQLinksCPU" alt="" coords="903,1582,1064,1609"/>
+<area shape="rect" id="node17" href="$llfat__test_8cpp.html#a12316557145985f8e9e056a341a2d34d" title="llfat_test" alt="" coords="948,1531,1019,1558"/>
+<area shape="rect" id="node19" href="$classquda_1_1cpu_gauge_field.html#abcb214de4fba03d89b8d4a83db847b1d" title="Exchange the ghost and store store in the padded region. " alt="" coords="393,1299,535,1340"/>
+<area shape="rect" id="node22" href="$classquda_1_1cpu_gauge_field.html#ab040665b9d326ac8929b77553b6d6f8a" title="The opposite of exchangeGhost: take the ghost zone on x, send to node x&#45;1, and inject back into the f..." alt="" coords="393,1364,535,1405"/>
+<area shape="rect" id="node20" href="$classquda_1_1cpu_gauge_field.html#aed4d23cd5eac14f6e2661f09a345254e" title="Constructor for cpuGaugeField from a GaugeFieldParam. " alt="" coords="643,1299,785,1340"/>
+<area shape="rect" id="node21" href="$classquda_1_1cpu_gauge_field.html#a6f4ec9b03d920ef9ad7ece9adbc10968" title="quda::cpuGaugeField\l::copy" alt="" coords="643,1364,785,1405"/>
+<area shape="rect" id="node24" href="$namespacequda.html#adf289508b1ae22ddf0e73a0f851232f1" title="quda::reduceRow" alt="" coords="404,1637,524,1663"/>
+<area shape="rect" id="node25" href="$classquda_1_1cpu_color_spinor_field.html#a69850014a1e80a2d6ddaece3932ad860" title="This is a unified ghost exchange function for doing a complete halo exchange regardless of the type o..." alt="" coords="378,1688,550,1729"/>
+<area shape="rect" id="node27" href="$gauge__force__test_8cpp.html#a7ca518d5f65b192c3be1c0afc9157c04" title="gauge_force_test" alt="" coords="923,1481,1044,1507"/>
+<area shape="rect" id="node29" href="$test__util_8h.html#ae101a4d75bc466870b0a6d21c5e12641" title="exchange_cpu_sitelink" alt="" coords="638,1531,790,1558"/>
+<area shape="rect" id="node32" href="$classquda_1_1cpu_gauge_field.html#a04ad35fc407cc1ed6bcb464dbbad45ba" title="This does routine will populate the border / halo region of a gauge field that has been created using..." alt="" coords="379,972,549,1013"/>
+<area shape="rect" id="node35" href="$classquda_1_1cuda_color_spinor_field.html#ae4d6e2612a25647660363ddc28c7685f" title="Initiate halo communication. " alt="" coords="625,789,803,831"/>
+<area shape="rect" id="node36" href="$namespacequda_1_1dslash.html#a9f5be3bc4e96d3920819b2f602d1189b" title="This helper function simply posts all receives in all directions. " alt="" coords="386,405,542,431"/>
+<area shape="rect" id="node37" href="$structquda_1_1dslash_1_1_dslash_basic.html#ac6a299ccb6cb6c87d77390ecced0b717" title="quda::dslash::DslashBasic\l::operator()" alt="" coords="630,528,798,569"/>
+<area shape="rect" id="node38" href="$structquda_1_1dslash_1_1_dslash_fused_exterior.html#aed1c7ad89c2c0e497aefb6e585c677ab" title="quda::dslash::DslashFused\lExterior::operator()" alt="" coords="629,593,799,635"/>
+<area shape="rect" id="node39" href="$structquda_1_1dslash_1_1_dslash_g_d_r.html#ade8125d09486ff3a23f49bb5833787bd" title="quda::dslash::DslashGDR\l::operator()" alt="" coords="632,659,796,700"/>
+<area shape="rect" id="node40" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r.html#a498fc68026bd1d36fd9c18e2416d2084" title="quda::dslash::DslashFused\lGDR::operator()" alt="" coords="629,724,799,765"/>
+<area shape="rect" id="node41" href="$structquda_1_1dslash_1_1_dslash_g_d_r_recv.html#a654d1bca65e88abd0d162b988838b36a" title="quda::dslash::DslashGDRRecv\l::operator()" alt="" coords="617,5,811,47"/>
+<area shape="rect" id="node42" href="$structquda_1_1dslash_1_1_dslash_fused_g_d_r_recv.html#a3fc0abd7a77ae5ef90a310e711f2524f" title="quda::dslash::DslashFused\lGDRRecv::operator()" alt="" coords="629,71,799,112"/>
+<area shape="rect" id="node43" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack.html#a145bf19c8f418bb3a475485bef5fab4e" title="quda::dslash::DslashZero\lCopyPack::operator()" alt="" coords="633,136,795,177"/>
+<area shape="rect" id="node44" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack.html#a4dc97ba48ebb8e95517ec1e670f2eacd" title="quda::dslash::DslashFused\lZeroCopyPack::operator()" alt="" coords="629,201,799,243"/>
+<area shape="rect" id="node45" href="$structquda_1_1dslash_1_1_dslash_zero_copy_pack_g_d_r_recv.html#a9d86e2e91a220900c89f2722bf17751e" title="quda::dslash::DslashZero\lCopyPackGDRRecv::operator()" alt="" coords="615,267,813,308"/>
+<area shape="rect" id="node46" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy_pack_g_d_r_recv.html#a111cae0d62f19d1995d40da2e0abb2ab" title="quda::dslash::DslashFused\lZeroCopyPackGDRRecv::operator()" alt="" coords="601,332,827,373"/>
+<area shape="rect" id="node47" href="$structquda_1_1dslash_1_1_dslash_zero_copy.html#ac4607a072c066facf43fdd2173a6a6be" title="quda::dslash::DslashZero\lCopy::operator()" alt="" coords="633,397,795,439"/>
+<area shape="rect" id="node48" href="$structquda_1_1dslash_1_1_dslash_fused_zero_copy.html#a6b4dc0531694d3d2886e9427ae4b8487" title="quda::dslash::DslashFused\lZeroCopy::operator()" alt="" coords="629,463,799,504"/>
+</map>

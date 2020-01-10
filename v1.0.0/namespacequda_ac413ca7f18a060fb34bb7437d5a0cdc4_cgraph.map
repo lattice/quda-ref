@@ -1,0 +1,4 @@
+<map id="quda::shiftColorSpinorFieldKernel" name="quda::shiftColorSpinorFieldKernel">
+<area shape="rect" id="node2" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="228,13,364,39"/>
+<area shape="rect" id="node3" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="412,13,533,39"/>
+</map>

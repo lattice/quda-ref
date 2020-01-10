@@ -1,0 +1,6 @@
+<map id="quda::blas::cDotProductNormB" name="quda::blas::cDotProductNormB">
+<area shape="rect" id="node2" href="$blas__test_8cu.html#aca4a17ede1a6d90e142bd43658ea657e" title="benchmark" alt="" coords="251,5,337,32"/>
+<area shape="rect" id="node4" href="$blas__test_8cu.html#a142d7adade87fc6b58acfef4c4d9dd4a" title="test" alt="" coords="273,56,315,83"/>
+<area shape="rect" id="node3" href="$blas__test_8cu.html#af6c0c116569a59ac604cb0ad9133ad31" title="TEST_P" alt="" coords="385,5,456,32"/>
+<area shape="rect" id="node5" href="$blas__test_8cu.html#a737473fad50868c89fa6eee63033dc01" title="TEST_P" alt="" coords="385,56,456,83"/>
+</map>

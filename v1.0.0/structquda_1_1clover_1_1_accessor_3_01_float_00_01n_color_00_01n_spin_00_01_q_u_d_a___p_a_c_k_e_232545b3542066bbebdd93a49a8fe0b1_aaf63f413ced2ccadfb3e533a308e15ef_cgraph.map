@@ -1,0 +1,17 @@
+<map id="quda::clover::Accessor&lt; Float, nColor, nSpin, QUDA_PACKED_CLOVER_ORDER &gt;::Accessor" name="quda::clover::Accessor&lt; Float, nColor, nSpin, QUDA_PACKED_CLOVER_ORDER &gt;::Accessor">
+<area shape="rect" id="node2" href="$classquda_1_1_clover_field.html#ada28d819c5115c004df406956c16d9e6" title="quda::CloverField::\lBytes" alt="" coords="289,41,416,82"/>
+<area shape="rect" id="node3" href="$namespacequda.html#a599ff2d7aba3544b3e0559cd50861906" title="quda::inverse" alt="" coords="305,107,401,133"/>
+<area shape="rect" id="node16" href="$classquda_1_1_clover_field.html#a6ee83d32cf08ff66f215da8eaa30f97f" title="quda::CloverField::V" alt="" coords="285,157,420,184"/>
+<area shape="rect" id="node4" href="$namespacequda.html#aa2770ef66427e1e0861d7685d363907a" title="quda::getDeterminant" alt="" coords="468,107,612,133"/>
+<area shape="rect" id="node5" href="$covdev__reference_8cpp.html#a510195acd5d3e923bcae7f70d39a0b11" title="Mat" alt="" coords="660,107,704,133"/>
+<area shape="rect" id="node6" href="$covdev__reference_8cpp.html#a153edc62c58b2a4cd352e4298fa939d7" title="covdevReference" alt="" coords="752,107,873,133"/>
+<area shape="rect" id="node7" href="$dslash__util_8h.html#a54eefa6f808a5ffc4304d0ad12e23c5f" title="gaugeLink" alt="" coords="934,5,1015,32"/>
+<area shape="rect" id="node10" href="$dslash__util_8h.html#a936166ad1ee9ba501afa662c0e044558" title="spinorNeighbor" alt="" coords="921,56,1028,83"/>
+<area shape="rect" id="node11" href="$dslash__util_8h.html#a2496d737945f63597822f71b51bcc3de" title="su3Mul" alt="" coords="1113,107,1175,133"/>
+<area shape="rect" id="node13" href="$dslash__util_8h.html#a8de4a8b5fb4bd280fad3564b85668dc3" title="su3Tmul" alt="" coords="939,157,1010,184"/>
+<area shape="rect" id="node15" href="$dslash__util_8h.html#a0c97b738834c6781bc076082e434ff5e" title="sum" alt="" coords="951,208,998,235"/>
+<area shape="rect" id="node8" href="$namespacequda.html#a8daab04d5390104160d3b7d88fa99a91" title="quda::neighborIndex" alt="" coords="1076,31,1212,57"/>
+<area shape="rect" id="node9" href="$dslash__index_8cuh.html#a376eb577f79c2a0473ede28dd1668d9c" title="Compute coordinates from index into the checkerboard (used by the interior Dslash kernels)..." alt="" coords="1260,31,1381,57"/>
+<area shape="rect" id="node12" href="$dslash__util_8h.html#a630a2bea7df7026fcdaefc440184036d" title="dot" alt="" coords="1301,107,1341,133"/>
+<area shape="rect" id="node14" href="$dslash__util_8h.html#a141c411b651eba54917eb9b68b56e2b2" title="su3Transpose" alt="" coords="1093,157,1195,184"/>
+</map>

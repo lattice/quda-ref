@@ -1,0 +1,11 @@
+<map id="quda::ReduceArg&lt; T &gt;" name="quda::ReduceArg&lt; T &gt;">
+<area shape="rect" id="node2" href="$structquda_1_1_reduce_arg.html" title="quda::ReduceArg\&lt; ReduceType \&gt;" alt="" coords="372,39,587,66"/>
+<area shape="rect" id="node4" href="$structquda_1_1_reduce_arg.html" title="quda::ReduceArg\&lt; double \&gt;" alt="" coords="389,111,569,138"/>
+<area shape="rect" id="node6" href="$structquda_1_1_reduce_arg.html" title="quda::ReduceArg\&lt; double2 \&gt;" alt="" coords="386,173,573,199"/>
+<area shape="rect" id="node9" href="$structquda_1_1_reduce_arg.html" title="quda::ReduceArg\&lt; vector\l_type\&lt; ReduceType, NXZ \&gt; \&gt;" alt="" coords="384,231,575,272"/>
+<area shape="rect" id="node3" href="$structquda_1_1blas_1_1_reduction_arg.html" title="quda::blas::ReductionArg\l\&lt; ReduceType, SpinorX,\l SpinorY, SpinorZ, SpinorW,\l SpinorV, Reducer \&gt;" alt="" coords="642,5,825,76"/>
+<area shape="rect" id="node5" href="$structquda_1_1_q_charge_arg.html" title="quda::QChargeArg\&lt; Float,\l Gauge, density_ \&gt;" alt="" coords="648,100,819,141"/>
+<area shape="rect" id="node7" href="$structquda_1_1_clover_invert_arg.html" title="quda::CloverInvertArg\l\&lt; Float \&gt;" alt="" coords="661,165,805,207"/>
+<area shape="rect" id="node8" href="$structquda_1_1_gauge_plaq_arg.html" title="quda::GaugePlaqArg\l\&lt; Gauge \&gt;" alt="" coords="663,231,803,272"/>
+<area shape="rect" id="node10" href="$structquda_1_1blas_1_1_multi_reduce_arg.html" title="Parameter struct for generic multi&#45;blas kernel. " alt="" coords="636,296,831,367"/>
+</map>
