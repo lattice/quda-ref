@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['m5_10740',['M5',['../dslash__test__helpers_8h.html#a56333c5b116e672fdaa9d1625f974c77a3f44a84e6e34fdb5a2f89c68d8c36175',1,'dslash_test_helpers.h']]],
+  ['m5_5feofa_10741',['M5_EOFA',['../namespacequda.html#aecfddb045f6f276fbad230bbbc98b1c7ab0476244371453950ddffa7476f61f93',1,'quda']]],
+  ['m5_5finv_5fdwf_10742',['M5_INV_DWF',['../namespacequda.html#aecfddb045f6f276fbad230bbbc98b1c7aeaaaf4f45cc1df49e594c6f20a14af24',1,'quda']]],
+  ['m5_5finv_5fmobius_10743',['M5_INV_MOBIUS',['../namespacequda.html#aecfddb045f6f276fbad230bbbc98b1c7ad3048ef8611b5db5a88a93d65977d6c3',1,'quda']]],
+  ['m5_5finv_5fzmobius_10744',['M5_INV_ZMOBIUS',['../namespacequda.html#aecfddb045f6f276fbad230bbbc98b1c7a8f95341b535ff1d3249dedb1953bd3a0',1,'quda']]],
+  ['m5inv_10745',['M5inv',['../dslash__test__helpers_8h.html#a56333c5b116e672fdaa9d1625f974c77ad77e517f7e266b7aac08b72885af0627',1,'dslash_test_helpers.h']]],
+  ['m5inv_5feofa_10746',['M5INV_EOFA',['../namespacequda.html#aecfddb045f6f276fbad230bbbc98b1c7a949ba2792bf1354e7f52b28722be5953',1,'quda']]],
+  ['magma_5flib_10747',['magma_lib',['../namespacequda.html#abe598ea1308b5f23670eaab8662949a0a805866538e898502a465cec41121e6b9',1,'quda::magma_lib()'],['../namespacequda.html#abe598ea1308b5f23670eaab8662949a0a805866538e898502a465cec41121e6b9',1,'quda::magma_lib()'],['../namespacequda.html#abe598ea1308b5f23670eaab8662949a0a805866538e898502a465cec41121e6b9',1,'quda::magma_lib()'],['../namespacequda.html#abe598ea1308b5f23670eaab8662949a0a805866538e898502a465cec41121e6b9',1,'quda::magma_lib()']]],
+  ['managed_10748',['MANAGED',['../namespacequda.html#aee2949712337729e089fec4eabcadf77a206816e39e64f674edc8e8e6fe87daf6',1,'quda']]],
+  ['mapped_10749',['MAPPED',['../namespacequda.html#aee2949712337729e089fec4eabcadf77a88a88b794ffce7134d19db86b2b36c3c',1,'quda']]],
+  ['mat_10750',['Mat',['../dslash__test__helpers_8h.html#a56333c5b116e672fdaa9d1625f974c77aa32aecc78337204e961144d94f926955',1,'dslash_test_helpers.h']]],
+  ['matdagmat_10751',['MatDagMat',['../dslash__test__helpers_8h.html#a56333c5b116e672fdaa9d1625f974c77afac32494668be248600efddf20cdbbad',1,'dslash_test_helpers.h']]],
+  ['matpc_10752',['MatPC',['../dslash__test__helpers_8h.html#a56333c5b116e672fdaa9d1625f974c77adfc2a8e0b558506254ae8b3cf6e4429e',1,'dslash_test_helpers.h']]],
+  ['matpcdagmatpc_10753',['MatPCDagMatPC',['../dslash__test__helpers_8h.html#a56333c5b116e672fdaa9d1625f974c77a0c5667fa935f757700194d1cf953a795',1,'dslash_test_helpers.h']]],
+  ['matpcdagmatpclocal_10754',['MatPCDagMatPCLocal',['../dslash__test__helpers_8h.html#a56333c5b116e672fdaa9d1625f974c77ac7af9c8a617576bb069722e82b05731e',1,'dslash_test_helpers.h']]],
+  ['mkl_5flib_10755',['mkl_lib',['../namespacequda.html#abe598ea1308b5f23670eaab8662949a0aeb918fcb0e14b0812bb403fe1ec05c82',1,'quda::mkl_lib()'],['../namespacequda.html#abe598ea1308b5f23670eaab8662949a0aeb918fcb0e14b0812bb403fe1ec05c82',1,'quda::mkl_lib()'],['../namespacequda.html#abe598ea1308b5f23670eaab8662949a0aeb918fcb0e14b0812bb403fe1ec05c82',1,'quda::mkl_lib()'],['../namespacequda.html#abe598ea1308b5f23670eaab8662949a0aeb918fcb0e14b0812bb403fe1ec05c82',1,'quda::mkl_lib()']]]
+];

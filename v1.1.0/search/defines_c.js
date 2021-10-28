@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['managed_5ffree_11453',['managed_free',['../malloc__quda_8h.html#a9362e6c0d7fae9543f54b6273a56f528',1,'malloc_quda.h']]],
+  ['managed_5fmalloc_11454',['managed_malloc',['../malloc__quda_8h.html#ab004838fb1adfd36e2481ed8f742f03f',1,'malloc_quda.h']]],
+  ['mapped_5fmalloc_11455',['mapped_malloc',['../malloc__quda_8h.html#ad73df6f92a03b592cdc59c58f7d5e881',1,'malloc_quda.h']]],
+  ['max_11456',['MAX',['../staggered__invert__test_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;staggered_invert_test.cpp'],['../staggered__host__utils_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;staggered_host_utils.cpp'],['../host__utils_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;host_utils.cpp'],['../su3__test_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;su3_test.cpp'],['../staggered__eigensolve__test_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;staggered_eigensolve_test.cpp'],['../multigrid__benchmark__test_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;multigrid_benchmark_test.cpp'],['../multigrid__benchmark__test_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;multigrid_benchmark_test.cpp'],['../invert__test_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;invert_test.cpp'],['../heatbath__test_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;heatbath_test.cpp'],['../milc__interface_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;milc_interface.cpp'],['../interface__quda_8cpp.html#afa99ec4acc4ecb2dc3c2d05da15d0e3f',1,'MAX():&#160;interface_quda.cpp']]],
+  ['memcopy_5fgauge_5ffields_5fbuf_5fto_5fgrid_11457',['MEMCOPY_GAUGE_FIELDS_BUF_TO_GRID',['../face__gauge_8cpp.html#a4b1beda42c953eefee7b842a4db1014d',1,'face_gauge.cpp']]],
+  ['memcopy_5fgauge_5ffields_5fbuf_5fto_5fgrid_5ft_11458',['MEMCOPY_GAUGE_FIELDS_BUF_TO_GRID_T',['../face__gauge_8cpp.html#a2029bceefffd070e53592ece8a2a7bd8',1,'face_gauge.cpp']]],
+  ['memcopy_5fgauge_5ffields_5fgrid_5fto_5fbuf_11459',['MEMCOPY_GAUGE_FIELDS_GRID_TO_BUF',['../face__gauge_8cpp.html#a018ccc9d3aa34ede6789dc9b641d7392',1,'face_gauge.cpp']]],
+  ['mom_5fsite_5fsize_11460',['mom_site_size',['../host__utils_8h.html#a7d45e42297ec208ce0dabf9f511bb5b4',1,'host_utils.h']]],
+  ['mpi_5fcheck_11461',['MPI_CHECK',['../communicator__mpi_8cpp.html#a26e3d261a7ba4e1023b904f4929e7af6',1,'MPI_CHECK():&#160;communicator_mpi.cpp'],['../communicator__qmp_8cpp.html#a26e3d261a7ba4e1023b904f4929e7af6',1,'MPI_CHECK():&#160;communicator_qmp.cpp']]]
+];

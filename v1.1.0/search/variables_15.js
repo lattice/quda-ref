@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['u_10306',['u',['../structquda_1_1gauge_1_1_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___q_d_p___g_a_u_g_e___o_r_d_e_r_00_01store_float_01_4.html#af97ecc6ac8639a69b2a5f8892c89fe65',1,'quda::gauge::Accessor&lt; Float, nColor, QUDA_QDP_GAUGE_ORDER, storeFloat &gt;::u()'],['../structquda_1_1gauge_1_1_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___m_i_l_c___g_a_u_g_e___o_r_d_e_r_00_01store_float_01_4.html#a2b07ff233753d9e67e3d54d7112773ed',1,'quda::gauge::Accessor&lt; Float, nColor, QUDA_MILC_GAUGE_ORDER, storeFloat &gt;::u()'],['../structquda_1_1gauge_1_1_accessor_3_01_float_00_01n_color_00_01_q_u_d_a___f_l_o_a_t2___g_a_u_g_e_bc22707fa6d6dfdc855f11c59264096c.html#af72f03a5994c0e2aae5510971a61fda7',1,'quda::gauge::Accessor&lt; Float, nColor, QUDA_FLOAT2_GAUGE_ORDER, storeFloat &gt;::u()']]],
+  ['u_10307',['U',['../class_gauge_alg_test.html#ac674a58fa9eb64a0153fe199d2a960f9',1,'GaugeAlgTest']]],
+  ['u_5fodd_10308',['u_odd',['../structtrove_1_1static__gcd.html#a205ff877444b79a26d521231e6be6e70',1,'trove::static_gcd']]],
+  ['unit_5fgauge_10309',['unit_gauge',['../command__line__params_8h.html#abf4875c26a9e782cf69ef0c3df60de3a',1,'unit_gauge():&#160;command_line_params.cpp'],['../command__line__params_8cpp.html#abf4875c26a9e782cf69ef0c3df60de3a',1,'unit_gauge():&#160;command_line_params.cpp']]],
+  ['unittol_10310',['unittol',['../unitarize__link__test_8cpp.html#aa49576e427fac282792ef789c34a7b8b',1,'unitarize_link_test.cpp']]],
+  ['upperhess_10311',['upperHess',['../classquda_1_1_i_r_a_m.html#a5ea0724ffc2bc7b9357e88de75613185',1,'quda::IRAM']]],
+  ['use_5falternative_5freliable_10312',['use_alternative_reliable',['../structquda_1_1_solver_param.html#a4f3858591088f02335d08fd336437b14',1,'quda::SolverParam::use_alternative_reliable()'],['../struct_quda_invert_param__s.html#a2d7b460dd0f98af80bbd07dcdd9c40e8',1,'QudaInvertParam_s::use_alternative_reliable()']]],
+  ['use_5fdagger_10313',['use_dagger',['../struct_quda_eig_param__s.html#a36f884c5b2fd14b5918c3528710f8a1b',1,'QudaEigParam_s']]],
+  ['use_5fdeterministic_5freduce_10314',['use_deterministic_reduce',['../struct_communicator.html#a79248d04f214add39105d09359d617c2',1,'Communicator']]],
+  ['use_5feig_5fsolver_10315',['use_eig_solver',['../struct_quda_multigrid_param__s.html#a43a0e464ddaf59a7f6ef00d503263da5',1,'QudaMultigridParam_s']]],
+  ['use_5feigen_5fqr_10316',['use_eigen_qr',['../struct_quda_eig_param__s.html#a1542f76654434ba4de08eb9000cf3840',1,'QudaEigParam_s']]],
+  ['use_5finit_5fguess_10317',['use_init_guess',['../struct_quda_invert_param__s.html#afb818d061e688cec75fff4de9acf8e85',1,'QudaInvertParam_s::use_init_guess()'],['../structquda_1_1_solver_param.html#abf6c7fb844fdc6874fb95476920d732f',1,'quda::SolverParam::use_init_guess()']]],
+  ['use_5finv_5fritz_10318',['use_inv_ritz',['../structquda_1_1_deflation_param.html#a5e4eb1133bb94b01660fb518dc02b7fd',1,'quda::DeflationParam']]],
+  ['use_5fmma_10319',['use_mma',['../struct_quda_multigrid_param__s.html#a3fe69363228d374e724b969479d63738',1,'QudaMultigridParam_s::use_mma()'],['../structquda_1_1_m_g_param.html#a4b09363bfe3293793a4dc6599a9620b2',1,'quda::MGParam::use_mma()'],['../classquda_1_1_dirac_coarse.html#a99510620690541b701748c9614aaec85',1,'quda::DiracCoarse::use_mma()'],['../classquda_1_1_dirac_param.html#ac6e3da6feab496a59428a5c675d632aa',1,'quda::DiracParam::use_mma()']]],
+  ['use_5fnorm_5fop_10320',['use_norm_op',['../struct_quda_eig_param__s.html#a67f6f37f916de48b19cb801dfd6ae461',1,'QudaEigParam_s']]],
+  ['use_5fpinned_5fmemory_10321',['use_pinned_memory',['../struct_quda_fat_link_args__t.html#a90d4a70b682e8e0f49c8bccf8a37dbbd',1,'QudaFatLinkArgs_t']]],
+  ['use_5fpoly_5facc_10322',['use_poly_acc',['../struct_quda_eig_param__s.html#a65d8e07c1a970825adf3c819cf2a5579',1,'QudaEigParam_s']]],
+  ['use_5fresident_5fgauge_10323',['use_resident_gauge',['../struct_quda_gauge_param__s.html#a4c1041bdd74a2cc3325f466fdde36112',1,'QudaGaugeParam_s']]],
+  ['use_5fresident_5fmom_10324',['use_resident_mom',['../struct_quda_gauge_param__s.html#ac51173c5ca8e69e903c950e1a07cabb8',1,'QudaGaugeParam_s']]],
+  ['use_5fresident_5fsolution_10325',['use_resident_solution',['../struct_quda_invert_param__s.html#af8313aae87999a36906d410cb3ea3348',1,'QudaInvertParam_s::use_resident_solution()'],['../struct_quda_invert_args__t.html#a66e6dfeb5f1a615de828e8ca9ec17a16',1,'QudaInvertArgs_t::use_resident_solution()']]],
+  ['use_5fsloppy_5fpartial_5faccumulator_10326',['use_sloppy_partial_accumulator',['../structquda_1_1_solver_param.html#a3465301482e48e4bf64927887afb6ee7',1,'quda::SolverParam::use_sloppy_partial_accumulator()'],['../struct_quda_invert_param__s.html#a0cadab2a2cdc62df4596008d95a7903d',1,'QudaInvertParam_s::use_sloppy_partial_accumulator()']]],
+  ['user_5fset_5fcomm_5fhandle_10327',['user_set_comm_handle',['../struct_communicator.html#a7c43a26732b32388616cdad1a0ebe5ab',1,'Communicator']]]
+];

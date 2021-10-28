@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['p3_11465',['P3',['../hisq__force__reference2_8cpp.html#a0707a89c2f63bd260108e9dbb669358e',1,'P3():&#160;hisq_force_reference2.cpp'],['../hisq__force__reference_8cpp.html#a0707a89c2f63bd260108e9dbb669358e',1,'P3():&#160;hisq_force_reference.cpp']]],
+  ['p3mu_11466',['P3mu',['../hisq__force__reference_8cpp.html#a8fdb297b9a39f813834e21010b15a26d',1,'hisq_force_reference.cpp']]],
+  ['p5_11467',['P5',['../hisq__force__reference_8cpp.html#a49ce5f7954a95865f12be8083ccb2719',1,'P5():&#160;hisq_force_reference.cpp'],['../hisq__force__reference2_8cpp.html#a49ce5f7954a95865f12be8083ccb2719',1,'P5():&#160;hisq_force_reference2.cpp']]],
+  ['p5nu_11468',['P5nu',['../hisq__force__reference_8cpp.html#a5339b4be6174f906a035b411f37e8ec1',1,'hisq_force_reference.cpp']]],
+  ['p7_11469',['P7',['../hisq__force__reference_8cpp.html#a017ae5a42bc27ff7402656a779fec303',1,'hisq_force_reference.cpp']]],
+  ['p7rho_11470',['P7rho',['../hisq__force__reference_8cpp.html#aa134bf3cfdf51e8e6be8ced1108b702c',1,'hisq_force_reference.cpp']]],
+  ['pinned_5fmalloc_11471',['pinned_malloc',['../malloc__quda_8h.html#a96f56a2883441fb0cc7dcced8494a437',1,'malloc_quda.h']]],
+  ['pmu_11472',['Pmu',['../hisq__force__reference_8cpp.html#a9171de60aa0c979c6eb8bcbff9b7b895',1,'Pmu():&#160;hisq_force_reference.cpp'],['../hisq__force__reference2_8cpp.html#a9171de60aa0c979c6eb8bcbff9b7b895',1,'Pmu():&#160;hisq_force_reference2.cpp']]],
+  ['pmumumu_11473',['Pmumumu',['../hisq__force__reference_8cpp.html#adea41f4cb68c29cd1ac4a654d45621b1',1,'hisq_force_reference.cpp']]],
+  ['pnumu_11474',['Pnumu',['../hisq__force__reference_8cpp.html#a69bc6b4e4686d5750611ce57c909afe6',1,'Pnumu():&#160;hisq_force_reference.cpp'],['../hisq__force__reference2_8cpp.html#a69bc6b4e4686d5750611ce57c909afe6',1,'Pnumu():&#160;hisq_force_reference2.cpp']]],
+  ['pool_5fdevice_5ffree_11475',['pool_device_free',['../malloc__quda_8h.html#a65efeb658a4f34f959a4b63daa3af1d9',1,'malloc_quda.h']]],
+  ['pool_5fdevice_5fmalloc_11476',['pool_device_malloc',['../malloc__quda_8h.html#a2372db2e857b467ec7fc42e4bb31e8a1',1,'malloc_quda.h']]],
+  ['pool_5fpinned_5ffree_11477',['pool_pinned_free',['../malloc__quda_8h.html#a538488342fae7318e1fa3d8ea475b9ea',1,'malloc_quda.h']]],
+  ['pool_5fpinned_5fmalloc_11478',['pool_pinned_malloc',['../malloc__quda_8h.html#a003773656f4cb295ca2494f4d62189d7',1,'malloc_quda.h']]],
+  ['pop_5frange_11479',['POP_RANGE',['../timer_8h.html#a2ea1a3fb0ff590b8fbf4d503ef42422e',1,'POP_RANGE():&#160;timer.h'],['../milc__interface_8cpp.html#a2ea1a3fb0ff590b8fbf4d503ef42422e',1,'POP_RANGE():&#160;milc_interface.cpp']]],
+  ['popmu_11480',['Popmu',['../hisq__force__reference_8cpp.html#aa98ccbfc44f44efc09b0bad1d85648b8',1,'hisq_force_reference.cpp']]],
+  ['posttrace_11481',['postTrace',['../tune__quda_8h.html#a10f564c7e942cfbe2b02434a561946da',1,'tune_quda.h']]],
+  ['prhonumu_11482',['Prhonumu',['../hisq__force__reference_8cpp.html#ab395430ef081ace8d36d531b04be5a3a',1,'hisq_force_reference.cpp']]],
+  ['print_5fparam_11483',['PRINT_PARAM',['../interface__quda_8cpp.html#a1258be9bf95775b44057800155c19f65',1,'interface_quda.cpp']]],
+  ['printfquda_11484',['printfQuda',['../util__quda_8h.html#a35882d3606e4edaa96d082d239d0e7a0',1,'util_quda.h']]],
+  ['printfzero_11485',['printfZero',['../util__quda_8h.html#ab3e9db7c7b4866f0ed18c107b8d10c11',1,'util_quda.h']]],
+  ['profile_11486',['PROFILE',['../quda__api_8cpp.html#ad0dc5dc6276984d46ee2c828e56efe93',1,'quda_api.cpp']]],
+  ['push_5frange_11487',['PUSH_RANGE',['../timer_8h.html#a7be4bc6a142f8783778df9ab9bac73bf',1,'PUSH_RANGE():&#160;timer.h'],['../milc__interface_8cpp.html#a7be4bc6a142f8783778df9ab9bac73bf',1,'PUSH_RANGE():&#160;milc_interface.cpp']]]
+];
