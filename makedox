@@ -7,7 +7,7 @@ usage()
 
 if [ $# -eq 0 ]; then
     snapshot=true
-    branch=master
+    branch=main
 elif [ $# -eq 1 ]; then
     snapshot=true
     branch=$1
@@ -31,7 +31,7 @@ if [ $snapshot == "true" ]; then
 else
     workdir="quda_v$ver"
     outdir="v$ver"
-    url="http://lattice.github.com/downloads/quda/quda-$ver.tar.gz"
+    url="http://lattice.github.io/downloads/quda/quda-$ver.tar.gz"
 fi
 
 echo "Creating directory $workdir ..."
